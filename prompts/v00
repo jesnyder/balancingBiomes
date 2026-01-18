@@ -1,0 +1,214 @@
+do not hallucinate
+take your time
+
+this is a list of tasks. some are complete. it is context for the project.
+take action on the incomplete tasks.
+
+Task 0: (Complete)Detailing the listed species
+Write a python code named "detail_species.py"
+Describe the main function as "detail_species"
+Use the species list "user_provided/species_list.csv"
+look up each species name in the database
+Uses GBIF as the primary database.
+Uses NCBI Taxonomy as a secondary source for exact species matches.
+Find if the organism is a plant or bacteria or archaea or animal
+If there is a url to a page with more information, retireve that
+If the species is halotolerant - yes or no
+Fields are species name, url, halotolerant (yes or no)
+Make a json and csv file that list all organisms in the species list
+Add metadata retireved from the lookup
+Save in results folder with the file name species_detailed as json and csv
+do not flatten the json. json should be standalone
+Save the species_detailed files as you go, between querying the species.
+
+
+Task 1: (Complete) create the text of a Makefile to serve the index.html file in the docs folder
+
+Task 2: (Complete) create a style.css file to format the index file
+
+Task 3: (Complete) in python draft a main file to print "main running" to the terminal.
+Also edit the makefile to run the main.py file before serving the index.html locally, which from the makefile is in a folder called "user_provided" and subfolder "python"
+
+Directions for all database searches (Tasks 4, 5, 6, 7)
+My query is ("Halophyte" AND "Halophile")
+Save the search results in a a folder "results" and subfolder "search_results"
+Save the compiled lists as both json and csv
+Name the main function in the python file conducting the search with the same name given to the python file
+For example "search_gscholar.py" the main function will be "search_gscholar"
+Retrieve all possible fields.
+Remove html tags from text.
+
+Create a summary of searches called "search_summary.csv"
+saved in "results" folder "search_results" subfolder
+each row is a different database in all the database search tasks (for example Google Scholar, Semantic Scholar)
+and then the total number of search results in the compiled list.
+If there are no results. Place a zero.
+
+Task 4: (Complete) Write a python file called "search_gscholar.py"
+that produces a list of results returned from a query of
+Google Scholar https://scholar.google.com/
+wait 60 seconds + a random number of seconds 0-20 between searches
+save each search with the name of the search page as a 4 digit number
+for example the first page will be gscholar_0000.json. Save the pages as json and the compiled as both json and csv
+between searches compile all found results in a file called "list_gscholar"
+save as json and csv
+
+Task 5: (Complete) Write a python file call "search_semanticscholar.py"
+that produces a list of results returned from the query of
+Semantic Scholar https://www.semanticscholar.org/
+save list of results as "list_semanticscholar" as json and csv
+save the json and csv in a folder results and subfolder search_results
+
+Structure the request to Semantic Scholar to be 20 papers per request,
+Wait 10 seconds between request. Don't overload the servers.
+But repeat to collect all papers returned for the query
+Save the papers returned to a folder "results" subfolder "search_results" subfolder "semantic_scholar"
+save each query with the count of papers, so first results would be 00100_semanticscholar.json
+
+Search first to find all papers/article related to the search query.
+Then search for titles to collect all possible metadata.
+Collect as much metadata as possible
+Compile the complete metadata with the doi to create a complete metadata database of results
+
+If there is a error querying the database, move on to compiling,
+or when the search completes
+compile all results between queries.
+refer to contents of search_results/seamntic_scolar folder. remove duplicates.
+list all results as as "list_semanticscholar" in "results" "search_results" as both json and csv
+Add a key for "cited_by". Set equal to value in "citationCount". If "citationCount" not found in keys, set to 0
+No flattening of the json.
+The json should be stand alone reference with a list of all the articles.
+
+
+Tasks 6: (Complete) Write a python file called "search_openalex.py"
+that produces a list of results from
+Open Alex https://openalex.org/
+save results as "list_openalex" as json and csv
+
+inspect each search result. if you find "cited_by_count" in the json keys
+add another key called "cited_by" and set the value equal to the value in "cited_by_count"
+
+check if the doi field returned from the query includes "https://doi.org/"
+if so, add a field called "doiURL" and copy the value returned for doi
+then edit the doi value and remove "https://doi.org/"
+
+
+Task 7: (Complete) Write python file call "search_crossref.py"
+that produces a list of results from
+CrossRef https://www.crossref.org/
+
+inspect each search result. if you find "is_referenced_by_count" in the json keys
+add another key called "cited_by" and set the value equal to the value in "is_referenced_by_count"
+
+save results as "list_crossref" as json and csv
+
+
+Task 8: (Incomplete) Write a python file called "compile_searches.py"
+
+name the main function "compile_searches"
+
+two outputs both saved in "results" folder "search_results" subfolder
+
+Output 1 is a list of all compiled result - list - from each query task.
+Create a single database (file) as a json and csv with all the results with all metadata
+Try to remove duplicate entries. If duplicates found. Combine metadata into a single entry.
+Save the file as "list_compiled" as json and csv in "results" folder "search_results" subfolder
+add a field to list the databases where the artcile was found. if multiple, then list all.
+
+sort by "cited_by" key - most citation on the top and least at the bottom
+
+Output 2 is a summary called "search_summary.csv"
+each row is a different database in all the database search tasks (for example Google Scholar, Semantic Scholar)
+and then the total number of search results in the compiled list.
+and then a list of the fields captured in each query.
+If there are no results found. Place a zero.
+and then compare the results to every database to determine how of the results are also in other databses. Use doi, url, title to see if the entry is also in another database.
+For example the Google Scholar row will be
+the name of the database - Google Scholar
+then the number of article in the databse - an integar like 120
+then the fields captured in the query as a list, like title, author, journal ...
+then the number of articles in that database also found in Google Scholar, which will the same number of articles
+then the number of articles in in that database also found in Semantic Scholar, which could be 0 to some integer. Use doi to match artciles if availabe in both. If not, use title.
+
+
+Task 9: (Complete)
+Create a python file called "build__js_table.py"
+create a main function in the python filed called "build_js_table" that can be called from a makefile
+that references the list_compiled.json in results/search_results folder
+Finds the 200 most cited results. use "cited_by" or "is_referenced_by_count" field
+creates a a javascript file "most_cited.js"
+save in the folder "docs" and subfolder "js" (may have to create the js file
+save "most_cited.js" there
+if the table has hyperlinks, open the hyperlinks in a new tab.
+Use Tabulator https://tabulator.info/ as template
+Add search below below each field in the table
+name the div in the html "most-cited-research-table"
+in notes at the top of the .js file explain what to paste into index.html to make the .js work
+specify where to paste parts and explain why in the notes
+
+when you build the table. load the data into the .js file as a variable.
+do not link to the original csv
+
+
+Add a button to download the table as csv
+Add the button before the table
+
+Task 10: (Complete) Find Most Common Species in Halophyte/Halophile Research
+
+Create python code. The file is named "count_species.py".
+The main function is called "count_species"
+Refer to list of organisms in results/species_detailed.json
+The json file contains a list of json entries. Each entry is a species name
+With some details
+establish a new dataframe that lists all the species named in the json
+and add columns for each key in the json
+Add print statements to the terminal for troubleshooting
+
+The python code create two files.
+File one of two is a list of the species with the number of artciles that mention the species
+Search for each species named in the dataframe
+in results/search_results/list_compiled.json
+
+Search in all available fields, title, keywords, abstract, everything
+the search is not case sensitive. force everything to be lowercase to avoid false negative due to differenct cases.
+If the species name is found. Count as found.
+Add a column to the dataframe with the count
+Even if a species is mentioned multiple times in an article, only count it as found once.
+Save the dataframe as a new file in results/species_found/species_frequency.csv
+also save the same dataframe as json - results/species_found/species_frequency.json
+
+List all the species in one column
+Add a column for each key in the organism list json found at result/species_detailed.jspm
+for kingdom / url / halotolerant (in that order)
+Next column: List how many articles cited those species in the next column
+Next column: Percentage of article in which the species was found / the total number of artcles
+Next column: List how many artciles with at least 2 citations ("cited_by" or "is_referenced_by_count" field) in which the species was found
+Next column: Percentage of artciles in which the species was found with at least 2 citation (previous column) / the total number of artciles in the compiled list that have at least 2 citation, as defined by the "cited_by" or "is_referenced_by_count" field
+Sort the list so the most frequently found are on the top
+
+File two of two is a javascript file that builds a table
+Also create javascript to build a table
+reference results/species_found/species_frequency.csv
+Ignore species that were not found
+creates a a javascript file "species_found.js"
+save in the folder "docs" and subfolder "js" (may have to create the js file
+save "species_found.js" there
+if the table has hyperlinks, open the hyperlinks in a new tab.
+Use Tabulator https://tabulator.info/ as template
+Add search below below each field in the table
+name the div in the html "species_found"
+in notes at the top of the .js file explain what to paste into index.html to make the .js work
+specify where to paste parts and explain why in the notes
+when you build the table. load the data into the .js file as a variable.
+do not link to the original csv
+call the variable with the table data "speciesFound"
+name the table const "speciesTable"
+Fit the table to page width. Autoadjust the width of the columns.
+If a column presents numbers, set the width of the column to be no more than 15%
+adjust the non-number columns to evenly divide the remaining width
+Present 20 results per page of the table.
+Add search to each field of the table
+
+Add a button to download the table
+Add the button before the table
+Add a button for downloading the .csv
