@@ -1,144 +1,152 @@
-#!/usr/bin/env python3
-"""
-detail_species.py
-
-Retrieve species details including kingdom classification and halotolerance.
-
-Databases used:
-- GBIF API (primary)
-- NCBI Taxonomy API (secondary)
-- Local halotolerance list (user_provided/halotolerant_species.csv)
-
-Outputs:
-- results/species_detailed.json
-- results/species_detailed.csv
-
-Terminal prints full diagnostic info for troubleshooting.
-"""
-
-import os
 import csv
 import json
-import requests
 import time
-import certifi
+import requests
+from pathlib import Path
 
-# ------------------ Configuration ------------------
-SPECIES_LIST = "user_provided/species_list.csv"
-HALOTOLERANT_LIST = "user_provided/halotolerant_species.csv"
-OUTPUT_DIR = "results"
-JSON_FILE = os.path.join(OUTPUT_DIR, "species_detailed.json")
-CSV_FILE = os.path.join(OUTPUT_DIR, "species_detailed.csv")
+# -----------------------------
+# CONFIGURATION
+# -----------------------------
+SPECIES_FILE = Path("user_provided/species_list.csv")
+OUTPUT_DIR = Path("results")
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+JSON_PATH = OUTPUT_DIR / "species_detailed.json"
+CSV_PATH = OUTPUT_DIR / "species_detailed.csv"
 
 GBIF_API = "https://api.gbif.org/v1/species/match"
-NCBI_API = "https://api.ncbi.nlm.nih.gov/taxonomy/v0/name/"
+NCBI_API = "https://api.ncbi.nlm.nih.gov/taxonomy/v0/taxon/name/{}"
 
-REQUEST_SLEEP = 1  # seconds between requests to avoid rate limits
-TIMEOUT = 30       # seconds
+HEADERS = {"User-Agent": "species-detailer/1.0"}
 
-# ------------------ Helper Functions ------------------
+# -----------------------------
+# UTILITIES
+# -----------------------------
 
-def load_species_list():
-    with open(SPECIES_LIST, newline="", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip()]
+def load_species():
+    with open(SPECIES_FILE, newline="", encoding="utf-8") as f:
+        species = [row[0].strip() for row in csv.reader(f) if row]
+    return sorted(set(species))
 
-def load_halotolerant_list():
-    halotolerant = set()
-    if os.path.exists(HALOTOLERANT_LIST):
-        with open(HALOTOLERANT_LIST, newline="", encoding="utf-8") as f:
-            reader = csv.reader(f)
-            for row in reader:
-                halotolerant.add(row[0].strip())
-    return halotolerant
 
-def query_gbif(species_name):
-    url = GBIF_API
-    params = {"name": species_name}
-    print(f"[GBIF] Querying {species_name}: {url}?name={species_name}")
+def query_gbif(name):
     try:
-        resp = requests.get(url, params=params, timeout=TIMEOUT, verify=certifi.where())
-        resp.raise_for_status()
-        data = resp.json()
-        kingdom = data.get("kingdom")
-        usageKey = data.get("usageKey")
-        return {"kingdom": kingdom, "usageKey": usageKey}
-    except requests.RequestException as e:
-        print(f"[GBIF] Error for {species_name}: {e}")
+        r = requests.get(
+            GBIF_API,
+            params={"name": name},
+            headers=HEADERS,
+            timeout=20
+        )
+        return r.json() if r.status_code == 200 else None
+    except Exception:
         return None
 
-def query_ncbi(species_name):
-    url = f"{NCBI_API}{species_name}"
-    print(f"[NCBI] Querying {species_name}: {url}")
+
+def query_ncbi(name):
     try:
-        resp = requests.get(url, timeout=TIMEOUT, verify=certifi.where())
-        resp.raise_for_status()
-        data = resp.json()
-        if isinstance(data, list) and len(data) > 0:
-            kingdom = data[0].get("kingdom")
-            return {"kingdom": kingdom}
-        else:
-            return None
-    except requests.RequestException as e:
-        print(f"[NCBI] Error for {species_name}: {e}")
+        url = NCBI_API.format(name.replace(" ", "%20"))
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        return r.json() if r.status_code == 200 else None
+    except Exception:
         return None
 
-# ------------------ Main Function ------------------
+
+def classify_organism(gbif_data):
+    if not gbif_data:
+        return "unknown"
+
+    kingdom = str(gbif_data.get("kingdom", "")).lower()
+
+    if "plantae" in kingdom:
+        return "plant"
+    if "bacteria" in kingdom:
+        return "bacteria"
+    if "archaea" in kingdom:
+        return "archaea"
+    if "animalia" in kingdom:
+        return "animal"
+
+    return "unknown"
+
+
+def infer_halotolerance(gbif_data, ncbi_data):
+    keywords = ["halo", "salt", "saline", "halophile"]
+
+    for source in (gbif_data, ncbi_data):
+        if not source:
+            continue
+        text = json.dumps(source).lower()
+        if any(k in text for k in keywords):
+            return "yes"
+
+    return "no"
+
+
+def save_outputs(records):
+    # JSON (full structure)
+    with open(JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2)
+
+    # CSV (summary)
+    with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            "species",
+            "classification",
+            "halotolerant",
+            "url"
+        ])
+
+        for r in records:
+            writer.writerow([
+                r["species"],
+                r["classification"],
+                r["halotolerant"],
+                r.get("url", "")
+            ])
+
+
+# -----------------------------
+# MAIN FUNCTION
+# -----------------------------
 
 def detail_species():
-    print("detail_species running")
+    species_list = load_species()
+    print(f"Loaded {len(species_list)} unique species")
 
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    results = []
 
-    species_list = load_species_list()
-    halotolerant_set = load_halotolerant_list()
+    for i, species in enumerate(species_list, 1):
+        print(f"[{i}/{len(species_list)}] Processing: {species}")
 
-    detailed_results = []
+        gbif = query_gbif(species)
+        ncbi = query_ncbi(species)
 
-    for idx, species_name in enumerate(species_list, start=1):
-        print(f"[{idx}/{len(species_list)}] Processing: {species_name}")
+        classification = classify_organism(gbif)
+        halotolerant = infer_halotolerance(gbif, ncbi)
 
-        record = {"species": species_name, "url": None, "kingdom": None, "halotolerant": "No"}
+        url = None
+        if gbif and gbif.get("usageKey"):
+            url = f"https://www.gbif.org/species/{gbif['usageKey']}"
 
-        # Check halotolerance from local list
-        if species_name in halotolerant_set:
-            record["halotolerant"] = "Yes"
+        record = {
+            "species": species,
+            "classification": classification,
+            "halotolerant": halotolerant,
+            "url": url,
+            "gbif": gbif,
+            "ncbi": ncbi
+        }
 
-        # Query GBIF first
-        gbif_result = query_gbif(species_name)
-        time.sleep(REQUEST_SLEEP)
+        results.append(record)
 
-        if gbif_result and gbif_result.get("usageKey"):
-            record["kingdom"] = gbif_result.get("kingdom")
-            record["url"] = f"https://www.gbif.org/species/{gbif_result['usageKey']}"
-        else:
-            # Query NCBI as fallback
-            ncbi_result = query_ncbi(species_name)
-            time.sleep(REQUEST_SLEEP)
-            if ncbi_result:
-                record["kingdom"] = ncbi_result.get("kingdom")
+        # Save after each species
+        save_outputs(results)
 
-        if not record["kingdom"]:
-            print(f"[WARN] No kingdom info found for {species_name}")
+        time.sleep(0.3)  # API-friendly pacing
 
-        if not record["url"] and gbif_result and gbif_result.get("usageKey"):
-            record["url"] = f"https://www.gbif.org/species/{gbif_result['usageKey']}"
+    print("✅ Species detailing complete.")
 
-        detailed_results.append(record)
 
-    # Save JSON
-    with open(JSON_FILE, "w", encoding="utf-8") as f:
-        json.dump(detailed_results, f, indent=2, ensure_ascii=False)
-
-    # Save CSV
-    fieldnames = ["species", "kingdom", "url", "halotolerant"]
-    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(detailed_results)
-
-    print(f"\nCompleted: {len(detailed_results)} species processed")
-    print(f"Results saved as JSON: {JSON_FILE} and CSV: {CSV_FILE}")
-
-# ------------------ Run Script ------------------
 if __name__ == "__main__":
     detail_species()
