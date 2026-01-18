@@ -1,84 +1,136 @@
-# build_js_table.py
-"""
-This script builds a JavaScript file that renders a table of the 200 most cited
-articles from results/search_results/list_compiled.json using Tabulator.
-
-Instructions for index.html:
-1. Include Tabulator CSS and JS in your HTML head:
-   <link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator.min.css" rel="stylesheet">
-   <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.0/dist/js/tabulator.min.js"></script>
-
-2. Include the generated JS file before the closing </body>:
-   <script src="js/most_cited.js"></script>
-
-3. Add a div for the table:
-   <div id="most-cited-research-table"></div>
-"""
-
 import json
-import os
+from pathlib import Path
 
 def build_js_table():
-    input_json_path = "results/search_results/list_compiled.json"
-    output_js_path = "docs/js/most_cited.js"
+    # -------------------------------
+    # Paths
+    # -------------------------------
+    json_file = Path("results/search_results/list_compiled.json")
+    output_js_file = Path("docs/js/most_cited.js")
+    output_js_file.parent.mkdir(parents=True, exist_ok=True)
 
-    # Ensure output folder exists
-    os.makedirs(os.path.dirname(output_js_path), exist_ok=True)
+    # -------------------------------
+    # Load JSON
+    # -------------------------------
+    with open(json_file, "r", encoding="utf-8") as f:
+        articles = json.load(f)
 
-    print("Loading JSON data...")
-    with open(input_json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    # -------------------------------
+    # Sort by citations
+    # -------------------------------
+    def citation_count(article):
+        return int(article.get("cited_by", article.get("is_referenced_by_count", 0)) or 0)
 
-    # Use cited_by or is_referenced_by_count for ranking
-    def get_citations(entry):
-        return entry.get("cited_by") or entry.get("is_referenced_by_count") or 0
+    articles_sorted = sorted(articles, key=citation_count, reverse=True)[:200]
 
-    print("Sorting articles by citation count...")
-    data_sorted = sorted(data, key=get_citations, reverse=True)[:200]
+    # -------------------------------
+    # Select only the fields for table
+    # -------------------------------
+    # Example fields: title, authors, year, journal, citations, url
+    table_data = []
+    for a in articles_sorted:
+        table_data.append({
+            "title": a.get("title", ""),
+            "authors": a.get("authors", ""),
+            "year": a.get("year", ""),
+            "journal": a.get("journal", ""),
+            "citations": citation_count(a),
+            "url": a.get("url", "")
+        })
 
-    # Prepare JS data variable
-    print(f"Preparing JS variable with {len(data_sorted)} articles...")
-    js_data_var = "mostCitedData"
-    js_data = f"const {js_data_var} = {json.dumps(data_sorted, indent=2)};\n\n"
+    # -------------------------------
+    # Generate JS file
+    # -------------------------------
+    js_content = f"""/*
+===========================================================
+MOST CITED RESEARCH TABLE — TABULATOR SETUP
+===========================================================
 
-    # Prepare JS for Tabulator
-    js_tabulator = f"""
-// Create Tabulator table for most cited research
-const mostCitedTable = new Tabulator("#most-cited-research-table", {{
-    data: {js_data_var},
-    layout: "fitDataStretch",
-    responsiveLayout: "hide",
-    pagination: "local",
-    paginationSize: 20,
-    columns: [
-        {{title: "Title", field: "title", headerFilter: "input", formatter: function(cell, formatterParams, onRendered) {{
-            const val = cell.getValue();
-            const url = cell.getData().url;
-            return url ? `<a href='${{url}}' target='_blank'>${{val}}</a>` : val;
-        }}}},
-        {{title: "Authors", field: "authors", headerFilter: "input"}},
-        {{title: "Year", field: "year", headerFilter: "input"}},
-        {{title: "Citations", field: "cited_by", hozAlign: "right", width: 80, sorter: "number"}}
-    ],
+REQUIRED HTML (paste this in index.html):
+
+1️⃣ Include Tabulator CSS + JS (once):
+-----------------------------------------------------------
+<link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator.min.css" rel="stylesheet">
+<script src="https://unpkg.com/tabulator-tables@5.5.0/dist/js/tabulator.min.js"></script>
+
+2️⃣ Add button + table container:
+-----------------------------------------------------------
+<button id="download-most-cited">Download Table</button>
+<div id="most-cited-research-table"></div>
+
+3️⃣ Include this JS file AFTER the div:
+-----------------------------------------------------------
+<script src="docs/js/most_cited.js"></script>
+
+WHY:
+- Tabulator requires the div to exist before initialization
+- Data is embedded directly (no AJAX)
+- Avoids 404 and CORS issues
+===========================================================
+*/
+
+document.addEventListener("DOMContentLoaded", function() {{
+
+    const tableData = {json.dumps(table_data, indent=4)};
+
+    const table = new Tabulator("#most-cited-research-table", {{
+        data: tableData,
+        layout: "fitColumns",
+        pagination: "local",
+        paginationSize: 15,
+        movableColumns: true,
+        columns: [
+            {{
+                title: "Title",
+                field: "title",
+                formatter: function(cell) {{
+                    const val = cell.getValue();
+                    const url = cell.getRow().getData().url;
+                    if (url) {{
+                        return `<a href="${{url}}" target="_blank">${{val}}</a>`;
+                    }}
+                    return val;
+                }},
+                headerFilter: "input"
+            }},
+            {{
+                title: "Authors",
+                field: "authors",
+                headerFilter: "input"
+            }},
+            {{
+                title: "Year",
+                field: "year",
+                sorter: "number",
+                headerFilter: "input"
+            }},
+            {{
+                title: "Journal",
+                field: "journal",
+                headerFilter: "input"
+            }},
+            {{
+                title: "Citations",
+                field: "citations",
+                sorter: "number",
+                headerFilter: "input"
+            }}
+        ]
+    }});
+
+    // Download button
+    document.getElementById("download-most-cited").addEventListener("click", function() {{
+        table.download("csv", "most_cited_research.csv");
+    }});
 }});
-
-// Add download button
-const downloadButton = document.createElement("button");
-downloadButton.innerText = "Download CSV";
-downloadButton.onclick = function() {{
-    mostCitedTable.download("csv", "most_cited_research.csv");
-}};
-const container = document.getElementById("most-cited-research-table");
-container.parentNode.insertBefore(downloadButton, container);
 """
 
-    print(f"Writing JS to {output_js_path}...")
-    with open(output_js_path, "w", encoding="utf-8") as f:
-        f.write(js_data)
-        f.write(js_tabulator)
+    # Write JS file
+    with open(output_js_file, "w", encoding="utf-8") as f:
+        f.write(js_content)
 
-    print("Done! JavaScript table created.")
+    print(f"Generated JS table: {output_js_file}")
 
-# If running as main script
+
 if __name__ == "__main__":
     build_js_table()

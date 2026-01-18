@@ -1,114 +1,166 @@
-import os
 import json
 import csv
+from pathlib import Path
 from collections import defaultdict
 
-RESULTS_DIR = "results/search_results"
-
-LIST_FILES = {
-    "Google Scholar": os.path.join(RESULTS_DIR, "list_gscholar.json"),
-    "Semantic Scholar": os.path.join(RESULTS_DIR, "list_semanticscholar.json"),
-    "OpenAlex": os.path.join(RESULTS_DIR, "list_openalex.json"),
-    "CrossRef": os.path.join(RESULTS_DIR, "list_crossref.json")
-}
-
-COMPILED_JSON = os.path.join(RESULTS_DIR, "list_compiled.json")
-COMPILED_CSV = os.path.join(RESULTS_DIR, "list_compiled.csv")
-SUMMARY_CSV = os.path.join(RESULTS_DIR, "search_summary.csv")
-
-
 def compile_searches():
-    os.makedirs(RESULTS_DIR, exist_ok=True)
+    """
+    Compile search results from multiple database JSON files,
+    deduplicate entries, add citation counts, save compiled results,
+    and produce a search summary.
+    """
 
-    # Step 1: load all individual database results
-    db_entries = {}  # database -> list of entries
-    for db_name, path in LIST_FILES.items():
-        if not os.path.exists(path) or os.path.getsize(path) == 0:
-            db_entries[db_name] = []
-            print(f"{db_name}: No results found.")
-            continue
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                db_entries[db_name] = json.load(f)
-            print(f"{db_name}: Loaded {len(db_entries[db_name])} entries.")
-        except json.JSONDecodeError:
-            db_entries[db_name] = []
-            print(f"{db_name}: Invalid JSON, skipping.")
+    # -------------------------------
+    # Paths
+    # -------------------------------
+    search_results_dir = Path("results/search_results")
+    search_results_dir.mkdir(parents=True, exist_ok=True)
 
-    # Step 2: build master list, combine duplicates, track databases
-    master_dict = {}  # key -> entry, key is doi/url/title
-    for db_name, entries in db_entries.items():
-        for entry in entries:
-            key = entry.get("doi") or entry.get("url") or entry.get("title")
-            if key in master_dict:
-                # merge metadata: update missing fields
-                for k, v in entry.items():
-                    if k not in master_dict[key] or not master_dict[key][k]:
-                        master_dict[key][k] = v
-                # update databases found in
-                master_dict[key]["databases_found_in"].add(db_name)
-            else:
-                entry["databases_found_in"] = {db_name}
-                master_dict[key] = entry
+    # Assume all JSON files in the folder are individual database results
+    database_files = list(search_results_dir.glob("*.json"))
 
-    # Convert set to sorted list for CSV/JSON
-    master_list = []
-    for entry in master_dict.values():
-        entry_copy = entry.copy()
-        entry_copy["databases_found_in"] = sorted(list(entry_copy["databases_found_in"]))
-        master_list.append(entry_copy)
+    if not database_files:
+        print("No JSON database files found in results/search_results")
+        return
 
-    # Step 3: Save compiled list JSON
-    with open(COMPILED_JSON, "w", encoding="utf-8") as f:
-        json.dump(master_list, f, indent=2, ensure_ascii=False)
+    compiled_dict = {}  # key: unique identifier (doi or url or title lower)
+    database_summary = {}
 
-    # Step 4: Save compiled list CSV
-    if master_list:
-        fieldnames = sorted({k for entry in master_list for k in entry.keys()})
-        with open(COMPILED_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(master_list)
+    # -------------------------------
+    # Helper function to get unique key
+    # -------------------------------
+    def get_unique_key(article):
+        if "doi" in article and article["doi"]:
+            return article["doi"].lower()
+        if "url" in article and article["url"]:
+            return article["url"].lower()
+        if "title" in article and article["title"]:
+            return article["title"].strip().lower()
+        return None
 
-    # Step 5: Prepare search summary
-    summary_rows = []
-    for db_name in LIST_FILES.keys():
-        entries = db_entries.get(db_name, [])
-        if not entries:
-            summary_rows.append([db_name, 0, "N/A"] + [0]*len(LIST_FILES))
-            continue
-
-        fields = set()
-        for e in entries:
-            fields.update(e.keys())
-
-        # Compute overlaps with all databases
-        overlaps = []
-        for other_db, other_entries in db_entries.items():
-            if not other_entries:
-                overlaps.append(0)
+    # -------------------------------
+    # Read each database JSON
+    # -------------------------------
+    for db_file in database_files:
+        db_name = db_file.stem  # use file name as database name
+        with open(db_file, "r", encoding="utf-8") as f:
+            try:
+                articles = json.load(f)
+            except Exception as e:
+                print(f"Error reading {db_file}: {e}")
                 continue
-            count = 0
-            other_keys = set(
-                e.get("doi") or e.get("url") or e.get("title") for e in other_entries
-            )
-            for e in entries:
-                key = e.get("doi") or e.get("url") or e.get("title")
-                if key in other_keys:
-                    count += 1
-            overlaps.append(count)
 
-        summary_rows.append([db_name, len(entries), ", ".join(sorted(fields))] + overlaps)
+        if not isinstance(articles, list):
+            print(f"{db_file} is not a list, skipping")
+            continue
 
-    # Save summary CSV
-    header = ["Database", "Number of Results", "Fields Captured"] + list(LIST_FILES.keys())
-    with open(SUMMARY_CSV, "w", newline="", encoding="utf-8") as f:
+        database_summary[db_name] = {
+            "count": len(articles),
+            "fields": list(articles[0].keys()) if articles else [],
+            "articles": articles
+        }
+
+        for article in articles:
+            # Add cited_by if is_referenced_by_count exists
+            if "is_referenced_by_count" in article:
+                article["cited_by"] = article["is_referenced_by_count"]
+
+            # Record which databases this article came from
+            article_key = get_unique_key(article)
+            if not article_key:
+                continue
+
+            if article_key in compiled_dict:
+                # Merge metadata
+                existing = compiled_dict[article_key]
+
+                # Combine databases
+                existing["databases"] = list(set(existing.get("databases", []) + [db_name]))
+
+                # Merge fields - keep existing values, add new if not present
+                for k, v in article.items():
+                    if k not in existing or not existing[k]:
+                        existing[k] = v
+            else:
+                # First occurrence
+                article["databases"] = [db_name]
+                compiled_dict[article_key] = article
+
+    compiled_list = list(compiled_dict.values())
+
+    # -------------------------------
+    # Sort compiled list by citations descending
+    # -------------------------------
+    def citation_sort_key(article):
+        return int(article.get("cited_by", 0) or 0)
+
+    compiled_list.sort(key=citation_sort_key, reverse=True)
+
+    # -------------------------------
+    # Save list_compiled.json
+    # -------------------------------
+    json_path = search_results_dir / "list_compiled.json"
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(compiled_list, f, indent=4, ensure_ascii=False)
+    print(f"Saved compiled JSON: {json_path}")
+
+    # -------------------------------
+    # Save list_compiled.csv
+    # -------------------------------
+    # Determine all possible fields dynamically
+    all_fields = set()
+    for art in compiled_list:
+        all_fields.update(art.keys())
+    all_fields = sorted(all_fields)
+
+    csv_path = search_results_dir / "list_compiled.csv"
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=all_fields)
+        writer.writeheader()
+        for art in compiled_list:
+            writer.writerow({k: art.get(k, "") for k in all_fields})
+    print(f"Saved compiled CSV: {csv_path}")
+
+    # -------------------------------
+    # Build search_summary.csv
+    # -------------------------------
+    summary_path = search_results_dir / "search_summary.csv"
+    with open(summary_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
+        # Header
+        header = ["Database", "Total Articles", "Fields Captured"]
+        db_names = list(database_summary.keys())
+        for db in db_names:
+            header.append(f"Articles Also in {db}")
         writer.writerow(header)
-        writer.writerows(summary_rows)
 
-    print(f"\nCompiled list saved: {COMPILED_JSON}, {COMPILED_CSV}")
-    print(f"Search summary saved: {SUMMARY_CSV}")
+        # Rows
+        for db_name, info in database_summary.items():
+            row = [
+                db_name,
+                len(info["articles"]),
+                "; ".join(info["fields"]) if info["fields"] else "0"
+            ]
+            for compare_db in db_names:
+                if compare_db == db_name:
+                    # All articles are also in the same db
+                    count = len(info["articles"])
+                else:
+                    # Count articles also found in compare_db
+                    compare_keys = set()
+                    for a in database_summary[compare_db]["articles"]:
+                        key = get_unique_key(a)
+                        if key:
+                            compare_keys.add(key)
+
+                    count = 0
+                    for a in info["articles"]:
+                        key = get_unique_key(a)
+                        if key and key in compare_keys:
+                            count += 1
+                row.append(count)
+            writer.writerow(row)
+    print(f"Saved search summary CSV: {summary_path}")
 
 
 if __name__ == "__main__":

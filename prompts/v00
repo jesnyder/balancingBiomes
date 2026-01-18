@@ -112,6 +112,10 @@ two outputs both saved in "results" folder "search_results" subfolder
 Output 1 is a list of all compiled result - list - from each query task.
 Create a single database (file) as a json and csv with all the results with all metadata
 Try to remove duplicate entries. If duplicates found. Combine metadata into a single entry.
+
+for each article, if the key "is_referenced_by_count" is found
+add a key "cited_by" to the compiled list and set equal to value in "is_referenced_by_count"
+
 Save the file as "list_compiled" as json and csv in "results" folder "search_results" subfolder
 add a field to list the databases where the artcile was found. if multiple, then list all.
 
@@ -135,20 +139,26 @@ Task 9: (Complete)
 Create a python file called "build__js_table.py"
 create a main function in the python filed called "build_js_table" that can be called from a makefile
 that references the list_compiled.json in results/search_results folder
+
 Finds the 200 most cited results. use "cited_by" or "is_referenced_by_count" field
 creates a a javascript file "most_cited.js"
+
 save in the folder "docs" and subfolder "js" (may have to create the js file
 save "most_cited.js" there
+
 if the table has hyperlinks, open the hyperlinks in a new tab.
 Use Tabulator https://tabulator.info/ as template
+
 Add search below below each field in the table
 name the div in the html "most-cited-research-table"
+
 in notes at the top of the .js file explain what to paste into index.html to make the .js work
 specify where to paste parts and explain why in the notes
 
-when you build the table. load the data into the .js file as a variable.
+when you build the table.
+load the data into the .js file as a variable.
+only load the fields of the data to the .js variable that are presented in the table.
 do not link to the original csv
-
 
 Add a button to download the table as csv
 Add the button before the table

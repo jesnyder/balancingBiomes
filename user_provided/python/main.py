@@ -10,7 +10,7 @@ from detail_species import detail_species
 def main():
     print("main running")
 
-    tasks = [3]
+    tasks = [6,7]
 
     # detail species
     if 1 in tasks: detail_species()
