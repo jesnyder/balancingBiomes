@@ -256,31 +256,28 @@ The main function is called "count_species"
 Refer to list of organisms in results/species_detailed.json
 The json file contains a list of json entries. Each entry is a species name
 With some details
-establish a new dataframe that lists all the species named in the json
-and add columns for each key in the json
 Add print statements to the terminal for troubleshooting
 
 The python code create two files.
-File one of two is a list of the species with the number of artciles that mention the species
-Search for each species named in the dataframe
-in results/search_results/list_compiled.json
+File one of two is the json list of species appended with keys for the
+(1) "article_count" which is the number of unique article that mention the species by name
+string match, independent of case with the species name
+search in all the text of the results/search_results/list_compiled.json json entry, except for the "reference" key if found.
 
-Search in all available fields, title, keywords, abstract, everything
 the search is not case sensitive. force everything to be lowercase to avoid false negative due to differenct cases.
 If the species name is found. Count as found.
 Add a column to the dataframe with the count
 Even if a species is mentioned multiple times in an article, only count it as found once.
-Save the dataframe as a new file in results/species_found/species_frequency.csv
-also save the same dataframe as json - results/species_found/species_frequency.json
 
-List all the species in one column
-Add a column for each key in the organism list json found at result/species_detailed.jspm
-for kingdom / url / halotolerant (in that order)
-Next column: List how many articles cited those species in the next column
-Next column: Percentage of article in which the species was found / the total number of artcles
-Next column: List how many artciles with at least 2 citations ("cited_by" or "is_referenced_by_count" field) in which the species was found
-Next column: Percentage of artciles in which the species was found with at least 2 citation (previous column) / the total number of artciles in the compiled list that have at least 2 citation, as defined by the "cited_by" or "is_referenced_by_count" field
+For each item in the json list found at result/species_detailed.jspm
+
+Add a key "article_count": List how many articles cited those species in the next column
+Add a key "article_pct": Percentage of article in which the species was found / the total number of artcles
+Add a key "article_morethan2_count": List how many artciles with at least 2 citations ("cited_by" or "is_referenced_by_count" field) in which the species was found
+Add a key "article_morethan2_pct": Percentage of artciles in which the species was found with at least 2 citation (previous column) / the total number of artciles in the compiled list that have at least 2 citation, as defined by the "cited_by" or "is_referenced_by_count" field
 Sort the list so the most frequently found are on the top
+
+Save the appended json - results/species_found/species_frequency.json
 
 File two of two is a javascript file that builds a table
 Also create javascript to build a table

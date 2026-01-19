@@ -1,155 +1,197 @@
-# count_species.py
+#!/usr/bin/env python3
 """
-Find Most Common Species in Halophyte/Halophile Research
+count_species.py
 
-Generates:
-1. results/species_found/species_frequency.csv
-2. results/species_found/species_frequency.json
-3. docs/js/species_found.js (Tabulator table)
+Single-file pipeline that:
+- Reads species list
+- Scans article corpus
+- Counts species mentions
+- Computes citation-aware metrics
+- Writes JSON + CSV
+- Generates a complete Tabulator JS file
+
+No external dependencies.
 """
 
 import json
-import pandas as pd
 import os
-from pathlib import Path
+import csv
+
+SPECIES_FILE = "results/species_detailed.json"
+ARTICLES_FILE = "results/search_results/list_compiled.json"
+
+OUT_DIR = "results/species_found"
+OUT_JSON = f"{OUT_DIR}/species_frequency.json"
+OUT_CSV = f"{OUT_DIR}/species_frequency.csv"
+
+JS_DIR = "docs/js"
+JS_FILE = f"{JS_DIR}/species_found.js"
+
+
+def extract_article_text(article):
+    text = []
+    for k, v in article.items():
+        if k == "reference":
+            continue
+        if isinstance(v, str):
+            text.append(v)
+        elif isinstance(v, list):
+            for x in v:
+                if isinstance(x, str):
+                    text.append(x)
+        elif isinstance(v, dict):
+            for x in v.values():
+                if isinstance(x, str):
+                    text.append(x)
+    return " ".join(text).lower()
+
 
 def count_species():
-    print("Starting count_species...")
+    print("\n=== Loading input files ===")
 
-    # Paths
-    species_json_file = Path("results/species_detailed.json")
-    compiled_json_file = Path("results/search_results/list_compiled.json")
-    output_dir = Path("results/species_found")
-    output_dir.mkdir(parents=True, exist_ok=True)
-    js_dir = Path("docs/js")
-    js_dir.mkdir(parents=True, exist_ok=True)
+    with open(SPECIES_FILE, "r", encoding="utf-8") as f:
+        species_list = json.load(f)
 
-    csv_output_file = output_dir / "species_frequency.csv"
-    json_output_file = output_dir / "species_frequency.json"
-    js_output_file = js_dir / "species_found.js"
-
-    # Load species detailed JSON
-    with open(species_json_file, encoding="utf-8") as f:
-        species_data = json.load(f)
-
-    print(f"Loaded {len(species_data)} species from {species_json_file}")
-
-    # Build initial dataframe
-    df_species = pd.DataFrame(species_data)
-    if 'species_name' not in df_species.columns:
-        # assume first key is the species name if different
-        df_species.rename(columns={df_species.columns[0]: 'species_name'}, inplace=True)
-    print("Initial species dataframe columns:", df_species.columns.tolist())
-
-    # Load compiled articles
-    with open(compiled_json_file, encoding="utf-8") as f:
+    with open(ARTICLES_FILE, "r", encoding="utf-8") as f:
         articles = json.load(f)
 
-    total_articles = len(articles)
-    print(f"Loaded {total_articles} articles from {compiled_json_file}")
+    print(f"Species loaded: {len(species_list)}")
+    print(f"Articles loaded: {len(articles)}")
 
-    # Count articles with at least 2 citations
-    def article_has_2_citations(article):
-        cited_count = article.get("cited_by") or article.get("is_referenced_by_count") or 0
-        return cited_count >= 2
+    os.makedirs(OUT_DIR, exist_ok=True)
+    os.makedirs(JS_DIR, exist_ok=True)
 
-    total_articles_2plus = sum(article_has_2_citations(a) for a in articles)
-    print(f"Total articles with at least 2 citations: {total_articles_2plus}")
+    print("\n=== Preprocessing articles ===")
 
-    # Initialize count columns
-    counts = []
-    counts_2plus = []
+    article_texts = []
+    citation_counts = []
 
-    # Fields to search in each article
-    search_fields = ['title', 'abstract', 'keywords']
-    print("Searching for species in article fields:", search_fields)
+    for art in articles:
+        article_texts.append(extract_article_text(art))
 
-    for idx, row in df_species.iterrows():
-        name = row['species_name']
-        found_count = 0
-        found_count_2plus = 0
-        for article in articles:
-            found_in_article = False
-            for field in search_fields:
-                content = article.get(field)
-                if content and name.lower() in str(content).lower():
-                    found_in_article = True
-                    break
-            if found_in_article:
-                found_count += 1
-                if article_has_2_citations(article):
-                    found_count_2plus += 1
-        counts.append(found_count)
-        counts_2plus.append(found_count_2plus)
-        print(f"[{idx+1}/{len(df_species)}] {name}: {found_count} articles, {found_count_2plus} with >=2 citations")
+        c = art.get("cited_by") or art.get("is_referenced_by_count") or 0
+        try:
+            c = int(c)
+        except:
+            c = 0
 
-    # Add results to dataframe
-    df_species['article_count'] = counts
-    df_species['article_pct'] = df_species['article_count'] / total_articles * 100
-    df_species['article_count_2plus'] = counts_2plus
-    df_species['article_pct_2plus'] = df_species['article_count_2plus'] / total_articles_2plus * 100 if total_articles_2plus > 0 else 0
+        citation_counts.append(c)
 
-    # Sort by most frequent
-    df_species.sort_values(by='article_count', ascending=False, inplace=True)
+    total_articles = len(article_texts)
+    total_2plus = sum(1 for c in citation_counts if c >= 2)
 
-    # Save CSV and JSON
-    df_species.to_csv(csv_output_file, index=False)
-    df_species.to_json(json_output_file, orient='records', indent=2)
-    print(f"Saved species frequency CSV: {csv_output_file}")
-    print(f"Saved species frequency JSON: {json_output_file}")
+    print(f"Articles with ≥2 citations: {total_2plus}")
 
-    # Prepare JS file for Tabulator
-    table_data = df_species.to_dict(orient='records')
+    results = []
 
-    js_content = f"""
+    print("\n=== Counting species ===")
+
+    for i, entry in enumerate(species_list, 1):
+        name = entry.get("species") or entry.get("name")
+        if not name:
+            continue
+
+        name_lc = name.lower()
+
+        found = 0
+        found_2plus = 0
+
+        for idx, text in enumerate(article_texts):
+            if name_lc in text:
+                found += 1
+                if citation_counts[idx] >= 2:
+                    found_2plus += 1
+
+        pct = round((found / total_articles) * 100, 2) if total_articles else 0
+        pct2 = round((found_2plus / total_2plus) * 100, 2) if total_2plus else 0
+
+        entry["article_count"] = found
+        entry["article_pct"] = pct
+        entry["article_morethan2_count"] = found_2plus
+        entry["article_morethan2_pct"] = pct2
+
+        print(f"[{i:4}] {name:<40} → {found} articles")
+
+        results.append(entry)
+
+    results.sort(key=lambda x: x["article_count"], reverse=True)
+
+    print("\n=== Writing JSON & CSV ===")
+
+    with open(OUT_JSON, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2)
+
+    with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(
+            f,
+            fieldnames=[
+                "species",
+                "article_count",
+                "article_pct",
+                "article_morethan2_count",
+                "article_morethan2_pct",
+            ],
+        )
+        writer.writeheader()
+        for r in results:
+            writer.writerow({
+                "species": r.get("species", ""),
+                "article_count": r["article_count"],
+                "article_pct": r["article_pct"],
+                "article_morethan2_count": r["article_morethan2_count"],
+                "article_morethan2_pct": r["article_morethan2_pct"],
+            })
+
+    print("JSON + CSV written.")
+
+    print("\n=== Writing Tabulator JS ===")
+
+    js_data = json.dumps(results, indent=2)
+
+    js_code = f"""
 /*
-Paste the following into index.html:
-<link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator.min.css" rel="stylesheet">
-<div id="species_found"></div>
-<script src="https://unpkg.com/tabulator-tables@5.5.0/dist/js/tabulator.min.js"></script>
-<script src="js/species_found.js"></script>
+====================================================
+species_found.js
 
-Notes:
-- The div with id "species_found" will hold the table
-- species_found.js must be loaded after Tabulator
+Include in HTML:
+
+<link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet">
+<script src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
+
+<button id="downloadCSV">Download CSV</button>
+<div id="species_found"></div>
+<script src="docs/js/species_found.js"></script>
+====================================================
 */
 
-const speciesFound = {json.dumps(table_data, indent=2)};
+const speciesFound = {js_data};
 
 const speciesTable = new Tabulator("#species_found", {{
     data: speciesFound,
-    layout:"fitDataStretch",
-    autoColumns:false,
-    pagination:"local",
-    paginationSize:20,
-    columns:[
-        {{title:"Species", field:"species_name"}},
-        {{title:"Kingdom", field:"kingdom"}},
-        {{title:"URL", field:"url", formatter:"link", formatterParams:{{target:"_blank"}}}},
-        {{title:"Halotolerant", field:"halotolerant"}},
-        {{title:"Articles Found", field:"article_count", hozAlign:"right", width:100}},
-        {{title:"% of Articles", field:"article_pct", hozAlign:"right", width:100}},
-        {{title:"Articles >=2 Citations", field:"article_count_2plus", hozAlign:"right", width:120}},
-        {{title:"% Articles >=2 Citations", field:"article_pct_2plus", hozAlign:"right", width:120}}
-    ],
-    tooltips:true,
-    movableColumns:true,
-    resizableRows:true,
-    paginationSizeSelector:[10, 20, 50, 100],
-    placeholder:"No data available",
+    layout: "fitDataStretch",
+    pagination: "local",
+    paginationSize: 20,
+    movableColumns: true,
+
+    columns: [
+        {{ title: "Species", field: "species", headerFilter: "input", widthGrow: 3 }},
+        {{ title: "Articles", field: "article_count", sorter: "number", width: "15%", headerFilter: "number" }},
+        {{ title: "% of Articles", field: "article_pct", sorter: "number", width: "15%", headerFilter: "number" }},
+        {{ title: "≥2 Citations", field: "article_morethan2_count", sorter: "number", width: "15%", headerFilter: "number" }},
+        {{ title: "% ≥2 Citations", field: "article_morethan2_pct", sorter: "number", width: "15%", headerFilter: "number" }}
+    ]
 }});
 
-// Add download button
-const downloadBtn = document.createElement("button");
-downloadBtn.innerText = "Download CSV";
-downloadBtn.onclick = function() {{
+document.getElementById("downloadCSV").addEventListener("click", function () {{
     speciesTable.download("csv", "species_frequency.csv");
-}};
-document.getElementById("species_found").before(downloadBtn);
+}});
 """
-    with open(js_output_file, "w", encoding="utf-8") as f:
-        f.write(js_content)
-    print(f"Saved JS table file: {js_output_file}")
+
+    with open(JS_FILE, "w", encoding="utf-8") as f:
+        f.write(js_code)
+
+    print(f"JS written → {JS_FILE}")
+    print("\n✅ DONE")
 
 
 if __name__ == "__main__":

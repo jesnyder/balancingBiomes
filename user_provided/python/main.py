@@ -11,7 +11,7 @@ from build_table_summary import build_table_summary
 def main():
     print("main running")
 
-    tasks = [5]
+    tasks = [9]
 
     # detail species
     if 1 in tasks: detail_species()
