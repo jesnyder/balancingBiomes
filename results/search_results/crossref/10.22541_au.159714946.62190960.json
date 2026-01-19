@@ -1,0 +1,141 @@
+{
+  "institution": [
+    {
+      "name": "Authorea, Inc."
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        3
+      ]
+    ],
+    "date-time": "2025-06-03T16:33:13Z",
+    "timestamp": 1748968393089,
+    "version": "3.41.0"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        11
+      ]
+    ]
+  },
+  "group-title": "Preprints",
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "accepted": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.22541/au.159714946.62190960",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        11
+      ]
+    ],
+    "date-time": "2020-08-11T13:10:02Z",
+    "timestamp": 1597151402000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Sustainable coastal halophyte farming for biofuel in arid regions: Site and feedwater selection using geochemical modelling"
+  ],
+  "prefix": "10.22541",
+  "author": [
+    {
+      "given": "Qingqian",
+      "family": "Ning",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Xi’an Jiaotong-Liverpool University"
+        }
+      ]
+    },
+    {
+      "given": "Abdul Matiin",
+      "family": "Wan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Axiom Learning"
+        }
+      ]
+    },
+    {
+      "given": "Farrukh",
+      "family": "Ahmad",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Environmental Health Solutions Inc."
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        11
+      ]
+    ],
+    "date-time": "2020-08-11T13:10:03Z",
+    "timestamp": 1597151403000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.authorea.com/users/349979/articles/474941-sustainable-coastal-halophyte-farming-for-biofuel-in-arid-regions-site-and-feedwater-selection-using-geochemical-modelling?commit=f2676675ed73eb51dde22119e65bc5e2264f4c27"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        11
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.22541/au.159714946.62190960",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        11
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

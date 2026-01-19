@@ -1,0 +1,603 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        16
+      ]
+    ],
+    "date-time": "2026-01-16T02:34:14Z",
+    "timestamp": 1768530854015,
+    "version": "3.49.0"
+  },
+  "reference-count": 41,
+  "publisher": "Microbiology Society",
+  "issue": "3",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2005,
+        5,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p>A Gram-negative bacterium, designated LA31B<jats:sup>T</jats:sup>, was isolated from water collected from a hypersaline lagoon on Laysan Atoll in the north-western Hawaiian Islands. Single cells of LA31B<jats:sup>T</jats:sup>were slightly curved but became helical as their length increased. Preliminary characterization based on 16S rRNA gene sequence analysis showed that LA31B<jats:sup>T</jats:sup>shared 96·0 % identity with an<jats:italic>Arcobacter</jats:italic>sp. isolated from a cyanobacterial mat in hypersaline Lake Sinai, and 94 % identity with<jats:italic>Arcobacter nitrofigilis</jats:italic>, the type species of the genus<jats:italic>Arcobacter</jats:italic>. A polyphasic taxonomic study was conducted and confirmed the phylogenetic affiliation of strain LA31B<jats:sup>T</jats:sup>to the genus<jats:italic>Arcobacter</jats:italic>. However, LA31B<jats:sup>T</jats:sup>was found to be distinct from all recognized<jats:italic>Arcobacter</jats:italic>species, by a comprehensive biochemical test analysis, whole-cell fatty acid profiling, DNA G+C content (35 mol% in LA31B<jats:sup>T</jats:sup>) and degree of DNA–DNA reassociation. Most notably, LA31B<jats:sup>T</jats:sup>was found to be an obligate halophile, a hitherto undescribed feature among recognized<jats:italic>Arcobacter</jats:italic>species. These data indicate that LA31B<jats:sup>T</jats:sup>should be considered to represent a novel species in the genus<jats:italic>Arcobacter</jats:italic>, for which the name<jats:italic>Arcobacter halophilus</jats:italic>sp. nov. is proposed. This is the first obligately halophilic member of the genus. The type strain is LA31B<jats:sup>T</jats:sup>(=ATCC BAA-1022<jats:sup>T</jats:sup>=CIP 108450<jats:sup>T</jats:sup>).</jats:p>",
+  "DOI": "10.1099/ijs.0.63581-0",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2005,
+        5,
+        5
+      ]
+    ],
+    "date-time": "2005-05-05T19:13:47Z",
+    "timestamp": 1115320427000
+  },
+  "page": "1271-1277",
+  "source": "Crossref",
+  "is-referenced-by-count": 126,
+  "title": [
+    "Arcobacter halophilus sp. nov., the first obligate halophile in the genus Arcobacter"
+  ],
+  "prefix": "10.1099",
+  "volume": "55",
+  "author": [
+    {
+      "given": "Stuart P.",
+      "family": "Donachie",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Microbiology, University of Hawaii, 2538 The Mall, Honolulu, Hawaii 96822, USA"
+        }
+      ]
+    },
+    {
+      "given": "John P.",
+      "family": "Bowman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Agricultural Science, University of Tasmania, Private Bag 54, Hobart, Tasmania 7001, Australia"
+        }
+      ]
+    },
+    {
+      "given": "Stephen L. W.",
+      "family": "On",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Danish Institute for Food and Veterinary Research, Department of Microbiological Food Safety, Bülowsvej 27, DK-1790 Copenhagen V, Denmark"
+        }
+      ]
+    },
+    {
+      "given": "Maqsudul",
+      "family": "Alam",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Microbiology, University of Hawaii, 2538 The Mall, Honolulu, Hawaii 96822, USA"
+        }
+      ]
+    }
+  ],
+  "member": "345",
+  "reference": [
+    {
+      "key": "R1",
+      "doi-asserted-by": "crossref",
+      "first-page": "1317",
+      "DOI": "10.1099/00207713-52-4-1317",
+      "article-title": "Caminibacter hydrogeniphilus gen. nov., sp. nov. a novel thermophilic, hydrogen-oxidizing bacterium isolated from an East Pacific Rise hydrothermal vent",
+      "volume": "52",
+      "author": "Alain",
+      "year": "2002",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "R2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1007",
+      "DOI": "10.1046/j.1365-2672.1998.00437.x",
+      "article-title": "Diversity and prevalence of Arcobacter spp. in broiler chickens",
+      "volume": "84",
+      "author": "Atabay",
+      "year": "1998",
+      "journal-title": "J Appl Microbiol"
+    },
+    {
+      "key": "R3",
+      "first-page": "p",
+      "article-title": "Handbook of Microbiological Media",
+      "author": "Atlas",
+      "year": "1997"
+    },
+    {
+      "key": "R4",
+      "first-page": "1",
+      "article-title": "Wildlife refuges and endangered species of the Hawaiian Islands and Trust Territory of the Pacific islands. In Literature Review and Synthesis of Information on Pacific Island Ecosystems",
+      "volume-title": "Final Report, Documentation Associates Information Services Incorporated, Los Angeles, CA. Report for the Office of Biological Services, Fish and Wildlife Service, US Department of the Interior",
+      "author": "Bakus",
+      "year": "1978"
+    },
+    {
+      "key": "R5",
+      "doi-asserted-by": "crossref",
+      "first-page": "2463",
+      "DOI": "10.1128/AEM.69.5.2463-2483.2003",
+      "article-title": "Biodiversity, community structural shifts, and biogeography of prokaryotes within Antarctic continental shelf sediment",
+      "volume": "69",
+      "author": "Bowman",
+      "year": "2003",
+      "journal-title": "Appl Environ Microbiol"
+    },
+    {
+      "key": "R6",
+      "doi-asserted-by": "crossref",
+      "first-page": "1601",
+      "DOI": "10.1099/00221287-144-6-1601",
+      "article-title": "Psychroflexus torquis gen. nov., sp. nov., a psychrophilic species from Antarctic sea ice, and reclassification of Flavobacterium gondwanense (Dobson et al . 1993) as Psychroflexus gondwanense gen. nov., comb. nov",
+      "volume": "144",
+      "author": "Bowman",
+      "year": "1998",
+      "journal-title": "Microbiology"
+    },
+    {
+      "key": "R7",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1007/s00792-002-0274-7",
+      "article-title": "Microbial community in acidic hydrothermal waters of volcanically active White Island",
+      "volume": "6",
+      "author": "Donachie",
+      "year": "2002",
+      "journal-title": "New Zealand. Extremophiles"
+    },
+    {
+      "key": "R8",
+      "doi-asserted-by": "crossref",
+      "first-page": "509",
+      "DOI": "10.1007/s00248-004-0217-1",
+      "article-title": "The Hawaiian Archipelago: a microbial diversity hotspot",
+      "volume": "48",
+      "author": "Donachie",
+      "year": "2004a",
+      "journal-title": "Microb Ecol"
+    },
+    {
+      "key": "R9",
+      "doi-asserted-by": "crossref",
+      "first-page": "935",
+      "DOI": "10.1099/ijs.0.02733-0",
+      "article-title": "Psychroflexus tropicus sp. nov., an obligately halophilic halophilic Cytophaga – Flavobacterium – Bacteroides group bacterium isolated from an Hawaiian hypersaline lake",
+      "volume": "54",
+      "author": "Donachie",
+      "year": "2004b",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "R10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.5479/si.00775630.171.1",
+      "article-title": "The natural history of Laysan Island, Northwestern Hawaiian Islands",
+      "volume": "171",
+      "author": "Ely",
+      "year": "1973",
+      "journal-title": "Atoll Res Bull"
+    },
+    {
+      "key": "R11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1271",
+      "DOI": "10.1128/AEM.70.3.1271-1276.2004",
+      "article-title": "Detection of Arcobacter spp. in the coastal environment of the Mediterranean Sea",
+      "volume": "70",
+      "author": "Fera",
+      "year": "2004",
+      "journal-title": "Appl Environ Microbiol"
+    },
+    {
+      "key": "R12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1212",
+      "DOI": "10.1099/00207713-47-4-1212",
+      "article-title": "Sulfurospirillum arcachonense sp. nov., a new microaerophilic sulfur-reducing bacterium",
+      "volume": "47",
+      "author": "Finster",
+      "year": "1997",
+      "journal-title": "Int J Syst Bacteriol"
+    },
+    {
+      "key": "R13",
+      "doi-asserted-by": "crossref",
+      "first-page": "184",
+      "DOI": "10.1016/S0723-2020(83)80048-4",
+      "article-title": "Studies on the spectrometric determination of DNA hybridization from renaturation rates",
+      "volume": "4",
+      "author": "Huß",
+      "year": "1983",
+      "journal-title": "Syst Appl Microbiol"
+    },
+    {
+      "key": "R14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1801",
+      "DOI": "10.1099/ijs.0.02682-0",
+      "article-title": "Sulfurimonas autotrophica gen. nov., sp. nov. a novel sulfur-oxidizing ε -proteobacterium isolated from hydrothermal sediments in the Mid-Okinawa Trough",
+      "volume": "53",
+      "author": "Inagaki",
+      "year": "2003",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "R15",
+      "doi-asserted-by": "crossref",
+      "first-page": "1477",
+      "DOI": "10.1099/ijs.0.03042-0",
+      "article-title": "Sulfurovum lithotrophicum gen. nov., sp. nov., a novel sulfur-oxidizing chemolithoautotroph within the ε - Proteobacteria isolated from Okinawa Trough hydrothermal sediments",
+      "volume": "54",
+      "author": "Inagaki",
+      "year": "2004",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "R16",
+      "first-page": "115",
+      "article-title": "16S/23S rRNA sequencing",
+      "volume-title": "In Nucleic Acid Techniques in Bacterial Systematics",
+      "author": "Lane",
+      "year": "1991"
+    },
+    {
+      "key": "R17",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "DOI": "10.2307/1939479",
+      "article-title": "The nitrogen pathway in a penguin rookery",
+      "volume": "65",
+      "author": "Lindeboom",
+      "year": "1984",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "R18",
+      "doi-asserted-by": "crossref",
+      "first-page": "2691",
+      "DOI": "10.1128/AEM.64.7.2691-2696.1998",
+      "article-title": "Microbial community composition of Wadden Sea sediments as revealed by fluorescence in situ hybridization",
+      "volume": "64",
+      "author": "Llobet-Brossa",
+      "year": "1998",
+      "journal-title": "Appl Environ Microbiol"
+    },
+    {
+      "key": "R19",
+      "first-page": "1",
+      "article-title": "Lakes and lake-like waters of the Hawaiian Archipelago",
+      "volume": "25",
+      "author": "Maciolek",
+      "year": "1982",
+      "journal-title": "Occ Pap Bernice P Bishop Mus"
+    },
+    {
+      "key": "R20",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1097/00013542-200011030-00006",
+      "article-title": "Arcobacter butzleri , A. skirrowii and A. cryaerophilus – potential emerging human pathogens",
+      "volume": "11",
+      "author": "Mansfield",
+      "year": "2000",
+      "journal-title": "Rev Med Microbiol"
+    },
+    {
+      "key": "R21",
+      "doi-asserted-by": "crossref",
+      "first-page": "208",
+      "DOI": "10.1016/S0022-2836(61)80047-8",
+      "article-title": "A procedure for the isolation of deoxyribonucleic acid from microorganisms",
+      "volume": "3",
+      "author": "Marmur",
+      "year": "1961",
+      "journal-title": "J Mol Biol"
+    },
+    {
+      "key": "R22",
+      "doi-asserted-by": "crossref",
+      "first-page": "605",
+      "DOI": "10.1099/00207713-33-3-605",
+      "article-title": "Campylobacter nitrofigilis sp. nov., a nitrogen-fixing bacterium associated with roots of Spartina alterniflora",
+      "volume": "33",
+      "author": "McClung",
+      "year": "1983",
+      "journal-title": "Int J Syst Bacteriol"
+    },
+    {
+      "key": "R23",
+      "doi-asserted-by": "crossref",
+      "first-page": "1299",
+      "DOI": "10.1099/00207713-52-4-1299",
+      "article-title": "Nautilia lithotrophica gen. nov., sp. nov. a thermophilic sulfur-reducing ε -proteobacterium isolated from a deep-sea hydrothermal vent",
+      "volume": "52",
+      "author": "Miroshnichenko",
+      "year": "2002",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "R24",
+      "doi-asserted-by": "crossref",
+      "first-page": "405",
+      "DOI": "10.1128/CMR.9.3.405",
+      "article-title": "Identification methods for campylobacters, helicobacters, and related organisms",
+      "volume": "9",
+      "author": "On",
+      "year": "1996",
+      "journal-title": "Clin Microbiol Rev"
+    },
+    {
+      "key": "R25",
+      "doi-asserted-by": "crossref",
+      "first-page": "923",
+      "DOI": "10.1128/JCM.29.5.923-926.1991",
+      "article-title": "Effect of inoculum size on the phenotypic characterization of Campylobacter species",
+      "volume": "29",
+      "author": "On",
+      "year": "1991",
+      "journal-title": "J Clin Microbiol"
+    },
+    {
+      "key": "R26",
+      "first-page": "425",
+      "article-title": "A probability matrix for the identification of campylobacters, helicobacters, and allied taxa",
+      "volume": "81",
+      "author": "On",
+      "year": "1996",
+      "journal-title": "J Appl Bacteriol"
+    },
+    {
+      "key": "R27",
+      "first-page": "357",
+      "article-title": "TreeView: an application to display phylogenetic trees on personal computers",
+      "volume": "12",
+      "author": "Page",
+      "year": "1996",
+      "journal-title": "Comput Appl Biosci"
+    },
+    {
+      "key": "R28",
+      "doi-asserted-by": "crossref",
+      "first-page": "364",
+      "DOI": "10.1016/0300-9084(96)84768-7",
+      "article-title": "WWW-query: an on-line retrieval system for biological sequence banks",
+      "volume": "78",
+      "author": "Perrière",
+      "year": "1996",
+      "journal-title": "Biochimie"
+    },
+    {
+      "key": "R29",
+      "volume-title": "Techniques d'Analyse en Microbiologie du Sol , p. 111",
+      "author": "Pochon",
+      "year": "1962"
+    },
+    {
+      "key": "R30",
+      "first-page": "406",
+      "article-title": "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+      "volume": "4",
+      "author": "Saitou",
+      "year": "1987",
+      "journal-title": "Mol Biol Evol"
+    },
+    {
+      "key": "R31",
+      "article-title": "Identification of Bacteria by Gas Chromatography of Cellular Fatty Acids",
+      "volume": "101",
+      "author": "Sasser",
+      "year": "1997",
+      "journal-title": "MIDI Technical Note"
+    },
+    {
+      "key": "R32",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/BF02449920",
+      "article-title": "Artemia pathenogenetica in Lake Hayward, Western Australia. I. Interrupted recruitment into adult stages in response to seasonal limnology",
+      "volume": "7",
+      "author": "Savage",
+      "year": "1998",
+      "journal-title": "Int J Salt Lake Res"
+    },
+    {
+      "key": "R33",
+      "doi-asserted-by": "crossref",
+      "first-page": "287",
+      "DOI": "10.1007/BF00245247",
+      "article-title": "Comparative systematic study of “spirillum” 5175, Campylobacter and Wolinella species. Description of “spirillum” 5175 as Sulfurospirillum deleyianum gen. nov., sp. nov",
+      "volume": "158",
+      "author": "Schumacher",
+      "year": "1992",
+      "journal-title": "Arch Microbiol"
+    },
+    {
+      "key": "R34",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1016/0167-7012(86)90009-6",
+      "article-title": "The use of second derivative plots for the determination of mol% guanine plus cytosine of DNA by the thermal denaturation method",
+      "volume": "5",
+      "author": "Sly",
+      "year": "1986",
+      "journal-title": "J Microbiol Methods"
+    },
+    {
+      "key": "R35",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1099/ijs.0.02787-0",
+      "article-title": "Hydrogenimonas thermophila gen. nov., sp. nov., a novel thermophilic, hydrogen-oxidizing chemolithoautotroph within the ε - Proteobacteria , isolated from a black smoker in a Central Indian Ridge hydrothermal field",
+      "volume": "54",
+      "author": "Takai",
+      "year": "2004",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "R36",
+      "doi-asserted-by": "crossref",
+      "first-page": "4210",
+      "DOI": "10.1128/AEM.62.11.4210-4215.1996",
+      "article-title": "Molecular identification of bacteria from a coculture by denaturing gradient gel electrophoresis of 16S ribosomal DNA fragments as a tool for isolation in pure cultures",
+      "volume": "62",
+      "author": "Teske",
+      "year": "1996",
+      "journal-title": "Appl Environ Microbiol"
+    },
+    {
+      "key": "R37",
+      "doi-asserted-by": "crossref",
+      "first-page": "4876",
+      "DOI": "10.1093/nar/25.24.4876",
+      "article-title": "The clustal_x Windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+      "volume": "25",
+      "author": "Thompson",
+      "year": "1997",
+      "journal-title": "Nucleic Acids Res"
+    },
+    {
+      "key": "R38",
+      "doi-asserted-by": "crossref",
+      "first-page": "88",
+      "DOI": "10.1099/00207713-41-1-88",
+      "article-title": "Revision of Campylobacter , Helicobacter and Wolinella taxonomy: emendation of generic descriptions and proposal of Arcobacter gen. nov",
+      "volume": "41",
+      "author": "Vandamme",
+      "year": "1991",
+      "journal-title": "Int J Syst Bacteriol"
+    },
+    {
+      "key": "R39",
+      "doi-asserted-by": "crossref",
+      "first-page": "344",
+      "DOI": "10.1099/00207713-42-3-344",
+      "article-title": "Polyphasic taxonomic study of the emended genus Arcobacter with Arcobacter butzleri comb. nov. and Arcobacter skirrowii sp. nov., an aerotolerant bacterium isolated from veterinary specimens",
+      "volume": "42",
+      "author": "Vandamme",
+      "year": "1992",
+      "journal-title": "Int J Syst Bacteriol"
+    },
+    {
+      "key": "R40",
+      "doi-asserted-by": "crossref",
+      "first-page": "463",
+      "DOI": "10.1099/00207713-37-4-463",
+      "article-title": "International Committee on Systematic Bacteriology. Report of the ad hoc committee on reconciliation of approaches to bacterial systematics",
+      "volume": "37",
+      "author": "Wayne",
+      "year": "1987",
+      "journal-title": "Int J Syst Bacteriol"
+    },
+    {
+      "key": "R41",
+      "doi-asserted-by": "crossref",
+      "first-page": "316",
+      "DOI": "10.1128/AEM.68.1.316-325.2002",
+      "article-title": "Characterization of an autotrophic sulfide-oxidizing marine Arcobacter sp. that produces filamentous sulfur",
+      "volume": "68",
+      "author": "Wirsen",
+      "year": "2002",
+      "journal-title": "Appl Environ Microbiol"
+    }
+  ],
+  "container-title": [
+    "International Journal of Systematic and Evolutionary Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63581-0?crawler=true",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        1
+      ]
+    ],
+    "date-time": "2025-01-01T03:32:27Z",
+    "timestamp": 1735702347000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63581-0"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2005,
+        5,
+        1
+      ]
+    ]
+  },
+  "references-count": 41,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1099/ijs.0.63581-0",
+  "relation": {},
+  "ISSN": [
+    "1466-5026",
+    "1466-5034"
+  ],
+  "issn-type": [
+    {
+      "value": "1466-5026",
+      "type": "print"
+    },
+    {
+      "value": "1466-5034",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2005,
+        5,
+        1
+      ]
+    ]
+  }
+}

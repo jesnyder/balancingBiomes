@@ -1,0 +1,654 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2025-02-21T21:07:11Z",
+    "timestamp": 1740172031053,
+    "version": "3.37.3"
+  },
+  "reference-count": 32,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2022-08-23T00:00:00Z",
+        "timestamp": 1661212800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2022-08-23T00:00:00Z",
+        "timestamp": 1661212800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001501",
+      "name": "University Grants Commission",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "F.30-50/2014 (BSR)"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "F.30-50/2014 (BSR)"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001501",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Vegetos"
+  ],
+  "DOI": "10.1007/s42535-022-00461-9",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        23
+      ]
+    ],
+    "date-time": "2022-08-23T03:40:42Z",
+    "timestamp": 1661226042000
+  },
+  "page": "805-815",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Whole proteome analysis of xero-halophyte Atriplex under salinity"
+  ],
+  "prefix": "10.1007",
+  "volume": "36",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-4738-5588",
+      "authenticated-orcid": false,
+      "given": "Shweta",
+      "family": "Jha",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "461_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "4044",
+      "DOI": "10.1105/tpc.109.069211",
+      "volume": "21",
+      "author": "BJ Barkla",
+      "year": "2009",
+      "unstructured": "Barkla BJ, Vera-Estrella R, Hernandez-Coronado M, Pantoja O (2009) Quantitative proteomics of the tonoplast reveals a role for glycolytic enzymes in salt tolerance. Plant Cell 21:4044–4058",
+      "journal-title": "Plant Cell"
+    },
+    {
+      "issue": "3",
+      "key": "461_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "737",
+      "DOI": "10.1002/pmic.200401119",
+      "volume": "5",
+      "author": "V Dani",
+      "year": "2005",
+      "unstructured": "Dani V, Simon WJ, Duranti M, Croy RR (2005) Changes in the tobacco leaf apoplast proteome in response to salt stress. Proteomics 5(3):737–745",
+      "journal-title": "Proteomics"
+    },
+    {
+      "key": "461_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "945",
+      "DOI": "10.1111/j.1469-8137.2008.02531.x",
+      "volume": "179",
+      "author": "TJ Flowers",
+      "year": "2008",
+      "unstructured": "Flowers TJ, Colmer TD (2008) Salinity tolerance in halophytes. Tansley Rev-New Phytol 179:945–963",
+      "journal-title": "Tansley Rev-New Phytol"
+    },
+    {
+      "key": "461_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "10",
+      "DOI": "10.2307/2446548",
+      "volume": "85",
+      "author": "EP Glenn",
+      "year": "1998",
+      "unstructured": "Glenn EP, Brown JJ (1998) Effects of soil salt levels on the growth and water use efficiency of Atriplex canescens (Chenopodiaceae) varieties in drying soil. Am J Bot 85:10–16",
+      "journal-title": "Am J Bot"
+    },
+    {
+      "key": "461_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "463",
+      "DOI": "10.1146/annurev.arplant.51.1.463",
+      "volume": "51",
+      "author": "PM Hasegawa",
+      "year": "2000",
+      "unstructured": "Hasegawa PM, Bressan RA, Zhu JK, Bohnert HJ (2000) Plant cellular and molecular responses to high salinity. Annu Rev Plant Physiol Plant Mol Biol 51:463–499",
+      "journal-title": "Annu Rev Plant Physiol Plant Mol Biol"
+    },
+    {
+      "issue": "6",
+      "key": "461_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "1315",
+      "DOI": "10.1093/jxb/ern040",
+      "volume": "59",
+      "author": "AB Hassine",
+      "year": "2008",
+      "unstructured": "Hassine AB, Ghanem ME, Bouzid S, Lutts S (2008) An inland and a coastal population of the Mediterranean xero-halophyte species Atriplex halimus L. differ in their ability to accumulate proline and glycinebetaine in response to salinity and water stress. J Exp Bot 59(6):1315–1326",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "issue": "3",
+      "key": "461_CR8",
+      "first-page": "389",
+      "volume": "18",
+      "author": "MZ Iqbal",
+      "year": "2014",
+      "unstructured": "Iqbal MZ, Shafiq M, Athar M (2014) Adaptation in Atriplex griffithii and Prosopis juliflora plants in response to cement dust pollution. J Appl Sci Environ Manage 18(3):389–395",
+      "journal-title": "J Appl Sci Environ Manage"
+    },
+    {
+      "issue": "12",
+      "key": "461_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "6595",
+      "DOI": "10.1021/pr1007834",
+      "volume": "9",
+      "author": "RP Jacoby",
+      "year": "2010",
+      "unstructured": "Jacoby RP, Millar AH, Taylor NL (2010) Wheat mitochondrial proteomes provide new links between antioxidant defense and plant salinity tolerance. J Proteome Res 9(12):6595–6604",
+      "journal-title": "J Proteome Res"
+    },
+    {
+      "key": "461_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "285",
+      "DOI": "10.1201/b22206-25",
+      "volume-title": "Metabolic Adaptations in Plants during Abiotic Stress",
+      "author": "S Jha",
+      "year": "2018",
+      "unstructured": "Jha S (2018) Proteomics of Salinity Stress: Opportunities and Challenges. In: Ramakrishna A, Gill SS (eds) Metabolic Adaptations in Plants during Abiotic Stress. CRC Press, Taylor & Francis Group Boca Raton FL, pp 285–294"
+    },
+    {
+      "key": "461_CR11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.plgene.2021.100347",
+      "volume": "29",
+      "author": "S Jha",
+      "year": "2022",
+      "unstructured": "Jha S (2022) Proteome responses of pearl millet genotypes under salinity. Plant Gene 29:100347. https://doi.org/10.1016/j.plgene.2021.100347",
+      "journal-title": "Plant Gene"
+    },
+    {
+      "key": "461_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "53",
+      "DOI": "10.1016/j.plantsci.2012.07.004",
+      "volume": "196",
+      "author": "S Jha",
+      "year": "2012",
+      "unstructured": "Jha S, Agarwal S, Sanyal I, Amla DV (2012) Differential subcellular targeting of recombinant human α1-proteinase inhibitor influences yield, biological activity and in planta stability of the protein in transgenic tomato plants. Plant Sci 196:53–66",
+      "journal-title": "Plant Sci"
+    },
+    {
+      "key": "461_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "220",
+      "DOI": "10.1007/s12010-016-1989-8",
+      "volume": "179",
+      "author": "S Jha",
+      "year": "2016",
+      "unstructured": "Jha S, Agarwal S, Sanyal I, Amla DV (2016) Single-step purification and characterization of a recombinant serine proteinase inhibitor from transgenic plants. Appl Biochem Biotechnol 179:220–236",
+      "journal-title": "Appl Biochem Biotechnol"
+    },
+    {
+      "key": "461_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "265",
+      "DOI": "10.1007/978-981-15-0690-1_14",
+      "volume-title": "Molecular Approaches in Plant Biology and Environmental Challenges",
+      "author": "S Jha",
+      "year": "2019",
+      "unstructured": "Jha S (2019) Transgenic Approaches for Enhancement of Salinity Stress Tolerance in Plants. In: Singh SP et al (eds) Molecular Approaches in Plant Biology and Environmental Challenges. Springer Nature, Singapore, pp 265–322"
+    },
+    {
+      "key": "461_CR15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ppl.13605",
+      "author": "S Jha",
+      "year": "2022",
+      "unstructured": "Jha S, Maity S, Singh J, Chouhan C, Tak N, Ambatipudi K (2022) Integrated physiological and comparative proteomics analysis of contrasting genotypes of pearl millet reveals underlying salt-responsive mechanisms. Physiol Plant. https://doi.org/10.1111/ppl.13605",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "461_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "1820",
+      "DOI": "10.1007/s00344-021-10424-0",
+      "volume": "41",
+      "author": "S Jha",
+      "year": "2022",
+      "unstructured": "Jha S, Singh J, Chouhan C, Singh O, Srivastava RK (2022) Evaluation of multiple salinity tolerance indices for screening and comparative biochemical and molecular analysis of pearl millet [Pennisetum glaucum (L.) R .Br.] genotypes. J Plant Growth Regul. 41:1820–1834. https://doi.org/10.1007/s00344-021-10424-0",
+      "journal-title": "J Plant Growth Regul."
+    },
+    {
+      "issue": "13",
+      "key": "461_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "3591",
+      "DOI": "10.1093/jxb/erm207",
+      "volume": "58",
+      "author": "Y Jiang",
+      "year": "2007",
+      "unstructured": "Jiang Y, Yang B, Harris NS, Deyholos MK (2007) Comparative proteomic analysis of NaCl stress-responsive proteins in Arabidopsis roots. J Exp Bot 58(13):3591–3607",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "461_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "475",
+      "DOI": "10.1139/b94-063",
+      "volume": "72",
+      "author": "MA Khan",
+      "year": "1994",
+      "unstructured": "Khan MA, Rizvi Y (1994) Effect of salinity, temperature, and growth regulators on the germination and early seedling growth of Atriplex griffithii var. stocksii. Can J Bot 72:475–479",
+      "journal-title": "Can J Bot"
+    },
+    {
+      "issue": "4",
+      "key": "461_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "355",
+      "DOI": "10.1016/S1673-8527(07)60038-1",
+      "volume": "34",
+      "author": "Q Li",
+      "year": "2007",
+      "unstructured": "Li Q, Yin H, Li D, Zhu H, Zhang Y, Zhu W (2007) Isolation and characterization of CMO promoter from Halophyte Sueada liaotungensis K. J Genet Genomics 34(4):355–361",
+      "journal-title": "J Genet Genomics"
+    },
+    {
+      "key": "461_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1743",
+      "DOI": "10.1016/j.jplph.2011.03.018",
+      "volume": "168",
+      "author": "W Li",
+      "year": "2011",
+      "unstructured": "Li W, Zhang C, Lu Q, Wen X, Lu C (2011) The combined effect of salt stress and heat shock on proteome profiling in Suaeda salsa. J Plant Physiol 168:1743–1752",
+      "journal-title": "J Plant Physiol"
+    },
+    {
+      "key": "461_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "239",
+      "DOI": "10.1046/j.0016-8025.2001.00808.x",
+      "volume": "25",
+      "author": "R Munns",
+      "year": "2002",
+      "unstructured": "Munns R (2002) Comparative physiology of salt and water stress. Plant Cell Environ 25:239–250",
+      "journal-title": "Plant Cell Environ"
+    },
+    {
+      "key": "461_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "645",
+      "DOI": "10.1111/j.1469-8137.2005.01487.x",
+      "volume": "167",
+      "author": "R Munns",
+      "year": "2005",
+      "unstructured": "Munns R (2005) Genes and salt tolerance: Bringing them together. Tansley Rev New Phytol 167:645–663",
+      "journal-title": "Tansley Rev New Phytol"
+    },
+    {
+      "key": "461_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "4185",
+      "DOI": "10.1002/pmic.200401282",
+      "volume": "5",
+      "author": "BK Ndimba",
+      "year": "2005",
+      "unstructured": "Ndimba BK, Chivasa S, Simon WJ, Slabas AR (2005) Identification of Arabidopsis salt and osmotic stress responsive proteins using two-dimensional difference gel electrophoresis and mass spectrometry. Proteomics 5:4185–4196",
+      "journal-title": "Proteomics"
+    },
+    {
+      "key": "461_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "143",
+      "DOI": "10.1016/j.jbiotec.2020.10.011",
+      "volume": "324",
+      "author": "A Panda",
+      "year": "2020",
+      "unstructured": "Panda A, Rangani J, Parida AK (2020) Comprehensive proteomic analysis revealing multifaceted regulatory network of the xero-halophyte Haloxylon salicornicum involved in salt tolerance. J Biotechnol 324:143–161",
+      "journal-title": "J Biotechnol"
+    },
+    {
+      "key": "461_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "2584",
+      "DOI": "10.1021/pr100034f",
+      "volume": "9",
+      "author": "Q Pang",
+      "year": "2010",
+      "unstructured": "Pang Q, Chen S, Dai S, Chen Y, Wang Y, Yan X (2010) Comparative proteomics of salt tolerance in Arabidopsis thaliana and Thellungiella halophila. J Proteome Res 9:2584–2599",
+      "journal-title": "J Proteome Res"
+    },
+    {
+      "issue": "1",
+      "key": "461_CR26",
+      "first-page": "112",
+      "volume": "7",
+      "author": "MT Sadder",
+      "year": "2013",
+      "unstructured": "Sadder MT, Anwar F, Al-Doss AA (2013) Gene expression and physiological analysis of Atriplex halimus (L.) under salt stress. Aus J Crop Sci 7(1):112–118",
+      "journal-title": "Aus J Crop Sci"
+    },
+    {
+      "issue": "1",
+      "key": "461_CR27",
+      "first-page": "1",
+      "volume": "7",
+      "author": "S Sangam",
+      "year": "2005",
+      "unstructured": "Sangam S, Jayasree D, Janardham Reddy K, Chari PVB, Sreenivasulu N, Kavi Kishor PR (2005) Salt tolerance in plants-transgenic approaches. J Plant Biotechnol 7(1):1–15",
+      "journal-title": "J Plant Biotechnol"
+    },
+    {
+      "key": "461_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "911",
+      "DOI": "10.1007/s00425-008-0878-y",
+      "volume": "229",
+      "author": "S Sengupta",
+      "year": "2009",
+      "unstructured": "Sengupta S, Majumder AL (2009) Insight into the salt tolerance factors of a wild halophytic rice, Porteresia. coarctata: A physiological and proteomic approach. Planta 229:911–929",
+      "journal-title": "Planta"
+    },
+    {
+      "issue": "3",
+      "key": "461_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "439",
+      "DOI": "10.1093/pcp/pcp002",
+      "volume": "50",
+      "author": "Y Tada",
+      "year": "2009",
+      "unstructured": "Tada Y, Kashimura T (2009) Proteomic analysis of salt-responsive proteins in the mangrove plant. Bruguiera Gymnorhiza Plant Cell Physiol 50(3):439–446",
+      "journal-title": "Bruguiera Gymnorhiza Plant Cell Physiol"
+    },
+    {
+      "issue": "5",
+      "key": "461_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "631",
+      "DOI": "10.1016/j.plantsci.2008.06.017",
+      "volume": "175",
+      "author": "G Veeranagamallaiah",
+      "year": "2008",
+      "unstructured": "Veeranagamallaiah G, Jyothsnakumari G, Thippeswamy M, Chandra Obul Reddy P, Surabhi G-K, Sriranganayakulu G, Mahesh Y, Rajasekhar B, Madhurarekha C, Sudhakar C (2008) Proteomic analysis of salt stress responses in foxtail millet (Setaria italica L. cv. Prasad) seedling. Plant Sci 175(5):631–641",
+      "journal-title": "Plant Sci"
+    },
+    {
+      "key": "461_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "3331",
+      "DOI": "10.1021/pr801083a",
+      "volume": "8",
+      "author": "X Wang",
+      "year": "2009",
+      "unstructured": "Wang X, Fan P, Song H, Chen X, Li X, Li Y (2009) Comparative proteomic analysis of differentially expressed proteins in shoots of Salicornia europaea under different salinity. J Proteome Res 8:3331–3345",
+      "journal-title": "J Proteome Res"
+    },
+    {
+      "key": "461_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "3852",
+      "DOI": "10.1021/pr101102p",
+      "volume": "10",
+      "author": "J Yu",
+      "year": "2011",
+      "unstructured": "Yu J, Chen S, Zhao Q, Wang T, Yang C, Diaz C, Sun G, Dai S (2011) Physiological and proteomic analysis of salinity tolerance in Puccinellia tenuiflora. J Proteome Res 10:3852–3870",
+      "journal-title": "J Proteome Res"
+    },
+    {
+      "key": "461_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "247",
+      "DOI": "10.1146/annurev.arplant.53.091401.143329",
+      "volume": "53",
+      "author": "JK Zhu",
+      "year": "2002",
+      "unstructured": "Zhu JK (2002) Salt and drought stress signal transduction in plants. Annu Rev Plant Biol 53:247–273",
+      "journal-title": "Annu Rev Plant Biol"
+    }
+  ],
+  "container-title": [
+    "Vegetos"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42535-022-00461-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s42535-022-00461-9/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42535-022-00461-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2023-09-05T12:17:36Z",
+    "timestamp": 1693916256000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s42535-022-00461-9"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        23
+      ]
+    ]
+  },
+  "references-count": 32,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "461"
+  ],
+  "URL": "https://doi.org/10.1007/s42535-022-00461-9",
+  "relation": {},
+  "ISSN": [
+    "2229-4473"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2229-4473"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2 September 2021",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "2 August 2022",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "4 August 2022",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "23 August 2022",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The author declares no financial or commercial conflicts of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethical approval"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent to participate"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 5,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent for publication"
+      }
+    }
+  ]
+}

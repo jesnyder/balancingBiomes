@@ -1,169 +1,344 @@
-import csv
-import json
-import time
-import requests
-from pathlib import Path
+do not hallucinate
+take your time
 
-# ============================================================
-# Configuration
-# ============================================================
+this is a list of tasks. some are complete. it is context for the project.
+take action on the incomplete tasks.
 
-SPECIES_FILE = Path("user_provided/species_list.csv")
-OUTPUT_DIR = Path("results")
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-JSON_OUT = OUTPUT_DIR / "species_detailed.json"
-CSV_OUT = OUTPUT_DIR / "species_detailed.csv"
-
-GBIF_API = "https://api.gbif.org/v1/species/match"
-NCBI_API = "https://api.ncbi.nlm.nih.gov/taxonomy/v0/taxon/name/{}"
-
-HEADERS = {"User-Agent": "detail-species-script/1.0"}
-
-# ============================================================
-# Utilities
-# ============================================================
-
-def load_species_list():
-    """Load, deduplicate, and alphabetize species list."""
-    with open(SPECIES_FILE, newline="", encoding="utf-8") as f:
-        species = [row[0].strip() for row in csv.reader(f) if row]
-    return sorted(set(species))
+Task 0: (Complete)Detailing the listed species
+Write a python code named "detail_species.py"
+Describe the main function as "detail_species"
+Use the species list "user_provided/species_list.csv"
+look up each species name in the database
+Uses GBIF as the primary database.
+Uses NCBI Taxonomy as a secondary source for exact species matches.
+Find if the organism is a plant or bacteria or archaea or animal
+If there is a url to a page with more information, retireve that
+If the species is halotolerant - yes or no
+Fields are species name, url, halotolerant (yes or no)
+Make a json and csv file that list all organisms in the species list
+Add metadata retireved from the lookup
+Save in results folder with the file name species_detailed as json and csv
+do not flatten the json. json should be standalone
+Save the species_detailed files as you go, between querying the species.
 
 
-def query_gbif(species):
-    try:
-        r = requests.get(
-            GBIF_API,
-            params={"name": species},
-            headers=HEADERS,
-            timeout=20
-        )
-        return r.json() if r.status_code == 200 else None
-    except Exception:
-        return None
+Task 1: (Complete) create the text of a Makefile to serve the index.html file in the docs folder
+
+Task 2: (Complete) create a style.css file to format the index file
+
+Task 3: (Complete) in python draft a main file to print "main running" to the terminal.
+Also edit the makefile to run the main.py file before serving the index.html locally, which from the makefile is in a folder called "user_provided" and subfolder "python"
+
+Directions for all database searches (Tasks 4, 5, 6, 7)
+My query is ("Halophyte" AND "Halophile")
+Save the search results in a a folder "results" and subfolder "search_results"
+Save the compiled lists as both json and csv
+Name the main function in the python file conducting the search with the same name given to the python file
+For example "search_gscholar.py" the main function will be "search_gscholar"
+Retrieve all possible fields.
+Remove html tags from text.
+
+Create a summary of searches called "search_summary.csv"
+saved in "results" folder "search_results" subfolder
+each row is a different database in all the database search tasks (for example Google Scholar, Semantic Scholar)
+and then the total number of search results in the compiled list.
+If there are no results. Place a zero.
+
+Task 4: (Complete) Scrape Google Scholar
+
+Write a python file called "search_gscholar.py"
+Name the main function in the python file "search_gscholar"
+Google Scholar https://scholar.google.com/
+save a json list of artciles scraped from google scholar
+Use comments liberally and explain why
+Linerally output print statements to the terminal for troubleshooting
+
+First compile results already pulled.
+There might be search results already pulled
+look in the folder results/search_results/gscholar/pages for json
+in each file look for the key "results"
+if the "results" key has  a list
+collect the list and compile with other lists from other files, if found
+collect all the json into one json file
+review the fields of each key in each entry. Remove "[HTML]" and html tags
+Also remove the phrase "[BOOK]" or "[B]"
+Also remove leading or trailing white space
+use doi or url to remove duplicate entries
+(do not skip this) for each entry in the compiled list, add a key "cited_by" to each artcile. set the value equal to the value in citations
+(do not skip) also for each entry in the compiled list, add a key "url" to each artcile and set the value equal to "title_link"
+sort the entries by citations, most cited at the top
+
+save the compiled json into results/search_results/list_gscholar.json
+When the function runs, compile results, clean as described, and save compiled results
+Then query.
+Between querying each page, re-compile results, clean as described, and compile results.
+
+After initially compiling the results already scraped
+Run the query ("Halophyte" AND "Halophile")
+Wait 60 seconds + random number of seconds 0-20 between searches
+Retrieve the results
+If there is an error from the query, stop the search and compile the results
+Repeat the search and increment through pages by editing the url.
+Save each page in results/search_results/gscholar/pages folder
+name each page after the page number with a zfill for 4 digits
+for example the first search will be "0000_gscholar.json"
 
 
-def query_ncbi(species):
-    try:
-        url = NCBI_API.format(species.replace(" ", "%20"))
-        r = requests.get(url, headers=HEADERS, timeout=20)
-        return r.json() if r.status_code == 200 else None
-    except Exception:
-        return None
+Task 5: (Complete) Write a python file call "search_semanticscholar.py"
+that produces a list of results returned from the query of
+Semantic Scholar https://www.semanticscholar.org/
+save list of results as "list_semanticscholar" as json and csv
+save the json and csv in a folder results and subfolder search_results
+
+Structure the request to Semantic Scholar to be 20 papers per request,
+Wait 10 seconds between request. Don't overload the servers.
+But repeat to collect all papers returned for the query
+Save the papers returned to a folder "results" subfolder "search_results" subfolder "semantic_scholar"
+save each query with the count of papers, so first results would be 00100_semanticscholar.json
+
+Search first to find all papers/article related to the search query.
+Then search for titles to collect all possible metadata.
+Collect as much metadata as possible
+Compile the complete metadata with the doi to create a complete metadata database of results
+
+If there is a error querying the database, move on to compiling,
+or when the search completes
+compile all results between queries.
+refer to contents of search_results/seamntic_scolar folder. remove duplicates.
+list all results as as "list_semanticscholar" in "results" "search_results" as both json and csv
+Add a key for "cited_by". Set equal to value in "citationCount". If "citationCount" not found in keys, set to 0
+No flattening of the json.
+The json should be stand alone reference with a list of all the articles.
 
 
-def classify_organism(gbif_data):
-    if not gbif_data:
-        return "unknown"
+Tasks 6: (Complete) Write a python file called "search_openalex.py"
+that produces a list of results from
+Open Alex https://openalex.org/
+save results as "list_openalex" as json and csv
 
-    kingdom = str(gbif_data.get("kingdom", "")).lower()
+inspect each search result. if you find "cited_by_count" in the json keys
+add another key called "cited_by" and set the value equal to the value in "cited_by_count"
 
-    if "plantae" in kingdom:
-        return "plant"
-    if "bacteria" in kingdom:
-        return "bacteria"
-    if "archaea" in kingdom:
-        return "archaea"
-    if "animalia" in kingdom:
-        return "animal"
-
-    return "unknown"
+check if the doi field returned from the query includes "https://doi.org/"
+if so, add a field called "doiURL" and copy the value returned for doi
+then edit the doi value and remove "https://doi.org/"
 
 
-def infer_halotolerance(gbif_data, ncbi_data):
-    """
-    Return:
-      - 'yes' if strong halophile indicators exist
-      - 'no' if confidently non-halophilic
-      - 'unknown' if insufficient evidence
-    """
-    keywords = ["halophile", "halophilic", "saline", "salt"]
+Task 7: (Complete) Search Cross Ref for ("Halophyte"AND"Halophile")
 
-    found = False
+Write python file call "search_crossref.py"
+contains a main function named "search_crossref"
+that produces a list of results from
+CrossRef https://www.crossref.org/
+Don't query more frequently than once a second.
+Save progress regularly.
+When it makes sense locally cache results to avoid repetitive queries to crossref
 
-    for source in (gbif_data, ncbi_data):
-        if not source:
-            continue
+Add verbose code comments describing why and how
+Prioritze accuracy over speed
+Output print statement to the terminal for troubleshooting and progress
+In second doi search, print the abstract to the terminal to show what was found before adding it to the entry
 
-        text = json.dumps(source).lower()
-        if any(k in text for k in keywords):
-            found = True
+inspect each search result. if you find "is_referenced_by_count" in the json keys
+(do not skip) add another key called "cited_by" and set the value equal to the value in "is_referenced_by_count"
+(do not skip) add another key called "url" using the "doi" to create the url to the doi
 
-    if found:
-        return "yes"
+save results as results/search_results/"list_crossref" as json
+save all intermitenet steps (aside from final compiled list in
+results/search_results/crossref/  build folder at your discretion for cache or intermitent files
 
-    if gbif_data or ncbi_data:
-        return "unknown"
-
-    return "unknown"
-
-
-def save_outputs(records):
-    # JSON (full structure)
-    with open(JSON_OUT, "w", encoding="utf-8") as f:
-        json.dump(records, f, indent=2)
-
-    # CSV (summary only)
-    with open(CSV_OUT, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow([
-            "species",
-            "classification",
-            "halotolerant",
-            "url"
-        ])
-
-        for r in records:
-            writer.writerow([
-                r["species"],
-                r["classification"],
-                r["halotolerant"],
-                r.get("url", "")
-            ])
+after completeing the search
+search for each "doi" value for each entry with CrossRef
+look for all metadata, especially abstract and publication year
+report if the metadata was found, especially interested in abstract and publication year
+print the abstract if found
+if the crossref query returns a match
+add the metadata, especially the abstract, "message", or "snippet" and publication year to the entry
+save the enriched list of search results as "list_crossref.json"
 
 
-# ============================================================
-# Main Function
-# ============================================================
+Task 8: (Incomplete) Write a python file called "compile_searches.py"
 
-def detail_species():
-    species_list = load_species_list()
-    print(f"Loaded {len(species_list)} unique species")
+Comment code verbosely explaining how and why
+Add print statement to the terminal for troubleshooting
+and for updating
 
-    results = []
+name the main function "compile_searches"
 
-    for idx, species in enumerate(species_list, 1):
-        print(f"[{idx}/{len(species_list)}] Processing: {species}")
+two outputs both saved in "results" folder "search_results" subfolder
 
-        gbif_data = query_gbif(species)
-        ncbi_data = query_ncbi(species)
+Output 1 is a list of all compiled result - list - from each query task.
+Create a single database (file) as a json and csv with all the results with all metadata
 
-        classification = classify_organism(gbif_data)
-        halotolerant = infer_halotolerance(gbif_data, ncbi_data)
+Remove duplicate entries.
+Use doi as unique identifier
+Then use title as unique identifier
+Then use url as unique identifier
+If duplicate found, and the matches have different keys,
+combine keys into one entry to maximimize metadata for the entry
+If duplicates found. Combine metadata into a single entry.
 
-        url = None
-        if gbif_data and gbif_data.get("usageKey"):
-            url = f"https://www.gbif.org/species/{gbif_data['usageKey']}"
-
-        record = {
-            "species": species,
-            "classification": classification,
-            "halotolerant": halotolerant,
-            "url": url,
-            "gbif": gbif_data,
-            "ncbi": ncbi_data
-        }
-
-        results.append(record)
-
-        # Save after every species
-        save_outputs(results)
-
-        time.sleep(0.3)  # polite API usage
-
-    print("✅ Species detailing complete.")
+for each entry, if there is a "doi" look up the metadata from CrossRef
+take a 3 second break between each query
+try to scrape the abstract
+if the doi matches the doi found in CrossRef
+https://www.crossref.org/
+Then add the metadata found in CrossRef to the entry
+Output if the crossref search returned anything
+positive or negative
+Do not duplicate, add, and consolidate.
 
 
-if __name__ == "__main__":
-    detail_species()
+for each article, if the key "is_referenced_by_count" is found
+add a key "cited_by" to the compiled list and set equal to value in "is_referenced_by_count"
+
+Save the file as "list_compiled" as json and csv in "results" folder "search_results" subfolder
+add a field to list the databases where the artcile was found. if multiple, then list all.
+
+sort by "cited_by" key - most citation on the top and least at the bottom
+
+Output 2 is a summary called "search_summary.csv"
+each row is a different database in all the database search tasks (for example Google Scholar, Semantic Scholar)
+and then the total number of search results in the compiled list.
+and then a list of the fields captured in each query.
+If there are no results found. Place a zero.
+and then compare the results to every database to determine how of the results are also in other databses. Use doi, url, title to see if the entry is also in another database.
+For example the Google Scholar row will be
+the name of the database - Google Scholar
+then the number of article in the databse - an integar like 120
+then the fields captured in the query as a list, like title, author, journal ...
+then the number of articles in that database also found in Google Scholar, which will the same number of articles
+then the number of articles in in that database also found in Semantic Scholar, which could be 0 to some integer. Use doi to match artciles if availabe in both. If not, use title.
+
+Cache searches locally, so if you rerun it you won’t query the same DOIs multiple times, which can save a lot of time.
+Save compiled list between searches to save progress
+
+
+Task 9: (Complete)
+Create a python file called "build__js_table.py"
+create a main function in the python filed called "build_js_table" that can be called from a makefile
+that references the list_compiled.json in results/search_results folder
+
+Finds the 200 most cited results. use "cited_by" or "is_referenced_by_count" field
+creates a a javascript file "most_cited.js"
+
+save in the folder "docs" and subfolder "js" (may have to create the js file
+save "most_cited.js" there
+
+if the table has hyperlinks, open the hyperlinks in a new tab.
+Use Tabulator https://tabulator.info/ as template
+
+Add search below below each field in the table
+name the div in the html "most-cited-research-table"
+
+in notes at the top of the .js file explain what to paste into index.html to make the .js work
+specify where to paste parts and explain why in the notes
+
+when you build the table.
+load the data into the .js file as a variable.
+include a url field. allow the url to open in a new field.
+
+also include title and authors as a list
+also include publication year
+also include the number of citations (key might be "cited_by" or similar"
+check each entry in the compiled list and "url" or slosest field. there might not be one.
+
+only load the fields of the data to the .js variable that are presented in the table.
+do not link to the original csv
+
+Add a button to download the table as csv
+Add the button before the table
+
+Task 10: (Complete) Find Most Common Species in Halophyte/Halophile Research
+
+Create python code. The file is named "count_species.py".
+The main function is called "count_species"
+Refer to list of organisms in results/species_detailed.json
+The json file contains a list of json entries. Each entry is a species name
+With some details
+establish a new dataframe that lists all the species named in the json
+and add columns for each key in the json
+Add print statements to the terminal for troubleshooting
+
+The python code create two files.
+File one of two is a list of the species with the number of artciles that mention the species
+Search for each species named in the dataframe
+in results/search_results/list_compiled.json
+
+Search in all available fields, title, keywords, abstract, everything
+the search is not case sensitive. force everything to be lowercase to avoid false negative due to differenct cases.
+If the species name is found. Count as found.
+Add a column to the dataframe with the count
+Even if a species is mentioned multiple times in an article, only count it as found once.
+Save the dataframe as a new file in results/species_found/species_frequency.csv
+also save the same dataframe as json - results/species_found/species_frequency.json
+
+List all the species in one column
+Add a column for each key in the organism list json found at result/species_detailed.jspm
+for kingdom / url / halotolerant (in that order)
+Next column: List how many articles cited those species in the next column
+Next column: Percentage of article in which the species was found / the total number of artcles
+Next column: List how many artciles with at least 2 citations ("cited_by" or "is_referenced_by_count" field) in which the species was found
+Next column: Percentage of artciles in which the species was found with at least 2 citation (previous column) / the total number of artciles in the compiled list that have at least 2 citation, as defined by the "cited_by" or "is_referenced_by_count" field
+Sort the list so the most frequently found are on the top
+
+File two of two is a javascript file that builds a table
+Also create javascript to build a table
+reference results/species_found/species_frequency.csv
+Ignore species that were not found
+creates a a javascript file "species_found.js"
+save in the folder "docs" and subfolder "js" (may have to create the js file
+save "species_found.js" there
+if the table has hyperlinks, open the hyperlinks in a new tab.
+Use Tabulator https://tabulator.info/ as template
+Add search below below each field in the table
+name the div in the html "species_found"
+in notes at the top of the .js file explain what to paste into index.html to make the .js work
+specify where to paste parts and explain why in the notes
+when you build the table. load the data into the .js file as a variable.
+do not link to the original csv
+call the variable with the table data "speciesFound"
+name the table const "speciesTable"
+Fit the table to page width. Autoadjust the width of the columns.
+If a column presents numbers, set the width of the column to be no more than 15%
+adjust the non-number columns to evenly divide the remaining width
+Present 20 results per page of the table.
+Add search to each field of the table
+
+Add a button to download the table
+Add the button before the table
+Add a button for downloading the .csv
+
+
+Task 11: Summarize search in JS table
+
+Read all instruction before writing code.
+Take your time. Accuracy over speed.
+Liberally use comments to explain how and why the code works.
+
+Write a python file named "build_table_summary.py"
+the main function is named "build_table_summary"
+
+the python file reads in the file from
+results/search_results/search_summary.csv
+as a dataframe
+
+the python file will write a javascript file
+called "build_table_summary.js"
+located docs/js/build_table_summary.js
+In the notes at the top of the javascript explain in detail - how and why
+to edit the index.html file located in the docs folder to display the table
+
+hardcode the data to build the table in the js file.
+name the variable for the table data "table_summary_data"
+name the div to display the table "table_search_summary"
+name the table variable in the js "table_search_summary"
+
+In the table, allow for the table to dynamically sorted
+Enable the table data to be downloaded with a "Download Table Data" button
+Download the data as a csv
+Add a search function for each column below each column name
+Set the pagenation equal to the number of rows, so the entire table is displayed
+
+if the table has hyperlinks, open the hyperlinks in a new tab.
+Use Tabulator https://tabulator.info/ as template

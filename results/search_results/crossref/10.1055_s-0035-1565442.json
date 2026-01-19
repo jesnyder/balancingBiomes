@@ -1,0 +1,168 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        6
+      ]
+    ],
+    "date-time": "2024-11-06T05:30:15Z",
+    "timestamp": 1730871015708,
+    "version": "3.28.0"
+  },
+  "reference-count": 0,
+  "publisher": "Georg Thieme Verlag KG",
+  "issue": "16",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Planta Med"
+  ],
+  "DOI": "10.1055/s-0035-1565442",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        25
+      ]
+    ],
+    "date-time": "2015-11-25T23:31:15Z",
+    "timestamp": 1448494275000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "First isolation and identification of polyphenols from the halophyte Armeria maritima"
+  ],
+  "prefix": "10.1055",
+  "volume": "81",
+  "author": [
+    {
+      "given": "L",
+      "family": "Gourguillon",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "C",
+      "family": "Zumbiehl",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "C",
+      "family": "Antheaume",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "A",
+      "family": "Lobstein",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "194",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        25
+      ]
+    ]
+  },
+  "container-title": [
+    "Planta Medica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.thieme-connect.de/DOI/DOI?10.1055/s-0035-1565442",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        5
+      ]
+    ],
+    "date-time": "2024-11-05T16:50:10Z",
+    "timestamp": 1730825410000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.thieme-connect.de/DOI/DOI?10.1055/s-0035-1565442"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        25
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          25
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1055/s-0035-1565442",
+  "relation": {},
+  "ISSN": [
+    "0032-0943",
+    "1439-0221"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0032-0943"
+    },
+    {
+      "type": "electronic",
+      "value": "1439-0221"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        25
+      ]
+    ]
+  }
+}

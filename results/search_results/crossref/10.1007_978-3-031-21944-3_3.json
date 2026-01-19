@@ -1,0 +1,1320 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        25
+      ]
+    ],
+    "date-time": "2025-03-25T15:24:57Z",
+    "timestamp": 1742916297201,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Cham",
+  "reference-count": 105,
+  "publisher": "Springer International Publishing",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783031219436"
+    },
+    {
+      "type": "electronic",
+      "value": "9783031219443"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2023-01-01T00:00:00Z",
+        "timestamp": 1672531200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2023-01-01T00:00:00Z",
+        "timestamp": 1672531200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-031-21944-3_3",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2023-03-01T11:04:18Z",
+    "timestamp": 1677668658000
+  },
+  "page": "149-172",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Phytochemistry and Biological Activity in the Halophytes"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Munir",
+      "family": "Ozturk",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Volkan",
+      "family": "Altay",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Moona",
+      "family": "Nazish",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Mushtaq",
+      "family": "Ahmad",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Muhammad",
+      "family": "Zafar",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "3_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "77",
+      "DOI": "10.1007/978-3-319-25277-3_5",
+      "volume-title": "Microbes in food and health",
+      "author": "SM Abdel-Aziz",
+      "year": "2016",
+      "unstructured": "Abdel-Aziz SM, Mouafi FE, Moustafa YA, Abdelwahed NAM (2016) Medicinal importance of mangrove plants. In: Garg N, Abdel-Aziz SM, Aeron A (eds) Microbes in food and health. Springer, Cham, Switzerland, pp 77–96"
+    },
+    {
+      "issue": "1",
+      "key": "3_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "460",
+      "DOI": "10.1080/17429145.2013.855271",
+      "volume": "9",
+      "author": "P Ahmad",
+      "year": "2013",
+      "unstructured": "Ahmad P, Ozturk M, Sharma S, Gucel S (2013) Effect of sodium carbonate ınduced salinity- alkalinity on some key osmoprotectants protein profile antioxidant enzymes and lipid peroxidation in two mulberry (Morus alba L.) cultivars. J Plant Interact 9(1):460–467",
+      "journal-title": "J Plant Interact"
+    },
+    {
+      "issue": "22",
+      "key": "3_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "5457",
+      "DOI": "10.3390/molecules25225457",
+      "volume": "25",
+      "author": "MS Al-Omar",
+      "year": "2020",
+      "unstructured": "Al-Omar MS, Mohammed HA, Mohammed SA et al (2020) Anti-microbial, anti-oxidant, and α-amylase ınhibitory activity of traditionally-used medicinal herbs: a comparative analyses of pharmacology, and phytoconstituents of regional halophytic plants’ diaspora. Molecules 25(22):5457",
+      "journal-title": "Molecules"
+    },
+    {
+      "key": "3_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "969",
+      "DOI": "10.1016/j.bse.2004.03.005",
+      "volume": "32",
+      "author": "EM Alonso-Amelot",
+      "year": "2004",
+      "unstructured": "Alonso-Amelot EM, Oliveros A, Calcagno-Pisarelli PM (2004) Phenolics and condensed tannins in relation to altitude in neotropical Pteridium spp. A field study in the Venezuelan Andes. Biochem Syst Ecol 32:969–981",
+      "journal-title": "Biochem Syst Ecol"
+    },
+    {
+      "key": "3_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "64",
+      "DOI": "10.22159/ajpcr.2017.v10i9.19259",
+      "volume": "10",
+      "author": "S Arora",
+      "year": "2017",
+      "unstructured": "Arora S, Kumar G, Meena S (2017) Gas chromatography-mass spectroscopy analysis of root of an economically important plant, Cenchrus ciliaris L. from Thar desert, Rajasthan (India). Asian J Pharm Clin Res 10:64–69",
+      "journal-title": "Asian J Pharm Clin Res"
+    },
+    {
+      "key": "3_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "271",
+      "DOI": "10.1007/978-981-13-3762-8_13",
+      "volume-title": "Ecophysiology, abiotic stress responses and utilization of halophytes",
+      "author": "SS Arya",
+      "year": "2019",
+      "unstructured": "Arya SS, Devi S, Ram K et al (2019) Halophytes: the plants of therapeutic medicine. In: Hasanuzzaman M et al (eds) Ecophysiology, abiotic stress responses and utilization of halophytes. Springer, Singapore, pp 271–287"
+    },
+    {
+      "key": "3_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "191",
+      "DOI": "10.1016/j.foodchem.2005.07.042",
+      "volume": "99",
+      "author": "N Balasundram",
+      "year": "2006",
+      "unstructured": "Balasundram N, Sundram K, Samman S (2006) Phenolic compounds in plants and agri ındustrial by-products: antioxidant activity, occurrence, and potential uses. Food Chem 99:191–203",
+      "journal-title": "Food Chem"
+    },
+    {
+      "key": "3_CR8",
+      "first-page": "591",
+      "volume": "4",
+      "author": "B Bayala",
+      "year": "2014",
+      "unstructured": "Bayala B, Bassole IH, Scifo R et al (2014) Anticancer activity of essential oils and their chemical components-a review. Am J Cancer Res 4:591–607",
+      "journal-title": "Am J Cancer Res"
+    },
+    {
+      "key": "3_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "758",
+      "DOI": "10.1016/j.jpba.2010.11.033",
+      "volume": "55",
+      "author": "J Bernal",
+      "year": "2011",
+      "unstructured": "Bernal J, Mendiola JA, Ibánez E, Cifuentes A (2011) Advanced analysis of nutraceuticals. J Pharm Biomed Anal 55:758–774",
+      "journal-title": "J Pharm Biomed Anal"
+    },
+    {
+      "key": "3_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "1161",
+      "DOI": "10.1016/j.freeradbiomed.2010.06.032",
+      "volume": "49",
+      "author": "N Bernstein",
+      "year": "2010",
+      "unstructured": "Bernstein N, Shoresh M, Xu Y, Huang B (2010) Involvement of the plant antioxidative response in the differential growth sensitivity to salinity of leaves vs roots during cell development. Free Radic Biol Med 49:1161–1171",
+      "journal-title": "Free Radic Biol Med"
+    },
+    {
+      "key": "3_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "1241",
+      "DOI": "10.1093/jxb/ert430",
+      "volume": "65",
+      "author": "J Bose",
+      "year": "2014",
+      "unstructured": "Bose J, Rodrigo-Moreno A, Shabala S (2014) ROS homeostasis in halophytes in the context of salinity stress tolerance. J Exp Bot 65:1241–1257",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "3_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "327",
+      "DOI": "10.3923/aj.2011.327.339",
+      "volume": "6",
+      "author": "F Boughalleb",
+      "year": "2011",
+      "unstructured": "Boughalleb F, Denden M (2011) Physiological and biochemical changes of two halophytes, Nitraria retusa (Forssk.) and Atriplex halimus L. under increasing salinity. Agric J 6:327–339",
+      "journal-title": "Agric J"
+    },
+    {
+      "key": "3_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "122",
+      "DOI": "10.1016/j.envexpbot.2012.07.005",
+      "volume": "92",
+      "author": "A Buhmann",
+      "year": "2013",
+      "unstructured": "Buhmann A, Papenbrock J (2013) Biofiltering of aquaculture effluents by halophytic plants: basic principles, current uses and future perspectives. Environ Exp Bot 92:122–133",
+      "journal-title": "Environ Exp Bot"
+    },
+    {
+      "key": "3_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "40",
+      "DOI": "10.4081/pb.2011.e10",
+      "volume": "2",
+      "author": "A Cagliari",
+      "year": "2011",
+      "unstructured": "Cagliari A, Margis R, Dos SMF et al (2011) Biosynthesis of triacylglycerols (TAGs) in plants and alga. Int J Plant Biol 2:40–52",
+      "journal-title": "Int J Plant Biol"
+    },
+    {
+      "key": "3_CR15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envexpbot.2021.104666",
+      "volume": "193",
+      "author": "PG Caparrós",
+      "year": "2022",
+      "unstructured": "Caparrós PG, Ozturk M, Gul A et al (2022) Halophytes have potential as heavy metal phytoremediators: A comprehensive review. Environ Exp Bot 193:104666",
+      "journal-title": "Environ Exp Bot"
+    },
+    {
+      "key": "3_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "957",
+      "DOI": "10.1016/j.apjtb.2016.08.015",
+      "volume": "6",
+      "author": "FP Casuga",
+      "year": "2016",
+      "unstructured": "Casuga FP, Castillo AL, Corpuz MJAT (2016) GC-MS analysis of bioactive compounds present in different extracts of an endemic plant Broussonetia luzonica (Blanco) (Moraceae) leaves. Asian Pac J Trop Biomed 6:957–961",
+      "journal-title": "Asian Pac J Trop Biomed"
+    },
+    {
+      "key": "3_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1111/j.1365-3040.2010.02232.x",
+      "volume": "34",
+      "author": "THH Chen",
+      "year": "2011",
+      "unstructured": "Chen THH, Murata N (2011) Glycinebetaine protects plants against abiotic stress: mechanisms and biotechnological application. Plant Cell Environ 34:1–20",
+      "journal-title": "Plant Cell Environ"
+    },
+    {
+      "key": "3_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "125",
+      "DOI": "10.1016/j.apjtm.2016.01.021",
+      "volume": "9",
+      "author": "WH Choi",
+      "year": "2016",
+      "unstructured": "Choi WH (2016) Evaluation of anti-tubercular activity of linolenic acid and conjugated-linoleic acid as effective inhibitors against mycobacterium tuberculosis. Asian Pac J Trop Med 9:125–129",
+      "journal-title": "Asian Pac J Trop Med"
+    },
+    {
+      "key": "3_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "564",
+      "DOI": "10.1128/CMR.12.4.564",
+      "volume": "12",
+      "author": "MM Cowan",
+      "year": "1999",
+      "unstructured": "Cowan MM (1999) Plant products as antimicrobial agents. Clin Microbiol Rev 12:564–582",
+      "journal-title": "Clin Microbiol Rev"
+    },
+    {
+      "key": "3_CR20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/9780470988558",
+      "volume-title": "Plant secondary metabolites: occurrence, structure, and role in the human diet",
+      "author": "A Crozier",
+      "year": "2006",
+      "unstructured": "Crozier A, Clifford NM, Ashihara H (2006) Plant secondary metabolites: occurrence, structure, and role in the human diet. Blackwell Publishing, Oxford"
+    },
+    {
+      "key": "3_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "343",
+      "DOI": "10.1016/j.ijantimicag.2005.09.002",
+      "volume": "26",
+      "author": "TPT Cushnie",
+      "year": "2005",
+      "unstructured": "Cushnie TPT, Lamb AJ (2005) Antimicrobial activity of flavonoids. Int J Antimicrob Agents 26:343–356",
+      "journal-title": "Int J Antimicrob Agents"
+    },
+    {
+      "key": "3_CR22",
+      "unstructured": "Dajic Stevanovic Z, Janackovic P, Stankovic M (2014) Are there still neglected medicinal plants beyond official and traditional consideration? In: Dajic Stevanovic Z, Ibraliu A (eds) Proceedings of the 8th conference on medicinal and aromatic plants of Southeast European Countries (8th CMAPSEEC), 19-22 May 2014. Albanian Academy of Science, Agricultural University of Tirana and AMAPSEEC, Durrës, Albania, p 13–23"
+    },
+    {
+      "issue": "1",
+      "key": "3_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "22",
+      "DOI": "10.1016/j.micres.2012.07.002",
+      "volume": "168",
+      "author": "A de Jesus Cortes-Sanchez",
+      "year": "2013",
+      "unstructured": "de Jesus Cortes-Sanchez A, Hernández-Sánchez H, Jaramillo-Flores ME (2013) Biological activity of glycolipids produced by microorganisms: new trends and possible therapeutic alternatives. Microbiol Res 168(1):22–32",
+      "journal-title": "Microbiol Res"
+    },
+    {
+      "key": "3_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "296",
+      "DOI": "10.1016/j.jfda.2013.11.001",
+      "volume": "22",
+      "author": "QD Do",
+      "year": "2014",
+      "unstructured": "Do QD, Angkawijaya AE, Tran-Nguyen PL et al (2014) Effect of extraction solvent on total phenol content, total flavonoid content, and antioxidant activity of Limnophila aromatica. J Food Drug Anal 22:296–302",
+      "journal-title": "J Food Drug Anal"
+    },
+    {
+      "key": "3_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "5323",
+      "DOI": "10.3390/ijms11125323",
+      "volume": "11",
+      "author": "S Duangmano",
+      "year": "2010",
+      "unstructured": "Duangmano S, Dakeng S, Jiratchariyakul W et al (2010) Antiproliferative effects of cucurbitacin B in breast cancer cells: down-regulation of the c-Myc/hTERT/Telomerase pathway and obstruction of the cell cycle. Int J Mol Sci 11:5323–5338",
+      "journal-title": "Int J Mol Sci"
+    },
+    {
+      "key": "3_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "1066",
+      "DOI": "10.1016/j.indcrop.2011.03.018",
+      "volume": "34",
+      "author": "H Falleh",
+      "year": "2011",
+      "unstructured": "Falleh H, Ksouri R, Medini F et al (2011) Antioxidant activity and phenolic composition of the medicinal and edible halophyte Mesembryanthemum edule L. Ind Crop Prod 34:1066–1071",
+      "journal-title": "Ind Crop Prod"
+    },
+    {
+      "key": "3_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "260",
+      "DOI": "10.1006/abio.1993.1486",
+      "volume": "214",
+      "author": "TWM Fan",
+      "year": "1993",
+      "unstructured": "Fan TWM, Colmer TD, Lane AN, Higashi RM (1993) Determination of metabolites by H NMR and GC: analysis for organic osmolytes in crude tissue extracts. Anal Biochem 214:260–271",
+      "journal-title": "Anal Biochem"
+    },
+    {
+      "key": "3_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "945",
+      "DOI": "10.1111/j.1469-8137.2008.02531.x",
+      "volume": "179",
+      "author": "TJ Flowers",
+      "year": "2008",
+      "unstructured": "Flowers TJ, Colmer TD (2008) Salinity tolerance in halophytes. New Phytol 179:945–963",
+      "journal-title": "New Phytol"
+    },
+    {
+      "key": "3_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1007/s11157-006-0010-3",
+      "volume": "6",
+      "author": "A Galvani",
+      "year": "2007",
+      "unstructured": "Galvani A (2007) The challenge of the food sufficiency through salt tolerant crops. Rev Environ Sci Biotechnol 6:3–16",
+      "journal-title": "Rev Environ Sci Biotechnol"
+    },
+    {
+      "issue": "4",
+      "key": "3_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "421",
+      "DOI": "10.1007/s12229-020-09231-1",
+      "volume": "87",
+      "author": "P Garcia-Caparros",
+      "year": "2021",
+      "unstructured": "Garcia-Caparros P, De Filippis L, Gul A et al (2021) Oxidative stress and antioxidant metabolism under adverse environmental conditions: a review. Bot Rev 87(4):421–466",
+      "journal-title": "Bot Rev"
+    },
+    {
+      "key": "3_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "203",
+      "DOI": "10.1016/j.indcrop.2009.10.003",
+      "volume": "31",
+      "author": "N Gourine",
+      "year": "2010",
+      "unstructured": "Gourine N, Bombarda MI, Nadjemi B et al (2010) Antioxidant activities and chemical composition of essential oil of Pistacia atlantica from Algeria. Ind Crop Prod 31:203–208",
+      "journal-title": "Ind Crop Prod"
+    },
+    {
+      "key": "3_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "151",
+      "DOI": "10.1007/978-90-481-9370-7_8",
+      "volume-title": "Plant adaptation and phytoremediation",
+      "author": "M Hameed",
+      "year": "2010",
+      "unstructured": "Hameed M, Ashraf M, Ahmad MSA, Naz N (2010) Structural and functional adaptations in plants for salinity tolerance. In: Asharaf M, Ozturk M, Ahmad MSA (eds) Plant adaptation and phytoremediation. Springer, Berlin Germany, pp 151–173"
+    },
+    {
+      "key": "3_CR33",
+      "first-page": "273",
+      "volume": "31",
+      "author": "P Hansakul",
+      "year": "2009",
+      "unstructured": "Hansakul P, Wongnoppavich A, Ingkaninan K et al (2009) Apoptotic induction activity of Dactyloctenium aegyptium (L.) P.B. and Eleusine indica (L.) Gaerth. extracts on human lung and cervical cancer cell lines. Songklanakarin J Sci Technol 31:273–279",
+      "journal-title": "Songklanakarin J Sci Technol"
+    },
+    {
+      "key": "3_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "1451",
+      "DOI": "10.1007/s11738-012-0943-9",
+      "volume": "34",
+      "author": "I Jallali",
+      "year": "2012",
+      "unstructured": "Jallali I, Megdiche W, M’Hamdi B et al (2012) Changes in phenolic composition and antioxidant activities of the edible halophyte Crithmum maritimum L. with physiological stage and extraction method. Acta Physiol Plant 34:1451–1459",
+      "journal-title": "Acta Physiol Plant"
+    },
+    {
+      "key": "3_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "2255",
+      "DOI": "10.1093/jxb/ert085",
+      "volume": "64",
+      "author": "M Jayakannan",
+      "year": "2013",
+      "unstructured": "Jayakannan M, Bose J, Baboutina O et al (2013) Salicyclic acid improves salinity tolerance in Arabidopsis by restoring membrane potential and preventing salt-induced K+ loss via a GORK channel. J Exp Bot 64:2255–2268",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "3_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "508",
+      "DOI": "10.1016/j.sajb.2017.05.016",
+      "volume": "112",
+      "author": "A Jdey",
+      "year": "2017",
+      "unstructured": "Jdey A, Falleh H, Jannet SB et al (2017) Phytochemical investigation and antioxidant, antibacterial and anti-tyrosinase performances of six medicinal halophytes. S Afr J Bot 112:508–514",
+      "journal-title": "S Afr J Bot"
+    },
+    {
+      "key": "3_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "115",
+      "DOI": "10.1007/s10068-011-0016-7",
+      "volume": "20",
+      "author": "S Kang",
+      "year": "2011",
+      "unstructured": "Kang S, Kim D, Lee BH et al (2011) Antioxidant properties and cytotoxic effects of fractions from glasswort (Salicornia herbacea) seed extracts on human intestinal cells. Food Sci Biotechnol 20:115–122",
+      "journal-title": "Food Sci Biotechnol"
+    },
+    {
+      "key": "3_CR38",
+      "first-page": "297",
+      "volume": "15",
+      "author": "M Karker",
+      "year": "2016",
+      "unstructured": "Karker M, Falleh H, Msaada K et al (2016) Antioxidant, anti-inflammatory and anticancer activities of the medicinal halophyte Reaumuria vermiculata. Clin. Exp. Med Sci J 15:297–307",
+      "journal-title": "Clin. Exp. Med Sci J"
+    },
+    {
+      "key": "3_CR39",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Khan DA, Hamdani SDA, Iftikhar S et al (2021) Pharmacoinformatics approaches in the discovery of drug-like antimicrobials of plant origin. J Biomol Struct Dyn. https://doi.org/10.1080/07391102.2021.1894982",
+      "DOI": "10.1080/07391102.2021.1894982"
+    },
+    {
+      "key": "3_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "2188",
+      "DOI": "10.3390/ijms11052188",
+      "volume": "11",
+      "author": "BY Khoo",
+      "year": "2010",
+      "unstructured": "Khoo BY, Chua SL, Balaram P (2010) Apoptotic effects of chrysin in human cancer cell lines. Int J Mol Sci 11:2188–2199",
+      "journal-title": "Int J Mol Sci"
+    },
+    {
+      "issue": "4",
+      "key": "3_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "370",
+      "DOI": "10.1080/10286020.2014.884081",
+      "volume": "16",
+      "author": "NN Kong",
+      "year": "2014",
+      "unstructured": "Kong NN, Fang ST, Wang JH et al (2014) Two new flavonoid glycosides from the halophyte Limonium franchetii. J Asian Nat Prod Res 16(4):370–375",
+      "journal-title": "J Asian Nat Prod Res"
+    },
+    {
+      "issue": "12",
+      "key": "3_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "4823",
+      "DOI": "10.1039/C6FO01052K",
+      "volume": "7",
+      "author": "CS Kong",
+      "year": "2016",
+      "unstructured": "Kong CS, Kim YA, Kim H, Seo Y (2016) Evaluation of a furochromone from the halophyte Corydalis heterocarpa for cytotoxic activity against human gastric cancer (AGS) cells. Food Funct 7(12):4823–4829",
+      "journal-title": "Food Funct"
+    },
+    {
+      "key": "3_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "2083",
+      "DOI": "10.1016/j.fct.2009.05.040",
+      "volume": "47",
+      "author": "R Ksouri",
+      "year": "2009",
+      "unstructured": "Ksouri R, Falleh H, Megdiche W et al (2009) Antioxidant and antimicrobial activities of the edible medicinal halophyte Tamarix gallica L. and related polyphenolic constituents. Food Chem Toxicol 47:2083–2091",
+      "journal-title": "Food Chem Toxicol"
+    },
+    {
+      "key": "3_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "289",
+      "DOI": "10.3109/07388551.2011.630647",
+      "volume": "32",
+      "author": "R Ksouri",
+      "year": "2012",
+      "unstructured": "Ksouri R, Ksouri WM, Jallali I et al (2012a) Medicinal halophytes: potent source of health promoting biomolecules with medical, nutraceutical and food applications. Crit Rev Biotechnol 32:289–326",
+      "journal-title": "Crit Rev Biotechnol"
+    },
+    {
+      "key": "3_CR45",
+      "first-page": "41",
+      "volume": "22",
+      "author": "R Ksouri",
+      "year": "2012",
+      "unstructured": "Ksouri R, Smaoui A, Isoda H, Abdelly C (2012b) Utilization of halophyte species as new sources of bioactive substances. J Arid Land Stud 22:41–44",
+      "journal-title": "J Arid Land Stud"
+    },
+    {
+      "issue": "1-4",
+      "key": "3_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "1073",
+      "DOI": "10.1016/j.foodchem.2013.01.047",
+      "volume": "139",
+      "author": "WM Ksouri",
+      "year": "2013",
+      "unstructured": "Ksouri WM, Medini F, Mkadmini K et al (2013) LC-ESI-TOF-MS identification of bioactive secondary metabolites involved in the antioxidant, anti-inflammatory and anticancer activities of the edible halophyte Zygophyllum album Desf. Food Chem 139(1-4):1073–1080",
+      "journal-title": "Food Chem"
+    },
+    {
+      "key": "3_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "86",
+      "DOI": "10.1016/j.btre.2014.09.002",
+      "volume": "4",
+      "author": "N Kumar",
+      "year": "2014",
+      "unstructured": "Kumar N, Pruthi V (2014) Potential applications of ferulic acid from natural sources. Biotechnol Rep 4:86–93",
+      "journal-title": "Biotechnol Rep"
+    },
+    {
+      "key": "3_CR48",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0039332",
+      "volume": "7",
+      "author": "SD Kunkel",
+      "year": "2012",
+      "unstructured": "Kunkel SD, Elmore CJ, Bongers KS et al (2012) Ursolic acid increases skeletal muscle and brown fat and decreases diet-induced obesity, glucose intolerance and fatty liver sisease. PLoS One 7:e39332",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "3_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "992",
+      "DOI": "10.1007/s12257-011-0213-5",
+      "volume": "16",
+      "author": "J Lee",
+      "year": "2011",
+      "unstructured": "Lee J, Kong CS, Jung M et al (2011) Antioxidant activity of the halophyte Limonium tetragonum and its major active components. Biotechnol Bioprocess Eng 16:992–999",
+      "journal-title": "Biotechnol Bioprocess Eng"
+    },
+    {
+      "key": "3_CR50",
+      "first-page": "486",
+      "volume": "4",
+      "author": "M Leleka",
+      "year": "2016",
+      "unstructured": "Leleka M, Zalis’ka O, Kozyr G (2016) Screening research of pharmaceutical compositions based on succinic acid, ascorbic acid and rutin. J Pharm Pharmacol 4:486–491",
+      "journal-title": "J Pharm Pharmacol"
+    },
+    {
+      "key": "3_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "1151",
+      "DOI": "10.1211/jpp.59.8.0014",
+      "volume": "59",
+      "author": "LM Lima",
+      "year": "2007",
+      "unstructured": "Lima LM, Perazzo FF, Tavares CJC, Bastos JK (2007) Anti-inflammatory and analgesic activities of the ethanolic extracts from Zanthoxylum riedelianum (Rutaceae) leaves and stem bark. J Pharm Pharmacol 59:1151–1158",
+      "journal-title": "J Pharm Pharmacol"
+    },
+    {
+      "issue": "6",
+      "key": "3_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "398",
+      "DOI": "10.1111/j.1750-3841.2011.02213.x",
+      "volume": "76",
+      "author": "Z Lou",
+      "year": "2011",
+      "unstructured": "Lou Z, Wang H, Zhu S et al (2011) Antibacterial activity and mechanism of action of chlorogenic acid. J Food Sci 76(6):398–403",
+      "journal-title": "J Food Sci"
+    },
+    {
+      "key": "3_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "52",
+      "DOI": "10.1016/j.phytochem.2017.04.016",
+      "volume": "140",
+      "author": "MMF Mansour",
+      "year": "2017",
+      "unstructured": "Mansour MMF, Ali EF (2017) Evaluation of proline fuctions in saline conditions. Phytochemistry 140:52–68",
+      "journal-title": "Phytochemistry"
+    },
+    {
+      "issue": "5",
+      "key": "3_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "1067",
+      "DOI": "10.3390/ijms20051067",
+      "volume": "20",
+      "author": "VF Maria",
+      "year": "2019",
+      "unstructured": "Maria VF, Maria AFF, Diana CGP (2019) Halophytic grasses, a new source of nutraceuticals? A review on their secondary metabolites and biological activities. Int J Mol Sci 20(5):1067",
+      "journal-title": "Int J Mol Sci"
+    },
+    {
+      "key": "3_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "158",
+      "DOI": "10.1016/j.sajb.2015.04.007",
+      "volume": "99",
+      "author": "F Medini",
+      "year": "2015",
+      "unstructured": "Medini F, Bourgou S, Lalancette GK et al (2015) Phytochemical analysis, antioxidant, anti-inflammatory, and anticancer activities of the halophyte Limonium densiflorum extracts on human cell lines and murine macrophages. S Afr J Bot 99:158–164",
+      "journal-title": "S Afr J Bot"
+    },
+    {
+      "key": "3_CR56",
+      "first-page": "77",
+      "volume-title": "Progress in biometeorology",
+      "author": "U Menzel",
+      "year": "1999",
+      "unstructured": "Menzel U, Lieth H (1999) Halophyte database vers. 2.0. Halophyte uses in different climates I: Ecological and ecophysiological studies. In: Lieth H et al (eds) Progress in biometeorology. Backhuys Publishers, Leiden, pp 77–88"
+    },
+    {
+      "key": "3_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "258",
+      "DOI": "10.1016/j.jep.2007.11.024",
+      "volume": "116",
+      "author": "L Meot-Duros",
+      "year": "2008",
+      "unstructured": "Meot-Duros L, Le Floch G, Magne C (2008) Radical scavenging, antioxidant and antimicrobial activities of halophytic species. J Ethnopharmacol 116:258–262",
+      "journal-title": "J Ethnopharmacol"
+    },
+    {
+      "key": "3_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.3389/fpls.2014.00175",
+      "volume": "5",
+      "author": "R Minocha",
+      "year": "2014",
+      "unstructured": "Minocha R, Majumdar R, Minocha SC (2014) Polyamines and abiotic stress in plants: a complex relationship. Front Plant Sci 5:1–17",
+      "journal-title": "Front Plant Sci"
+    },
+    {
+      "key": "3_CR59",
+      "first-page": "113",
+      "volume": "12",
+      "author": "K Mishra",
+      "year": "2014",
+      "unstructured": "Mishra K, Ojha KS et al (2014) Protective effect of ferulic acid on ionizing radiation induced damage in bovine serum albumin. Int J Radiat Res 12:113–121",
+      "journal-title": "Int J Radiat Res"
+    },
+    {
+      "key": "3_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.2174/1573406416666200224115004",
+      "volume": "16",
+      "author": "HA Mohammed",
+      "year": "2020",
+      "unstructured": "Mohammed HA (2020) The valuable ımpacts of halophytic genus Suaeda; nutritional, chemical, and biological values. Med Chem 16:1",
+      "journal-title": "Med Chem"
+    },
+    {
+      "key": "3_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "461",
+      "DOI": "10.1007/s00709-014-0691-3",
+      "volume": "252",
+      "author": "MG Mostafa",
+      "year": "2015",
+      "unstructured": "Mostafa MG, Hossain MA, Fujita M (2015) Trehalose pretreatment induces salt tolerance in rice (Oryza sativa L.) seedlings: oxidative damage and co-induction of antioxidant defense and glyoxalase systems. Protoplasma 252:461–475",
+      "journal-title": "Protoplasma"
+    },
+    {
+      "key": "3_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "2707",
+      "DOI": "10.1007/978-3-030-57635-6_107",
+      "volume-title": "Handbook of halophytes: from molecules to ecosystems towards biosaline agriculture",
+      "author": "C Obón",
+      "year": "2021",
+      "unstructured": "Obón C, Rivera D, Verde A, Alcaraz F (2021) Ethnopharmacology and medicinal uses of extreme halophytes. In: Grigore M-N (ed) Handbook of halophytes: from molecules to ecosystems towards biosaline agriculture. Springer Nature, Switzerland, pp 2707–2735"
+    },
+    {
+      "issue": "2",
+      "key": "3_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "943",
+      "DOI": "10.1016/j.foodchem.2011.11.072",
+      "volume": "132",
+      "author": "S Oueslati",
+      "year": "2012",
+      "unstructured": "Oueslati S, Ksouri R, Falleh H et al (2012a) Phenolic content, antioxidant, anti-inflammatory and anticancer activities of the edible halophyte Suaeda fruticosa Forssk. Food Chem 132(2):943–947",
+      "journal-title": "Food Chem"
+    },
+    {
+      "issue": "1",
+      "key": "3_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "513",
+      "DOI": "10.1016/j.indcrop.2011.10.006",
+      "volume": "36",
+      "author": "S Oueslati",
+      "year": "2012",
+      "unstructured": "Oueslati S, Trabelsi N, Boulaaba M et al (2012b) Evaluation of antioxidant activities of the edible and medicinal Suaeda species and related phenolic compounds. Ind Crop Prod 36(1):513–518",
+      "journal-title": "Ind Crop Prod"
+    },
+    {
+      "key": "3_CR65",
+      "first-page": "375",
+      "volume": "102",
+      "author": "M Ozturk",
+      "year": "1981",
+      "unstructured": "Ozturk M, Szaniawiski RK (1981) Root temperature stress and proline content in leaves and roots of two ecologically different plant species. Plant Physiol 102:375–377",
+      "journal-title": "Plant Physiol"
+    },
+    {
+      "key": "3_CR66",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.2525/ecb1963.24.79",
+      "volume": "24",
+      "author": "M Ozturk",
+      "year": "1986",
+      "unstructured": "Ozturk M, Sato T, Takahashi N (1986) Proline accumulation in shoots and roots of some ecophysiologically different plants under root temperature stress. Environ Control Biol (Japan) 24:79–85",
+      "journal-title": "Environ Control Biol (Japan)"
+    },
+    {
+      "issue": "Special Issue 2",
+      "key": "3_CR67",
+      "first-page": "54",
+      "volume": "5",
+      "author": "M Ozturk",
+      "year": "2011",
+      "unstructured": "Ozturk M, Turkyilmaz B, Gucel S, Guvensen A (2011) Proline accumulation in some coastal zone plants of the aegean region of Turkey. Eur J Plant Sci Biotechnol 5(Special Issue 2):54–56",
+      "journal-title": "Eur J Plant Sci Biotechnol"
+    },
+    {
+      "issue": "3",
+      "key": "3_CR68",
+      "first-page": "223",
+      "volume": "88",
+      "author": "M Ozturk",
+      "year": "2019",
+      "unstructured": "Ozturk M, Gucel S, Altay V et al (2019) Clustering of halophytic species from Cyprus based on ionic contents. Pyton Int J Exp Bot 88(3):223–238",
+      "journal-title": "Pyton Int J Exp Bot"
+    },
+    {
+      "key": "3_CR69",
+      "doi-asserted-by": "publisher",
+      "first-page": "270",
+      "DOI": "10.4161/oxim.2.5.9498",
+      "volume": "2",
+      "author": "KB Pandey",
+      "year": "2009",
+      "unstructured": "Pandey KB, Rizvi SI (2009) Plant polyphenols as dietary antioxidants in human health and disease. Oxidative Med Cell Longev 2:270–278",
+      "journal-title": "Oxidative Med Cell Longev"
+    },
+    {
+      "key": "3_CR70",
+      "doi-asserted-by": "publisher",
+      "first-page": "287",
+      "DOI": "10.1079/9781786394330.0287",
+      "volume-title": "Halophytes and climate change: adaptive mechanisms and potential uses",
+      "author": "AK Parida",
+      "year": "2019",
+      "unstructured": "Parida AK, Kumari A, Rangani J, Patel M (2019) Halophytes: potential resources of coastal ecosystems and their economic, ecological and bioprospecting significance. In: Hasanuzzaman M et al (eds) Halophytes and climate change: adaptive mechanisms and potential uses. CAB International, pp 287–323"
+    },
+    {
+      "key": "3_CR71",
+      "first-page": "309",
+      "volume-title": "Marine Omics: principles and applications",
+      "author": "MK Patel",
+      "year": "2016",
+      "unstructured": "Patel MK, Mishra A, Jha B (2016) Untargeted metabolomics of halophytes. In: Kim S (ed) Marine Omics: principles and applications. CRC Press, Boca Raton, FL, pp 309–325"
+    },
+    {
+      "key": "3_CR72",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Plouguerné E, da Gama BAP, Pereira RC, Barreto-Bergter E (2014) Glycolipids from seaweeds and their potential biotechnological applications. Front Cell Infect Microbiol 4. https://doi.org/10.3389/fcimb.2014.00174",
+      "DOI": "10.3389/fcimb.2014.00174"
+    },
+    {
+      "issue": "4",
+      "key": "3_CR73",
+      "first-page": "403",
+      "volume": "23",
+      "author": "N Povichit",
+      "year": "2010",
+      "unstructured": "Povichit N, Phrutivorapongkul A, Suttajit M et al (2010) Phenolic content and in vitro inhibitory effects on oxidation and protein glycation of some Thai medicinal plant. Pak J Pharm Sci 23(4):403–408",
+      "journal-title": "Pak J Pharm Sci"
+    },
+    {
+      "key": "3_CR74",
+      "first-page": "330",
+      "volume-title": "Urbanisation, land use, land degradation and environment",
+      "author": "M Qasim",
+      "year": "2011",
+      "unstructured": "Qasim M, Gulzar S, Khan MA (2011) Halophytes as medicinal plants. In: Öztürk M, Mermut AR, Celik A (eds) Urbanisation, land use, land degradation and environment. Daya Publishing House, New Delhi, pp 330–343"
+    },
+    {
+      "key": "3_CR75",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.3390/molecules22060911",
+      "volume": "22",
+      "author": "D Qian",
+      "year": "2017",
+      "unstructured": "Qian D, Zhao Y, Yang G, Huang L (2017) Systematic review of chemical constituents in the genus Lycium (Solanaceae). Molecules 22:1–33",
+      "journal-title": "Molecules"
+    },
+    {
+      "key": "3_CR76",
+      "doi-asserted-by": "publisher",
+      "first-page": "586",
+      "DOI": "10.1002/anie.201000044",
+      "volume": "50",
+      "author": "S Quideau",
+      "year": "2011",
+      "unstructured": "Quideau S, Deffieux D, Douat-Casassus C, Pouysegu L (2011) Plant polyphenols: chemical properties, biological activities, and synthesis. Angew Chem Int Ed Eng 50:586–621",
+      "journal-title": "Angew Chem Int Ed Eng"
+    },
+    {
+      "issue": "4",
+      "key": "3_CR77",
+      "doi-asserted-by": "publisher",
+      "first-page": "1340",
+      "DOI": "10.15835/nbha47411584",
+      "volume": "47",
+      "author": "MM Raza",
+      "year": "2019",
+      "unstructured": "Raza MM, Ullah S, Aziz T et al (2019) Alleviation of salinity stress in maize using silicon nutrition. Not Bot Horti Agro Botanica 47(4):1340–1347",
+      "journal-title": "Not Bot Horti Agro Botanica"
+    },
+    {
+      "key": "3_CR78",
+      "doi-asserted-by": "publisher",
+      "first-page": "278",
+      "DOI": "10.1016/j.plaphy.2014.04.007",
+      "volume": "80",
+      "author": "KB Rejeb",
+      "year": "2014",
+      "unstructured": "Rejeb KB, Abdelly C, Savoure A (2014) How reactive oxygen species and proline face stress together. Plant Physiol Biochem 80:278–284",
+      "journal-title": "Plant Physiol Biochem"
+    },
+    {
+      "issue": "4",
+      "key": "3_CR79",
+      "doi-asserted-by": "publisher",
+      "first-page": "519",
+      "DOI": "10.1002/med.10033",
+      "volume": "23",
+      "author": "W Ren",
+      "year": "2003",
+      "unstructured": "Ren W, Qiao Z, Wang H et al (2003) Flavonoids: promising anticancer agents. Med Res Rev 23(4):519–534",
+      "journal-title": "Med Res Rev"
+    },
+    {
+      "issue": "4",
+      "key": "3_CR80",
+      "doi-asserted-by": "publisher",
+      "first-page": "2228",
+      "DOI": "10.3390/md12042228",
+      "volume": "12",
+      "author": "MJ Rodrigues",
+      "year": "2014",
+      "unstructured": "Rodrigues MJ, Gangadhar KN, Vizetto-Duarte C et al (2014) Maritime halophyte species from southern Portugal as sources of bioactive molecules. Marine Drugs 12(4):2228–2244",
+      "journal-title": "Marine Drugs"
+    },
+    {
+      "key": "3_CR81",
+      "doi-asserted-by": "publisher",
+      "first-page": "315",
+      "DOI": "10.1016/j.indcrop.2015.08.061",
+      "volume": "77",
+      "author": "MJ Rodrigues",
+      "year": "2015",
+      "unstructured": "Rodrigues MJ, Soszynski A, Martins A et al (2015) Unravelling the antioxidant potential and the phenolic composition of different anatomical organs of the marine halophyte Limonium algarvense. Ind Crop Prod 77:315–322",
+      "journal-title": "Ind Crop Prod"
+    },
+    {
+      "key": "3_CR82",
+      "doi-asserted-by": "publisher",
+      "first-page": "81",
+      "DOI": "10.1093/jexbot/51.342.81",
+      "volume": "51",
+      "author": "A Sakamoto",
+      "year": "2000",
+      "unstructured": "Sakamoto A, Murata N (2000) Genetic engineering of glycinebrtaine synthesis in plants: current status and implications for enhancement of stress tolerance. J Exp Bot 51:81–88",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "3_CR83",
+      "doi-asserted-by": "publisher",
+      "first-page": "109",
+      "DOI": "10.1016/j.canlet.2009.04.033",
+      "volume": "285",
+      "author": "M Saleem",
+      "year": "2009",
+      "unstructured": "Saleem M (2009) Lupeol, a novel anti-inflammatory and anti-cancer dietary triterpene. Cancer Lett 285:109–115",
+      "journal-title": "Cancer Lett"
+    },
+    {
+      "key": "3_CR84",
+      "doi-asserted-by": "publisher",
+      "first-page": "1931",
+      "DOI": "10.1007/978-3-030-57635-6_79",
+      "volume-title": "Handbook of halophytes: from molecules to ecosystems towards biosaline agriculture",
+      "author": "IA Saleh",
+      "year": "2021",
+      "unstructured": "Saleh IA, Usman K, Abu-Dieyeh MH (2021) Halophytes as ımportant sources of antioxidants and anti-cholinesterase compounds. In: Grigore M-N (ed) Handbook of halophytes: from molecules to ecosystems towards biosaline agriculture. Springer Nature, Switzerland, pp 1931–1951"
+    },
+    {
+      "key": "3_CR85",
+      "doi-asserted-by": "publisher",
+      "first-page": "33",
+      "DOI": "10.1016/j.pneurobio.2014.01.002",
+      "volume": "116",
+      "author": "IF Scheiber",
+      "year": "2014",
+      "unstructured": "Scheiber IF, Mercer JF, Dringen R (2014) Metabolism and functions of copper in brain. Prog Neurobiol 116:33–57",
+      "journal-title": "Prog Neurobiol"
+    },
+    {
+      "key": "3_CR86",
+      "doi-asserted-by": "publisher",
+      "first-page": "151",
+      "DOI": "10.1016/B978-0-12-387692-8.00005-9",
+      "volume": "57",
+      "author": "S Shabala",
+      "year": "2011",
+      "unstructured": "Shabala S, Mackay A (2011) Ion transport in halophytes. Adv Bot Res 57:151–199",
+      "journal-title": "Adv Bot Res"
+    },
+    {
+      "issue": "2",
+      "key": "3_CR87",
+      "doi-asserted-by": "publisher",
+      "first-page": "34",
+      "DOI": "10.30848/PJB2021-2(34)",
+      "volume": "53",
+      "author": "S Shahrasbi",
+      "year": "2021",
+      "unstructured": "Shahrasbi S, Pirasteh-Anosheh H, Emam Y et al (2021) Elucidating some physiological mechanisms of salt tolerance in Brassica napus L. seedlings induced by seed priming with plant growth regulators. Pak J Bot 53(2):34",
+      "journal-title": "Pak J Bot"
+    },
+    {
+      "key": "3_CR88",
+      "doi-asserted-by": "publisher",
+      "first-page": "433",
+      "DOI": "10.1093/aob/mcu239",
+      "volume": "115",
+      "author": "I Slama",
+      "year": "2015",
+      "unstructured": "Slama I, Abdelly C, Bouchereau A et al (2015) Diversity, distribution and roles of osmoprotective compounds accumulated in halophytes under abiotic stress. Ann Bot 115:433–447",
+      "journal-title": "Ann Bot"
+    },
+    {
+      "key": "3_CR89",
+      "first-page": "197",
+      "volume": "78",
+      "author": "A Sokolowska-Krzaczek",
+      "year": "2009",
+      "unstructured": "Sokolowska-Krzaczek A, Skalicka-Wozniak K, Czubkowska K (2009) Variation of phenolic acids from herb and roots of Salsola kali L. Acta Soc Bot Pol 78:197–201",
+      "journal-title": "Acta Soc Bot Pol"
+    },
+    {
+      "key": "3_CR90",
+      "doi-asserted-by": "publisher",
+      "first-page": "2089",
+      "DOI": "10.1007/978-3-030-57635-6_125",
+      "volume-title": "Handbook of halophytes: from molecules to ecosystems towards biosaline agriculture",
+      "author": "M Stanković",
+      "year": "2021",
+      "unstructured": "Stanković M, Jakovljević D (2021) Phytochemical diversity of halophytes. In: Grigore M-N (ed) Handbook of halophytes: from molecules to ecosystems towards biosaline agriculture. Springer Nature, Switzerland, pp 2089–2114"
+    },
+    {
+      "key": "3_CR91",
+      "doi-asserted-by": "publisher",
+      "first-page": "289",
+      "DOI": "10.1007/978-981-13-3762-8_14",
+      "volume-title": "Ecophysiology, abiotic stress responses and utilization of halophytes",
+      "author": "M Stanković",
+      "year": "2019",
+      "unstructured": "Stanković M, Jakovljević D, Stojadinov M, Stevanović ZD (2019) Halophyte species as a source of secondary metabolites with antioxidant activity. In: Hasanuzzaman M et al (eds) Ecophysiology, abiotic stress responses and utilization of halophytes. Springer, Singapore, pp 289–312"
+    },
+    {
+      "key": "3_CR92",
+      "doi-asserted-by": "publisher",
+      "first-page": "343",
+      "DOI": "10.1079/9781786394330.0343",
+      "volume-title": "Halophytes and climate change: adaptive mechanisms and potential uses",
+      "author": "Z Stevanovic",
+      "year": "2019",
+      "unstructured": "Stevanovic Z, Stankovic MS, Stankovic J et al (2019) Use of halophytes as medicinal plants: phytochemical diversity and biological activity. In: Hasanuzzaman M, Shabala S, Fujita M (eds) Halophytes and climate change: adaptive mechanisms and potential uses. CAB International, pp 343–358"
+    },
+    {
+      "key": "3_CR93",
+      "doi-asserted-by": "publisher",
+      "first-page": "85",
+      "DOI": "10.1016/S0021-9673(02)00037-7",
+      "volume": "967",
+      "author": "J Stöckigt",
+      "year": "2002",
+      "unstructured": "Stöckigt J, Sheludko Y, Unger M et al (2002) High-performance liquid chromatographic, capillary electrophoretic and capillary electrophoretic-electrospray ionisation mass spectrometric analysis of selected alkaloid groups. J Chromatogr A 967:85–113",
+      "journal-title": "J Chromatogr A"
+    },
+    {
+      "key": "3_CR94",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.5507/bp.2002.001",
+      "volume": "146",
+      "author": "M Stuchlík",
+      "year": "2002",
+      "unstructured": "Stuchlík M, Žák S (2002) Vegetable lipids as components of functional foods. Biomedical Papers 146:3–10",
+      "journal-title": "Biomedical Papers"
+    },
+    {
+      "issue": "3",
+      "key": "3_CR95",
+      "doi-asserted-by": "publisher",
+      "first-page": "1419",
+      "DOI": "10.1016/j.foodchem.2012.05.120",
+      "volume": "135",
+      "author": "N Trabelsi",
+      "year": "2012",
+      "unstructured": "Trabelsi N, Oueslati S, Falleh H et al (2012) Isolation of powerful antioxidants from the medicinal halophyte Limoniastrum guyonianum. Food Chem 135(3):1419–1424",
+      "journal-title": "Food Chem"
+    },
+    {
+      "issue": "S1",
+      "key": "3_CR96",
+      "first-page": "571",
+      "volume": "45",
+      "author": "B Turkyilmaz Unal",
+      "year": "2013",
+      "unstructured": "Turkyilmaz Unal B, Guvensen A, Esiz Dereboylu A, Ozturk M (2013) Variations in the proline and total protein contents in Origanum sipyleum L. from different altitudes of Spil Mountain, Turkey. Pak J Bot 45(S1):571–576",
+      "journal-title": "Pak J Bot"
+    },
+    {
+      "key": "3_CR97",
+      "doi-asserted-by": "publisher",
+      "first-page": "363",
+      "DOI": "10.1080/10826070601084829",
+      "volume": "30",
+      "author": "H Wang",
+      "year": "2007",
+      "unstructured": "Wang H, Wang X, You J et al (2007) Comparative analysis of allantoin, quercetin, and 1-methyl-1,2,3,4-tetrahydro-β-carboline-3-carboxylic acid in Nitraria tangutorum Bobr. seed by HPLC-APCI-MS and CE. J Liq Chromatogr Relat Technol 30:363–376",
+      "journal-title": "J Liq Chromatogr Relat Technol"
+    },
+    {
+      "issue": "3",
+      "key": "3_CR98",
+      "doi-asserted-by": "publisher",
+      "first-page": "2066",
+      "DOI": "10.1016/j.foodchem.2013.05.043",
+      "volume": "141",
+      "author": "X Wang",
+      "year": "2013",
+      "unstructured": "Wang X, Zhang M, Zhao Y et al (2013) Pentadecyl ferulate, a potent antioxidant and antiproliferative agent from the halophyte Salicornia herbacea. Food Chem 141(3):2066–2074",
+      "journal-title": "Food Chem"
+    },
+    {
+      "key": "3_CR99",
+      "doi-asserted-by": "publisher",
+      "first-page": "83",
+      "DOI": "10.1016/j.molp.2014.12.001",
+      "volume": "8",
+      "author": "JR Widhalm",
+      "year": "2015",
+      "unstructured": "Widhalm JR, Dudareva N (2015) A familiar ring to it: biosynthesis of plant benzoic acids. Mol Plant 8:83–97",
+      "journal-title": "Mol Plant"
+    },
+    {
+      "key": "3_CR100",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1016/S0031-9422(03)00300-5",
+      "volume": "64",
+      "author": "M Wink",
+      "year": "2003",
+      "unstructured": "Wink M (2003) Evolution of secondary metabolites from an ecological and molecular phylogenetic perspective. Phytochemistry 64:3–19",
+      "journal-title": "Phytochemistry"
+    },
+    {
+      "key": "3_CR101",
+      "doi-asserted-by": "publisher",
+      "first-page": "775",
+      "DOI": "10.1016/j.foodchem.2005.07.058",
+      "volume": "99",
+      "author": "SP Wong",
+      "year": "2006",
+      "unstructured": "Wong SP, Leong LP, Koh JHW (2006) Antioxidant activities of aqueous extracts of selected plants. Food Chem 99:775–783",
+      "journal-title": "Food Chem"
+    },
+    {
+      "issue": "Supplement",
+      "key": "3_CR102",
+      "doi-asserted-by": "publisher",
+      "first-page": "165",
+      "DOI": "10.1105/tpc.000596",
+      "volume": "2002",
+      "author": "L Xiong",
+      "year": "2002",
+      "unstructured": "Xiong L, Schumaker KS, Zhu JK (2002) Cell signaling during cold, drought and salt stress. Plant Cell 2002(Supplement):165–183",
+      "journal-title": "Plant Cell"
+    },
+    {
+      "issue": "1",
+      "key": "3_CR103",
+      "doi-asserted-by": "publisher",
+      "first-page": "96",
+      "DOI": "10.3390/ijms18010096",
+      "volume": "18",
+      "author": "DP Xu",
+      "year": "2017",
+      "unstructured": "Xu DP, Li Y, Meng X et al (2017) Natural antioxidants in foods and medicinal plants: extraction, assessment and resources. Int J Mol Sci 18(1):96",
+      "journal-title": "Int J Mol Sci"
+    },
+    {
+      "key": "3_CR104",
+      "doi-asserted-by": "publisher",
+      "first-page": "234",
+      "DOI": "10.1016/j.lfs.2007.05.007",
+      "volume": "81",
+      "author": "BH Yoon",
+      "year": "2007",
+      "unstructured": "Yoon BH, Jung JW, Lee JJ et al (2007) Anxiolytic-like effects of sinapic acid in mice. Life Sci 81:234–240",
+      "journal-title": "Life Sci"
+    },
+    {
+      "issue": "114669",
+      "key": "3_CR105",
+      "first-page": "1",
+      "volume": "178",
+      "author": "M Younessi-Mehdikhanlou",
+      "year": "2022",
+      "unstructured": "Younessi-Mehdikhanlou M, Ozturk M, Jafarpour S, Mahna N (2022) Exploitation of next generation sequencing technologies for unraveling metabolic pathways in medicinal plants: a concise review. Ind Crop Prod 178(114669):1–16",
+      "journal-title": "Ind Crop Prod"
+    }
+  ],
+  "container-title": [
+    "Halophyte Plant Diversity and Public Health"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-21944-3_3",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2023-03-01T11:20:23Z",
+    "timestamp": 1677669623000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-3-031-21944-3_3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783031219436",
+    "9783031219443"
+  ],
+  "references-count": 105,
+  "URL": "https://doi.org/10.1007/978-3-031-21944-3_3",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "28 February 2023",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    }
+  ]
+}

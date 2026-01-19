@@ -1,0 +1,517 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ],
+    "date-time": "2026-01-14T20:25:24Z",
+    "timestamp": 1768422324155,
+    "version": "3.49.0"
+  },
+  "reference-count": 26,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "0",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Database"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1093/database/bau114",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        3
+      ]
+    ],
+    "date-time": "2014-12-03T04:36:12Z",
+    "timestamp": 1417581372000
+  },
+  "page": "bau114-bau114",
+  "source": "Crossref",
+  "is-referenced-by-count": 24,
+  "title": [
+    "The Halophile Protein Database"
+  ],
+  "prefix": "10.1093",
+  "volume": "2014",
+  "author": [
+    {
+      "given": "N.",
+      "family": "Sharma",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "M. S.",
+      "family": "Farooqi",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "K. K.",
+      "family": "Chaturvedi",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "S. B.",
+      "family": "Lal",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "M.",
+      "family": "Grover",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "A.",
+      "family": "Rai",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "P.",
+      "family": "Pandey",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "286",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "10",
+      "key": "1_11350476",
+      "doi-asserted-by": "publisher",
+      "first-page": "1641",
+      "DOI": "10.1101/gr.190201",
+      "volume": "11",
+      "author": "Kennedy",
+      "year": "2001",
+      "journal-title": "Genome Research",
+      "ISSN": "https://id.crossref.org/issn/1088-9051",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4",
+      "key": "2_30813588",
+      "doi-asserted-by": "publisher",
+      "first-page": "R70",
+      "DOI": "10.1186/gb-2008-9-4-r70",
+      "volume": "9",
+      "author": "Paul",
+      "year": "2008",
+      "journal-title": "Genome biology",
+      "ISSN": "https://id.crossref.org/issn/1465-6906",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "3_5581475",
+      "doi-asserted-by": "publisher",
+      "first-page": "14",
+      "DOI": "10.1016/0968-0004(90)90124-T",
+      "volume": "15",
+      "author": "Pace",
+      "year": "1990",
+      "journal-title": "Trends in biochemical sciences",
+      "ISSN": "https://id.crossref.org/issn/0167-7640",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "4_9806294",
+      "doi-asserted-by": "publisher",
+      "first-page": "733",
+      "DOI": "10.1016/0022-2836(92)90557-Z",
+      "volume": "224",
+      "author": "Horovitz",
+      "year": "1992",
+      "journal-title": "Journal of molecular biology",
+      "ISSN": "https://id.crossref.org/issn/0022-2836",
+      "issn-type": "print"
+    },
+    {
+      "key": "5_30074252",
+      "doi-asserted-by": "crossref",
+      "first-page": "7133",
+      "DOI": "10.1021/bi00483a001",
+      "volume": "29",
+      "year": "1990",
+      "ISSN": "https://id.crossref.org/issn/1520-4995",
+      "issn-type": "print"
+    },
+    {
+      "key": "6_35469515",
+      "doi-asserted-by": "publisher",
+      "first-page": "55",
+      "DOI": "10.1186/1472-6807-9-55",
+      "volume": "9",
+      "author": "Winter",
+      "year": "2009",
+      "journal-title": "BMC structural biology [electronic resource]",
+      "ISSN": "https://id.crossref.org/issn/1472-6807",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2-3",
+      "key": "7_10503300",
+      "doi-asserted-by": "publisher",
+      "first-page": "155",
+      "DOI": "10.1016/S0301-4622(00)00126-5",
+      "volume": "86",
+      "author": "Mevarech",
+      "year": "2000",
+      "journal-title": "Biophysical chemistry",
+      "ISSN": "https://id.crossref.org/issn/0301-4622",
+      "issn-type": "print"
+    },
+    {
+      "issue": "12",
+      "key": "8_15882527",
+      "doi-asserted-by": "publisher",
+      "first-page": "2217",
+      "DOI": "10.1002/pro.5560031207",
+      "volume": "3",
+      "author": "MARQUSEE",
+      "year": "1994",
+      "journal-title": "Protein Science",
+      "ISSN": "https://id.crossref.org/issn/0961-8368",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4",
+      "key": "10_9956125",
+      "doi-asserted-by": "publisher",
+      "first-page": "1143",
+      "DOI": "10.1016/0022-2836(92)91058-W",
+      "volume": "226",
+      "author": "Stickle",
+      "year": "1992",
+      "journal-title": "Journal of molecular biology",
+      "ISSN": "https://id.crossref.org/issn/0022-2836",
+      "issn-type": "print"
+    },
+    {
+      "key": "13_6945069",
+      "doi-asserted-by": "publisher",
+      "first-page": "741",
+      "DOI": "10.1139/m61-088",
+      "volume": "7",
+      "author": "Abram",
+      "year": "1961",
+      "journal-title": "Canadian Journal of Microbiology",
+      "ISSN": "https://id.crossref.org/issn/1480-3275",
+      "issn-type": "print"
+    },
+    {
+      "key": "14_6750912",
+      "doi-asserted-by": "crossref",
+      "first-page": "425",
+      "DOI": "10.1016/0006-3002(63)90630-9",
+      "volume": "75",
+      "author": "Brown",
+      "year": "1963",
+      "journal-title": "Biochimica et Biophysica Acta. Protein Structure and Molecular Enzymology",
+      "ISSN": "https://id.crossref.org/issn/0006-3002",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "15_12083748",
+      "first-page": "296",
+      "volume": "28",
+      "author": "Brown",
+      "year": "1964",
+      "journal-title": "Microbiology and Molecular Biology Reviews",
+      "ISSN": "https://id.crossref.org/issn/1092-2172",
+      "issn-type": "print"
+    },
+    {
+      "key": "16_12111952",
+      "doi-asserted-by": "crossref",
+      "first-page": "136",
+      "DOI": "10.1016/0304-4165(64)90267-3",
+      "volume": "93",
+      "author": "Brown",
+      "year": "1964",
+      "journal-title": "Biochimica et Biophysica Acta. Protein Structure and Molecular Enzymology",
+      "ISSN": "https://id.crossref.org/issn/0006-3002",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2-3",
+      "key": "17_10503300",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1016/S0301-4622(00)00126-5",
+      "volume": "86",
+      "year": "2000",
+      "journal-title": "Biophysical chemistry",
+      "ISSN": "https://id.crossref.org/issn/0301-4622",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "18_8729983",
+      "doi-asserted-by": "publisher",
+      "first-page": "105",
+      "DOI": "10.1016/0022-2836(82)90515-0",
+      "volume": "157",
+      "author": "Kyte",
+      "year": "1982",
+      "journal-title": "Journal of molecular biology",
+      "ISSN": "https://id.crossref.org/issn/0022-2836",
+      "issn-type": "print"
+    },
+    {
+      "key": "19_48487801",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1016/S0065-2911(08)60251-9",
+      "volume": "1",
+      "year": "1967",
+      "journal-title": "Advances in microbial physiology",
+      "ISSN": "https://id.crossref.org/issn/0065-2911",
+      "issn-type": "print"
+    },
+    {
+      "key": "20_30086891",
+      "doi-asserted-by": "crossref",
+      "first-page": "11521",
+      "DOI": "10.1021/bi00113a006",
+      "volume": "30",
+      "year": "1991",
+      "ISSN": "https://id.crossref.org/issn/1520-4995",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "21_7138874",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.1128/JB.91.2.653-660.1966",
+      "volume": "91",
+      "author": "Kushner",
+      "year": "1966",
+      "journal-title": "Journal of Bacteriology",
+      "ISSN": "https://id.crossref.org/issn/0021-9193",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "22_7138873",
+      "doi-asserted-by": "crossref",
+      "first-page": "646",
+      "DOI": "10.1128/JB.91.2.646-652.1966",
+      "volume": "91",
+      "author": "Onishi",
+      "year": "1966",
+      "journal-title": "Journal of Bacteriology",
+      "ISSN": "https://id.crossref.org/issn/0021-9193",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "23_7395048",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1128/JB.95.1.37-42.1968",
+      "volume": "95",
+      "author": "Hochstein",
+      "year": "1968",
+      "journal-title": "Journal of Bacteriology",
+      "ISSN": "https://id.crossref.org/issn/0021-9193",
+      "issn-type": "print"
+    },
+    {
+      "issue": "11",
+      "key": "24_7680503",
+      "doi-asserted-by": "crossref",
+      "first-page": "2864",
+      "DOI": "10.1016/S0021-9258(18)91706-0",
+      "volume": "244",
+      "author": "Lanyi",
+      "year": "1969",
+      "journal-title": "Journal of Biological Chemistry",
+      "ISSN": "https://id.crossref.org/issn/0021-9258",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4773",
+      "key": "25_13924051",
+      "doi-asserted-by": "publisher",
+      "first-page": "179",
+      "DOI": "10.1126/science.3018930",
+      "volume": "234",
+      "author": "Bachmair",
+      "year": "1986",
+      "journal-title": "Science",
+      "ISSN": "https://id.crossref.org/issn/0036-8075",
+      "issn-type": "print"
+    },
+    {
+      "issue": "28",
+      "key": "26_5381811",
+      "doi-asserted-by": "crossref",
+      "first-page": "16700",
+      "DOI": "10.1016/S0021-9258(19)84762-2",
+      "volume": "264",
+      "author": "Gonda",
+      "year": "1989",
+      "journal-title": "Journal of Biological Chemistry",
+      "ISSN": "https://id.crossref.org/issn/0021-9258",
+      "issn-type": "print"
+    },
+    {
+      "issue": "5036",
+      "key": "27_9651293",
+      "doi-asserted-by": "publisher",
+      "first-page": "1374",
+      "DOI": "10.1126/science.1962196",
+      "volume": "254",
+      "author": "Tobias",
+      "year": "1991",
+      "journal-title": "Science",
+      "ISSN": "https://id.crossref.org/issn/0036-8075",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "28_9308046",
+      "doi-asserted-by": "publisher",
+      "first-page": "155",
+      "DOI": "10.1093/protein/4.2.155",
+      "volume": "4",
+      "author": "Guruprasad",
+      "year": "1990",
+      "journal-title": "Protein Engineering Design and Selection",
+      "ISSN": "https://id.crossref.org/issn/1741-0126",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "29_11910708",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1016/0005-2728(71)90004-1",
+      "volume": "245",
+      "author": "Lieberman",
+      "year": "1971",
+      "journal-title": "Biochimica et Biophysica Acta. Protein Structure and Molecular Enzymology",
+      "ISSN": "https://id.crossref.org/issn/0006-3002",
+      "issn-type": "print"
+    }
+  ],
+  "container-title": [
+    "Database"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://academic.oup.com/database/article-pdf/doi/10.1093/database/bau114/8248831/bau114.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        23
+      ]
+    ],
+    "date-time": "2022-04-23T19:45:40Z",
+    "timestamp": 1650743140000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/database/article-lookup/doi/10.1093/database/bau114"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        1
+      ]
+    ]
+  },
+  "references-count": 26,
+  "journal-issue": {
+    "issue": "0",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1093/database/bau114",
+  "relation": {},
+  "ISSN": [
+    "1758-0463"
+  ],
+  "issn-type": [
+    {
+      "value": "1758-0463",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        1
+      ]
+    ]
+  }
+}

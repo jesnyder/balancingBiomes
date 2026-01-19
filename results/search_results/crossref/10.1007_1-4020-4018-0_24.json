@@ -1,0 +1,200 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2024-09-05T06:52:59Z",
+    "timestamp": 1725519179213
+  },
+  "publisher-location": "Dordrecht",
+  "reference-count": 10,
+  "publisher": "Springer Netherlands",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9781402040177"
+    },
+    {
+      "type": "electronic",
+      "value": "9781402040184"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/1-4020-4018-0_24",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        5,
+        15
+      ]
+    ],
+    "date-time": "2006-05-15T14:21:25Z",
+    "timestamp": 1147702885000
+  },
+  "page": "397-399",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "title": [
+    "Halophyte Research And Development: What Needs To Be Done Next ?"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Benno",
+      "family": "BÖEr",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "reference": [
+    {
+      "key": "24_CR1_24",
+      "first-page": "75",
+      "volume-title": "Office of Arid Land Studies",
+      "author": "J. Aronson",
+      "year": "1989",
+      "unstructured": "Aronson, J. 1989. l. Haloph, - A Data Base of Salt Tolerant Plants of the World. Office of Arid Land Studies. Tucson, Arizona: The University of Arizona. 75 pp."
+    },
+    {
+      "key": "24_CR2_24",
+      "first-page": "368",
+      "volume-title": "Tasks for Vegetation Sciences",
+      "author": "H.J. Barth",
+      "year": "2002",
+      "unstructured": "Barth, H.J. & Böer, B. Eds. 2002. Sabkha Ecosystems Vol. I.: The Arabian Peninsula Region with contributions from Afghanistan, Bahrain, Djibouti, Egypt, Eritrea, Ethiopia, Iran, Jordan, Kuwait, Oman, Pakistan, Qatar, Saudi Arabia, Sudan, United Arab Emirates, and Yemen. In: Lieth, H., Mooney, H.A. & Kratochwil, A. (Eds.), Tasks for Vegetation Sciences, Volume 36: Dordrecht. Netherlands:Kluwer Publisher. 368 pp."
+    },
+    {
+      "key": "24_CR3_24",
+      "first-page": "111",
+      "volume-title": "Prospects of saline agriculture in the Arabian Peninsula",
+      "author": "B. Böer",
+      "year": "2004",
+      "unstructured": "Böer, B. 2004. Halophyte development in the Arabian Peninsula: Recent achievements and prospects. In: Taha, F., Ismail, S. & Jaradat, A. (Eds.), Prospects of saline agriculture in the Arabian Peninsula. Amherst, Massachusetts: Amherst Scientific Publishers. 111-120 pp."
+    },
+    {
+      "key": "24_CR4_24",
+      "first-page": "77",
+      "volume-title": "Saline irrigation: halophyte production and utilisation. Proceedings",
+      "author": "B. Böer",
+      "year": "1999",
+      "unstructured": "Böer, B. & Al Ghais, S. 1999. A contribution towards the successful propagation of halophytes in harsh environmental conditions.. In: A. Handy & H. Leith (Eds.), Saline irrigation: halophyte production and utilisation. Proceedings. Agadir, Morocco:Symposium Proceedings. 77–95 pp."
+    },
+    {
+      "key": "24_CR5_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1087",
+      "DOI": "10.1111/j.2164-0947.1964.tb03506.x",
+      "volume": "26",
+      "author": "H. Boyce",
+      "year": "1964",
+      "unstructured": "Boyce, H. 1964. Principles and experiments regarding irrigation with highly saline and seawater without desalinization. Transactions of the New York Academy of Sciences Series II, 26:1087–1102.",
+      "journal-title": "Transactions of the New York Academy of Sciences Series II"
+    },
+    {
+      "key": "24_CR6_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1007/978-94-017-6016-4",
+      "volume-title": "Saline irrigation for agriculture and forestry",
+      "author": "H. Boyko",
+      "year": "1968",
+      "unstructured": "Boyko, H. 1968. Saline irrigation for agriculture and forestry. The Hague, Netherlands: W. Junk. 325 pp."
+    },
+    {
+      "key": "24_CR7_24",
+      "first-page": "400",
+      "volume-title": "Halophytes and Biosaline Agriculture",
+      "year": "1996",
+      "unstructured": "Choukr-Allah, R., Malcolm, C. & Hamdy, A. Eds 1996. Halophytes and Biosaline Agriculture. New York, New York: Marcel Dekker, Inc. 400 pp."
+    },
+    {
+      "key": "24_CR8_24",
+      "first-page": "363",
+      "volume-title": "Saline irrigation: halophyte production and utilisation",
+      "author": "A. Hamdy",
+      "year": "1999",
+      "unstructured": "Hamdy, A. & Lieth, H. 1999. Saline irrigation: halophyte production and utilisation. Proceedings. Agadir, Morocco, April 6–15, 1999. Agadir, Morocco: Symposium Proceedings. 363 pp."
+    },
+    {
+      "key": "24_CR9_24",
+      "first-page": "419",
+      "volume-title": "Biology of salt tolerant plants",
+      "year": "1995",
+      "unstructured": "Khan, A. & Ungar, I. 1995. Eds. Biology of salt tolerant plants. Dept. of Botany, Karachi, Pakistan, Pakistan. Karachi, Pakistan: Karachi, Pakistan. 419 pp."
+    },
+    {
+      "volume-title": "Towards the rational use of high salinity tolerant plants. Tasks for vegetation science 27/28",
+      "year": "1993",
+      "key": "24_CR10_24",
+      "unstructured": "Lieth, H. & Al Masoom, A. 1993. Eds. Towards the rational use of high salinity tolerant plants. Tasks for vegetation science 27/28. Dordrecht, Netherlands:Kluwer Academic Publishers."
+    }
+  ],
+  "container-title": [
+    "Tasks for Vegetation Science",
+    "Ecophysiology of High Salinity Tolerant Plants"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/1-4020-4018-0_24.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        27
+      ]
+    ],
+    "date-time": "2021-04-27T20:08:42Z",
+    "timestamp": 1619554122000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/1-4020-4018-0_24"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        null
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781402040177",
+    "9781402040184"
+  ],
+  "references-count": 10,
+  "URL": "https://doi.org/10.1007/1-4020-4018-0_24",
+  "relation": {},
+  "ISSN": [
+    "0167-9406"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0167-9406"
+    }
+  ],
+  "subject": []
+}

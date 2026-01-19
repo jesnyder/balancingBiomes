@@ -1,0 +1,264 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ],
+    "date-time": "2025-12-31T00:33:37Z",
+    "timestamp": 1767141217652,
+    "version": "build-2238731810"
+  },
+  "update-to": [
+    {
+      "DOI": "10.1007/s00792-023-01295-2",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            30
+          ]
+        ],
+        "date-time": "2023-08-30T00:00:00Z",
+        "timestamp": 1693353600000
+      }
+    }
+  ],
+  "reference-count": 0,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            30
+          ]
+        ],
+        "date-time": "2023-08-30T00:00:00Z",
+        "timestamp": 1693353600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            30
+          ]
+        ],
+        "date-time": "2023-08-30T00:00:00Z",
+        "timestamp": 1693353600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Extremophiles"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1007/s00792-023-01307-1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        30
+      ]
+    ],
+    "date-time": "2023-08-30T05:02:16Z",
+    "timestamp": 1693371736000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Correction: Quantitative evaluation of endogenous reference genes for ddPCR under salt stress using a moderate halophile"
+  ],
+  "prefix": "10.1007",
+  "volume": "27",
+  "author": [
+    {
+      "given": "Qinghua",
+      "family": "Xing",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Noha M.",
+      "family": "Mesbah",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Haisheng",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Jun",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2632-7939",
+      "authenticated-orcid": false,
+      "given": "Baisuo",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        30
+      ]
+    ]
+  },
+  "container-title": [
+    "Extremophiles"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00792-023-01307-1.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s00792-023-01307-1/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00792-023-01307-1.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        31
+      ]
+    ],
+    "date-time": "2023-10-31T04:04:21Z",
+    "timestamp": 1698725061000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s00792-023-01307-1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        30
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "1307"
+  ],
+  "URL": "https://doi.org/10.1007/s00792-023-01307-1",
+  "relation": {},
+  "ISSN": [
+    "1431-0651",
+    "1433-4909"
+  ],
+  "issn-type": [
+    {
+      "value": "1431-0651",
+      "type": "print"
+    },
+    {
+      "value": "1433-4909",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        30
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "30 August 2023",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "This content has been made available to all.",
+      "name": "free",
+      "label": "Free to read"
+    }
+  ],
+  "article-number": "23"
+}

@@ -1,0 +1,1412 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        2
+      ]
+    ],
+    "date-time": "2025-11-02T16:55:28Z",
+    "timestamp": 1762102528741,
+    "version": "build-2065373602"
+  },
+  "reference-count": 110,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2020-10-01T00:00:00Z",
+        "timestamp": 1601510400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2020-10-01T00:00:00Z",
+        "timestamp": 1601510400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001321",
+      "name": "National Research Foundation",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100001321",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Algal Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.algal.2020.102025",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        5
+      ]
+    ],
+    "date-time": "2020-08-05T13:37:35Z",
+    "timestamp": 1596634655000
+  },
+  "page": "102025",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "special_numbering": "C",
+  "title": [
+    "An in silico structural and physiochemical analysis of C-Phycocyanin of halophile Euhalothece sp."
+  ],
+  "prefix": "10.1016",
+  "volume": "51",
+  "author": [
+    {
+      "given": "Trisha",
+      "family": "Mogany",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Sheena",
+      "family": "Kumari",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Feroz Mahomed",
+      "family": "Swalaha",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Faizal",
+      "family": "Bux",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "406",
+      "DOI": "10.1016/j.algal.2018.02.030",
+      "article-title": "Different characteristics of C-Phycocyanin (C-PC) in two strains of the extremophilic Galdieria phlegrea",
+      "volume": "31",
+      "author": "Carfagna",
+      "year": "2018",
+      "journal-title": "Algal Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0010",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.algal.2019.101600",
+      "article-title": "Phycocyanin and phycoerythrin: strategies to improve production yield and chemical stability",
+      "volume": "42",
+      "author": "Hsieh-Lo",
+      "year": "2019",
+      "journal-title": "Algal Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.1016/j.bej.2019.02.016",
+      "article-title": "Strategies for improved production of phycobiliproteins (PBPs) by Oscillatoria sp. BTA170 and evaluation of its thermodynamic and kinetic stability",
+      "volume": "145",
+      "author": "Tiwari",
+      "year": "2019",
+      "journal-title": "Biochem. Eng. J."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "422",
+      "DOI": "10.1016/j.biotechadv.2019.02.010",
+      "article-title": "Phycobiliproteins from cyanobacteria: chemistry and biotechnological applications",
+      "volume": "37",
+      "author": "Pagels",
+      "year": "2019",
+      "journal-title": "Biotechnol. Adv."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "e87833",
+      "DOI": "10.1371/journal.pone.0087833",
+      "article-title": "Isolation, purification and properties of an R-Phycocyanin from the phycobilisomes of a marine red macroalga Polysiphonia urceolata",
+      "volume": "9",
+      "author": "Wang",
+      "year": "2014",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "6323",
+      "DOI": "10.1016/S0021-9258(18)45573-1",
+      "article-title": "R-Phycocyanin II, a new phycocyanin occurring in marine Synechococcus species. Identification of the terminal energy acceptor bilin in phycocyanins",
+      "volume": "262",
+      "author": "Ong",
+      "year": "1987",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0035",
+      "series-title": "The Molecular Biology of Cyanobacteria",
+      "first-page": "139",
+      "article-title": "Phycobilisome and phycobiliprotein structures",
+      "author": "Sidler",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "340",
+      "DOI": "10.1016/j.biotechadv.2019.01.008",
+      "article-title": "Phycobiliproteins: molecular structure, production, applications, and prospects",
+      "volume": "37",
+      "author": "Li",
+      "year": "2019",
+      "journal-title": "Biotechnol. Adv."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "475",
+      "DOI": "10.1046/j.1365-2958.1998.01082.x",
+      "article-title": "Bilin deletions and subunit stability in cyanobacterial light-harvesting proteins",
+      "volume": "30",
+      "author": "Toole",
+      "year": "1998",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "357",
+      "DOI": "10.3390/molecules21030357",
+      "article-title": "Molecular cloning of CPCU and heterodimeric bilin lyase activity analysis of CPCU and CPCS for attachment of phycocyanobilin to Cys-82 on the β-subunit of phycocyanin in Arthrospira platensis fachb314",
+      "volume": "21",
+      "author": "Wu",
+      "year": "2016",
+      "journal-title": "Molecules"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "9863",
+      "DOI": "10.1038/s41598-019-46288-4",
+      "article-title": "Phylogenetic and crystallographic analysis of Nostoc phycocyanin having blue-shifted spectral properties",
+      "volume": "9",
+      "author": "Sonani",
+      "year": "2019",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0060",
+      "first-page": "268",
+      "article-title": "The phycobilisomes: an early requisite for efficient photosynthesis in cyanobacteria",
+      "volume": "14",
+      "author": "Singh",
+      "year": "2015",
+      "journal-title": "EXCLI J."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.1111/j.1365-2958.2008.06160.x",
+      "article-title": "Biliprotein maturation: the chromophore attachment",
+      "volume": "68",
+      "author": "Scheer",
+      "year": "2008",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "168",
+      "DOI": "10.1016/S0005-2728(02)00359-6",
+      "article-title": "Refined structure of C-Phycocyanin from the cyanobacterium Synechococcus vulcanus at 1.6 Å: insights into the role of solvent molecules in thermal stability and co-factor structure",
+      "volume": "1556",
+      "author": "Adir",
+      "year": "2002",
+      "journal-title": "Biochimica et Biophysica Acta (BBA) - Bioenergetics"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "340",
+      "DOI": "10.1016/j.biotechadv.2019.01.008",
+      "article-title": "Phycobiliproteins: molecular structure, production, applications, and prospects",
+      "volume": "37",
+      "author": "Li",
+      "year": "2019",
+      "journal-title": "Biotechnol. Adv."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "231",
+      "DOI": "10.1007/s10811-017-1155-x",
+      "article-title": "Extraction of C-Phycocyanin from Arthrospira (Spirulina) and its thermal stability with citric acid",
+      "volume": "30",
+      "author": "Pan-utai",
+      "year": "2018",
+      "journal-title": "J. Appl. Phycol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "1661",
+      "DOI": "10.1007/s10811-018-1661-5",
+      "article-title": "Elucidating the role of nutrients in C-Phycocyanin production by the halophilic cyanobacterium Euhalothece sp",
+      "volume": "31",
+      "author": "Mogany",
+      "year": "2018",
+      "journal-title": "J. Appl. Phycol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0090",
+      "first-page": "89",
+      "article-title": "Biotechnological applications of cyanobacterial phycobiliproteins",
+      "volume": "2",
+      "author": "Pandey",
+      "year": "2013",
+      "journal-title": "Int. J. Curr. Microbiol. App. Sci."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/j.fshw.2019.03.001",
+      "article-title": "Microalgae: a potential alternative to health supplementation for humans",
+      "volume": "8",
+      "author": "Koyande",
+      "year": "2019",
+      "journal-title": "Food Sci. Human Wellness"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "375",
+      "DOI": "10.1016/j.jff.2014.10.011",
+      "article-title": "Nutraceutical properties of phycocyanin",
+      "volume": "11",
+      "author": "Fernández-Rojas",
+      "year": "2014",
+      "journal-title": "J. Funct. Foods"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s00253-008-1542-y",
+      "article-title": "Production of phycocyanin—a pigment with applications in biology, biotechnology, foods and medicine",
+      "volume": "80",
+      "author": "Eriksen",
+      "year": "2008",
+      "journal-title": "Appl. Microbiol. Biotechnol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "282",
+      "DOI": "10.1016/j.bej.2016.01.025",
+      "article-title": "Phycobiliprotein: potential microalgae derived pharmaceutical and biological reagent",
+      "volume": "109",
+      "author": "Manirafasha",
+      "year": "2016",
+      "journal-title": "Biochem. Eng. J."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "1795",
+      "DOI": "10.1016/j.biortech.2010.09.025",
+      "article-title": "Purification, characterization and comparison of phycoerythrins from three different marine cyanobacterial cultures",
+      "volume": "102",
+      "author": "Parmar",
+      "year": "2011",
+      "journal-title": "Bioresour. Technol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "2472",
+      "DOI": "10.1016/j.procbio.2012.10.009",
+      "article-title": "Isolation, identification and characterization of novel thermotolerant Oscillatoria sp. N9DM: change in pigmentation profile in response to temperature",
+      "volume": "47",
+      "author": "Singh",
+      "year": "2012",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "237",
+      "DOI": "10.1016/j.bcab.2018.08.009",
+      "article-title": "Antioxidant activity of phycocyanin pigment extracted from marine filamentous cyanobacteria Geitlerinema sp TRV57",
+      "volume": "16",
+      "author": "Renugadevi",
+      "year": "2018",
+      "journal-title": "Biocatal. Agric. Biotechnol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "597",
+      "DOI": "10.1016/j.ijbiomac.2010.08.005",
+      "article-title": "Effect of preservatives for food grade C-phycoerythrin, isolated from marine cyanobacteria Pseudanabaena sp",
+      "volume": "47",
+      "author": "Mishra",
+      "year": "2010",
+      "journal-title": "Int. J. Biol. Macromol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "166",
+      "DOI": "10.1111/j.1440-1835.2011.00615.x",
+      "article-title": "Thermostablility of phycobiliproteins and antioxidant activity from four thermotolerant cyanobacteria",
+      "volume": "59",
+      "author": "Pumas",
+      "year": "2011",
+      "journal-title": "Phycol. Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "2349",
+      "DOI": "10.1080/10942912.2015.1038564",
+      "article-title": "Stability and antioxidant activity of food-grade phycocyanin isolated from Spirulina platensis",
+      "volume": "19",
+      "author": "Wu",
+      "year": "2016",
+      "journal-title": "Int. J. Food Prop."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "1063",
+      "DOI": "10.1007/s10811-015-0638-x",
+      "article-title": "Thermokinetic stability of phycocyanin and phycoerythrin in food-grade preservatives",
+      "volume": "28",
+      "author": "Kannaujiya",
+      "year": "2016",
+      "journal-title": "J. Appl. Phycol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "154",
+      "DOI": "10.1016/j.procbio.2013.10.008",
+      "article-title": "Thermal stability improvement of blue colorant C-Phycocyanin from Spirulina platensis for food industry applications",
+      "volume": "49",
+      "author": "Martelli",
+      "year": "2014",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "1661",
+      "DOI": "10.1007/s10811-018-1661-5",
+      "article-title": "Extraction and characterisation of analytical grade C-Phycocyanin from Euhalothece sp",
+      "volume": "31",
+      "author": "Mogany",
+      "year": "2019",
+      "journal-title": "J. Appl. Phycol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1016/j.micres.2018.04.001",
+      "article-title": "Phenotypic and genotypic characterisation of an unique indigenous hypersaline unicellular cyanobacterium, Euhalothece sp.nov",
+      "volume": "211",
+      "author": "Mogany",
+      "year": "2018",
+      "journal-title": "Microbiol. Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0165",
+      "first-page": "406",
+      "article-title": "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+      "volume": "4",
+      "author": "Saitou",
+      "year": "1987",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "299",
+      "DOI": "10.1093/bib/bbn017",
+      "article-title": "MEGA: a biologist-centric software for evolutionary analysis of DNA and protein sequences",
+      "volume": "9",
+      "author": "Kumar",
+      "year": "2008",
+      "journal-title": "Brief. Bioinform."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0175",
+      "series-title": "Proceedings of the Second International Conference on Intelligent Systems for Molecular Biology",
+      "first-page": "28",
+      "article-title": "Fitting a mixture model by expectation maximization to discover motifs in biopolymers",
+      "author": "Bailey",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "W296",
+      "DOI": "10.1093/nar/gky427",
+      "article-title": "SWISS-MODEL: homology modelling of protein structures and complexes",
+      "volume": "46",
+      "author": "Waterhouse",
+      "year": "2018",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0185",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41598-017-09654-8",
+      "article-title": "Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology",
+      "volume": "7",
+      "author": "Bertoni",
+      "year": "2017",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1083/jcb.58.2.419",
+      "article-title": "Complementary chromatic adaptation in a filamentous blue-green alga",
+      "volume": "58",
+      "author": "Bennett",
+      "year": "1973",
+      "journal-title": "J. Cell Biol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "220",
+      "DOI": "10.1016/S0021-9258(17)38291-1",
+      "article-title": "Structural studies on phycobiliproteins III. Comparison of bilin-containing peptides from the beta subunits of C-Phycocyanin, R-Phycocyanin, and phycoerythrocyanin",
+      "volume": "253",
+      "author": "Bryant",
+      "year": "1978",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "239",
+      "DOI": "10.1016/j.algal.2018.02.008",
+      "article-title": "Simple and efficient method for extraction of C-Phycocyanin from dry biomass of Arthospira platensis",
+      "volume": "31",
+      "author": "Tavanandi",
+      "year": "2018",
+      "journal-title": "Algal Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "400",
+      "DOI": "10.1016/j.foodchem.2013.10.113",
+      "article-title": "Physicochemical factors affecting the stability of two pigments: R-phycoerythrin of Grateloupia turuturu and B-phycoerythrin of Porphyridium cruentum",
+      "volume": "150",
+      "author": "Munier",
+      "year": "2014",
+      "journal-title": "Food Chem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "1157",
+      "DOI": "10.1016/j.talanta.2007.01.019",
+      "article-title": "Comparative evaluation of Fe(III) reducing power-based antioxidant capacity assays in the presence of phenanthroline, batho-phenanthroline, tripyridyltriazine (FRAP), and ferricyanide reagents",
+      "volume": "72",
+      "author": "Berker",
+      "year": "2007",
+      "journal-title": "Talanta"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "1262",
+      "DOI": "10.1111/j.1742-4658.2006.05149.x",
+      "article-title": "Chromophore attachment in phycocyanin: functional amino acids of phycocyanobilin - α-phycocyanin lyase and evidence for chromophore binding",
+      "volume": "273",
+      "author": "Zhao",
+      "year": "2006",
+      "journal-title": "FEBS J."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1016/j.bbabio.2005.04.001",
+      "article-title": "Characterization, structure and function of linker polypeptides in phycobilisomes of cyanobacteria and red algae: an overview",
+      "volume": "1708",
+      "author": "Liu",
+      "year": "2005",
+      "journal-title": "Biochimica et Biophysica Acta (BBA) - Bioenergetics"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "13170",
+      "DOI": "10.1073/pnas.1715495114",
+      "article-title": "Structures and enzymatic mechanisms of phycobiliprotein lyases CpcE/F and PecE/F",
+      "volume": "114",
+      "author": "Zhao",
+      "year": "2017",
+      "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "372",
+      "DOI": "10.1016/j.algal.2018.04.024",
+      "article-title": "Structural characterization and antioxidant potential of phycocyanin from the cyanobacterium Geitlerinema sp. H8DM",
+      "volume": "32",
+      "author": "Patel",
+      "year": "2018",
+      "journal-title": "Algal Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0235",
+      "first-page": "14",
+      "article-title": "Medical application of Spirulina platensis derived C-Phycocyanin",
+      "volume": "2016",
+      "author": "Liu",
+      "year": "2016",
+      "journal-title": "Evid. Based Complementary Altern. Med."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "784",
+      "DOI": "10.1107/S0907444901004528",
+      "article-title": "Structure of C-phycocyanin from Spirulina platensis at 2.2 Å resolution: a novel monoclinic crystal form for phycobiliproteins in phycobilisomes",
+      "volume": "57",
+      "author": "Wang",
+      "year": "2001",
+      "journal-title": "Acta Crystallogr. D"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1016/0022-2836(82)90515-0",
+      "article-title": "A simple method for displaying the hydropathic character of a protein",
+      "volume": "157",
+      "author": "Kyte",
+      "year": "1982",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1016/j.bbabio.2017.02.004",
+      "article-title": "Structural insights into the cold adaptation of the photosynthetic pigment-protein C-phycocyanin from an Arctic cyanobacterium",
+      "volume": "1858",
+      "author": "Su",
+      "year": "2017",
+      "journal-title": "BBA-Bioenergetics"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "344",
+      "DOI": "10.1007/s13205-018-1343-7",
+      "article-title": "Molecular characterization, modeling, and docking analysis of late phytic acid biosynthesis pathway gene, inositol polyphosphate 6-/3-/5-kinase, a potential candidate for developing low phytate crops",
+      "volume": "8",
+      "author": "Punjabi",
+      "year": "2018",
+      "journal-title": "3 Biotech"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0260",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1038/s41598-019-45905-6",
+      "article-title": "Development of a novel method for the purification of C-phycocyanin pigment from a local cyanobacterial strain Limnothrix sp. NS01 and evaluation of its anticancer properties",
+      "volume": "9",
+      "author": "Safaei",
+      "year": "2019",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0265",
+      "doi-asserted-by": "crossref",
+      "first-page": "7159",
+      "DOI": "10.1016/j.biortech.2011.04.067",
+      "article-title": "Separation and purification of phycocyanin from Spirulina sp. using a membrane process",
+      "volume": "102",
+      "author": "Chaiklahan",
+      "year": "2011",
+      "journal-title": "Bioresour. Technol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0270",
+      "doi-asserted-by": "crossref",
+      "first-page": "1046",
+      "DOI": "10.1111/j.1365-2621.2000.tb09415.x",
+      "article-title": "pH affects the thermal inactivation parameters of R-Phycoerythrin from Porphyra yezoensis",
+      "volume": "65",
+      "author": "Orta-Ramirez",
+      "year": "2000",
+      "journal-title": "J. Food Sci."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0275",
+      "doi-asserted-by": "crossref",
+      "first-page": "1206",
+      "DOI": "10.1110/ps.440101",
+      "article-title": "The effect of net charge on the solubility, activity, and stability of ribonuclease Sa",
+      "volume": "10",
+      "author": "Shaw",
+      "year": "2001",
+      "journal-title": "Protein Sci."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0280",
+      "doi-asserted-by": "crossref",
+      "first-page": "1491",
+      "DOI": "10.1515/bchm2.1978.359.2.1491",
+      "article-title": "The complete amino acid sequence of both subunits of C-Phycocyanin from the cyanobacterium Mastigocladus laminosus",
+      "volume": "359",
+      "author": "Frank",
+      "year": "1978",
+      "journal-title": "Hoppe-Seyler's Zeitschrift für physiologische Chemie"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0285",
+      "doi-asserted-by": "crossref",
+      "first-page": "844",
+      "DOI": "10.1107/S1744309105025649",
+      "article-title": "X-ray crystallographic studies on C-phycocyanins from cyanobacteria from different habitats: marine and freshwater",
+      "volume": "61",
+      "author": "Satyanarayana",
+      "year": "2005",
+      "journal-title": "Acta Crystallogr. F"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0290",
+      "doi-asserted-by": "crossref",
+      "first-page": "717",
+      "DOI": "10.1134/S0026261708060106",
+      "article-title": "Ecophysiology and polymorphism of the unicellular extremely natronophilic cyanobacterium Euhalothece sp. Z-M001 from Lake Magadi",
+      "volume": "77",
+      "author": "Mikhodyuk",
+      "year": "2008",
+      "journal-title": "Microbiol"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0295",
+      "first-page": "43",
+      "article-title": "Spirulina subsalsa var. salina var. nov.: thermo-halotolerant cyanobacteria accumulating two kinds of compatible solute, originated from the sultanate of Oman",
+      "volume": "14",
+      "author": "Kuroiwa",
+      "year": "2014",
+      "journal-title": "J. Environmen. Biotechnol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0300",
+      "doi-asserted-by": "crossref",
+      "first-page": "2807",
+      "DOI": "10.1099/ijs.0.65798-0",
+      "article-title": "Rubidibacter lacunae gen. nov., sp. nov., a unicellular, phycoerythrin-containing cyanobacterium isolated from seawater of Chuuk lagoon, Micronesia",
+      "volume": "58",
+      "author": "Choi",
+      "year": "2008",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0305",
+      "doi-asserted-by": "crossref",
+      "first-page": "475",
+      "DOI": "10.1016/S0922-338X(97)82011-9",
+      "article-title": "Identification and characterization of phycobiliprotein from a thermophilic cyanobacterium, Chroococcidiopsis sp. strain TS-821",
+      "volume": "84",
+      "author": "Hayashi",
+      "year": "1997",
+      "journal-title": "J. Ferment. Bioeng."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0310",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1016/j.algal.2018.08.037",
+      "article-title": "Thermosynechococcaceae as a source of thermostable C-phycocyanins: properties and molecular insights",
+      "volume": "35",
+      "author": "Liang",
+      "year": "2018",
+      "journal-title": "Algal Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0315",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1186/1472-6807-11-50",
+      "article-title": "Structural adaptation of extreme halophilic proteins through decrease of conserved hydrophobic contact surface",
+      "volume": "11",
+      "author": "Siglioccolo",
+      "year": "2011",
+      "journal-title": "BMC Struct. Biol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0320",
+      "doi-asserted-by": "crossref",
+      "first-page": "347",
+      "DOI": "10.1016/S0022-2836(03)00150-5",
+      "article-title": "Unique amino acid composition of proteins in halophilic bacteria",
+      "volume": "327",
+      "author": "Fukuchi",
+      "year": "2003",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0325",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1016/j.genrep.2016.09.005",
+      "article-title": "Structural and functional dynamics of tyrosine amino acid in phycocyanin of hot-spring cyanobacteria: a possible pathway for internal energy transfer",
+      "volume": "5",
+      "author": "Kannaujiya",
+      "year": "2016",
+      "journal-title": "Gene Reports"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0330",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1039/C6CP02684B",
+      "article-title": "Structural evidence for solvent-stabilisation by aspartic acid as a mechanism for halophilic protein stability in high salt concentrations",
+      "volume": "18",
+      "author": "Lenton",
+      "year": "2016",
+      "journal-title": "Phys. Chem. Chem. Phys."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0335",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1155/2013/373275",
+      "article-title": "Protein adaptations in archaeal extremophiles",
+      "volume": "2013",
+      "author": "Reed",
+      "year": "2013",
+      "journal-title": "Archaea"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0340",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1098/rsif.2014.0419",
+      "article-title": "Biophysics of protein evolution and evolutionary protein biophysics",
+      "volume": "11",
+      "author": "Sikosek",
+      "year": "2014",
+      "journal-title": "J. R. Soc. Interface"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0345",
+      "first-page": "1170",
+      "article-title": "Structure based computational analysis and molecular phylogeny of C-Phycocyanin gene from the selected cyanobacteria",
+      "volume": "7",
+      "author": "Reehana",
+      "year": "2013",
+      "journal-title": "International Journal of Biological, Biomolecular, Agricultural, Food and Biotechnological Engineering"
+    },
+    {
+      "year": "2013",
+      "series-title": "An Introduction to Sequence Similarity (“Homology”) Searching. 728 Curr. Protoc. Bioinformatics",
+      "author": "Pearson",
+      "key": "10.1016/j.algal.2020.102025_bb0350"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0355",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1093/bioinformatics/btq662",
+      "article-title": "Toward the estimation of the absolute quality of individual protein structure models",
+      "volume": "27",
+      "author": "Benkert",
+      "year": "2010",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0360",
+      "doi-asserted-by": "crossref",
+      "first-page": "1587",
+      "DOI": "10.1016/S0006-3495(00)76409-5",
+      "article-title": "Significance of a two-domain structure in subunits of phycobiliproteins revealed by the normal mode analysis",
+      "volume": "79",
+      "author": "Kikuchi",
+      "year": "2000",
+      "journal-title": "Biophys. J."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0365",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.1007/s10337-010-1874-5",
+      "article-title": "Purification of C-Phycocyanin from Spirulina platensis by single-step ion-exchange chromatography",
+      "volume": "73",
+      "author": "Liao",
+      "year": "2011",
+      "journal-title": "Chromatographia"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0370",
+      "doi-asserted-by": "crossref",
+      "first-page": "184",
+      "DOI": "10.1007/s40502-014-0094-7",
+      "article-title": "Extraction and purification of C-phycocyanin from Spirulina platensis (CCC540)",
+      "volume": "19",
+      "author": "Kumar",
+      "year": "2014",
+      "journal-title": "Indian J. Plant Physiol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0375",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.1016/j.biortech.2015.04.090",
+      "article-title": "Physico-chemical factors affecting the in vitro stability of phycobiliproteins from Phormidium rubidum A09DM",
+      "volume": "190",
+      "author": "Rastogi",
+      "year": "2015",
+      "journal-title": "Bioresour. Technol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0380",
+      "doi-asserted-by": "crossref",
+      "first-page": "2017",
+      "DOI": "10.1016/j.procbio.2006.04.018",
+      "article-title": "Extraction, purification and characterization of phycocyanin from Oscillatoria quadripunctulata—isolated from the rocky shores of Bet-Dwarka, Gujarat, India",
+      "volume": "41",
+      "author": "Soni",
+      "year": "2006",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0385",
+      "first-page": "806",
+      "article-title": "UV-Vis Spectrum characteristics of Phycocyanin purification in water from Chao lake",
+      "volume": "37",
+      "author": "Zhang",
+      "year": "2017",
+      "journal-title": "Guang pu xue yu guang pu fen xi = Guang pu"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0390",
+      "doi-asserted-by": "crossref",
+      "first-page": "490",
+      "DOI": "10.1007/s11814-013-0239-9",
+      "article-title": "Isolation and characterization of thermostable phycocyanin from Galdieria sulphuraria",
+      "volume": "31",
+      "author": "Moon",
+      "year": "2014",
+      "journal-title": "Korean J. Chem. Eng."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0395",
+      "doi-asserted-by": "crossref",
+      "first-page": "750",
+      "DOI": "10.1111/php.13197",
+      "article-title": "Two distinct photoprocesses in cyanobacterial bilin pigments: Energy migration in light-harvesting phycobiliproteins versus photoisomerization in phytochromes",
+      "volume": "96",
+      "author": "Sineshchekov",
+      "year": "2020",
+      "journal-title": "J. Photochem. Photobiol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0400",
+      "doi-asserted-by": "crossref",
+      "first-page": "436",
+      "DOI": "10.1016/j.foodchem.2008.02.021",
+      "article-title": "Iron-chelating ability and antioxidant properties of phycocyanin isolated from a protean extract of Spirulina platensis",
+      "volume": "110",
+      "author": "Bermejo",
+      "year": "2008",
+      "journal-title": "Food Chem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0405",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1186/1472-6882-10-53",
+      "article-title": "Protective effect of aqueous extract from Spirulina platensis against cell death induced by free radicals",
+      "volume": "10",
+      "author": "Chu",
+      "year": "2010",
+      "journal-title": "BMC Complement. Altern. Med."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0410",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.11113/mjfas.v14n2.1096",
+      "article-title": "Evaluation of antioxidant properties of phycobiliproteins and phenolic compounds extracted from Bangia atropurpurea",
+      "volume": "14",
+      "author": "Punampalam",
+      "year": "2018",
+      "journal-title": "Mal. J. Fund. Appl. Sci."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0415",
+      "doi-asserted-by": "crossref",
+      "first-page": "1757",
+      "DOI": "10.1016/j.procbio.2014.06.022",
+      "article-title": "Concurrent purification and antioxidant activity of phycobiliproteins from Lyngbya sp. A09DM: an antioxidant and anti-aging potential of phycoerythrin in Caenorhabditis elegans",
+      "volume": "49",
+      "author": "Sonani",
+      "year": "2014",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0420",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1016/j.biortech.2017.08.129",
+      "article-title": "Purification and antioxidant activity of phycocyanin from Synechococcus sp. R42DM isolated from industrially polluted site",
+      "volume": "245",
+      "author": "Sonani",
+      "year": "2017",
+      "journal-title": "Bioresour. Technol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0425",
+      "first-page": "83",
+      "article-title": "Potential applications of antioxidant compounds derived from algae",
+      "volume": "9",
+      "author": "Chu",
+      "year": "2011",
+      "journal-title": "Cur. Top. Nutraceutical Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0430",
+      "doi-asserted-by": "crossref",
+      "first-page": "2333",
+      "DOI": "10.1007/s10811-015-0773-4",
+      "article-title": "Evaluation of antioxidant activity and phenolic profile of filamentous terrestrial cyanobacterial strains isolated from forest ecosystem",
+      "volume": "28",
+      "author": "Babić",
+      "year": "2016",
+      "journal-title": "J. Appl. Phycol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0435",
+      "doi-asserted-by": "crossref",
+      "first-page": "72",
+      "DOI": "10.3390/molecules21010072",
+      "article-title": "The structure-activity relationship of the antioxidant peptides from natural proteins",
+      "volume": "21",
+      "author": "Zou",
+      "year": "2016",
+      "journal-title": "Molecules"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0440",
+      "doi-asserted-by": "crossref",
+      "first-page": "490",
+      "DOI": "10.1016/j.foodchem.2014.02.102",
+      "article-title": "A novel method for predicting antioxidant activity based on amino acid structure",
+      "volume": "158",
+      "author": "Garrett",
+      "year": "2014",
+      "journal-title": "Food Chem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0445",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/molecules22122066",
+      "article-title": "Antioxidative categorization of twenty amino acids based on experimental evaluation",
+      "volume": "22",
+      "author": "Xu",
+      "year": "2017",
+      "journal-title": "Molecules"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0450",
+      "doi-asserted-by": "crossref",
+      "first-page": "669",
+      "DOI": "10.1007/s10989-018-9713-x",
+      "article-title": "Production and identification of biologically active peptides derived from by-product of hen egg-yolk phospholipid extraction",
+      "volume": "25",
+      "author": "Eckert",
+      "year": "2018",
+      "journal-title": "Int. J. Pept. Res. Ther."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0455",
+      "first-page": "789",
+      "article-title": "Identification and antioxidant activity of synthetic peptides from phycobiliproteins of Pyropia yezoensis",
+      "volume": "42",
+      "author": "Kim",
+      "year": "2018",
+      "journal-title": "Int. J. Mol. Med."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0460",
+      "doi-asserted-by": "crossref",
+      "first-page": "7904",
+      "DOI": "10.1016/S1452-3981(23)11014-5",
+      "article-title": "Estimation of the antioxidative properties of amino acids - an electrochemical approach",
+      "volume": "9",
+      "author": "Masek",
+      "year": "2014",
+      "journal-title": "Int. J. Electrochem. Sci."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0465",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0163274",
+      "DOI": "10.1371/journal.pone.0163274",
+      "article-title": "Sequence based prediction of antioxidant proteins using a classifier selection strategy",
+      "volume": "11",
+      "author": "Zhang",
+      "year": "2016",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0470",
+      "doi-asserted-by": "crossref",
+      "first-page": "659",
+      "DOI": "10.1016/j.procbio.2012.01.010",
+      "article-title": "Stability of phycocyanin extracted from Spirulina sp.: influence of temperature, pH and preservatives",
+      "volume": "47",
+      "author": "Chaiklahan",
+      "year": "2012",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0475",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.procbio.2012.09.019",
+      "article-title": "Characterization of a novel thermophilic cyanobacterial strain from Taian hot springs in Taiwan for high CO2 mitigation and C-phycocyanin extraction",
+      "volume": "48",
+      "author": "Leu",
+      "year": "2013",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0480",
+      "doi-asserted-by": "crossref",
+      "first-page": "112",
+      "DOI": "10.1038/ismej.2016.102",
+      "article-title": "Adaptive thermostability of light-harvesting complexes in marine picocyanobacteria",
+      "volume": "11",
+      "author": "Pittera",
+      "year": "2017",
+      "journal-title": "ISME J"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0485",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1146/annurev-biophys-050511-102321",
+      "article-title": "Disulfide bonding in protein biophysics",
+      "volume": "41",
+      "author": "Fass",
+      "year": "2011",
+      "journal-title": "Annu. Rev. Biophys."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0490",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1371/journal.pone.0049425",
+      "article-title": "CyanoPhyChe: a database for physico-chemical properties, structure and biochemical pathway information of cyanobacterial proteins",
+      "volume": "7",
+      "author": "Arun",
+      "year": "2012",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0495",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.1186/1472-6807-12-18",
+      "article-title": "Dependence of α-helical and β-sheet amino acid propensities on the overall protein fold type",
+      "volume": "12",
+      "author": "Fujiwara",
+      "year": "2012",
+      "journal-title": "BMC Struct. Biol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0500",
+      "doi-asserted-by": "crossref",
+      "first-page": "1822",
+      "DOI": "10.1038/s41598-020-58825-7",
+      "article-title": "Protein stability governed by its structural plasticity is inferred by physicochemical factors and salt bridges",
+      "volume": "10",
+      "author": "Panja",
+      "year": "2020",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0505",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1093/protein/4.2.155",
+      "article-title": "Correlation between stability of a protein and its dipeptide composition: a novel approach for predicting in vivo stability of a protein from its primary sequence",
+      "volume": "4",
+      "author": "Guruprasad",
+      "year": "1990",
+      "journal-title": "Protein Eng."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0510",
+      "doi-asserted-by": "crossref",
+      "first-page": "1233",
+      "DOI": "10.1007/s10811-016-1007-0",
+      "article-title": "Thermostable phycocyanin from the red microalga Cyanidioschyzon merolae, a new natural blue food colorant",
+      "volume": "29",
+      "author": "Rahman",
+      "year": "2017",
+      "journal-title": "J. Appl. Phycol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0515",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.1016/j.seppur.2013.12.026",
+      "article-title": "Solid-liquid extraction of phycocyanin from Spirulina platensis: kinetic modeling of influential factors",
+      "volume": "123",
+      "author": "Sua",
+      "year": "2014",
+      "journal-title": "Sep. Purif. Technol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0520",
+      "doi-asserted-by": "crossref",
+      "first-page": "94",
+      "DOI": "10.1016/j.bbabio.2007.10.009",
+      "article-title": "Unfolding of C-phycocyanin followed by loss of non-covalent chromophore–protein interactions: 1. Equilibrium experiments",
+      "volume": "1777",
+      "author": "Kupka",
+      "year": "2008",
+      "journal-title": "BBA-Bioenergetics"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0525",
+      "doi-asserted-by": "crossref",
+      "first-page": "12050",
+      "DOI": "10.1021/bi061140+",
+      "article-title": "The free energy of dissociation of oligomeric structure in phycocyanin is not linear with denaturant",
+      "volume": "45",
+      "author": "Thoren",
+      "year": "2006",
+      "journal-title": "Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0530",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.1016/j.algal.2018.09.013",
+      "article-title": "Stability, bio-functionality and bio-activity of crude phycocyanin from a two-phase cultured Saharian Arthrospira sp. strain",
+      "volume": "35",
+      "author": "Chentir",
+      "year": "2018",
+      "journal-title": "Algal Res."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0535",
+      "doi-asserted-by": "crossref",
+      "first-page": "313",
+      "DOI": "10.1111/j.1745-4514.2005.00035.x",
+      "article-title": "Factors that affect antioxidant activity of C-phycocyanins from Spirulina platensis",
+      "volume": "29",
+      "author": "Zhou",
+      "year": "2005",
+      "journal-title": "J. Food Biochem."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0540",
+      "doi-asserted-by": "crossref",
+      "first-page": "116",
+      "DOI": "10.1016/j.ifset.2018.11.007",
+      "article-title": "Biphasic short time heat degradation of the blue microalgae protein phycocyanin from Arthrospira platensis",
+      "volume": "52",
+      "author": "Böcker",
+      "year": "2019",
+      "journal-title": "Innov. Food Sci. Emerg. Technol."
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0545",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0100643",
+      "article-title": "Computational design of a ph stable enzyme: understanding molecular mechanism of penicillin acylase’s adaptation to alkaline conditions",
+      "volume": "9",
+      "author": "Suplatov",
+      "year": "2014",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.algal.2020.102025_bb0550",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1016/j.bej.2008.03.012",
+      "article-title": "Thermal degradation kinetics of the phycocyanin from Spirulina platensis",
+      "volume": "41",
+      "author": "Antelo",
+      "year": "2008",
+      "journal-title": "Biochem. Eng. J."
+    }
+  ],
+  "container-title": [
+    "Algal Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2211926420303829?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2211926420303829?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        31
+      ]
+    ],
+    "date-time": "2025-10-31T18:38:10Z",
+    "timestamp": 1761935890000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2211926420303829"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "references-count": 110,
+  "alternative-id": [
+    "S2211926420303829"
+  ],
+  "URL": "https://doi.org/10.1016/j.algal.2020.102025",
+  "relation": {},
+  "ISSN": [
+    "2211-9264"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2211-9264"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "An in silico structural and physiochemical analysis of C-Phycocyanin of halophile Euhalothece sp.",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Algal Research",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.algal.2020.102025",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2020 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "102025"
+}

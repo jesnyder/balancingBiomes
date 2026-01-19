@@ -1,0 +1,150 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2024-02-09T00:25:55Z",
+    "timestamp": 1707438355929
+  },
+  "publisher": "Fundacao para a Ciencia e a Tecnologia (unidadeFCCN)",
+  "award-start": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        1
+      ]
+    ]
+  },
+  "award": "PRT/BD/154549/2022",
+  "DOI": "10.54499/prt/bd/154549/2022",
+  "type": "grant",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2023-12-12T14:43:34Z",
+    "timestamp": 1702392214000
+  },
+  "source": "Crossref",
+  "prefix": "10.54499",
+  "member": "31773",
+  "project": [
+    {
+      "project-title": [
+        {
+          "title": "Production of bioactive compounds by halophyte plants in aquaculture on coastal waters",
+          "language": "en"
+        },
+        {
+          "title": "Production of bioactive compounds by halophyte plants in aquaculture on coastal waters",
+          "language": "pt"
+        }
+      ],
+      "investigator": [
+        {
+          "ORCID": "http://orcid.org/0000-0002-3932-5588",
+          "authenticated-orcid": false,
+          "given": "Inês",
+          "family": "João Dinis Ferreira",
+          "alternate-name": [
+            "Inês João Dinis Ferreira"
+          ],
+          "affiliation": []
+        }
+      ],
+      "lead-investigator": [
+        {
+          "ORCID": "http://orcid.org/0000-0002-3932-5588",
+          "authenticated-orcid": false,
+          "given": "Inês",
+          "family": "João Dinis Ferreira",
+          "alternate-name": [
+            "Inês João Dinis Ferreira"
+          ],
+          "affiliation": []
+        }
+      ],
+      "award-amount": {
+        "amount": 10209.25,
+        "currency": "EUR"
+      },
+      "award-start": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            1
+          ]
+        ]
+      },
+      "award-end": {
+        "date-parts": [
+          [
+            2027,
+            8,
+            31
+          ]
+        ]
+      },
+      "funding": [
+        {
+          "type": "grant",
+          "scheme": "FCT",
+          "award-amount": {
+            "amount": 10209.25,
+            "currency": "EUR",
+            "percentage": null
+          },
+          "funder": {
+            "id": [
+              {
+                "id": "10.13039/501100001871",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Fundação para a Ciência e a Tecnologia"
+          }
+        }
+      ]
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        8
+      ]
+    ],
+    "date-time": "2024-02-08T18:50:14Z",
+    "timestamp": 1707418214000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://sciproj.ptcris.pt/99644DFA"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        1
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.54499/prt/bd/154549/2022",
+  "relation": {},
+  "subject": []
+}

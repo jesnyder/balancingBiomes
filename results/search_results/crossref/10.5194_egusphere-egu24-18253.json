@@ -1,0 +1,130 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        21
+      ]
+    ],
+    "date-time": "2025-01-21T05:12:05Z",
+    "timestamp": 1737436325946,
+    "version": "3.33.0"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        20
+      ]
+    ]
+  },
+  "group-title": "oral",
+  "reference-count": 0,
+  "publisher": "Copernicus GmbH",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>As an ecosystem of high socioeconomic and ecological importance, global loss and degradation of salt-marshes has multifaceted detrimental impacts. Salt-marshes are recognised as blue carbon ecosystems and play a notable role in the global carbon cycle, due to their enhanced ability to efficiently uptake and store organic carbon over long time scales. The characterisation of salt-marsh carbon sequestration capacity across spatial and temporal scales, however, is challenging due to the inherent complexities of the factors which dictate these processes. To capture the spatial variability, it is necessary to formulate relationships between halophyte specie above and below ground biomass and subsoil organic carbon content and then examine how this interacts with hydraulic regimes, geomorphological context and external pressures. In this study, seven typically occurring associations of halophyte species in the Venice Lagoon (Italy) were selected and the relative magnitude of above and below ground biomass as well as their relationship to soil organic carbon content was examined for each association. Specifically, the analysis examined measurements of AGB, BGB, LOI, SOC and Bulk Density at 54 sample sites over two different years for species associations dominated by Inula crithmoides, Sarcocornia fruticose, Juncus maritimus, Limonium narbonense, Spartina maritima, Spartina anglica, and Salicornia veneta. The results confirmed that the association type is influential and must be considered when mapping carbon sequestration capacity. The halophyte evolutionary differences paired with geomorphology and external forcings play a key role in determining the spatial variability of carbon sequestration capacity. Above ground biomass has a stepped increase on the transition between low and high marsh with the greatest densities being found in the high marsh, often adjacent to channels. Whereas, below ground biomass and soil organic carbon content peaked in the middle marsh zone. Furthermore, the below ground to above ground biomass ratio depends strongly on the association, the higher ratios being found in the low to middle marsh. Overall, the derived patterns in halophyte biomass and sequestration capacity across diverse associations of species is vital for predicting below ground biomass and organic carbon content based on above ground biomass. These results support salt-marsh monitoring and modelling endeavours, particularly in a sustainable coastal management and blue carbon assessment context.</jats:p>",
+  "DOI": "10.5194/egusphere-egu24-18253",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2024-03-11T10:07:27Z",
+    "timestamp": 1710151647000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "The diverse influence of halophyte species on carbon sequestration capacity in salt-marshes"
+  ],
+  "prefix": "10.5194",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6512-3376",
+      "authenticated-orcid": false,
+      "given": "Tegan",
+      "family": "Blount",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5114-8633",
+      "authenticated-orcid": false,
+      "given": "Sonia",
+      "family": "Silvestri",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1493-6913",
+      "authenticated-orcid": false,
+      "given": "Marco",
+      "family": "Marani",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1172-8278",
+      "authenticated-orcid": false,
+      "given": "Andrea",
+      "family": "D'Alpaos",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "3145",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        20
+      ]
+    ],
+    "date-time": "2025-01-20T12:26:09Z",
+    "timestamp": 1737375969000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://meetingorganizer.copernicus.org/EGU24/EGU24-18253.html"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        20
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.5194/egusphere-egu24-18253",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        20
+      ]
+    ]
+  },
+  "subtype": "other"
+}

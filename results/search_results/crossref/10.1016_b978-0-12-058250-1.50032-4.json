@@ -1,0 +1,507 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        3
+      ]
+    ],
+    "date-time": "2024-05-03T20:29:45Z",
+    "timestamp": 1714768185639
+  },
+  "reference-count": 43,
+  "publisher": "Elsevier",
+  "isbn-type": [
+    {
+      "value": "9780120582501",
+      "type": "print"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        1973
+      ]
+    ]
+  },
+  "DOI": "10.1016/b978-0-12-058250-1.50032-4",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        11,
+        20
+      ]
+    ],
+    "date-time": "2013-11-20T11:24:38Z",
+    "timestamp": 1384946678000
+  },
+  "page": "297-321",
+  "source": "Crossref",
+  "is-referenced-by-count": 27,
+  "title": [
+    "The Ionic Relations of Seedlings of the Halophyte Triglochin maritima L."
+  ],
+  "prefix": "10.1016",
+  "author": [
+    {
+      "given": "R.L.",
+      "family": "Jefferies",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "322",
+      "DOI": "10.1111/j.1438-8677.1955.tb00334.x",
+      "volume": "4",
+      "author": "ARISZ",
+      "year": "1955",
+      "journal-title": "Acta. Bot. neerl."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "589",
+      "DOI": "10.1071/BI9670589",
+      "volume": "20",
+      "author": "ATKINSON",
+      "year": "1967",
+      "journal-title": "Aust. J. biol. Sci."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "364",
+      "DOI": "10.1007/BF00387508",
+      "volume": "91",
+      "author": "BALLANCE",
+      "year": "1970",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.1071/BI9560067",
+      "volume": "9",
+      "author": "BLACK",
+      "year": "1956",
+      "journal-title": "Aust. J. biol. Sci."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1085/jgp.13.2.223",
+      "volume": "13",
+      "author": "BLINKS",
+      "year": "1930",
+      "journal-title": "J. gen. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "733",
+      "DOI": "10.1085/jgp.13.6.733",
+      "volume": "13",
+      "author": "BLINKS",
+      "year": "1929",
+      "journal-title": "J. gen. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "691",
+      "DOI": "10.1104/pp.16.4.691",
+      "volume": "16",
+      "author": "COLLANDER",
+      "year": "1941",
+      "journal-title": "Pl. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "339",
+      "DOI": "10.1016/0005-2736(68)90119-3",
+      "volume": "163",
+      "author": "CRAM",
+      "year": "1968",
+      "journal-title": "Biochim. biophys. Acta"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1105",
+      "DOI": "10.1085/jgp.42.5.1105",
+      "volume": "42",
+      "author": "DIAMOND",
+      "year": "1959",
+      "journal-title": "J. gen. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1016/0006-291X(63)90244-4",
+      "volume": "12",
+      "author": "DRAPEAU",
+      "year": "1963",
+      "journal-title": "Biochem. biophys. Res. Commun."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib11",
+      "first-page": "187",
+      "volume": "13",
+      "author": "ELZAM",
+      "year": "1969",
+      "journal-title": "Agrochimica"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib12",
+      "first-page": "196",
+      "volume": "13",
+      "author": "ELZAM",
+      "year": "1969",
+      "journal-title": "Agrochimica"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.2307/1539055",
+      "volume": "118",
+      "author": "EPPLEY",
+      "year": "1960",
+      "journal-title": "Biol. Bull. mar. biol. Lab., Woods Hole"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib14",
+      "series-title": "“Ecological Aspects of the Mineral Nutrition of Plants”",
+      "first-page": "345",
+      "author": "EPSTEIN",
+      "year": "1969"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "838",
+      "DOI": "10.1104/pp.43.5.838",
+      "volume": "43",
+      "author": "ETHERTON",
+      "year": "1968",
+      "journal-title": "Pl. Physiol., Lancaster"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "310",
+      "DOI": "10.1093/jxb/23.2.310",
+      "volume": "23",
+      "author": "FLOWERS",
+      "year": "1972",
+      "journal-title": "J. exp. Bot."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "1881",
+      "DOI": "10.1016/S0031-9422(00)90147-X",
+      "volume": "11",
+      "author": "FLOWERS",
+      "year": "1972",
+      "journal-title": "Phytochem."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1007/BF01391677",
+      "volume": "18",
+      "author": "GREENWAY",
+      "year": "1963",
+      "journal-title": "Pl. Soil."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib19",
+      "series-title": "“The Biology of Atriplex“",
+      "first-page": "49",
+      "author": "GREENWAY",
+      "year": "1970"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "256",
+      "DOI": "10.1104/pp.49.2.256",
+      "volume": "49",
+      "author": "GREENWAY",
+      "year": "1972",
+      "journal-title": "Pl. Physiol., Lancaster"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib21",
+      "first-page": "163",
+      "volume": "6",
+      "author": "GUTKNECHT",
+      "year": "1968",
+      "journal-title": "A. Rev. Oceanogr. mar. Biol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "454",
+      "DOI": "10.1016/0005-2736(67)90034-X",
+      "volume": "135",
+      "author": "HILL",
+      "year": "1967",
+      "journal-title": "Biochim. biophys. Acta"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "461",
+      "DOI": "10.1016/0005-2736(67)90035-1",
+      "volume": "135",
+      "author": "HILL",
+      "year": "1967",
+      "journal-title": "Biochim. biophys. Acta"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib24",
+      "doi-asserted-by": "crossref",
+      "first-page": "66",
+      "DOI": "10.1016/0005-2736(70)90166-5",
+      "volume": "196",
+      "author": "HILL",
+      "year": "1970",
+      "journal-title": "Biochim. biophys. Acta"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1016/0005-2736(70)90167-7",
+      "volume": "196",
+      "author": "HILL",
+      "year": "1970",
+      "journal-title": "Biochim. biophys. Acta"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib26",
+      "series-title": "“The Estuarine Environment”",
+      "first-page": "61",
+      "author": "JEFFERIES",
+      "year": "1972"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib27",
+      "unstructured": "KESSELER, H. (1965). In Proc. Fifth Mar. Biol. Symp., Botanica Gothoburgensia 3, 103–111."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1016/S0065-2911(08)60251-9",
+      "volume": "1",
+      "author": "LARSEN",
+      "year": "1967",
+      "journal-title": "Adv. microb. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1146/annurev.pp.22.060171.000323",
+      "volume": "22",
+      "author": "LÜTTGE",
+      "year": "1971",
+      "journal-title": "A. Rev. Pl. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "859",
+      "DOI": "10.1085/jgp.47.5.859",
+      "volume": "47",
+      "author": "MACROBBIE",
+      "year": "1964",
+      "journal-title": "J. gen. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "782",
+      "DOI": "10.1111/j.1399-3054.1958.tb08273.x",
+      "volume": "11",
+      "author": "MACROBBIE",
+      "year": "1958",
+      "journal-title": "Physiol. Pl."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1104/pp.45.2.133",
+      "volume": "45",
+      "author": "MACKLON",
+      "year": "1970",
+      "journal-title": "Pl. Physiol., Lancaster"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib33",
+      "series-title": "“The Biology of Atriplex“",
+      "first-page": "57",
+      "author": "PALLAGHY",
+      "year": "1970"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib34",
+      "unstructured": "PARHAM, M. (1971). Ph.D. Thesis, University of East Anglia."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "666",
+      "DOI": "10.1104/pp.46.5.666",
+      "volume": "46",
+      "author": "PIERCE",
+      "year": "1970",
+      "journal-title": "Pl. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "647",
+      "DOI": "10.1071/BI9630647",
+      "volume": "16",
+      "author": "PITMAN",
+      "year": "1963",
+      "journal-title": "Aust. J. Biol. Sci."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "731",
+      "DOI": "10.1104/pp.47.6.731",
+      "volume": "47",
+      "author": "POOLE",
+      "year": "1971",
+      "journal-title": "Pl. Physiol., Lancaster"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "847",
+      "DOI": "10.1071/BI9670847",
+      "volume": "20",
+      "author": "RAINS",
+      "year": "1967",
+      "journal-title": "Aust. J. biol. Sci."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "822",
+      "DOI": "10.1242/jeb.32.4.822",
+      "volume": "32",
+      "author": "RAMSAY",
+      "year": "1955",
+      "journal-title": "J. exp. Biol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "722",
+      "DOI": "10.1104/pp.37.6.722",
+      "volume": "37",
+      "author": "SCHOLANDER",
+      "year": "1962",
+      "journal-title": "Pl. Physiol., Lancaster"
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "529",
+      "DOI": "10.1104/pp.41.3.529",
+      "volume": "41",
+      "author": "SCHOLANDER",
+      "year": "1966",
+      "journal-title": "Pl. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib42",
+      "first-page": "205",
+      "volume": "3",
+      "author": "TEORELL",
+      "year": "1949",
+      "journal-title": "Arch. Sci. Physiol."
+    },
+    {
+      "key": "10.1016/B978-0-12-058250-1.50032-4_bib43",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1111/j.1748-1716.1949.tb00633.x",
+      "volume": "19",
+      "author": "USSING",
+      "year": "1949",
+      "journal-title": "Acta physiol. Scand."
+    }
+  ],
+  "container-title": [
+    "Ion Transport in Plants"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        16
+      ]
+    ],
+    "date-time": "2022-03-16T08:18:52Z",
+    "timestamp": 1647418732000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/B9780120582501500324"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1973
+      ]
+    ]
+  },
+  "ISBN": [
+    "9780120582501"
+  ],
+  "references-count": 43,
+  "URL": "https://doi.org/10.1016/b978-0-12-058250-1.50032-4",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1973
+      ]
+    ]
+  }
+}

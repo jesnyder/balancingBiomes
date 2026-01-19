@@ -1,0 +1,160 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2024-03-01T05:04:06Z",
+    "timestamp": 1709269446578
+  },
+  "reference-count": 0,
+  "publisher": "Elsevier BV",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1988,
+            10,
+            1
+          ]
+        ],
+        "date-time": "1988-10-01T00:00:00Z",
+        "timestamp": 591667200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Research in Microbiology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1988,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/0923-2508(88)90097-6",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2002-12-28T09:03:40Z",
+    "timestamp": 1041066220000
+  },
+  "page": "505-514",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Protéines de choc thermique chez la bactérie modérément halophile Deleya halophila: effet protecteur d'une forte concetration saline contre le choc thermique"
+  ],
+  "prefix": "10.1016",
+  "volume": "139",
+  "author": [
+    {
+      "given": "S",
+      "family": "Karamanou",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "container-title": [
+    "Research in Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://api.elsevier.com/content/article/PII:0923-2508(88)90097-6?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://api.elsevier.com/content/article/PII:0923-2508(88)90097-6?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        18
+      ]
+    ],
+    "date-time": "2015-09-18T15:10:56Z",
+    "timestamp": 1442589056000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://linkinghub.elsevier.com/retrieve/pii/0923250888900976"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1988,
+        10
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          1988,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "0923-2508(88)90097-6"
+  ],
+  "URL": "https://doi.org/10.1016/0923-2508(88)90097-6",
+  "relation": {},
+  "ISSN": [
+    "0923-2508"
+  ],
+  "issn-type": [
+    {
+      "value": "0923-2508",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1988,
+        10
+      ]
+    ]
+  }
+}

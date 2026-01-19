@@ -1,0 +1,173 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        3
+      ]
+    ],
+    "date-time": "2022-04-03T09:36:30Z",
+    "timestamp": 1648978590506
+  },
+  "reference-count": 1,
+  "publisher": "Elsevier BV",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2001,
+            2,
+            1
+          ]
+        ],
+        "date-time": "2001-02-01T00:00:00Z",
+        "timestamp": 980985600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Trends in Microbiology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2001,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1016/s0966-842x(01)01953-9",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        7,
+        25
+      ]
+    ],
+    "date-time": "2002-07-25T19:48:54Z",
+    "timestamp": 1027626534000
+  },
+  "page": "58",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Genome sequence of an extreme halophile"
+  ],
+  "prefix": "10.1016",
+  "volume": "9",
+  "author": [
+    {
+      "given": "Mark",
+      "family": "Pallen",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S0966-842X(01)01953-9_BIB1",
+      "doi-asserted-by": "crossref",
+      "first-page": "12176",
+      "DOI": "10.1073/pnas.190337797",
+      "article-title": "Genome sequence of Halobacterium species NRC-1",
+      "volume": "97",
+      "author": "Ng",
+      "year": "2000",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    }
+  ],
+  "container-title": [
+    "Trends in Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0966842X01019539?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0966842X01019539?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        4,
+        22
+      ]
+    ],
+    "date-time": "2019-04-22T06:50:37Z",
+    "timestamp": 1555915837000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0966842X01019539"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2001,
+        2
+      ]
+    ]
+  },
+  "references-count": 1,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0966842X01019539"
+  ],
+  "URL": "https://doi.org/10.1016/s0966-842x(01)01953-9",
+  "relation": {},
+  "ISSN": [
+    "0966-842X"
+  ],
+  "issn-type": [
+    {
+      "value": "0966-842X",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2001,
+        2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2024-09-10T07:22:48Z",
+    "timestamp": 1725952968441
+  },
+  "publisher-location": "Boca Raton : Taylor & Francis, a CRC title, part of the Taylor & Francis imprint, a member of the Taylor & Francis Group, the academic division of T&F Informa plc, 2018.",
+  "edition-number": "1",
+  "reference-count": 1,
+  "publisher": "CRC Press",
+  "isbn-type": [
+    {
+      "type": "electronic",
+      "value": "9781315154695"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1201/9781315154695-4",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        10,
+        14
+      ]
+    ],
+    "date-time": "2018-10-14T23:33:47Z",
+    "timestamp": 1539560027000
+  },
+  "page": "65-86",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Culture Studies on a Halophile Dunaliella salina from Tropical Solar Salterns, Bay of Bengal, India"
+  ],
+  "prefix": "10.1201",
+  "author": [
+    {
+      "given": "Suman",
+      "family": "Keerthi",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "301",
+  "reference": [
+    {
+      "key": "ref4",
+      "unstructured": "Borowitzka, L. , and M. Borowitzka . Commercial production of β-carotene by Dunaliella salina in open ponds. Bull. Mar. Sci. 47 (1990):244–252."
+    }
+  ],
+  "container-title": [
+    "Extremophiles"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        5
+      ]
+    ],
+    "date-time": "2021-04-05T05:48:37Z",
+    "timestamp": 1617601717000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.taylorfrancis.com/books/9781498774932/chapters/10.1201/9781315154695-4"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        9
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781315154695"
+  ],
+  "references-count": 1,
+  "URL": "https://doi.org/10.1201/9781315154695-4",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        9
+      ]
+    ]
+  }
+}

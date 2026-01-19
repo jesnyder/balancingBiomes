@@ -1,0 +1,195 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        8
+      ]
+    ],
+    "date-time": "2025-11-08T22:51:46Z",
+    "timestamp": 1762642306428
+  },
+  "reference-count": 0,
+  "publisher": "American Society for Microbiology",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1966,
+            2,
+            1
+          ]
+        ],
+        "date-time": "1966-02-01T00:00:00Z",
+        "timestamp": -123552000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.asm.org/non-commercial-tdm-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.asm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J Bacteriol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1966,
+        2
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n            <jats:sc>Onishi, H.</jats:sc>\n            (National Research Council, Ottawa, Ontario, Canada),\n            <jats:sc>and D. J. Kushner</jats:sc>\n            . Mechanism of dissolution of envelopes of the extreme halophile\n            <jats:italic>Halobacterium cutirubrum</jats:italic>\n            . J. Bacteriol.\n            <jats:bold>91:</jats:bold>\n            646–652. 1966.—Envelopes of\n            <jats:italic>Halobacterium cutirubrum</jats:italic>\n            dissolved rapidly in media of low ionic strength. Heating partially inhibited breakdown, probably because of nonspecific protein coagulation rather than inactivation of a lytic enzyme(s). Dissolution of envelopes in water did not involve splitting of peptide bonds or protein-lipid bonds, or any extensive breakdown of carbohydrate polymers. Dissolution was increased by alcohols and urea, even at high salt concentrations, but was not affected by metabolic inhibitors. Thus, no evidence was found for a dilution-activated lytic enzyme that contributes to envelope breakdown. Cells of\n            <jats:italic>H. cutirubrum</jats:italic>\n            were stable in 2\n            <jats:sc>m</jats:sc>\n            NaCl, but lysis occurred in 2\n            <jats:sc>m</jats:sc>\n            KCl or NH\n            <jats:sub>4</jats:sub>\n            Cl. This lysis did not involve an extensive breakdown of the envelope. No evidence for different sites of Na\n            <jats:sup>+</jats:sup>\n            , K\n            <jats:sup>+</jats:sup>\n            , and NH\n            <jats:sub>4</jats:sub>\n            <jats:sup>+</jats:sup>\n            action was obtained from the pattern of release of envelope constituents in different concentrations of these salts. Ultracentrifugation studies showed that adding salts to envelopes that had been dissolved in water led to a nonspecific reaggregation of envelope material. No difference was seen between the effects of KCl and NaCl, except at 3 to 4\n            <jats:sc>m</jats:sc>\n            concentrations where KCl caused more aggregation. The preferential effect of Na\n            <jats:sup>+</jats:sup>\n            on intact cells is probably due to its ability specifically to prevent leakage rather than to an overall effect on envelope integrity.\n          </jats:p>",
+  "DOI": "10.1128/jb.91.2.646-652.1966",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        3
+      ]
+    ],
+    "date-time": "2020-01-03T21:38:56Z",
+    "timestamp": 1578087536000
+  },
+  "page": "646-652",
+  "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 21,
+  "title": [
+    "Mechanism of Dissolution of Envelopes of the Extreme Halophile\n            <i>Halobacterium cutirubrum</i>"
+  ],
+  "prefix": "10.1128",
+  "volume": "91",
+  "author": [
+    {
+      "given": "H.",
+      "family": "Onishi",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Division of Biosciences, National Research Council, Ottawa, Ontario, Canada"
+        }
+      ]
+    },
+    {
+      "given": "D. J.",
+      "family": "Kushner",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Division of Biosciences, National Research Council, Ottawa, Ontario, Canada"
+        }
+      ]
+    }
+  ],
+  "member": "235",
+  "container-title": [
+    "Journal of Bacteriology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.91.2.646-652.1966",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.91.2.646-652.1966",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        4
+      ]
+    ],
+    "date-time": "2021-09-04T01:29:59Z",
+    "timestamp": 1630718999000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.asm.org/doi/10.1128/jb.91.2.646-652.1966"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1966,
+        2
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          1966,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1128/jb.91.2.646-652.1966"
+  ],
+  "URL": "https://doi.org/10.1128/jb.91.2.646-652.1966",
+  "relation": {},
+  "ISSN": [
+    "0021-9193",
+    "1098-5530"
+  ],
+  "issn-type": [
+    {
+      "value": "0021-9193",
+      "type": "print"
+    },
+    {
+      "value": "1098-5530",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1966,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-02-01",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

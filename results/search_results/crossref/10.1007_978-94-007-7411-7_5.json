@@ -1,0 +1,554 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2025-02-21T00:17:50Z",
+    "timestamp": 1740097070548,
+    "version": "3.37.3"
+  },
+  "publisher-location": "Dordrecht",
+  "reference-count": 43,
+  "publisher": "Springer Netherlands",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9789400774100"
+    },
+    {
+      "type": "electronic",
+      "value": "9789400774117"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-94-007-7411-7_5",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        5,
+        12
+      ]
+    ],
+    "date-time": "2014-05-12T05:17:20Z",
+    "timestamp": 1399871840000
+  },
+  "page": "73-80",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "title": [
+    "Feasibility of Halophyte Domestication for High-Salinity Agriculture"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "J. Jed",
+      "family": "Brown",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Edward P.",
+      "family": "Glenn",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "S. E.",
+      "family": "Smith",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "5_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "875",
+      "DOI": "10.1071/PP9950875",
+      "volume": "22",
+      "author": "TJ Flower",
+      "year": "1995",
+      "unstructured": "Flower TJ, Yeo AR (1995) Breeding for salinity resistance in crop plants: where next? Aust J Plant Physiol 22:875–884",
+      "journal-title": "Aust J Plant Physiol"
+    },
+    {
+      "key": "5_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "15",
+      "DOI": "10.1016/j.agwat.2005.04.015",
+      "volume": "78",
+      "author": "TJ Flower",
+      "year": "2005",
+      "unstructured": "Flower TJ, Flowers SA (2005) Why does salinity pose such a difficult problem for plant breeders? Agric Water Manag 78:15–24",
+      "journal-title": "Agric Water Manag"
+    },
+    {
+      "key": "5_CR3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rozema J, Schat H (2012) Salt tolerance of halophytes, research questions reviewed in the perspective of saline agriculture. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.08.004",
+      "DOI": "10.1016/j.envexpbot.2012.08.004"
+    },
+    {
+      "key": "5_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "1478",
+      "DOI": "10.1126/science.1168572",
+      "volume": "322",
+      "author": "J Rozema",
+      "year": "2008",
+      "unstructured": "Rozema J, Flowers T (2008) Crops for a salinized world. Science 322:1478–1480",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.1086/415032",
+      "volume": "61",
+      "author": "T Flowers",
+      "year": "1986",
+      "unstructured": "Flowers T, Hajibagheri M, Clipson N (1986) Halophytes. Quart Rev Biol 61:313–337",
+      "journal-title": "Quart Rev Biol"
+    },
+    {
+      "key": "5_CR6",
+      "volume-title": "HALOPH; salt tolerant plants for the world-a computerized global data base of halophytes with emphasis on their economic uses",
+      "author": "J Aronson",
+      "year": "1989",
+      "unstructured": "Aronson J (1989) HALOPH; salt tolerant plants for the world-a computerized global data base of halophytes with emphasis on their economic uses. University of Arizona Press, Tucson"
+    },
+    {
+      "key": "5_CR7",
+      "volume-title": "Irrigation water management: training manual No.1 – Introduction to irrigation",
+      "author": "A Brouwer",
+      "year": "1985",
+      "unstructured": "Brouwer A, Goffeau M, Heibloem M (1985) Irrigation water management: training manual No.1 – Introduction to irrigation. FAO, Rome"
+    },
+    {
+      "key": "5_CR8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-017-6014-0",
+      "volume-title": "Salinity and aridity: new approaches to old problems",
+      "author": "H Boyko",
+      "year": "1966",
+      "unstructured": "Boyko H (1966) Salinity and aridity: new approaches to old problems. Dr. W. Junk, The Hague"
+    },
+    {
+      "key": "5_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "89",
+      "DOI": "10.1038/scientificamerican0367-89",
+      "volume": "216",
+      "author": "H Boyko",
+      "year": "1967",
+      "unstructured": "Boyko H (1967) Salt-water agriculture. Sci Am 216:89–96",
+      "journal-title": "Sci Am"
+    },
+    {
+      "key": "5_CR10",
+      "first-page": "1",
+      "volume": "3",
+      "author": "H Boyko",
+      "year": "1959",
+      "unstructured": "Boyko H, Boyko E (1959) Seawater irrigation, a new line of research on a bioclimatic plant-soil complex. Int J Bioclim 3:1–17",
+      "journal-title": "Int J Bioclim"
+    },
+    {
+      "volume-title": "The biosaline concept: an approach to the utilization of underexploited resources",
+      "year": "1979",
+      "key": "5_CR11",
+      "unstructured": "Holaender A (ed) (1979) The biosaline concept: an approach to the utilization of underexploited resources. Plenum, New York"
+    },
+    {
+      "key": "5_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1525/9780520310926-009",
+      "volume-title": "Water scarcity: impacts on western agriculture",
+      "author": "J Schilfgaarde Van",
+      "year": "1984",
+      "unstructured": "Van Schilfgaarde J, Rhoades JD (1984) Coping with salinity. In: Engelbert EA, Sheuring AF (eds) Water scarcity: impacts on western agriculture. University of California Press, Berkeley/Los Angeles, pp 157–179"
+    },
+    {
+      "key": "5_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "187",
+      "DOI": "10.1007/978-1-4020-9065-3_19",
+      "volume-title": "Salinity and water stress: improving crop efficiency",
+      "author": "SW Breckle",
+      "year": "2009",
+      "unstructured": "Breckle SW (2009) Is sustainable agriculture with seawater irrigation realistic? In: Ashraf M, Ozturk M, Athar HR (eds) Salinity and water stress: improving crop efficiency. Springer Science + Business Media, Dordrecht, pp 187–196. Springer, Netherlands"
+    },
+    {
+      "key": "5_CR14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Katschnig D, Broekman R, Rozema J (2012) Salt tolerance in the halophyte Salicornia dolichostachya Moss: growth, morphology and physiology. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.04.002",
+      "DOI": "10.1016/j.envexpbot.2012.04.002"
+    },
+    {
+      "key": "5_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "227",
+      "DOI": "10.1016/S0735-2689(99)00388-3",
+      "volume": "18",
+      "author": "EP Glenn",
+      "year": "1999",
+      "unstructured": "Glenn EP, Brown JJ, Blumwald E (1999) Salt tolerance and crop potential of halophytes. Crit Rev Plant Sci 18:227–255",
+      "journal-title": "Crit Rev Plant Sci"
+    },
+    {
+      "key": "5_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "293",
+      "DOI": "10.1016/S0140-1963(18)31119-4",
+      "volume": "13",
+      "author": "MC Watson",
+      "year": "1987",
+      "unstructured": "Watson MC, O’Leary JW, Glenn EP (1987) Evaluation of Atriplexlentiformis (torr) S.Wats.an Atriplexnummularia Lindl. as irrigated forage crops. J Arid Environ 13:293–303",
+      "journal-title": "J Arid Environ"
+    },
+    {
+      "key": "5_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "107",
+      "DOI": "10.1016/0167-8809(90)90127-Y",
+      "volume": "32",
+      "author": "MC Watson",
+      "year": "1990",
+      "unstructured": "Watson MC (1990) Atriplex species as irrigated forage crops. Agric Ecosyst Environ 32:107–118",
+      "journal-title": "Agric Ecosyst Environ"
+    },
+    {
+      "key": "5_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "473",
+      "DOI": "10.1016/j.agee.2011.01.012",
+      "volume": "140",
+      "author": "D Soliz",
+      "year": "2011",
+      "unstructured": "Soliz D, Glenn EP, Seaman R, Yoklic M, Nelson SG, Brown P (2011) Water consumption, irrigation efficiency and nutritional value of Atriplexlentiformis grown on reverse osmosis brine in a desert irrigation district. Agric Ecosyst Environ 140:473–483",
+      "journal-title": "Agric Ecosyst Environ"
+    },
+    {
+      "key": "5_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "899",
+      "DOI": "10.1016/j.agrformet.2008.11.010",
+      "volume": "149",
+      "author": "FL Jordan",
+      "year": "2009",
+      "unstructured": "Jordan FL, Yoklic M, Morino K, Brown PK, Seaman R, Glenn EP (2009) Consumptive water use and stomatal conductance of Atriplexlentiformis irrigated with industrial brine in a desert irrigation district. Agric For Meteor 149:899–912",
+      "journal-title": "Agric For Meteor"
+    },
+    {
+      "key": "5_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1016/S0140-1963(18)31273-4",
+      "volume": "9",
+      "author": "EP Glenn",
+      "year": "1985",
+      "unstructured": "Glenn EP, O’Leary JW (1985) Productivity and irrigation requirements of halophytes grown with seawater in the Sonoran Desert. J Arid Environ 9:81–91",
+      "journal-title": "J Arid Environ"
+    },
+    {
+      "key": "5_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1065",
+      "DOI": "10.1126/science.251.4997.1065",
+      "volume": "251",
+      "author": "EP Glenn",
+      "year": "1991",
+      "unstructured": "Glenn EP, O’Leary JW, Watson MC et al (1991) Salicornia bigelovii Torr.: an oilseed halophyte for seawater irrigation. Science 251:1065–1067",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5_CR22",
+      "unstructured": "Salunkhe DK (ed) (1992). World oilseeds. Springer, New York"
+    },
+    {
+      "volume-title": "Agricultural handbook no. 60",
+      "year": "1954",
+      "key": "5_CR23",
+      "unstructured": "Richards LA (ed) (1954) Agricultural handbook no. 60. USDA, Washington, DC"
+    },
+    {
+      "key": "5_CR24",
+      "volume-title": "Water quality for agriculture, handbook 29",
+      "author": "RS Ayers",
+      "year": "1976",
+      "unstructured": "Ayers RS, Westcot DW (1976) Water quality for agriculture, handbook 29. FAO, Rome"
+    },
+    {
+      "key": "5_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "32",
+      "DOI": "10.2136/sssaj1978.03615995004200010008x",
+      "volume": "42",
+      "author": "H Frenkel",
+      "year": "1978",
+      "unstructured": "Frenkel H, Goertzen JO, Rhoades JD (1978) Effects of clay type and content, exchangeable sodium percentage, and electrolyte concentration on clay dispersion and soil hydraulic conductivity. Soil Sci Soc Am J 42:32–39",
+      "journal-title": "Soil Sci Soc Am J"
+    },
+    {
+      "key": "5_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.scitotenv.2003.10.012",
+      "volume": "323",
+      "author": "M Qadir",
+      "year": "2004",
+      "unstructured": "Qadir M, Oster JD (2004) Crop and irrigation management strategies for saline-sodic soils and waters aimed at environmentally sustainable agriculture. Sci Total Environ 323:1–19",
+      "journal-title": "Sci Total Environ"
+    },
+    {
+      "key": "5_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "502",
+      "DOI": "10.1016/j.agwat.2010.08.009",
+      "volume": "98",
+      "author": "J Letey",
+      "year": "2011",
+      "unstructured": "Letey J, Hoffman GJ, Hopmans JW et al (2011) Evaluation of soil salinity leaching requirement guidelines. Agric Water Manag 98:502–506",
+      "journal-title": "Agric Water Manag"
+    },
+    {
+      "key": "5_CR28",
+      "unstructured": "Glenn EP, Olsen M, Frye R, Moore D (1994) Use of halophytes to remove carbon from the atmosphere: results of a demonstration experiment. Electric Power Research Institute, TR-103310, Research report 8011–03, Palo Alto, California"
+    },
+    {
+      "key": "5_CR29",
+      "first-page": "221",
+      "volume-title": "Halophytes and biosaline agriculture",
+      "author": "EP Glenn",
+      "year": "1995",
+      "unstructured": "Glenn EP, Riley J, Hicks N, Swingle S (1995) Seawater irrigation of halophytes for animal feed. In: Choukr-Allah R, Malcolm M, Hamdy A (eds) Halophytes and biosaline agriculture. Marcel Dekker, New York, pp 221–236"
+    },
+    {
+      "key": "5_CR30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Glenn EP, Anday T, Chaturvedi R et al (2012) Three halophytes for saline-water agriculture: an oilseed, a forage and a grain crop. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.05.002",
+      "DOI": "10.1016/j.envexpbot.2012.05.002"
+    },
+    {
+      "key": "5_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "711",
+      "DOI": "10.1006/jare.1997.0253",
+      "volume": "36",
+      "author": "EP Glenn",
+      "year": "1997",
+      "unstructured": "Glenn EP, Miyamoto S, Moore D et al (1997) Water requirements for cultivating Salicorniabigelovii Torr. with seawater on sand in a coastal desert environment. J Arid Environ 36:711–730",
+      "journal-title": "J Arid Environ"
+    },
+    {
+      "key": "5_CR32",
+      "first-page": "1",
+      "volume": "24",
+      "author": "P Gepts",
+      "year": "2004",
+      "unstructured": "Gepts P (2004) Crop domestication as a long-term selection experiment. Plant Breed Rev 24:1–44",
+      "journal-title": "Plant Breed Rev"
+    },
+    {
+      "key": "5_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "730",
+      "DOI": "10.1016/j.ecoleng.2010.01.002",
+      "volume": "36",
+      "author": "DB Zerai",
+      "year": "2010",
+      "unstructured": "Zerai DB, Glenn EP, Chatervedi R et al (2010) Potential for the improvement of Salicornia bigelovii through selective breeding. Ecol Eng 36:730–739",
+      "journal-title": "Ecol Eng"
+    },
+    {
+      "key": "5_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "96",
+      "DOI": "10.1111/j.1744-7909.2010.01006.x",
+      "volume": "53",
+      "author": "T Sang",
+      "year": "2011",
+      "unstructured": "Sang T (2011) Toward the domestication of lignocellulosic energy crops: learning from food crop domestication free access. J Integr Plant Biol 53:96–104",
+      "journal-title": "J Integr Plant Biol"
+    },
+    {
+      "key": "5_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "129",
+      "DOI": "10.1007/978-1-4020-5072-5_11",
+      "volume-title": "Sabkha ecosystems",
+      "author": "MA Khan",
+      "year": "2006",
+      "unstructured": "Khan MA, Qaiser M (2006) Halophytes of Pakistan: characteristics, distribution and potential economic usages. In: Khan MA, Böer B, Kust GS, Barth HJ (eds) Sabkha ecosystems. Springer, New York, pp 129–153"
+    },
+    {
+      "key": "5_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "2661",
+      "DOI": "10.1016/j.soilbio.2007.02.005",
+      "volume": "39",
+      "author": "K Ravindran",
+      "year": "2007",
+      "unstructured": "Ravindran K, Venkatesan K, Balakrishnan V, Chellappan K, Balasubramanian T (2007) Restoration of saline land by halophytes for Indian soils. Soil Biol Biochem 39:2661–2664",
+      "journal-title": "Soil Biol Biochem"
+    },
+    {
+      "key": "5_CR37",
+      "first-page": "31",
+      "volume": "8",
+      "author": "K Zhao",
+      "year": "2002",
+      "unstructured": "Zhao K, Fan H, Jiang X, Song J (2002) Improvement and utilization of saline soil by planting halophytes. Chin J Appl Environ Biol 8:31–35",
+      "journal-title": "Chin J Appl Environ Biol"
+    },
+    {
+      "key": "5_CR38",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.2135/1992.cropsandman",
+      "volume-title": "Crops and man",
+      "author": "JR Harlan",
+      "year": "1992",
+      "unstructured": "Harlan JR (1992) Crops and man. Crop Science Society of American, Madison"
+    },
+    {
+      "key": "5_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "29",
+      "DOI": "10.1111/j.1469-8137.2012.04253.x",
+      "volume": "196",
+      "author": "RS Meyer",
+      "year": "2012",
+      "unstructured": "Meyer RS, DuVal AE, Jensen HR (2012) Patterns and processes in crop domestication: an historical review and quantitative analysis of 203 global food crops. New Phytol 196:29–48",
+      "journal-title": "New Phytol"
+    },
+    {
+      "key": "5_CR40",
+      "first-page": "9",
+      "volume-title": "Crop ferality and volunteerism",
+      "author": "SI Warwick",
+      "year": "2005",
+      "unstructured": "Warwick SI, Stewart C (2005) Crops come from wild plants – how domestication, transgenes, and linkage together shape ferality. In: Gressel J (ed) Crop ferality and volunteerism. CRC Press, Boca Raton, pp 9–30"
+    },
+    {
+      "key": "5_CR41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gul B, Ansari R, Flowers TJ, Khan MA (2012) Germination strategies of halophyte seeds under salinity. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.11.006",
+      "DOI": "10.1016/j.envexpbot.2012.11.006"
+    },
+    {
+      "key": "5_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "15",
+      "DOI": "10.1111/j.1469-8137.2008.02432.x",
+      "volume": "179",
+      "author": "A Karp",
+      "year": "2008",
+      "unstructured": "Karp A, Shield I (2008) Bioenergy from plants and the sustainable yield challenge. New Phytol 179:15–31",
+      "journal-title": "New Phytol"
+    },
+    {
+      "key": "5_CR43",
+      "first-page": "485",
+      "volume-title": "Principles of plant breeding",
+      "author": "RW Allard",
+      "year": "1999",
+      "unstructured": "Allard RW (1999) Principles of plant breeding. Wiley, New York, p 485"
+    }
+  ],
+  "container-title": [
+    "Tasks for Vegetation Science",
+    "Sabkha Ecosystems: Volume IV: Cash Crop Halophyte and Biodiversity Conservation"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/978-94-007-7411-7_5",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        3
+      ]
+    ],
+    "date-time": "2022-04-03T12:11:38Z",
+    "timestamp": 1648987898000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/978-94-007-7411-7_5"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "ISBN": [
+    "9789400774100",
+    "9789400774117"
+  ],
+  "references-count": 43,
+  "URL": "https://doi.org/10.1007/978-94-007-7411-7_5",
+  "relation": {},
+  "ISSN": [
+    "0167-9406",
+    "1875-130X"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0167-9406"
+    },
+    {
+      "type": "electronic",
+      "value": "1875-130X"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  }
+}

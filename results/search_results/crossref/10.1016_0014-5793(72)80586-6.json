@@ -1,0 +1,249 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2025-09-10T22:00:27Z",
+    "timestamp": 1757541627867
+  },
+  "reference-count": 12,
+  "publisher": "Wiley",
+  "issue": "1-2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2001,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2001-10-22T00:00:00Z",
+        "timestamp": 1003708800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 10613,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "FEBS Letters"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1972,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/0014-5793(72)80586-6",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        8,
+        26
+      ]
+    ],
+    "date-time": "2002-08-26T19:45:48Z",
+    "timestamp": 1030391148000
+  },
+  "page": "257-260",
+  "source": "Crossref",
+  "is-referenced-by-count": 10,
+  "title": [
+    "Allosteric inhibition of NADP‐linked malic enzyme from an extreme halophile by acetyl‐CoA"
+  ],
+  "prefix": "10.1002",
+  "volume": "26",
+  "author": [
+    {
+      "given": "Maria Cristina",
+      "family": "Vidal",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Juan José",
+      "family": "Cazzulo",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2001,
+        10,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_1_2_1",
+      "unstructured": "1967 Academic Press Inc London H. Larsen A.H. Rose J.F. Wilkinson Advances in Microbial Physiology 97"
+    },
+    {
+      "key": "e_1_2_1_3_1",
+      "unstructured": "1968 Academic Press Inc London D.J. Kushner W.W. Umbreit D. Perlman Advances in Applied Microbiology 73"
+    },
+    {
+      "key": "e_1_2_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1139/o69-175"
+    },
+    {
+      "key": "e_1_2_1_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi00752a011"
+    },
+    {
+      "key": "e_1_2_1_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1128/jb.109.1.437-439.1972"
+    },
+    {
+      "key": "e_1_2_1_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0006-291X(68)90524-X"
+    },
+    {
+      "key": "e_1_2_1_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0021-9258(18)91756-4"
+    },
+    {
+      "key": "e_1_2_1_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1128/br.34.1.20-39.1970"
+    },
+    {
+      "key": "e_1_2_1_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0076-6879(57)03481-3"
+    },
+    {
+      "key": "e_1_2_1_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.1966.0064"
+    },
+    {
+      "key": "e_1_2_1_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0021-9258(19)52451-6"
+    },
+    {
+      "key": "e_1_2_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0014-5793(72)80223-0"
+    }
+  ],
+  "container-title": [
+    "FEBS Letters"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1016%2F0014-5793%2872%2980586-6",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1016%2F0014-5793(72)80586-6",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://febs.onlinelibrary.wiley.com/doi/pdf/10.1016/0014-5793%2872%2980586-6",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        17
+      ]
+    ],
+    "date-time": "2023-09-17T02:03:25Z",
+    "timestamp": 1694916205000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://febs.onlinelibrary.wiley.com/doi/10.1016/0014-5793%2872%2980586-6"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1972,
+        10
+      ]
+    ]
+  },
+  "references-count": 12,
+  "journal-issue": {
+    "issue": "1-2",
+    "published-print": {
+      "date-parts": [
+        [
+          1972,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1016/0014-5793(72)80586-6"
+  ],
+  "URL": "https://doi.org/10.1016/0014-5793(72)80586-6",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0014-5793",
+    "1873-3468"
+  ],
+  "issn-type": [
+    {
+      "value": "0014-5793",
+      "type": "print"
+    },
+    {
+      "value": "1873-3468",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1972,
+        10
+      ]
+    ]
+  }
+}

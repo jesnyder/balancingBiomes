@@ -1,0 +1,378 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2025-10-20T18:46:14Z",
+    "timestamp": 1760985974520,
+    "version": "3.44.0"
+  },
+  "reference-count": 13,
+  "publisher": "Elsevier BV",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1973,
+            7,
+            1
+          ]
+        ],
+        "date-time": "1973-07-01T00:00:00Z",
+        "timestamp": 110332800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            1973,
+            7,
+            1
+          ]
+        ],
+        "date-time": "1973-07-01T00:00:00Z",
+        "timestamp": 110332800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            29
+          ]
+        ],
+        "date-time": "2020-09-29T00:00:00Z",
+        "timestamp": 1601337600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 17257,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "jlr.org",
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Lipid Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1973,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1016/s0022-2275(20)36877-2",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        7
+      ]
+    ],
+    "date-time": "2021-01-07T09:47:12Z",
+    "timestamp": 1610012832000
+  },
+  "page": "438-445",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 59,
+  "title": [
+    "Structure determination of the glycolipid sulfate from the extreme halophile Halobacterium cutirubrum"
+  ],
+  "prefix": "10.1016",
+  "volume": "14",
+  "author": [
+    {
+      "given": "M.",
+      "family": "Kates",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "P.W.",
+      "family": "Deroo",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "971",
+      "DOI": "10.1139/o68-145",
+      "article-title": "Radioisotopic studies on the biosynthesis of the glyceryl diether lipids of Halobacterium cutirubrum",
+      "volume": "46",
+      "author": "Kates",
+      "year": "1968",
+      "journal-title": "Can. J. Biochem"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1016/0005-2760(67)90034-3",
+      "article-title": "A new glycolipid sulfate ester in Halobacterium cutirubrum",
+      "volume": "137",
+      "author": "Kates",
+      "year": "1967",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "422",
+      "DOI": "10.1016/S0022-2275(20)36875-9",
+      "article-title": "Structure determination of the phosphatidylglycerosulfate (diether analog) from Halobacterium cutirubrum",
+      "volume": "14",
+      "author": "Hancock",
+      "year": "1973",
+      "journal-title": "J. Lipid Res"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "466",
+      "DOI": "10.1016/S0021-9258(18)70226-3",
+      "article-title": "Phosphorus assay in column chromatography",
+      "volume": "234",
+      "author": "Bartlett",
+      "year": "1959",
+      "journal-title": "J. Biol. Chem"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "350",
+      "DOI": "10.1021/ac60111a017",
+      "article-title": "Colorimetric method for determination of sugars and related substances",
+      "volume": "28",
+      "author": "Dubois",
+      "year": "1956",
+      "journal-title": "Anal. Chem"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "444",
+      "DOI": "10.1038/166444b0",
+      "article-title": "Detection of sugars on paper chromatograms",
+      "volume": "166",
+      "author": "Trevelyan",
+      "year": "1950",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "782",
+      "DOI": "10.1016/S0022-2275(20)42693-8",
+      "article-title": "Characterization and synthesis of mono-and diphytanyl ethers of glycerol",
+      "volume": "9",
+      "author": "Joo",
+      "year": "1968",
+      "journal-title": "J. Lipid Res"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "132",
+      "DOI": "10.1016/S0022-2275(20)40276-7",
+      "article-title": "Simplified procedures for hydrolysis or methanolysis of lipids",
+      "volume": "5",
+      "author": "Kates",
+      "year": "1964",
+      "journal-title": "J. Lipid Res"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib9",
+      "first-page": "25",
+      "article-title": "Gas-liquid chromatography of methylated sugars",
+      "volume": "6",
+      "author": "Jones",
+      "year": "1972",
+      "journal-title": "Methods Carbohyd. Chem"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "4092",
+      "DOI": "10.1021/bi00876a044",
+      "article-title": "Aliphatic diether analogs of glyceride-derived lipids. IV. The occurrence of di-O-dihydrophy-tylglycerol ether containing lipids in extremely halophilic bacteria",
+      "volume": "5",
+      "author": "Kates",
+      "year": "1966",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1135",
+      "DOI": "10.1002/cber.19590920521",
+      "article-title": "Eine vereinfachte Oligosaccharid-Syn-these",
+      "volume": "92",
+      "author": "Bredereck",
+      "year": "1959",
+      "journal-title": "Chem. Ber"
+    },
+    {
+      "key": "10.1016/S0022-2275(20)36877-2_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "369",
+      "DOI": "10.1038/165369a0",
+      "article-title": "Preparation of acetobrome-sugars",
+      "volume": "165",
+      "author": "Barczai-Martos",
+      "year": "1950",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S0022-2275(20)36877-2_bib13",
+      "first-page": "299",
+      "article-title": "The chemistry of sulfolipids",
+      "volume": "11",
+      "author": "Haines",
+      "year": "1971",
+      "journal-title": "Progr. Chem. Fats Other Lipids"
+    }
+  ],
+  "container-title": [
+    "Journal of Lipid Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022227520368772?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022227520368772?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ],
+    "date-time": "2025-09-19T17:53:34Z",
+    "timestamp": 1758304414000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022227520368772"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1973,
+        7
+      ]
+    ]
+  },
+  "references-count": 13,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          1973,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0022227520368772"
+  ],
+  "URL": "https://doi.org/10.1016/s0022-2275(20)36877-2",
+  "relation": {},
+  "ISSN": [
+    "0022-2275"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0022-2275"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1973,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Structure determination of the glycolipid sulfate from the extreme halophile Halobacterium cutirubrum",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Lipid Research",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/S0022-2275(20)36877-2",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 1973 ASBMB. Currently published by Elsevier Inc; originally published by American Society for Biochemistry and Molecular Biology.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

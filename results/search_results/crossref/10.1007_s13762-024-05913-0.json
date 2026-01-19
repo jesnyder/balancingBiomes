@@ -1,0 +1,828 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2025-02-21T19:22:12Z",
+    "timestamp": 1740165732582,
+    "version": "3.37.3"
+  },
+  "reference-count": 52,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            30
+          ]
+        ],
+        "date-time": "2024-07-30T00:00:00Z",
+        "timestamp": 1722297600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            30
+          ]
+        ],
+        "date-time": "2024-07-30T00:00:00Z",
+        "timestamp": 1722297600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Int. J. Environ. Sci. Technol."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1007/s13762-024-05913-0",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        30
+      ]
+    ],
+    "date-time": "2024-07-30T18:02:32Z",
+    "timestamp": 1722362552000
+  },
+  "page": "1817-1828",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Rapid phenanthrene biodegradation in highly calcareous saline sodic soil using an artificial halophile bacterial consortium"
+  ],
+  "prefix": "10.1007",
+  "volume": "22",
+  "author": [
+    {
+      "given": "N.",
+      "family": "Hashemi",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5273-2161",
+      "authenticated-orcid": false,
+      "given": "A. A.",
+      "family": "Pourbabaee",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "S.",
+      "family": "Shariati",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "N.",
+      "family": "Yadzanfar",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        30
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "5913_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "107",
+      "DOI": "10.1016/j.ejpe.2015.03.011",
+      "volume": "25",
+      "author": "HI Abdel-Shafy",
+      "year": "2016",
+      "unstructured": "Abdel-Shafy HI, Mansour MSM (2016) A review on polycyclic aromatic hydrocarbons: source, environmental impact, effect on human health and remediation. Egypt J Pet 25:107–123",
+      "journal-title": "Egypt J Pet"
+    },
+    {
+      "key": "5913_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "657",
+      "DOI": "10.1007/s00244-019-00617-w",
+      "volume": "76",
+      "author": "A Adeniji",
+      "year": "2019",
+      "unstructured": "Adeniji A, Okoh O, Okoh A (2019) Levels of polycyclic aromatic hydrocarbons in the water and sediment of Buffalo River Estuary, South Africa and their health risk assessment. Arch Environ Con Tox 76:657–669",
+      "journal-title": "Arch Environ Con Tox"
+    },
+    {
+      "key": "5913_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "815",
+      "DOI": "10.2134/agronmonogr9.2.2ed.c39",
+      "volume-title": "Methods of soil analysis, part 2, chemical and microbiological properties",
+      "author": "M Alexander",
+      "year": "1982",
+      "unstructured": "Alexander M (1982) Most probable number method for microbial populations. In: Page AL, Miller RH, Keeney DR (eds) Methods of soil analysis, part 2, chemical and microbiological properties, 2nd edn. Madison, Wisconsin, USA, pp 815–819",
+      "edition": "2"
+    },
+    {
+      "key": "5913_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "4259",
+      "DOI": "10.1021/es001069+",
+      "volume": "34",
+      "author": "M Alexander",
+      "year": "2000",
+      "unstructured": "Alexander M (2000) Ageing, bioavailability and overestimation of risk from environmental pollutants. Environ Sci Technol 34:4259–4262",
+      "journal-title": "Environ Sci Technol"
+    },
+    {
+      "issue": "3",
+      "key": "5913_CR5",
+      "first-page": "445",
+      "volume": "35",
+      "author": "P Arulazhagan",
+      "year": "2014",
+      "unstructured": "Arulazhagan P, Sivaraman C, Kumar SA, Aslam M, Banu JR (2014) Co-metabolic degradation of benzo(e)pyrene by halophilic bacterial consortium at different saline conditions. J Environ Biol 35(3):445–452",
+      "journal-title": "J Environ Biol"
+    },
+    {
+      "key": "5913_CR6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.scitotenv.2020.138723",
+      "volume": "727",
+      "author": "Y Cao",
+      "year": "2020",
+      "unstructured": "Cao Y, Zhang B, Zhu Z, Song X, Cai Q, Chen B, Ye X (2020) Microbial eco-physiological strategies for salinity-mediated crude oil biodegradation. Sci Total Environ 727:138723",
+      "journal-title": "Sci Total Environ"
+    },
+    {
+      "key": "5913_CR7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carter MR, Gregorich EG (2008) Soil Sampling and Methods of Analysis. In: 2nd ed, Canadian Society of Soil Science 1224.",
+      "DOI": "10.1201/9781420005271"
+    },
+    {
+      "key": "5913_CR8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envres.2022.113677",
+      "volume": "213",
+      "author": "DN Das",
+      "year": "2022",
+      "unstructured": "Das DN, Ravi N (2022) Influences of polycyclic aromatic hydrocarbon on the epigenome toxicity and its applicability in human health risk assessment. Environ Res 213:113677",
+      "journal-title": "Environ Res"
+    },
+    {
+      "key": "5913_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "789",
+      "DOI": "10.1007/s00253-011-3706-4",
+      "volume": "95",
+      "author": "SMM Dastgheib",
+      "year": "2012",
+      "unstructured": "Dastgheib SMM, Amoozegar MA, Khajeh K, Shavandi M, Ventosa A (2012) Biodegradation of polycyclic aromatic hydrocarbons by a halophilic microbial consortium. Appl Microbiol Biotechnol 95:789–798",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "issue": "7",
+      "key": "5913_CR100",
+      "doi-asserted-by": "publisher",
+      "first-page": "845",
+      "DOI": "10.1016/j.biotechadv.2017.08.001",
+      "volume": "35",
+      "author": "P Dvořák",
+      "year": "2017",
+      "unstructured": "Dvořák P, Nikel PI, Damborský J, de Lorenzo V (2017) Bioremediation 3.0: engineering pollutant-removing bacteria in the times of systemic biology. Biotechnol Adv 35(7):845–866",
+      "journal-title": "Biotechnol Adv"
+    },
+    {
+      "issue": "386",
+      "key": "5913_CR10",
+      "first-page": "1369",
+      "volume": "7",
+      "author": "G Debajyoti",
+      "year": "2016",
+      "unstructured": "Debajyoti G, Shreya G, Dutta TK, Youngho A (2016) Current state of knowledge in microbial degradation of polycyclic aromatic hydrocarbons (PAHs): a review. Front Microbiol 7(386):1369",
+      "journal-title": "Front Microbiol"
+    },
+    {
+      "issue": "1080/10406638",
+      "key": "5913_CR11",
+      "first-page": "1253593",
+      "volume": "10",
+      "author": "H Deka",
+      "year": "2016",
+      "unstructured": "Deka H (2016) Lahkar J (2016) Biodegradation of benzo(a)anthracene employing Paenibacillus sp. HD1PAH: a novel strain isolated from crude oil contaminated soil. Polycycl Aromat Compd 10(1080/10406638):1253593",
+      "journal-title": "Polycycl Aromat Compd"
+    },
+    {
+      "issue": "4",
+      "key": "5913_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "779",
+      "DOI": "10.1111/j.1365-2672.2012.05386.x",
+      "volume": "113",
+      "author": "TC Feng",
+      "year": "2012",
+      "unstructured": "Feng TC, Cui CZ, Dong F, Feng YY, Liu YD, Yang XM (2012) Phenanthrene biodegradation by halophilic Martelella sp. AD-3. J Appl Microbiol 113(4):779–789",
+      "journal-title": "J Appl Microbiol"
+    },
+    {
+      "key": "5913_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "369",
+      "DOI": "10.1590/1413-70542016404023016",
+      "volume": "40",
+      "author": "JR Fink",
+      "year": "2016",
+      "unstructured": "Fink JR, Inda AV, Tiecher T, Barrón V (2016) Iron oxides and organic matter on soil phosphorus availability. Cienc Agrotecnol 40:369–379",
+      "journal-title": "Cienc Agrotecnol"
+    },
+    {
+      "key": "5913_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "113415",
+      "DOI": "10.1016/j.ecoenv.2022.113415",
+      "volume": "235",
+      "author": "WQ Fu",
+      "year": "2022",
+      "unstructured": "Fu WQ, Xu M, Zhang AY, Sun K, Dai CC, Jia Y (2022) Remediation of phenanthrene phytotoxicity by the interaction of rice and endophytic fungus P. liquidambaris in practice. Ecotoxicol Environ Safety 235:113415",
+      "journal-title": "Ecotoxicol Environ Safety"
+    },
+    {
+      "key": "5913_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "165",
+      "DOI": "10.1016/j.ecoenv.2017.08.012",
+      "volume": "147",
+      "author": "M García-Sánchez",
+      "year": "2018",
+      "unstructured": "García-Sánchez M, Košnář Z, Mercl F, Aranda E, Tlustoš P (2018) Comparative study to evaluate natural attenuation, myco augmentation, phytoremediation, and microbial-assisted phytoremediation strategies for the bioremediation of an aged PAH-polluted soil. Ecotoxicol Environ Saf 147:165–174. https://doi.org/10.1016/j.ecoenv.2017.08.012",
+      "journal-title": "Ecotoxicol Environ Saf"
+    },
+    {
+      "key": "5913_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "1369",
+      "DOI": "10.3389/fmicb.2016.01369",
+      "volume": "7",
+      "author": "D Ghosal",
+      "year": "2016",
+      "unstructured": "Ghosal D, Ghosh S, Dutta TK, Ahn Y (2016) Current state of knowledge in microbial degradation of polycyclic aromatic hydrocarbons (PAHs): a review. Front Microbiol 7:1369. https://doi.org/10.3389/fmicb.2016.01369",
+      "journal-title": "Front Microbiol"
+    },
+    {
+      "key": "5913_CR17",
+      "unstructured": "Gong X, Chen X (2010) Effect of Phenanathrene (PHE) on soil Enzyme Activity. In: Conference on Environmental Pollution and Public Health. Scientific Research Publishing USA 201–204."
+    },
+    {
+      "key": "5913_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "1634",
+      "DOI": "10.3389/fmicb.2017.01634",
+      "volume": "8",
+      "author": "A Gran-Scheuch",
+      "year": "2017",
+      "unstructured": "Gran-Scheuch A, Fuentes E, Bravo DM, Jiménez JC, Pérez-Donoso JM (2017) Isolation and characterization of phenanthrene degrading bacteria from diesel fuel-contaminated antarctic soils. Front Microbiol 8:1634",
+      "journal-title": "Front Microbiol"
+    },
+    {
+      "key": "5913_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "229",
+      "DOI": "10.1016/j.chemosphere.2018.05.043",
+      "volume": "207",
+      "author": "J Harmsen",
+      "year": "2018",
+      "unstructured": "Harmsen J, Rietra RPJJ (2018) 25 years monitoring of PAHs and petroleum hydrocarbons biodegradation in soil. Chemosphere 207:229–238",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "5913_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "111924",
+      "DOI": "10.1016/j.envres.2021.111924",
+      "volume": "204",
+      "author": "SA Hoang",
+      "year": "2022",
+      "unstructured": "Hoang SA, Lamb D, Sarkar B, Seshadri B, Yu RMK, Tran TKA, O’Connor J, Rinklebe J, Kirkham MM, Thanh Vo H, Bolan NS (2022) Phosphorus application enhances alkane hydroxylase gene abundance in the rhizosphere of wild plants grown in petroleum-hydrocarbon-contaminated soil. Environ Res 204:111924",
+      "journal-title": "Environ Res"
+    },
+    {
+      "issue": "8",
+      "key": "5913_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1003",
+      "DOI": "10.1016/S1001-0742(07)60163-6",
+      "volume": "19",
+      "author": "LI Hui",
+      "year": "2007",
+      "unstructured": "Hui LI, Zhang Y, Kravchenko I, Hui XU, Zhang CG (2007) Dynamic changes in microbial activity and community structure during biodegradation of petroleum compounds: a laboratory experiment. J Environ Sci 19(8):1003–1013",
+      "journal-title": "J Environ Sci"
+    },
+    {
+      "key": "5913_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "543",
+      "DOI": "10.1016/j.envint.2018.12.051",
+      "volume": "123",
+      "author": "O Idowu",
+      "year": "2019",
+      "unstructured": "Idowu O, Semple KT, Ramadass K, O’Connor W, Hansbro P, Thavamani P (2019) Beyond the obvious: environmental health implications of polar polycyclic aromatic hydrocarbons. Environ Int 123:543–557",
+      "journal-title": "Environ Int"
+    },
+    {
+      "issue": "1",
+      "key": "5913_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "19770",
+      "DOI": "10.1038/s41598-022-24321-3",
+      "volume": "12",
+      "author": "S Kalvandi",
+      "year": "2022",
+      "unstructured": "Kalvandi S, Garousin H, Pourbabaee AA, Farahbakhsh M (2022) The release of petroleum hydrocarbons from a saline-sodic soil by the new biosurfactant-producing strain of Bacillus sp. Sci Rep 12(1):19770",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "key": "5913_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "935",
+      "DOI": "10.1007/s00253-005-0219-z",
+      "volume": "71",
+      "author": "YS Keum",
+      "year": "2006",
+      "unstructured": "Keum YS, Seo JS, Hu Y, Li QX (2006) Degradation pathways of phenanthrene by Sinorhizobium sp. C4. Appl Microbiol Biotechnol 71:935–641",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "issue": "5",
+      "key": "5913_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "309",
+      "DOI": "10.1007/s11270-023-06298-5",
+      "volume": "234",
+      "author": "H Koohkan",
+      "year": "2023",
+      "unstructured": "Koohkan H, Mortazavi MS, Golchin A, Saraji F, Akbarzadeh-Chomachaei G (2023) Comparison of native bacterial and fungal bioaugmentation in the removal of petroleum from soil in the presence of Sorghum. Water Air Soil Pollut 234(5):309",
+      "journal-title": "Water Air Soil Pollut"
+    },
+    {
+      "key": "5913_CR26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jenvman.2023.118492",
+      "volume": "344",
+      "author": "M Kumar",
+      "year": "2023",
+      "unstructured": "Kumar M, Saggu SK, Pratibha P, Singh SK, Kumar S (2023) Exploring the role of microbes for the management of persistent organic pollutants. J Environ Manage 344:118492",
+      "journal-title": "J Environ Manage"
+    },
+    {
+      "key": "5913_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "944",
+      "DOI": "10.1016/j.chemosphere.2016.10.115",
+      "volume": "168",
+      "author": "S Kuppusamy",
+      "year": "2017",
+      "unstructured": "Kuppusamy S, Thavamani P, Venkateswarlu K, Lee YB, Naidu R, Megharaj M (2017) Remediation approaches for polycyclic aromatic hydrocarbons (PAHs) contaminated soils: technological constraints, emerging trends and future directions. Chemosphere 168:944–968",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "5913_CR28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fmicb.2021.824319",
+      "volume": "12",
+      "author": "Y Li",
+      "year": "2022",
+      "unstructured": "Li Y, Li W, Ji L, Song F, Li T, Fu X, Li Q, Xing Y, Zhang Q, Wang J (2022) Effects of salinity on the biodegradation of polycyclic aromatic hydrocarbons in oilfield soils emphasizing degradation genes and soil enzymes. Front Microbiol 12:824319. https://doi.org/10.3389/fmicb.2021.824319",
+      "journal-title": "Front Microbiol"
+    },
+    {
+      "key": "5913_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "5925",
+      "DOI": "10.1007/s11356-015-5822-7",
+      "volume": "23",
+      "author": "C Liao",
+      "year": "2016",
+      "unstructured": "Liao C, Liu X (2016) Prevent the degradation of algicidal ability in Scenedesmus-lysing bacteria using optimized cryopreservation. Environ Sci Pollut Res Int 23:5925–5930",
+      "journal-title": "Environ Sci Pollut Res Int"
+    },
+    {
+      "key": "5913_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "2317",
+      "DOI": "10.1007/s13762-014-0637-5",
+      "volume": "12",
+      "author": "L Madueño",
+      "year": "2015",
+      "unstructured": "Madueño L, Alvarez HM, Morelli IS (2015) Autochthonous bioaugmentation to enhance phenanthrene degradation in soil microcosms under arid conditions. Int J Environ Sci Technol 12:2317–2326",
+      "journal-title": "Int J Environ Sci Technol"
+    },
+    {
+      "key": "5913_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "133948",
+      "DOI": "10.1016/j.chemosphere.2022.133948",
+      "volume": "296",
+      "author": "MA Mallah",
+      "year": "2022",
+      "unstructured": "Mallah MA, Changxing L, Mallah MA, Noreen S, Liu Y, Saeed M, Zhang Q (2022a) Polycyclic aromatic hydrocarbon and its effects on human health: an overeview. Chemosphere 296:133948",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "5913_CR32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.chemosphere.2022.133948",
+      "volume": "296",
+      "author": "AM Mallah",
+      "year": "2022",
+      "unstructured": "Mallah AM, Changxing L, Mallah MA, Noreen S, Liu Y, Saeed M, Xi H, Ahmed B, Feng F, Mirjat AA, Wang W, Jabar A, Naveed M, Li JH, Zhang Q (2022b) Polycyclic aromatic hydrocarbon and its effects on human health: an overeview. Chemosphere 296:133948",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "5913_CR33",
+      "volume-title": "Handbook of hydrocarbon and lipid microbiology",
+      "author": "TJ McGenity",
+      "year": "2010",
+      "unstructured": "McGenity TJ, Gramain A (2010) Halophilic hydrocarbon degraders. In: Timmis KN (ed) Handbook of hydrocarbon and lipid microbiology. Springer-Verlag, Berlin"
+    },
+    {
+      "key": "5913_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "52",
+      "DOI": "10.1016/j.scitotenv.2019.04.376",
+      "volume": "679",
+      "author": "GT Mehetre",
+      "year": "2019",
+      "unstructured": "Mehetre GT, Dastager SG, Dharne MS (2019) Biodegradation of mixed polycyclic aromatic hydrocarbons by pure and mixed cultures of biosurfactant producing thermophilic and thermo-tolerant bacteria. Sci Total Environ 679:52–60. https://doi.org/10.1016/j.scitotenv.2019.04.376",
+      "journal-title": "Sci Total Environ"
+    },
+    {
+      "key": "5913_CR35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fmicb.2020.562813",
+      "volume": "11",
+      "author": "AB Patel",
+      "year": "2020",
+      "unstructured": "Patel AB, Shaikh S, Jain KR, Desai C, Madamwar D (2020) Polycyclic aromatic hydrocarbons: sources, toxicity, and remediation approaches. Front Microbiol 11:562813. https://doi.org/10.3389/fmicb.2020.562813",
+      "journal-title": "Front Microbiol"
+    },
+    {
+      "key": "5913_CR36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.btre.2019.e00388",
+      "volume": "24",
+      "author": "AA Pourbabaee",
+      "year": "2019",
+      "unstructured": "Pourbabaeea AA, Shahriari MH, Garousin H (2019) Biodegradation of phenanthrene as a model hydrocarbon: power display of a super-hydrophobic halotolerant enriched culture derived from a saline-sodic soil. Biotechnol Rep 24:e00388",
+      "journal-title": "Biotechnol Reports"
+    },
+    {
+      "key": "5913_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.apsoil.2005.04.007",
+      "volume": "31",
+      "author": "G Rasul",
+      "year": "2006",
+      "unstructured": "Rasul G, Appuhn A, Muller T, Joergensen RG (2006) Salinity- induced changes in the microbial use of sugarcane filter cake added to soil. Appl Soil Ecol 31:1–10",
+      "journal-title": "Appl Soil Ecol"
+    },
+    {
+      "key": "5913_CR38",
+      "unstructured": "Sawhney BL (1996) The Connecticut Agricultural Eeperiment Station, New Haven, Connecticut, Extraction of organic chemical, In: Methods of Soil Analysis, Part 3, Chemical Methods, Vol 1., Soil Science Society of America, Inc. Madison, Wisconsin. USA"
+    },
+    {
+      "key": "5913_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "2226",
+      "DOI": "10.3390/ijerph18052226",
+      "volume": "18",
+      "author": "K Sayed",
+      "year": "2021",
+      "unstructured": "Sayed K, Baloo L, Sharma NK (2021) Bioremediation of total petroleum hydrocarbons (TPH) by bioaugmentation and biostimulation in water with floating oil spill containment booms as bioreactor basin. Int J Environ Res Public Health 18:2226",
+      "journal-title": "Int J Environ Res Public Health"
+    },
+    {
+      "key": "5913_CR40",
+      "volume-title": "Methods in soil biology",
+      "author": "F Schinner",
+      "year": "2012",
+      "unstructured": "Schinner F, Öhlinger R, Kandeler E, Margesin R (2012) Methods in soil biology. Springer Science & Business Media"
+    },
+    {
+      "key": "5913_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "8254",
+      "DOI": "10.1038/s41598-022-12040-8",
+      "volume": "12",
+      "author": "N Shamsedini",
+      "year": "2022",
+      "unstructured": "Shamsedini N, Dehghani M, Samaei M et al (2022) Health risk assessment of polycyclic aromatic hydrocarbons in individuals living near restaurants: a cross-sectional study in Shiraz. Iran Sci Rep 12:8254",
+      "journal-title": "Iran Sci Rep"
+    },
+    {
+      "key": "5913_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "120",
+      "DOI": "10.1016/j.ecoenv.2015.10.005",
+      "volume": "124",
+      "author": "W Shen",
+      "year": "2016",
+      "unstructured": "Shen W, Zhu N, Cui J, Wang H, Dang Z, Wu P, Luo Y, Shi C (2016) Ecotoxicity monitoring and bioindicator screening of oil-contaminated soil during bioremediation. Ecotoxicol Environ Saf 124:120–128",
+      "journal-title": "Ecotoxicol Environ Saf"
+    },
+    {
+      "key": "5913_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "24",
+      "DOI": "10.2136/sssabookser5.3",
+      "volume-title": "Methods of soil analysis part 3: chemical method",
+      "author": "DL Sparks",
+      "year": "1996",
+      "unstructured": "Sparks DL (1996) Methods of soil analysis part 3: chemical method. Soil Science Society of America, American Society of Agronomy, Madison, pp 24–72"
+    },
+    {
+      "key": "5913_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "109",
+      "DOI": "10.1016/j.agee.2011.12.020",
+      "volume": "149",
+      "author": "J Tang",
+      "year": "2012",
+      "unstructured": "Tang J, Lu X, Sun Q, Zhu W (2012) Aging effect of petroleum hydrocarbons in soil under different attenuation conditions. Agr Ecosyst Environ 149:109–117",
+      "journal-title": "Agr Ecosyst Environ"
+    },
+    {
+      "key": "5913_CR45",
+      "volume-title": "Understanding bioremediation: a guide book for citizens; USEPA: Washington",
+      "author": "USEPA",
+      "year": "1991",
+      "unstructured": "USEPA (1991) Understanding bioremediation: a guide book for citizens; USEPA: Washington. DC, USA"
+    },
+    {
+      "issue": "1",
+      "key": "5913_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "277",
+      "DOI": "10.1016/j.biortech.2016.10.037",
+      "volume": "223",
+      "author": "SJ Varjani",
+      "year": "2017",
+      "unstructured": "Varjani SJ (2017) Microbial degradation of petroleum hydrocarbons. Bioresource Technol 223(1):277–286",
+      "journal-title": "Bioresource Technol"
+    },
+    {
+      "key": "5913_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "67",
+      "DOI": "10.1186/s13568-018-0594-3",
+      "volume": "8",
+      "author": "C Wang",
+      "year": "2018",
+      "unstructured": "Wang C, Huang Y, Zhang Z et al (2018) Salinity effect on the metabolic pathway and microbial function in phenanthrene degradation by a halophilic consortium. AMB Expr 8:67",
+      "journal-title": "AMB Expr"
+    },
+    {
+      "key": "5913_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "108",
+      "DOI": "10.1016/j.jhazmat.2018.09.094",
+      "volume": "364",
+      "author": "S Wu",
+      "year": "2019",
+      "unstructured": "Wu S, Zhou S, Bao H, Chen D, Wang C, Li B, Tong G, Yuan Y, Xu B (2019) Improving risk management by using the spatial interaction relationship of heavy metals and PAHs in urban soil. J Hazard Mater 364:108–116",
+      "journal-title": "J Hazard Mater"
+    },
+    {
+      "key": "5913_CR49",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecolind.2021.107513",
+      "volume": "125",
+      "author": "Z Xu",
+      "year": "2019",
+      "unstructured": "Xu Z, Wang C, Li H, Xu S, Du J, Chen Y, Ma C, Tang J (2019) Concentration, distribution, source apportionment, and risk assessment of surrounding soil PAHs in industrial and rural areas: a comparative study. Ecol Ind 125:107513",
+      "journal-title": "Ecol Ind"
+    },
+    {
+      "issue": "8",
+      "key": "5913_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "883",
+      "DOI": "10.3390/pr8080883",
+      "volume": "8",
+      "author": "C Yaman",
+      "year": "2020",
+      "unstructured": "Yaman C (2020) Performance and kinetics of bioaugmentation, biostimulation, and natural attenuation processes for bioremediation of crude oil-contaminated soils. Processes 8(8):883",
+      "journal-title": "Processes"
+    },
+    {
+      "key": "5913_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "62",
+      "DOI": "10.1016/j.ibiod.2015.10.022",
+      "volume": "107",
+      "author": "H Zhou",
+      "year": "2016",
+      "unstructured": "Zhou H, Wang H, Huang Y, Fang T (2016) Characterization of pyrene degradationby halophilic Thalassospira sp. strain TSL5-1 isolated from the coastal soil of Yellow Sea. China Int Biodeterior Biodegrad 107:62–69",
+      "journal-title": "China Int Biodeterior Biodegrad"
+    }
+  ],
+  "container-title": [
+    "International Journal of Environmental Science and Technology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s13762-024-05913-0.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s13762-024-05913-0/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s13762-024-05913-0.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        28
+      ]
+    ],
+    "date-time": "2025-01-28T08:16:01Z",
+    "timestamp": 1738052161000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s13762-024-05913-0"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        30
+      ]
+    ]
+  },
+  "references-count": 52,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "5913"
+  ],
+  "URL": "https://doi.org/10.1007/s13762-024-05913-0",
+  "relation": {},
+  "ISSN": [
+    "1735-1472",
+    "1735-2630"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "1735-1472"
+    },
+    {
+      "type": "electronic",
+      "value": "1735-2630"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        30
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "6 April 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "12 July 2024",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "16 July 2024",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "30 July 2024",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare that there is not any conflict of interests regarding the publication of this manuscript. In addition, the ethical issues, including plagiarism, informed consent, misconduct, data fabrication and/ or falsification, double publication and/or submission, and redundancy has been completely observed by the authors.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    },
+    {
+      "value": "This article does not contain any studies with human participants or animals performed by any of the authors.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethical approval"
+      }
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        9
+      ]
+    ],
+    "date-time": "2026-01-09T15:19:53Z",
+    "timestamp": 1767971993736,
+    "version": "3.49.0"
+  },
+  "reference-count": 85,
+  "publisher": "MDPI AG",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            18
+          ]
+        ],
+        "date-time": "2023-01-18T00:00:00Z",
+        "timestamp": 1674000000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Applied Sciences"
+  ],
+  "abstract": "<jats:p>To feed the ever-increasing population under changing climate scenarios, it is imperative to investigate the role of halophytes, which are equipped with special adaptation mechanisms to cope under extreme conditions of salinity. In the current review, we aimed to report newly identified bioactive secondary metabolites that might play a role in establishing rhizosphere microbe associations, elucidate the negative impacts of salt stress, and direct the growth and yield of halophytes. A systematic approach was developed that deciphers those metabolites involved in regulating the physiological, biochemical, and molecular responses of halophytes to salt stress. The mechanism of salinity tolerance, recruitment of beneficial microbes, and signaling role of secondary metabolites were also discussed. The role of halotolerant rhizobacteria’ secondary metabolites in the physiology and growth parameters of halophytes was also discussed.</jats:p>",
+  "DOI": "10.3390/app13031299",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        19
+      ]
+    ],
+    "date-time": "2023-01-19T01:33:51Z",
+    "timestamp": 1674092031000
+  },
+  "page": "1299",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Climate Change Modulates Halophyte Secondary Metabolites to Reshape Rhizosphere Halobacteria for Biosaline Agriculture"
+  ],
+  "prefix": "10.3390",
+  "volume": "13",
+  "author": [
+    {
+      "family": "Asadullah",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Biology, The Peace Group of Schools and Colleges, Charsadda 24420, Pakistan"
+        }
+      ]
+    },
+    {
+      "given": "Asghari",
+      "family": "Bano",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biosciences, University of Wah, Wah Cantt 47010, Pakistan"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Andjelkovic, V. (2018). Plant, Abiotic Stress and Responses to Climate Change, IntechOpen.",
+      "DOI": "10.5772/intechopen.69916"
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.3389/fsufs.2021.618092",
+      "article-title": "Climate change and salinity effects on crops and chemical communication between plants and plant growth-promoting microorganisms under stress",
+      "volume": "5",
+      "author": "Ullah",
+      "year": "2021",
+      "journal-title": "Front. Sustain. Food Syst."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "plv020",
+      "DOI": "10.1093/aobpla/plv020",
+      "article-title": "Introduction to the special issue: Halophytes in a changing world",
+      "volume": "7",
+      "author": "Flowers",
+      "year": "2015",
+      "journal-title": "AoB Plants"
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "2307",
+      "DOI": "10.1111/ppl.13581",
+      "article-title": "Negative effects of long-term exposure to salinity, drought, and combined stresses on halophyte Halogeton glomeratus",
+      "volume": "173",
+      "author": "Lu",
+      "year": "2021",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "74",
+      "DOI": "10.1016/j.sajb.2018.01.002",
+      "article-title": "Distribution pattern and salt excretion rate of salt glands in two recretohalophyte species of Limonium (Plumbaginaceae)",
+      "volume": "115",
+      "author": "Leng",
+      "year": "2018",
+      "journal-title": "S. Afr. J. Bot."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sampedro, I., Pérez-Mendoza, D., Toral, L., Palacios, E., Arriagada, C., and Llamas, I. (2020). Effects of halophyte root exudates and their components on chemotaxis, biofilm formation and colonization of halophilic bacterium Halomonas anticariensis FP35T. Microorganisms, 8.",
+      "DOI": "10.3390/microorganisms8040575"
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1035",
+      "DOI": "10.1007/s13197-012-0899-1",
+      "article-title": "Genetically modified foods: Safety, risks and public concerns—A review",
+      "volume": "50",
+      "author": "Bawa",
+      "year": "2013",
+      "journal-title": "J. Food Sci. Technol."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "104601",
+      "DOI": "10.1016/j.envexpbot.2021.104601",
+      "article-title": "Halophyte based Mediterranean agriculture in the contexts of food insecurity and global climate change",
+      "volume": "191",
+      "author": "Hamed",
+      "year": "2021",
+      "journal-title": "Environ. Exp. Bot."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Agudelo, A., Carvajal, M., and Martinez-Ballesta, M.D.C. (2021). Halophytes of the Mediterranean Basin-Underutilized Species with the Potential to be Nutritious Crops in the Scenario of the Climate Change. Foods, 10.",
+      "DOI": "10.3390/foods10010119"
+    },
+    {
+      "key": "ref_10",
+      "first-page": "1336",
+      "article-title": "Metabolomics Analyses Provide Insights into Nutritional Value and Abiotic Stress Tolerance in Halophyte Halogeton glomeratus",
+      "volume": "12",
+      "author": "Wang",
+      "year": "2021",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "17475198211073871",
+      "DOI": "10.1177/17475198211073871",
+      "article-title": "Flavonoids from the leaves of Apocynum venetum and their anti-inflammatory activity",
+      "volume": "46",
+      "author": "Fu",
+      "year": "2022",
+      "journal-title": "J. Chem. Res."
+    },
+    {
+      "key": "ref_12",
+      "first-page": "49",
+      "article-title": "The Therapeutic Properties, Ethno pharmacology and Phytochemistry of Atriplex Species: A review",
+      "volume": "2",
+      "author": "Ali",
+      "year": "2021",
+      "journal-title": "Pak. J. Biochem. Biotechnol."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "3765",
+      "DOI": "10.3889/oamjms.2019.499",
+      "article-title": "Prominent Secondary Metabolites from Selected Genus of Avicennia Leaves",
+      "volume": "7",
+      "author": "Basyuni",
+      "year": "2019",
+      "journal-title": "Maced. J. Med. Sci."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "192",
+      "DOI": "10.1016/j.foodchem.2018.08.022",
+      "article-title": "Bioactive compounds of beetroot and utilization in food processing industry: A critical review",
+      "volume": "272",
+      "author": "Chhikara",
+      "year": "2019",
+      "journal-title": "Food Chem."
+    },
+    {
+      "key": "ref_15",
+      "first-page": "4",
+      "article-title": "Antimicrobial Potential of Various Extract of Suaeda fruticosa Arial Parts against Some Infectious Microbes Used",
+      "volume": "1",
+      "author": "Samiullah",
+      "year": "2012",
+      "journal-title": "Asian Pac. J. Trop. Biomed."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.7897/2230-8407.08699",
+      "article-title": "Screening and evaluation of bioactive components of Cenchrus ciliaris L. by GC-MS analysis",
+      "volume": "8",
+      "author": "Sunita",
+      "year": "2017",
+      "journal-title": "Int. Res. J. Pharm."
+    },
+    {
+      "key": "ref_17",
+      "first-page": "4321",
+      "article-title": "A new functional food ingredient enriched by Phytoecdisteroids and Polyphenols from quinoa grains (Chenopodium quinoa)",
+      "volume": "14",
+      "author": "Zorin",
+      "year": "2021",
+      "journal-title": "Res. J. Pharm. Technol."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "105121",
+      "DOI": "10.1016/j.fitote.2021.105121",
+      "article-title": "Biologically active polyphenolic compounds from Lespedeza bicolor",
+      "volume": "157",
+      "author": "Tarbeeva",
+      "year": "2022",
+      "journal-title": "Fitoterapia"
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "82",
+      "DOI": "10.1080/0972060X.2019.1574611",
+      "article-title": "Essential oil constituents and biological activities of the halophytic plants, Suaeda vermiculata Forssk and Salsola cyclophylla Bakera growing in Saudi Arabia",
+      "volume": "22",
+      "author": "Mohammed",
+      "year": "2019",
+      "journal-title": "J. Essent. Oil Bear. Plants"
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Perrino, E.V., Valerio, F., Jallali, S., Trani, A., and Mezzapesa, G.N. (2021). Ecological and biological properties of Satureja cuneifolia Ten. and Thymus spinulosus Ten.: Two wild officinal species of conservation concern in Apulia (Italy). A preliminary survey. Plants, 10.",
+      "DOI": "10.3390/plants10091952"
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "2107",
+      "DOI": "10.1080/14786419.2019.1655413",
+      "article-title": "Antimicrobial and anti-inflammatory activities of three halophyte plants from Algeria and detection of some biomolecules by HPLC-DAD",
+      "volume": "35",
+      "author": "Belyagoubi",
+      "year": "2021",
+      "journal-title": "Nat. Prod. Res."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "607799",
+      "DOI": "10.3389/fnut.2021.607799",
+      "article-title": "Tecticornia sp. (Samphire): A promising underutilized Australian indigenous edible halophyte",
+      "volume": "8",
+      "author": "Srivarathan",
+      "year": "2021",
+      "journal-title": "Front. Nutr."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.1016/j.sajb.2018.06.013",
+      "article-title": "Unravelling the potential of the medicinal halophyte Eryngium maritimum L.: In vitro inhibition of diabetes-related enzymes, antioxidant potential, polyphenolic profile and mineral composition",
+      "volume": "120",
+      "author": "Pereira",
+      "year": "2019",
+      "journal-title": "S. Afr. J. Bot."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-018-23038-6",
+      "article-title": "Health promoting potential of herbal teas and tinctures from Artemisia campestris subsp. maritima: From traditional remedies to prospective products",
+      "volume": "8",
+      "author": "Pereira",
+      "year": "2018",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "111930",
+      "DOI": "10.1016/j.indcrop.2019.111930",
+      "article-title": "Growth performance, in vitro antioxidant properties and chemical composition of the halophyte Limonium algarvense Erben are strongly influenced by the irrigation salinity",
+      "volume": "143",
+      "author": "Rodrigues",
+      "year": "2020",
+      "journal-title": "Ind. Crops Prod."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carius, B., Silva, H., Silva, A.M., and Pinto, D.C. (2022). Chemical Profiling of Limonium vulgare Mill. Using UHPLC-DAD-ESI/MS2 and GC-MS Analysis. Appl. Sci., 12.",
+      "DOI": "10.3390/app12136384"
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1515/biol-2018-0020",
+      "article-title": "Mechanisms of salt tolerance in halophytes: Current understanding and recent advances",
+      "volume": "13",
+      "author": "Meng",
+      "year": "2018",
+      "journal-title": "Open Life Sci."
+    },
+    {
+      "key": "ref_28",
+      "first-page": "24",
+      "article-title": "Anatomical adaptations of tolerance to salt stress in Cenchrus ciliaris L., a saline desert grass",
+      "volume": "30",
+      "author": "Wasim",
+      "year": "2020",
+      "journal-title": "JAPS J. Anim. Plant Sci."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rozentsvet, O., Shuyskaya, E., Bogdanova, E., Nesterov, V., and Ivanova, L. (2022). Effect of salinity on leaf functional traits and chloroplast lipids composition in Two C3 and C4 Chenopodiaceae Halophytes. Plants, 11.",
+      "DOI": "10.3390/plants11192461"
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1490",
+      "DOI": "10.1111/pce.14279",
+      "article-title": "Salt tolerance in relation to elemental concentrations in leaf cell vacuoles and chloroplasts of a C4 monocotyledonous halophyte",
+      "volume": "45",
+      "author": "Oi",
+      "year": "2022",
+      "journal-title": "Plant Cell Environ."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jēkabsone, A., Andersone-Ozola, U., Karlsons, A., Romanovs, M., and Ievinsh, G. (2022). Effect of salinity on growth, ion accumulation and mineral nutrition of different accessions of a crop wild relative legume species, Trifolium Fragiferum. Plants, 11.",
+      "DOI": "10.3390/plants11060797"
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dumiņs, K., Andersone-Ozola, U., Samsone, I., Elferts, D., and Ievinsh, G. (2021). Growth and physiological performance of a coastal species Trifolium fragiferum as affected by a coexistence with Trifolium repens, NaCl treatment and inoculation with rhizobia. Plants, 10.",
+      "DOI": "10.3390/plants10102196"
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bigot, S., Pongrac, P., Šala, M., Van Elteren, J.T., Martínez, J.P., Lutts, S., and Quinet, M. (2022). The Halophyte Species Solanum chilense Dun. Maintains Its Reproduction despite Sodium Accumulation in Its Floral Organs. Plants, 11.",
+      "DOI": "10.3390/plants11050672"
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.aquabot.2018.01.001",
+      "article-title": "Physiological and molecular evidence for Na+ and Cl− exclusion in the roots of two Suaeda salsa populations",
+      "volume": "146",
+      "author": "Liu",
+      "year": "2018",
+      "journal-title": "Aquat. Bot."
+    },
+    {
+      "key": "ref_35",
+      "first-page": "642",
+      "article-title": "Characterization of metabolic responses to salt stress in soybean seedling using gas chromatography-mass spectrometry",
+      "volume": "34",
+      "author": "Duan",
+      "year": "2022",
+      "journal-title": "Emir. J. Food Agric."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "151589",
+      "DOI": "10.1016/j.flora.2020.151589",
+      "article-title": "Salinity responses of three halophytes from inland salt marshes of Jaén (southern Spain)",
+      "volume": "266",
+      "author": "Bueno",
+      "year": "2020",
+      "journal-title": "Flora"
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Calone, R., Mircea, D.M., González-Orenga, S., Boscaiu, M., Lambertini, C., Barbanti, L., and Vicente, O. (2022). Recovery from Salinity and Drought Stress in the Perennial Sarcocornia fruticosa vs. the Annual Salicornia europaea and S. veneta. Plants, 11.",
+      "DOI": "10.3390/plants11081058"
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yadav, S., Elansary, H.O., Mattar, M.A., M-Elhindi, K., Alotaibi, M.A., and Mishra, A. (2021). Differential accumulation of metabolites in Suaeda sp. provides new insights into abiotic stress tolerance in C4 halophytic species in elevated CO2 conditions. Agronomy, 11.",
+      "DOI": "10.3390/agronomy11010131"
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "104075",
+      "DOI": "10.1016/j.envexpbot.2020.104075",
+      "article-title": "Metabolism regulation during salt exposure in the halophyte Cakile maritima",
+      "volume": "177",
+      "author": "Blasselle",
+      "year": "2020",
+      "journal-title": "Environ. Exp. Bot."
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ibraheem, F., Al-Zahrani, A., and Mosa, A. (2022). Physiological Adaptation of Three Wild Halophytic Suaeda Species: Salt Tolerance Strategies and Metal Accumulation Capacity. Plants, 11.",
+      "DOI": "10.3390/plants11040537"
+    },
+    {
+      "key": "ref_41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pungin, A., Lartseva, L., Loskutnikova, V., Shakhov, V., Krol, O., Popova, E., and Volodina, A. (2022). The Content of Certain Groups of Phenolic Compounds and the Biological Activity of Extracts of Various Halophyte Parts of Spergularia marina (L.) Griseb. and Glaux maritima L. at Different Levels of Soil Salinization. Plants, 11.",
+      "DOI": "10.3390/plants11131738"
+    },
+    {
+      "key": "ref_42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Linic, I., Samec, D., Gruz, J., Vujcic Bok, V., Strnad, M., and Salopek-Sondi, B. (2019). Involvement of phenolic acids in short-term adaptation to salinity stress is species-specific among Brassicaceae. Plants, 8.",
+      "DOI": "10.3390/plants8060155"
+    },
+    {
+      "key": "ref_43",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Al-Mushhin, A.A., Qari, S.H., Fakhr, M.A., Alnusairi, G.S., Alnusaire, T.S., ALrashidi, A.A., and Soliman, M.H. (2021). Exogenous Myo-Inositol Alleviates Salt Stress by Enhancing Antioxidants and Membrane Stability via the Upregulation of Stress Responsive Genes in Chenopodium quinoa L.. Plants, 10.",
+      "DOI": "10.3390/plants10112416"
+    },
+    {
+      "key": "ref_44",
+      "doi-asserted-by": "crossref",
+      "first-page": "544",
+      "DOI": "10.1080/11263504.2018.1508085",
+      "article-title": "Sodium is the critical factor leading to the positive halotropism of the halophyte Limonium bicolor",
+      "volume": "153",
+      "author": "Leng",
+      "year": "2019",
+      "journal-title": "Plant Biosyst."
+    },
+    {
+      "key": "ref_45",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1007/s10265-019-01148-0",
+      "article-title": "NaCl treatment markedly enhanced pollen viability and pollen preservation time of euhalophyte Suaeda salsa via up regulation of pollen development-related genes",
+      "volume": "133",
+      "author": "Guo",
+      "year": "2020",
+      "journal-title": "J. Plant Res."
+    },
+    {
+      "key": "ref_46",
+      "doi-asserted-by": "crossref",
+      "first-page": "284",
+      "DOI": "10.1016/j.plaphy.2020.11.012",
+      "article-title": "Unraveling salt responsive metabolites and metabolic pathways using non-targeted metabolomics approach and elucidation of salt tolerance mechanisms in the xero-halophyte Haloxylon salicornicum",
+      "volume": "158",
+      "author": "Panda",
+      "year": "2021",
+      "journal-title": "Plant Physiol. Biochem."
+    },
+    {
+      "key": "ref_47",
+      "doi-asserted-by": "crossref",
+      "first-page": "519",
+      "DOI": "10.32615/bp.2020.075",
+      "article-title": "Different responses of the halophyte Carex pumila to salt stress",
+      "volume": "64",
+      "author": "Wang",
+      "year": "2020",
+      "journal-title": "Biol. Plant."
+    },
+    {
+      "key": "ref_48",
+      "doi-asserted-by": "crossref",
+      "first-page": "100588",
+      "DOI": "10.1016/j.rhisph.2022.100588",
+      "article-title": "Meta-analysis of community composition patterns of halophyte and xerophyte rhizosphere associated bacteria",
+      "volume": "24",
+      "author": "Rosas",
+      "year": "2022",
+      "journal-title": "Rhizosphere"
+    },
+    {
+      "key": "ref_49",
+      "doi-asserted-by": "crossref",
+      "first-page": "836",
+      "DOI": "10.1038/s41467-022-28448-9",
+      "article-title": "Rhizosphere bacteriome structure and functions",
+      "volume": "13",
+      "author": "Ling",
+      "year": "2022",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "ref_50",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yin, F., Zhang, F., Cheng, Z., and Wang, H. (Research Square, 2021). Drivers on the Halophytes’ Rhizosphere Bacteria Community and Functions in North China Salinized Areas, Research Square.",
+      "DOI": "10.21203/rs.3.rs-215157/v1"
+    },
+    {
+      "key": "ref_51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ruginescu, R., Gomoiu, I., Popescu, O., Cojoc, R., Neagu, S., Lucaci, I., Batrinescu-Moteau, C., and Enache, M. (2020). Bioprospecting for Novel Halophilic and Halotolerant Sources of Hydrolytic Enzymes in Brackish, Saline and Hypersaline Lakes of Romania. Microorganisms, 8.",
+      "DOI": "10.3390/microorganisms8121903"
+    },
+    {
+      "key": "ref_52",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gao, L., Huang, Y., Liu, Y., Mohamed, O.A.A., Fan, X., Wang, L., and Ma, J. (2022). Bacterial community structure and potential microbial coexistence mechanism associated with three halophytes adapting to the Extremely hypersaline environment. Microorganisms, 10.",
+      "DOI": "10.3390/microorganisms10061124"
+    },
+    {
+      "key": "ref_53",
+      "doi-asserted-by": "crossref",
+      "first-page": "100554",
+      "DOI": "10.1016/j.rhisph.2022.100554",
+      "article-title": "Isolation and molecular identification of an indigenous abiotic stress-tolerant plant growth-promoting rhizobacteria from the rhizosphere of the olive tree in southern Morocco",
+      "volume": "23",
+      "author": "Lahsini",
+      "year": "2022",
+      "journal-title": "Rhizosphere"
+    },
+    {
+      "key": "ref_54",
+      "doi-asserted-by": "crossref",
+      "first-page": "619",
+      "DOI": "10.1007/s00248-021-01791-y",
+      "article-title": "Elevated atmospheric CO2 modifies mostly the metabolic active rhizosphere soil microbiome in the Giessen FACE experiment",
+      "volume": "83",
+      "author": "Ratering",
+      "year": "2022",
+      "journal-title": "Microb. Ecol."
+    },
+    {
+      "key": "ref_55",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s11274-018-2509-5",
+      "article-title": "Impact of soil salinity on the microbial structure of halophyte rhizosphere microbiome",
+      "volume": "34",
+      "author": "Mukhtar",
+      "year": "2018",
+      "journal-title": "World. J. Microbiol. Biotechnol."
+    },
+    {
+      "key": "ref_56",
+      "doi-asserted-by": "crossref",
+      "first-page": "108005",
+      "DOI": "10.1016/j.ecss.2022.108005",
+      "article-title": "Salinity drives shifts in soil microbial community composition and network complexity along vegetation community succession in coastal tidal flats",
+      "volume": "276",
+      "author": "Zhou",
+      "year": "2022",
+      "journal-title": "Estuar. Coast. Shelf Sci."
+    },
+    {
+      "key": "ref_57",
+      "doi-asserted-by": "crossref",
+      "first-page": "3168",
+      "DOI": "10.1093/plcell/koac163",
+      "article-title": "Plant–microbe interactions in the rhizosphere via a circular metabolic economy",
+      "volume": "34",
+      "author": "Korenblum",
+      "year": "2022",
+      "journal-title": "Plant Cell"
+    },
+    {
+      "key": "ref_58",
+      "first-page": "1267",
+      "article-title": "Differential impact of plant secondary metabolites on the soil microbiota",
+      "volume": "12",
+      "author": "Frindte",
+      "year": "2021",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_59",
+      "doi-asserted-by": "crossref",
+      "first-page": "eaau6389",
+      "DOI": "10.1126/science.aau6389",
+      "article-title": "A specialized metabolic network selectively modulates Arabidopsis root microbiota",
+      "volume": "10",
+      "author": "Huang",
+      "year": "2019",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref_60",
+      "doi-asserted-by": "crossref",
+      "first-page": "110374",
+      "DOI": "10.1016/j.ecoenv.2020.110374",
+      "article-title": "Root exudates-driven rhizosphere recruitment of the plant growth-promoting rhizobacterium Bacillus flexus KLBMP 4941 and its growth-promoting effect on the coastal halophyte Limonium sinense under salt stress",
+      "volume": "194",
+      "author": "Xiong",
+      "year": "2020",
+      "journal-title": "Ecotoxicol. Environ. Saf."
+    },
+    {
+      "key": "ref_61",
+      "doi-asserted-by": "crossref",
+      "first-page": "fiac010",
+      "DOI": "10.1093/femsec/fiac010",
+      "article-title": "Effect of strigolactones on recruitment of the rice root-associated microbiome",
+      "volume": "98",
+      "author": "Kim",
+      "year": "2022",
+      "journal-title": "FEMS Microbiol. Ecol."
+    },
+    {
+      "key": "ref_62",
+      "doi-asserted-by": "crossref",
+      "first-page": "4699",
+      "DOI": "10.1038/s41598-022-08151-x",
+      "article-title": "Plant growth promoting characteristics of halophilic and halotolerant bacteria isolated from coastal regions of Saurashtra Gujarat",
+      "volume": "12",
+      "author": "Reang",
+      "year": "2022",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "ref_63",
+      "doi-asserted-by": "crossref",
+      "first-page": "148",
+      "DOI": "10.3389/fmicb.2018.00148",
+      "article-title": "Mining halophytes for plant growth-promoting halotolerant bacteria to enhance the salinity tolerance of non-halophytic crops",
+      "volume": "9",
+      "author": "Etesami",
+      "year": "2018",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_64",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1016/j.micres.2018.02.003",
+      "article-title": "Plant growth promoting bacteria as an alternative strategy for salt tolerance in plants: A review",
+      "volume": "209",
+      "author": "Numan",
+      "year": "2018",
+      "journal-title": "Microbiol. Res."
+    },
+    {
+      "key": "ref_65",
+      "doi-asserted-by": "crossref",
+      "first-page": "1849",
+      "DOI": "10.3389/fmicb.2019.01849",
+      "article-title": "Salt-tolerant halophyte rhizosphere bacteria stimulate growth of alfalfa in salty soil",
+      "volume": "10",
+      "author": "Kearl",
+      "year": "2019",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_66",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1007/978-981-32-9664-0_5",
+      "article-title": "Plant growth-promoting rhizospheric microbes for remediation of saline soils",
+      "volume": "Volume 9",
+      "author": "Arora",
+      "year": "2019",
+      "journal-title": "Phyto and Rhizo Remediation"
+    },
+    {
+      "key": "ref_67",
+      "doi-asserted-by": "crossref",
+      "first-page": "1176",
+      "DOI": "10.1016/j.ijbiomac.2019.10.247",
+      "article-title": "Fermentation conditions optimization, purification, and antioxidant activity of exopolysaccharides obtained from the plant growth-promoting endophytic Actinobacteria Glutamicibacter halophytocola KLBMP 5180",
+      "volume": "153",
+      "author": "Xiong",
+      "year": "2020",
+      "journal-title": "Int. J. Biol. Macromol."
+    },
+    {
+      "key": "ref_68",
+      "first-page": "2303",
+      "article-title": "Volatile organic compounds of the plant growth-promoting rhizobacteria JZ-GX1 enhanced the tolerance of Robinia pseudoacacia to salt stress",
+      "volume": "12",
+      "author": "Li",
+      "year": "2021",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "ref_69",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Redondo-Gómez, S., Romano-Rodríguez, E., Mesa-Marín, J., Sola-Elías, C., and Mateos-Naranjo, E. (2022). Consortia of Plant-Growth-Promoting Rhizobacteria Isolated from Halophytes Improve the Response of Swiss Chard to Soil Salinization. Agronomy, 12.",
+      "DOI": "10.3390/agronomy12020468"
+    },
+    {
+      "key": "ref_70",
+      "first-page": "2625",
+      "article-title": "Improved salinity and dust stress tolerance in the desert halophyte Haloxylon aphyllum by halotolerant plant growth-promoting rhizobacteria",
+      "volume": "13",
+      "author": "Etesami",
+      "year": "2022",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "ref_71",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1139/cjm-2014-0668",
+      "article-title": "Isolation of plant-growth-promoting rhizobacteria from rhizospheric soil of halophytes and their impact on maize (Zea mays L.) under induced soil salinity",
+      "volume": "61",
+      "author": "Ullah",
+      "year": "2015",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "ref_72",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.1080/00380768.2018.1509676",
+      "article-title": "Halophyte root powder: An alternative biofertilizer and carrier for saline land",
+      "volume": "64",
+      "author": "Hassan",
+      "year": "2018",
+      "journal-title": "Soil Sci. Plant Nutr."
+    },
+    {
+      "key": "ref_73",
+      "doi-asserted-by": "crossref",
+      "first-page": "e01533-18",
+      "DOI": "10.1128/AEM.01533-18",
+      "article-title": "Diversity of bacterial microbiota of coastal halophyte Limonium sinense and amelioration of salinity stress damage by symbiotic plant growth-promoting actinobacterium Glutamicibacter halophytocola KLBMP 5180",
+      "volume": "84",
+      "author": "Qin",
+      "year": "2018",
+      "journal-title": "Appl. Environ. Microbiol."
+    },
+    {
+      "key": "ref_74",
+      "doi-asserted-by": "crossref",
+      "first-page": "101372",
+      "DOI": "10.1016/j.jksus.2021.101372",
+      "article-title": "Mining of halo-tolerant plant growth promoting rhizobacteria and their impact on wheat (Triticum aestivum L.) under saline conditions",
+      "volume": "33",
+      "author": "Babar",
+      "year": "2021",
+      "journal-title": "J. King Saud Univ. Sci."
+    },
+    {
+      "key": "ref_75",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1007/s11104-019-04310-8",
+      "article-title": "Enhancement of Growth and Salt Tolerance of Tomato Seedlings by a Natural Halotolerant Actinobacterium Glutamicibacter halophytocola KLBMP 5180 Isolated from a Coastal Halophyte",
+      "volume": "445",
+      "author": "Xiong",
+      "year": "2019",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "ref_76",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.1016/j.apsoil.2019.05.023",
+      "article-title": "Growth Stimulation and Alleviation of Salinity Stress to Wheat by the Biofilm Forming Bacillus pumilus Strain FAB10",
+      "volume": "143",
+      "author": "Ansari",
+      "year": "2019",
+      "journal-title": "Appl. Soil Ecol."
+    },
+    {
+      "key": "ref_77",
+      "doi-asserted-by": "crossref",
+      "first-page": "1506",
+      "DOI": "10.3389/fmicb.2019.01506",
+      "article-title": "ACC Deaminase Producing Bacteria with Multifarious Plant Growth Promoting Traits Alleviates Salinity Stress in French Bean (Phaseolus vulgaris) Plants",
+      "volume": "10",
+      "author": "Gupta",
+      "year": "2019",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_78",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1016/j.micres.2017.09.009",
+      "article-title": "Klebsiella sp. Confers Enhanced Tolerance to Salinity and Plant Growth Promotion in Oat Seedlings (Avena sativa)",
+      "volume": "206",
+      "author": "Sapre",
+      "year": "2018",
+      "journal-title": "Microbiol. Res."
+    },
+    {
+      "key": "ref_79",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Shultana, R., Kee Zuan, A.T., Yusop, M.R., and Saud, H.M. (2020). Characterization of Salt-Tolerant Plant Growth-Promoting Rhizobacteria and the Effect on Growth and Yield of Saline-Affected Rice. PLoS ONE, 15.",
+      "DOI": "10.1371/journal.pone.0238537"
+    },
+    {
+      "key": "ref_80",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Aslam, F., and Ali, B. (2018). Halotolerant Bacterial Diversity Associated with Suaeda fruticosa (L.) Forssk. Improved Growth of Maize under Salinity Stress. Agronomy, 8.",
+      "DOI": "10.3390/agronomy8080131"
+    },
+    {
+      "key": "ref_81",
+      "doi-asserted-by": "crossref",
+      "first-page": "552",
+      "DOI": "10.3389/fmicb.2020.00552",
+      "article-title": "Halotolerant marine rhizosphere-competent Actinobacteria promote Salicornia bigelovii growth and seed production using seawater irrigation",
+      "volume": "11",
+      "author": "Mathew",
+      "year": "2020",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_82",
+      "first-page": "1",
+      "article-title": "Mechanisms of halotolerant plant growth promoting Alcaligenes sp. involved in salt tolerance and enhancement of the growth of rice under salinity stress",
+      "volume": "10",
+      "author": "Fatima",
+      "year": "2020",
+      "journal-title": "Biotech"
+    },
+    {
+      "key": "ref_83",
+      "doi-asserted-by": "crossref",
+      "first-page": "1207",
+      "DOI": "10.3389/fmicb.2019.01207",
+      "article-title": "Halomonas rhizobacteria of Avicennia marina of Indian Sundarbans promote rice growth under saline and heavy metal stresses through exopolysaccharide production",
+      "volume": "10",
+      "author": "Mukherjee",
+      "year": "2019",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_84",
+      "doi-asserted-by": "crossref",
+      "first-page": "671",
+      "DOI": "10.1016/S1002-0160(20)60029-7",
+      "article-title": "Autochthonous halotolerant plant growth-promoting rhizobacteria promote bacoside A yield of Bacopa monnieri (L.) Nash and phytoextraction of salt-affected soil",
+      "volume": "30",
+      "author": "Pankaj",
+      "year": "2020",
+      "journal-title": "Pedosphere"
+    },
+    {
+      "key": "ref_85",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1016/j.apsoil.2019.02.022",
+      "article-title": "Improved growth and salinity tolerance of the halophyte Salicornia sp. by co–inoculation with endophytic and rhizosphere bacteria",
+      "volume": "138",
+      "author": "Komaresofla",
+      "year": "2019",
+      "journal-title": "Appl. Soil Ecol."
+    }
+  ],
+  "container-title": [
+    "Applied Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2076-3417/13/3/1299/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        10
+      ]
+    ],
+    "date-time": "2025-10-10T18:09:31Z",
+    "timestamp": 1760119771000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2076-3417/13/3/1299"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        18
+      ]
+    ]
+  },
+  "references-count": 85,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "app13031299"
+  ],
+  "URL": "https://doi.org/10.3390/app13031299",
+  "relation": {},
+  "ISSN": [
+    "2076-3417"
+  ],
+  "issn-type": [
+    {
+      "value": "2076-3417",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        18
+      ]
+    ]
+  }
+}

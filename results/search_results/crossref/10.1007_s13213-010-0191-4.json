@@ -1,0 +1,584 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        30
+      ]
+    ],
+    "date-time": "2025-10-30T11:22:23Z",
+    "timestamp": 1761823343325
+  },
+  "reference-count": 35,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2011,
+            1,
+            13
+          ]
+        ],
+        "date-time": "2011-01-13T00:00:00Z",
+        "timestamp": 1294876800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Ann Microbiol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2011,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1007/s13213-010-0191-4",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2011,
+        1,
+        12
+      ]
+    ],
+    "date-time": "2011-01-12T15:50:35Z",
+    "timestamp": 1294847435000
+  },
+  "page": "749-755",
+  "source": "Crossref",
+  "is-referenced-by-count": 18,
+  "title": [
+    "Solid-state protease production using anchovy waste meal by moderate halophile Serratia proteamaculans AP-CMST isolated from fish intestine"
+  ],
+  "prefix": "10.1007",
+  "volume": "61",
+  "author": [
+    {
+      "given": "Palanichamy",
+      "family": "Esakkiraj",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Suppiah",
+      "family": "Sankaralingam",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Raj",
+      "family": "Usha",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Arunachalam",
+      "family": "Palavesam",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Grasian",
+      "family": "Immanuel",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2011,
+        1,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "191_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "749",
+      "DOI": "10.1016/j.enzmictec.2004.12.022",
+      "volume": "36",
+      "author": "RNZR Abd Rahman",
+      "year": "2005",
+      "unstructured": "Abd Rahman RNZR, Geoka LP, Basrib M, Salleha AB (2005) An organic solvent-tolerant protease from Pseudomonas aeruginosa strain K. Nutritional factors affecting protease production. Enzyme Microb Technol 36:749–757",
+      "journal-title": "Enzyme Microb Technol"
+    },
+    {
+      "key": "191_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1131",
+      "DOI": "10.1016/j.procbio.2004.03.006",
+      "volume": "40",
+      "author": "D Agrawal",
+      "year": "2005",
+      "unstructured": "Agrawal D, Patidar P, Banerjee T, Patil S (2005) Alkaline protease production by a soil isolate of Beauveria felina under SSF condition: parameter optimization and application to soy protein hydrolysis. Process Biochem 40:1131–1136",
+      "journal-title": "Process Biochem"
+    },
+    {
+      "key": "191_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1166",
+      "DOI": "10.1002/jctb.922",
+      "volume": "78",
+      "author": "D Alberts",
+      "year": "2003",
+      "unstructured": "Alberts D, Deive FJ, Sanroman A, Longo MA (2003) Effect of lipids and surfactants on extracellular lipase production by Yarrowia lipolytica. Chem Technol Biotechnol 78:1166–1170",
+      "journal-title": "Chem Technol Biotechnol"
+    },
+    {
+      "key": "191_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "339",
+      "DOI": "10.1007/s10295-006-0201-5",
+      "volume": "34",
+      "author": "D Anandan",
+      "year": "2007",
+      "unstructured": "Anandan D, Marmer WN, Dudley RL (2007) Isolation, characterization and optimization of culture parameters for production of an alkaline protease isolated from Aspergillus tamari. Ind Microbiol Biotechnol 34:339–347",
+      "journal-title": "Ind Microbiol Biotechnol"
+    },
+    {
+      "key": "191_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1007/978-1-4615-2041-2_20",
+      "volume-title": "The seafood industry",
+      "author": "AP Bimbo",
+      "year": "1990",
+      "unstructured": "Bimbo AP (1990) Fish meal and oil. In: Martin RE, Flick GJ (eds) The seafood industry. Van Nostrand Reinhold, New York, pp 325–350"
+    },
+    {
+      "key": "191_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "312",
+      "DOI": "10.1021/bp020126v",
+      "volume": "19",
+      "author": "B Bogar",
+      "year": "2003",
+      "unstructured": "Bogar B, Szakacs G, Pandey A, Sabu A, Linden JC (2003) Production of phytase by Mucor racemosus in solid-state fermentation. Biotechnol Prog 19:312–319",
+      "journal-title": "Biotechnol Prog"
+    },
+    {
+      "issue": "7",
+      "key": "191_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1012",
+      "DOI": "10.1002/jctb.1907",
+      "volume": "83",
+      "author": "J Chutmanop",
+      "year": "2008",
+      "unstructured": "Chutmanop J, Chuichulcherm S, Chisti Y, Srinophakun P (2008) Protease production by Aspergillus oryzae in solid-state fermentation using agroindustrial substrates. Chem Technol Biotechnol 83(7):1012–1018",
+      "journal-title": "Chem Technol Biotechnol"
+    },
+    {
+      "key": "191_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.1016/S0960-8524(01)00057-8",
+      "volume": "80",
+      "author": "YT Ellouz",
+      "year": "2001",
+      "unstructured": "Ellouz YT, Bayoudh A, Kammoun S, Gharsallah N, Nasri M (2001) Production of protease by Bacillus subtilis grown on Sardinella heads and viscera flour. Bioresour Technol 80:40–51",
+      "journal-title": "Bioresour Technol"
+    },
+    {
+      "key": "191_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1023/A:1022549517421",
+      "volume": "19",
+      "author": "YT Ellouz",
+      "year": "2003",
+      "unstructured": "Ellouz YT, Ghorbel B, Souissi N, Kammoun S, Nasri M (2003) Biosynthesis of protease by Pseudomonas aeruginosa MN7 grown on fish substrate. World J Microbiol Biotechnol 19:41–45",
+      "journal-title": "World J Microbiol Biotechnol"
+    },
+    {
+      "issue": "3",
+      "key": "191_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1007/BF03175548",
+      "volume": "58",
+      "author": "HM El-Shora",
+      "year": "2008",
+      "unstructured": "El-Shora HM, Metwally MAA (2008) Production, purification and characterization of proteases from whey by some fungi. Ann Microbiol 58(3):495–502",
+      "journal-title": "Ann Microbiol"
+    },
+    {
+      "key": "191_CR11",
+      "volume-title": "Soybean research in China and the United States",
+      "author": "D Fukushima",
+      "year": "1983",
+      "unstructured": "Fukushima D (1983) Fermented soy foods in the United States. In: Irwin BJ (ed) Soybean research in China and the United States. Kikkoman Foods. Walworth, WI"
+    },
+    {
+      "key": "191_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "757",
+      "DOI": "10.1023/A:1025156105148",
+      "volume": "19",
+      "author": "C Ganesh Kumar",
+      "year": "2003",
+      "unstructured": "Ganesh Kumar C, Parrack P (2003) Arrowroot (Marantha arundinacea) starch as a new low-cost substrate for alkaline protease production. World J Microbiol Biotechnol 19:757–762",
+      "journal-title": "World J Microbiol Biotechnol"
+    },
+    {
+      "key": "191_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "709",
+      "DOI": "10.1002/(SICI)1097-4660(199907)74:7<709::AID-JCTB94>3.0.CO;2-C",
+      "volume": "74",
+      "author": "AP Goes",
+      "year": "1999",
+      "unstructured": "Goes AP, Sheppard JD (1999) Effect of surfactants on α-amylase production in a solid state fermentation process. Chem Technol Biotechnol 74:709–712",
+      "journal-title": "Chem Technol Biotechnol"
+    },
+    {
+      "key": "191_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1263",
+      "DOI": "10.1016/j.procbio.2004.05.010",
+      "volume": "40",
+      "author": "HS Joo",
+      "year": "2005",
+      "unstructured": "Joo HS, Chang CS (2005) Production of protease from a new alkalophilic Bacillus sp. I-312 grown on soybean meal: optimization and some properties. Process Biochem 40:1263–1270",
+      "journal-title": "Process Biochem"
+    },
+    {
+      "key": "191_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1046/j.1365-2672.2003.01982.x",
+      "volume": "95",
+      "author": "HS Joo",
+      "year": "2003",
+      "unstructured": "Joo HS, Kumar CG, Park GC, Paik SR, Chang CS (2003) Oxidant and SDS-stable alkaline protease from Bacillus clausii I-52: production and some properties. Appl Microbiol 95:267–272",
+      "journal-title": "Appl Microbiol"
+    },
+    {
+      "key": "191_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "327",
+      "DOI": "10.1111/j.1574-6968.1994.tb07121.x",
+      "volume": "121",
+      "author": "H Kaminishi",
+      "year": "1994",
+      "unstructured": "Kaminishi H, Hamatake H, Cho T, Tamaki T, Suenaga N, Fujii T, Hagihara Y, Maeda H (1994) Activation of blood clotting factors by microbial proteinases. FEMS Microbiol Lett 121:327–332",
+      "journal-title": "FEMS Microbiol Lett"
+    },
+    {
+      "key": "191_CR17",
+      "unstructured": "Kratzer FH, Latshaw JD, Leeson SL, Moran ET, Parsons KM, Sell JL, Waldrop PW (1994) Nutrient requirements of poultry: 9th revised edn. National Academy Press, Washington, DC, pp 61–79"
+    },
+    {
+      "key": "191_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1729",
+      "DOI": "10.1016/j.biortech.2007.03.046",
+      "volume": "99",
+      "author": "N Mahanta",
+      "year": "2008",
+      "unstructured": "Mahanta N, Gupta A, Khare SK (2008) Production of protease and lipase by solvent tolerant Pseudomonas aeruginosa PseA in solid-state fermentation using Jatropha curcas seed cake as substrate. Bioresour Technol 99:1729–1735",
+      "journal-title": "Bioresour Technol"
+    },
+    {
+      "key": "191_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1590/S1517-83822004000100015",
+      "volume": "35",
+      "author": "WCA Nascimento",
+      "year": "2004",
+      "unstructured": "Nascimento WCA, Martins MLL (2004) Production and properties of an extracellular protease from thermophilic Bacillus sp. Braz J Microbiol 35:91–96",
+      "journal-title": "Braz J Microbiol"
+    },
+    {
+      "key": "191_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1590/S1517-83822006000300020",
+      "volume": "37",
+      "author": "WCA Nascimento",
+      "year": "2006",
+      "unstructured": "Nascimento WCA, Martins MLL (2006) Studies on the stability of protease from Bacillus sp. and its compatibility with commercial detergent. Braz J Microbiol 37:307–311",
+      "journal-title": "Braz J Microbiol"
+    },
+    {
+      "key": "191_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.1007/s002530100731",
+      "volume": "57",
+      "author": "M Okamoto",
+      "year": "2001",
+      "unstructured": "Okamoto M, Yonejima Y, Tsujimoto Y, Suzuki Y, Watanabe K (2001) A thermostable collagenolytic protease with a very large molecular mass produced by thermophilic Bacillus sp. strain MO-1. Appl Microbiol Biotechnol 57:103–108",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "key": "191_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "368",
+      "DOI": "10.1016/j.biortech.2008.05.008",
+      "volume": "100",
+      "author": "AK Patel",
+      "year": "2009",
+      "unstructured": "Patel AK, Deshattiwar MK, Chaudhari BL, Chincholkar SB (2009) Production, purification and chemical characterization of the catecholate siderophore from potent probiotic strains of Bacillus spp. Bioresour Technol 100:368–373",
+      "journal-title": "Bioresour Technol"
+    },
+    {
+      "issue": "4",
+      "key": "191_CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "375",
+      "DOI": "10.1007/s11274-005-9044-x",
+      "volume": "22",
+      "author": "RK Patel",
+      "year": "2006",
+      "unstructured": "Patel RK, Dodia MS, Joshi RH, Singh SP (2006) Production of extracellular halo-alkaline protease from a newly isolated haloalkaliphiilic Bacillus sp. isolated from seawater in Western India. World. J Microbiol Biotechnol 22(4):375–382",
+      "journal-title": "J Microbiol Biotechnol"
+    },
+    {
+      "key": "191_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1046/j.1472-765X.1998.00300.x",
+      "volume": "26",
+      "author": "D Patke",
+      "year": "1998",
+      "unstructured": "Patke D, Dey S (1998) Proteolytic activity from a thermophilic Streptomyces megasporus strain SDP4. Lett Appl Microbiol 26:171–174",
+      "journal-title": "Lett Appl Microbiol"
+    },
+    {
+      "key": "191_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.1016/j.biortech.2005.03.004",
+      "volume": "97",
+      "author": "RS Prakasham",
+      "year": "2006",
+      "unstructured": "Prakasham RS, Subba Rao Ch, Sarma PN (2006) Green gram husk-an inexpensive substrate for alkaline protease production by Bacillus sp. in solid-state fermentation. Bioresour Technol 97:449–1454",
+      "journal-title": "Bioresour Technol"
+    },
+    {
+      "key": "191_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1111/j.1574-6968.1994.tb06639.x",
+      "volume": "115",
+      "author": "FA Rainey",
+      "year": "1994",
+      "unstructured": "Rainey FA, Fritze D, Stackebrandt E (1994) The phylogenetic diversity of thermophilic members of the genus Bacillus as revealed by 16S rDNA analysis. FEMS Microbiol Lett 115:205–212",
+      "journal-title": "FEMS Microbiol Lett"
+    },
+    {
+      "key": "191_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.2323/jgam.45.99",
+      "volume": "45",
+      "author": "W Samarntarn",
+      "year": "1999",
+      "unstructured": "Samarntarn W, Cheevadhanarak S, Tanticharoen M (1999) Production of alkaline protease by a genetically engineered Aspergillus oryzae U1521. J Gen Appl Microbiol 45:99–103",
+      "journal-title": "J Gen Appl Microbiol"
+    },
+    {
+      "key": "191_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "311",
+      "DOI": "10.1385/ABAB:121:1-3:0311",
+      "volume": "121",
+      "author": "VF Soares",
+      "year": "2005",
+      "unstructured": "Soares VF, Castilho LR, Bon EPS, Freire DMG (2005) High-yield Bacillus subtilis protease production by solid-state fermentation. Appl Biochem Biotechnol 121:311–319",
+      "journal-title": "Appl Biochem Biotechnol"
+    },
+    {
+      "issue": "2",
+      "key": "191_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "433",
+      "DOI": "10.1271/bbb.70.433",
+      "volume": "70",
+      "author": "E Setyorini",
+      "year": "2006",
+      "unstructured": "Setyorini E, Takenaka S, Murakami S, Aoki K (2006) Purification and characterization of two novel halotolerant extracellular proteases from Bacillus subtilis strain FP 133. Biosci Biotechnol Biochem 70(2):433–440",
+      "journal-title": "Biosci Biotechnol Biochem"
+    },
+    {
+      "key": "191_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "145",
+      "DOI": "10.1111/j.1365-2672.2004.02435.x",
+      "volume": "98",
+      "author": "R Sunish Kumar",
+      "year": "2005",
+      "unstructured": "Sunish Kumar R, Ayyadurai N, Pandiaraja P, Reddy AV, Venkateswarlu Y, Prakash O, Sakthivel N (2005) Characterization of antifungal metabolite produced by a new strain Pseudomonas aeruginosa PUPa3 that exhibits broad-spectrum antifungal activity and biofertilizing traits. Appl Microbiol 98:145–154",
+      "journal-title": "Appl Microbiol"
+    },
+    {
+      "key": "191_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "120",
+      "DOI": "10.1007/BF00263997",
+      "volume": "30",
+      "author": "H Takami",
+      "year": "1989",
+      "unstructured": "Takami H, Akiba T, Horikaoshi K (1989) Production of extremely thermostable alkaline protease from Bacillus Sp. No. AH-101. Appl Microbiol Biotechnol 30:120–124",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "key": "191_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "187",
+      "DOI": "10.1007/s004490050504",
+      "volume": "19",
+      "author": "R Tunga",
+      "year": "1998",
+      "unstructured": "Tunga R, Banerjee R, Bhattacharyya BC (1998) Optimizing some factors affecting protease production under solid state fermentation. Bioprocess Eng 19:187–190",
+      "journal-title": "Bioprocess Eng"
+    },
+    {
+      "issue": "2",
+      "key": "191_CR33",
+      "first-page": "113",
+      "volume": "31",
+      "author": "H Turan",
+      "year": "2007",
+      "unstructured": "Turan H, Kaya Y, Erkoyuncu U (2007) Protein and lipid content and fatty acid composition of anchovy meal produced in turkey. Turk J Vet Anim Sci 31(2):113–117",
+      "journal-title": "Turk J Vet Anim Sci"
+    },
+    {
+      "key": "191_CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "655",
+      "DOI": "10.1007/s11274-006-9279-1",
+      "volume": "23",
+      "author": "M Vidyasagar",
+      "year": "2007",
+      "unstructured": "Vidyasagar M, Prakash S, Jayalakshmi SK, Sreeramulu K (2007) Optimization of culture conditions for the production of halothermophilic protease from halophilic bacterium Chromohalobacter sp. TVSP101. World J Microbiol Biotechnol 23:655–662",
+      "journal-title": "World J Microbiol Biotechnol"
+    },
+    {
+      "key": "191_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "1569",
+      "DOI": "10.1007/s11274-007-9402-y",
+      "volume": "23",
+      "author": "VP Zambare",
+      "year": "2007",
+      "unstructured": "Zambare VP, Nilegaonkar SS, Kanekar PP (2007) Production of an alkaline protease by Bacillus cereus MCM B-326 and its application as a dehairing agent. World J Microbiol Biotechnol 23:1569–1574",
+      "journal-title": "World J Microbiol Biotechnol"
+    }
+  ],
+  "container-title": [
+    "Annals of Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s13213-010-0191-4.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s13213-010-0191-4/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s13213-010-0191-4",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        2
+      ]
+    ],
+    "date-time": "2019-06-02T11:02:07Z",
+    "timestamp": 1559473327000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/s13213-010-0191-4"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        1,
+        13
+      ]
+    ]
+  },
+  "references-count": 35,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "191"
+  ],
+  "URL": "https://doi.org/10.1007/s13213-010-0191-4",
+  "relation": {},
+  "ISSN": [
+    "1590-4261",
+    "1869-2044"
+  ],
+  "issn-type": [
+    {
+      "value": "1590-4261",
+      "type": "print"
+    },
+    {
+      "value": "1869-2044",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2011,
+        1,
+        13
+      ]
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        27
+      ]
+    ],
+    "date-time": "2025-12-27T17:36:23Z",
+    "timestamp": 1766856983953,
+    "version": "3.48.0"
+  },
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "issue": "S1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            16
+          ]
+        ],
+        "date-time": "2020-04-16T00:00:00Z",
+        "timestamp": 1586995200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 15,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "faseb.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "The FASEB Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:sec>\n                    <jats:label/>\n                    <jats:p>\n                      Protein splicing is a post‐translational process facilitated by an intervening polypeptide called an intein, or internal protein. The intein is located between two flanking polypeptides, called exteins. The intein catalyzes its excision from the extein concomitant with the ligation of the exteins. The extremophile\n                      <jats:italic>Haloferax volcanii</jats:italic>\n                      grows in high salt environments. We are interested in the salt‐dependence of the protein splicing and nuclease activity of the intein that has invaded its DNA Polymerase beta gene. We have shown that we can induce protein splicing of the intein\n                      <jats:italic>in vitro</jats:italic>\n                      as a function of salt concentration and time. The intein has an intervening homing endonuclease domain and we are interested to learn if mutations within this domain would influence splicing. Characterization of a conditionally‐active nuclease may have utility in biotechnology applications.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Support or Funding Information</jats:title>\n                    <jats:p>This work was supported by the National Science Foundation (grant MCB‐1517138), National Institutes of Health (grant 1R15GM132817‐01), and by the Camille &amp; Henry Dreyfus Foundation</jats:p>\n                  </jats:sec>",
+  "DOI": "10.1096/fasebj.2020.34.s1.02647",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        16
+      ]
+    ],
+    "date-time": "2020-04-16T20:41:28Z",
+    "timestamp": 1587069688000
+  },
+  "page": "1-1",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Salt‐dependent protein splicing of an intein from the halophile\n                    <i>Haloferax volcanii</i>"
+  ],
+  "prefix": "10.1096",
+  "volume": "34",
+  "author": [
+    {
+      "given": "Alexandra",
+      "family": "Cawood",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of the Holy Cross"
+        }
+      ]
+    },
+    {
+      "given": "Mercedes",
+      "family": "Ruiz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of the Holy Cross"
+        }
+      ]
+    },
+    {
+      "given": "Kenneth",
+      "family": "Mills",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of the Holy Cross"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        16
+      ]
+    ]
+  },
+  "container-title": [
+    "The FASEB Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        27
+      ]
+    ],
+    "date-time": "2025-12-27T17:33:36Z",
+    "timestamp": 1766856816000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.2020.34.s1.02647"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        4
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "S1",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1096/fasebj.2020.34.s1.02647"
+  ],
+  "URL": "https://doi.org/10.1096/fasebj.2020.34.s1.02647",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0892-6638",
+    "1530-6860"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0892-6638"
+    },
+    {
+      "type": "electronic",
+      "value": "1530-6860"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-04-16",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        14
+      ]
+    ],
+    "date-time": "2025-05-14T11:02:40Z",
+    "timestamp": 1747220560816,
+    "version": "3.40.5"
+  },
+  "reference-count": 0,
+  "publisher": "H1 Connect",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        18
+      ]
+    ]
+  },
+  "DOI": "10.3410/f.737444950.793572178",
+  "type": "dataset",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        18
+      ]
+    ],
+    "date-time": "2020-03-18T13:05:22Z",
+    "timestamp": 1584536722000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Faculty Opinions recommendation of A potassium chloride to glycine betaine osmoprotectant switch in the extreme halophile Halorhodospira halophila."
+  ],
+  "prefix": "10.3410",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1418-363X",
+      "authenticated-orcid": true,
+      "given": "Michail",
+      "family": "Yakimov",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institute for Coastal Marine Environment, Italian National Research Council (CNR), Italy"
+        }
+      ]
+    }
+  ],
+  "member": "4950",
+  "content-created": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        11
+      ]
+    ]
+  },
+  "container-title": [
+    "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        13
+      ]
+    ],
+    "date-time": "2022-09-13T11:05:11Z",
+    "timestamp": 1663067111000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://facultyopinions.com/article/737444950#eval793572178"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        11
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.3410/f.737444950.793572178",
+  "relation": {
+    "is-review-of": [
+      {
+        "id-type": "doi",
+        "id": "10.1038/s41598-020-59231-9",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        11
+      ]
+    ]
+  }
+}

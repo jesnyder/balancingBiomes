@@ -1,0 +1,174 @@
+{
+  "institution": [
+    {
+      "name": "Research Square"
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        14
+      ]
+    ],
+    "date-time": "2025-05-14T06:48:36Z",
+    "timestamp": 1747205316650,
+    "version": "3.40.5"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        21
+      ]
+    ]
+  },
+  "group-title": "In Review",
+  "reference-count": 0,
+  "publisher": "Springer Science and Business Media LLC",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2020-10-21T00:00:00Z",
+        "timestamp": 1603238400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "accepted": {
+    "date-parts": [
+      [
+        2020,
+        7,
+        24
+      ]
+    ]
+  },
+  "abstract": "<title>Abstract</title>\n        <p><bold>Background:</bold> Anther development affects the reproduction of flowering plants. Halophyte<italic> Elaeagnus angustifolia</italic> can bear fruits when grown in saline soils. However, no fruits are born in non-saline soils. The possible reasons and differences in <italic>E. angustifolia</italic> under two conditions were elucidated.<bold>Results:</bold> We examined features including pollen vitality and germination, in situ pollen germination after natural and hand pollination, anthers after pollen release, and the transcriptome in anthers. No significant difference was observed in pollen vitality or stigma receptivity in <italic>E. angustifolia</italic> in non-saline vs. saline habitats. However, no pollen tubes were present in styles, and pollen grains were abundant in <italic>E. angustifolia</italic> anthers under non-saline conditions. Notably, many pollen tubes formed in styles of <italic>E. angustifolia</italic> after hand pollination in the non-saline habitat. And the differentially expressed genes in anthers from saline vs. non-saline habitats were mainly related to phytohormones, cell wall secondary thickening, transcription factors and ion transport.<bold>Conclusions: </bold><italic>E. angustifolia</italic> fail to form fruits in non-saline habitats due to poor anther pollen release. The induction and coordinated upregulation of genes related to anther cell wall formation and JA biosynthesis likely contribute to anther dehiscence in <italic>E. angustifolia</italic> in saline habitats, whereas anther dehiscence is blocked in plants grown in non-saline habitats.</p>",
+  "DOI": "10.21203/rs.3.rs-48371/v2",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2020-10-21T18:20:56Z",
+    "timestamp": 1603304456000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Blocked pollen release prevents fruit formation in the halophyte Elaeagnus angustifolia in non-saline habitats"
+  ],
+  "prefix": "10.21203",
+  "author": [
+    {
+      "given": "Jianrong",
+      "family": "Guo",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Shandong Normal University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0991-9190",
+      "authenticated-orcid": false,
+      "given": "Baoshan",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Shandong Normal University"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "container-title": [],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.researchsquare.com/article/rs-48371/v2",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.researchsquare.com/article/rs-48371/v2.html",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        29
+      ]
+    ],
+    "date-time": "2022-07-29T00:02:04Z",
+    "timestamp": 1659052924000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.researchsquare.com/article/rs-48371/v2"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        21
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.21203/rs.3.rs-48371/v2",
+  "relation": {
+    "is-preprint-of": [
+      {
+        "id-type": "doi",
+        "id": "10.1016/j.envexpbot.2021.104566",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        21
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

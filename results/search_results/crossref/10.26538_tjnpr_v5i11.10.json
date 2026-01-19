@@ -1,0 +1,111 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2025-10-17T14:19:59Z",
+    "timestamp": 1760710799243
+  },
+  "reference-count": 0,
+  "publisher": "University of Benin",
+  "issue": "11",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "TJNPR"
+  ],
+  "DOI": "10.26538/tjnpr/v5i11.10",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        7
+      ]
+    ],
+    "date-time": "2021-12-07T16:53:06Z",
+    "timestamp": 1638895986000
+  },
+  "page": "1949-1957",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Phytochemical screening, Antioxidant Activity and Ex Vivo Immunological-Associated Properties of a Halophyte Extract, Maytenus mekongensis In Sched"
+  ],
+  "prefix": "10.26538",
+  "volume": "5",
+  "member": "11080",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        5
+      ]
+    ]
+  },
+  "container-title": [
+    "Tropical Journal of Natural Product Research"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        7
+      ]
+    ],
+    "date-time": "2021-12-07T16:53:31Z",
+    "timestamp": 1638896011000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://tjnpr.org/viewarticle.aspx?articleid=1981"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        5
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "11",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          5
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.26538/tjnpr/v5i11.10",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        5
+      ]
+    ]
+  }
+}

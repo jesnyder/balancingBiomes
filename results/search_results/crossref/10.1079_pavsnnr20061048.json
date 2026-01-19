@@ -1,0 +1,136 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        7
+      ]
+    ],
+    "date-time": "2025-10-07T05:31:46Z",
+    "timestamp": 1759815106789
+  },
+  "reference-count": 0,
+  "publisher": "CABI Publishing",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "CABI Reviews"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Rapid population growth in the less developed countries of arid and semiarid regions and concomitant decline in productivity of agricultural lands due to shortage of good-quality irrigation water and increasing soil salinity, are exerting enormous pressure on the dwindling supplies of human consumption for food. Equally or even more affected in some cases are other resources, such as fodder for animals and fuel wood for the rural poor. There is growing evidence that this trend is unlikely to reverse at least in the near future. The last quarter of the 20th century has seen an explosion of information leading to a better understanding of the biology of salt tolerance in plants. Most conventional crops have marginal salt tolerance and there is a need to explore alternate options for utilization of salt-affected lands and saline water resources. Research has indicated the potential of many halophytes to withstand high soil salinity and saline water irrigation, some even with seawater. This tolerance is achieved through a number of adaptations such as selective uptake and transport of ions, localization of ions in vacuoles, synthesis of compatible organic solutes for cytoplasmic balancing and protection of enzyme systems. As a consequence, these plants are able to reduce damage and exhibit sustained growth by establishing homeostatic conditions. A wealth of halophytic flora exists which can be exploited for an array of uses like food, fodder, fuel wood, oilseed, medicines, chemicals, landscaping, ornamentals, and environment conservation through carbon sequestration.</jats:p>",
+  "DOI": "10.1079/pavsnnr20061048",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2007,
+        1,
+        25
+      ]
+    ],
+    "date-time": "2007-01-25T11:19:19Z",
+    "timestamp": 1169723959000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 11,
+  "title": [
+    "Crop diversification through halophyte production on salt-prone land resources."
+  ],
+  "prefix": "10.1079",
+  "author": [
+    {
+      "given": "M. A.",
+      "family": "Khan",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "R.",
+      "family": "Ansari",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "B.",
+      "family": "Gul",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "M.",
+      "family": "Qadir",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "242",
+  "published-online": {
+    "date-parts": [
+      [
+        2007,
+        3,
+        21
+      ]
+    ]
+  },
+  "container-title": [
+    "CABI Reviews"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2023-11-01T12:37:07Z",
+    "timestamp": 1698842227000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.cabidigitallibrary.org/doi/10.1079/PAVSNNR20061048"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2007,
+        3,
+        21
+      ]
+    ]
+  },
+  "references-count": 0,
+  "alternative-id": [
+    "10.1079/PAVSNNR20061048"
+  ],
+  "URL": "https://doi.org/10.1079/pavsnnr20061048",
+  "relation": {},
+  "ISSN": [
+    "1749-8848"
+  ],
+  "issn-type": [
+    {
+      "value": "1749-8848",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2007,
+        3,
+        21
+      ]
+    ]
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        18
+      ]
+    ],
+    "date-time": "2026-01-18T01:22:34Z",
+    "timestamp": 1768699354800,
+    "version": "3.49.0"
+  },
+  "reference-count": 47,
+  "publisher": "Elsevier BV",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2020-10-01T00:00:00Z",
+        "timestamp": 1601510400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2020-10-01T00:00:00Z",
+        "timestamp": 1601510400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100000921",
+      "name": "European Cooperation in Science and Technology",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "ES1406"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "ES1406"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000921",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Pedosphere"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/s1002-0160(19)60835-0",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        7
+      ]
+    ],
+    "date-time": "2020-08-07T16:28:50Z",
+    "timestamp": 1596817730000
+  },
+  "page": "684-693",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 23,
+  "title": [
+    "Halophile plant growth-promoting rhizobacteria induce salt tolerance traits in wheat seedlings (Triticum aestivum L.)"
+  ],
+  "prefix": "10.1016",
+  "volume": "30",
+  "author": [
+    {
+      "given": "Maryam",
+      "family": "SAFDARIAN",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Hossein",
+      "family": "ASKARI",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Ghorbanali",
+      "family": "NEMATZADEH",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Adriano",
+      "family": "SOFO",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib704",
+      "series-title": "Ethylene in Plant Biology",
+      "author": "Abeles",
+      "year": "1992"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib705",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1016/j.rhisph.2017.12.001",
+      "article-title": "Plant-associated Bacillus modulates the expression of auxin-responsive genes of rice and modifies the root architecture",
+      "volume": "5",
+      "author": "Ambreetha",
+      "year": "2018",
+      "journal-title": "Rhizosphere"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib706",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1023/A:1005449119884",
+      "article-title": "Effect of exogenously applied L-tryptophan on allelochemical activity of plant-growth-promoting rhizobacteria (PGPR)",
+      "volume": "26",
+      "author": "Barazani",
+      "year": "2000",
+      "journal-title": "J Chem Ecol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib707",
+      "doi-asserted-by": "crossref",
+      "first-page": "666",
+      "DOI": "10.1094/PHYTO-98-6-0666",
+      "article-title": "Protection against pathogen and salt stress by four plant growth-promoting rhizobacteria isolated from Pinus sp. on Arabidopsis thaliana",
+      "volume": "98",
+      "author": "Barriuso",
+      "year": "2008",
+      "journal-title": "Phytopathology"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib708",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1016/0003-2697(76)90527-3",
+      "article-title": "A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding",
+      "volume": "72",
+      "author": "Bradford",
+      "year": "1976",
+      "journal-title": "Anal Biochem"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib709",
+      "doi-asserted-by": "crossref",
+      "first-page": "535",
+      "DOI": "10.1128/aem.57.2.535-538.1991",
+      "article-title": "Rapid in situ assay for indoleacetic acid production by bacteria immobilized on a nitrocellulose membrane",
+      "volume": "57",
+      "author": "Bric",
+      "year": "1991",
+      "journal-title": "Appl Environ Microbiol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib710",
+      "doi-asserted-by": "crossref",
+      "first-page": "1133",
+      "DOI": "10.1080/15226514.2013.821447",
+      "article-title": "Plant growth-promoting bacteria facilitate the growth of barley and oats in salt-impacted soil: Implications for phytoremediation of saline soils",
+      "volume": "16",
+      "author": "Chang",
+      "year": "2014",
+      "journal-title": "Int J Phytoremediation"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib711",
+      "doi-asserted-by": "crossref",
+      "first-page": "371",
+      "DOI": "10.1016/j.tplants.2014.02.001",
+      "article-title": "Plant salt-tolerance mechanisms",
+      "volume": "19",
+      "author": "Deinlein",
+      "year": "2014",
+      "journal-title": "Trends Plant Sci"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib712",
+      "doi-asserted-by": "crossref",
+      "first-page": "973",
+      "DOI": "10.1016/S0038-0717(03)00158-5",
+      "article-title": "Influence of growth-promoting bacteria on the growth of wheat in different soils and temperatures",
+      "volume": "35",
+      "author": "Egamberdiyeva",
+      "year": "2003",
+      "journal-title": "Soil Biol Biochem"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib713",
+      "first-page": "1517",
+      "article-title": "Some plant growth promoting traits of rhizobacteria isolated from Suez Canal region, Egypt",
+      "volume": "8",
+      "author": "El-Azeem",
+      "year": "2007",
+      "journal-title": "Afr Crop Sci Conf Proc"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib714",
+      "doi-asserted-by": "crossref",
+      "first-page": "30",
+      "DOI": "10.1016/j.micres.2013.09.009",
+      "article-title": "Bacteria with ACC deaminase can promote plant growth and help to feed the world",
+      "volume": "169",
+      "author": "Glick",
+      "year": "2014",
+      "journal-title": "Microbiol Res"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib715",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1007/s11104-016-3119-3",
+      "article-title": "Molecular diversity of 1-aminocyclopropane-1-carboxylate (ACC) deaminase producing PGPR from wheat (Triticum aestivum L.) rhizosphere",
+      "volume": "414",
+      "author": "Gontia-Mishra",
+      "year": "2017",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib716",
+      "doi-asserted-by": "crossref",
+      "first-page": "66",
+      "DOI": "10.1016/j.micres.2013.07.004",
+      "article-title": "Screening of PGPR from saline desert of Kutch: Growth promotion in Arachis hypogea by Bacillus licheniformis A2",
+      "volume": "169",
+      "author": "Goswami",
+      "year": "2014",
+      "journal-title": "Microbiol Res"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib717",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1146/annurev.pp.31.060180.001053",
+      "article-title": "Mechanisms of salt tolerance in nonhalophytes",
+      "volume": "31",
+      "author": "Greenway",
+      "year": "1980",
+      "journal-title": "Annu Rev Plant Physiol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib718",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1155/2014/701596",
+      "article-title": "Mechanism of salinity tolerance in plants: Physiological, biochemical, and molecular characterization",
+      "volume": "2014",
+      "author": "Gupta",
+      "year": "2014",
+      "journal-title": "Int J Genomics"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib719",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1007/s00344-012-9292-6",
+      "article-title": "Plant growth-promoting rhizobacteria enhance abiotic stress tolerance in Solanum tuberosum through inducing changes in the expression of ROS-scavenging enzymes and improved photosynthetic performance",
+      "volume": "32",
+      "author": "Gururani",
+      "year": "2013",
+      "journal-title": "J Plant Growth Regul"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib720",
+      "doi-asserted-by": "crossref",
+      "first-page": "1837",
+      "DOI": "10.1007/s11274-010-0365-z",
+      "article-title": "Root colonization and growth enhancement in wheat and tomato by rhizobacteria isolated from the rhizoplane of grasses",
+      "volume": "26",
+      "author": "Hassen",
+      "year": "2010",
+      "journal-title": "World J Microbiol Biotechnol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib721",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1016/0038-0717(94)00205-F",
+      "article-title": "Solubilization of hardly-soluble AlPO4 with P-solubilizing microorganisms",
+      "volume": "27",
+      "author": "Illmer",
+      "year": "1995",
+      "journal-title": "Soil Biol Biochem"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib722",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1016/j.chemosphere.2014.07.026",
+      "article-title": "Isolation and characterization of plant growth-promoting rhizobacteria and their effects on phytoremediation of petroleum-contaminated saline-alkali soil",
+      "volume": "117",
+      "author": "Liu",
+      "year": "2014",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib723",
+      "doi-asserted-by": "crossref",
+      "first-page": "533",
+      "DOI": "10.1007/s00425-010-1196-8",
+      "article-title": "Regulation of plasma membrane aquaporins by inoculation with a Bacillus megaterium strain in maize (Zea mays L.) plants under unstressed and salt-stressed conditions",
+      "volume": "232",
+      "author": "Marulanda",
+      "year": "2010",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib724",
+      "doi-asserted-by": "crossref",
+      "first-page": "1105",
+      "DOI": "10.1093/jxb/erh113",
+      "article-title": "Salinity up-regulates the antioxidative system in root mitochondria and peroxisomes of the wild salt-tolerant tomato species Lycopersicon pennellii",
+      "volume": "55",
+      "author": "Mittova",
+      "year": "2004",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib725",
+      "first-page": "203",
+      "article-title": "Geographic distribution and salinity status of soils of Iran",
+      "volume": "24",
+      "author": "Momeni",
+      "year": "2011",
+      "journal-title": "J Soil Res"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib726",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1023/A:1024553303144",
+      "article-title": "Screening methods for salinity tolerance: A case study with tetraploid wheat",
+      "volume": "253",
+      "author": "Munns",
+      "year": "2003",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib727",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1007/s13213-012-0465-0",
+      "article-title": "Mitigation of salinity-induced negative impact on the growth and yield of wheat by plant growth-promoting rhizobacteria in naturally saline conditions",
+      "volume": "63",
+      "author": "Nadeem",
+      "year": "2013",
+      "journal-title": "Ann Microbiol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib728",
+      "doi-asserted-by": "crossref",
+      "first-page": "745",
+      "DOI": "10.3389/fmicb.2015.00745",
+      "article-title": "Plant growth promotion induced by phosphate solubilizing endophytic Pseudomonas isolates",
+      "volume": "6",
+      "author": "Oteino",
+      "year": "2015",
+      "journal-title": "Front Microbiol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib729",
+      "series-title": "Handbook of Soil Analysis: Mineralogical, Organic and Inorganic Methods",
+      "author": "Pansu",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib730",
+      "doi-asserted-by": "crossref",
+      "first-page": "378",
+      "DOI": "10.1002/jobm.200700365",
+      "article-title": "Stress adaptations in a plant growth promoting rhizobacterium (PGPR) with increasing salinity in the coastal agricultural soils",
+      "volume": "48",
+      "author": "Paul",
+      "year": "2008",
+      "journal-title": "J Basic Microbiol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib731",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1016/0076-6879(94)35151-1",
+      "article-title": "Detection, isolation, and characterization of siderophores",
+      "volume": "235",
+      "author": "Payne",
+      "year": "1994",
+      "journal-title": "Methods Enzymol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib732",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.1034/j.1399-3054.2003.00086.x",
+      "article-title": "Methods for isolating and characterizing ACC deaminase-containing plant growth-promoting rhizobacteria",
+      "volume": "118",
+      "author": "Penrose",
+      "year": "2003",
+      "journal-title": "Physiol Plant"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib733",
+      "first-page": "362",
+      "article-title": "Mobilization of phosphorus in soil in connection with the vital activity of some microbial species",
+      "volume": "17",
+      "author": "Pikovskaya",
+      "year": "1948",
+      "journal-title": "Mikrobiologiya"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib734",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.1007/s10482-010-9504-7",
+      "article-title": "Pseudonocardia sichuanensis sp. nov., a novel endophytic actinomycete isolated from the root of Jatropha curcas L",
+      "volume": "99",
+      "author": "Qin",
+      "year": "2011",
+      "journal-title": "Antonie van Leeuwenhoek"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib735",
+      "doi-asserted-by": "crossref",
+      "first-page": "1343",
+      "DOI": "10.1007/s00425-008-0706-4",
+      "article-title": "Normalisation of real-time RT-PCR gene expression measurements in Arabidopsis thaliana exposed to increased metal concentrations",
+      "volume": "227",
+      "author": "Remans",
+      "year": "2008",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib736",
+      "doi-asserted-by": "crossref",
+      "first-page": "378",
+      "DOI": "10.1111/pbi.12145",
+      "article-title": "Expression of the Arabidopsis vacuolar H+-pyrophosphatase gene (AVP1) improves the shoot biomass of transgenic barley and increases grain yield in a saline field",
+      "volume": "12",
+      "author": "Schilling",
+      "year": "2014",
+      "journal-title": "Plant Biotechnol J"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib737",
+      "first-page": "4113",
+      "article-title": "Effect of salinity on yield and ion accumulation of wheat genotypes",
+      "volume": "42",
+      "author": "Shafi",
+      "year": "2010",
+      "journal-title": "Pak J Bot"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib738",
+      "doi-asserted-by": "crossref",
+      "first-page": "170",
+      "DOI": "10.1080/01490451.2014.938205",
+      "article-title": "Deciphering diversity of salt-tolerant bacilli from saline soils of eastern Indo-Gangetic Plains of India",
+      "volume": "32",
+      "author": "Sharma",
+      "year": "2014",
+      "journal-title": "Geomicrobiol J"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib739",
+      "doi-asserted-by": "crossref",
+      "first-page": "427",
+      "DOI": "10.1016/j.plaphy.2011.01.015",
+      "article-title": "Enhancement of growth and salt tolerance of red pepper seedlings (Capsicum annuum L.) by regulating stress ethylene synthesis with halotolerant bacteria containing 1-aminocyclopropane-1-carboxylic acid deaminase activity",
+      "volume": "49",
+      "author": "Siddikee",
+      "year": "2011",
+      "journal-title": "Plant Physiol Biochem"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib740",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1111/j.1574-6976.2002.tb00598.x",
+      "article-title": "Bacterial osmoadaptation: The role of osmolytes in bacterial stress and virulence",
+      "volume": "26",
+      "author": "Sleator",
+      "year": "2011",
+      "journal-title": "FEMS Microbiol Rev"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib741",
+      "first-page": "99",
+      "article-title": "Gluconic acid production as the principal mechanism of mineral phosphate solubilization by Burkholderia sp. (MTCC 8369)",
+      "volume": "49",
+      "author": "Stephen",
+      "year": "2011",
+      "journal-title": "J Trop Agric"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib742",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/j.apsoil.2015.04.017",
+      "article-title": "Plant growth-promoting effects of Hartmannibacter diazotrophicus on summer barley (Hordeum vulgare L.) under salt stress",
+      "volume": "95",
+      "author": "Suarez",
+      "year": "2015",
+      "journal-title": "Appl Soil Ecol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib743",
+      "doi-asserted-by": "crossref",
+      "first-page": "503",
+      "DOI": "10.1093/aob/mcg058",
+      "article-title": "Na+ tolerance and Na+ transport in higher plants",
+      "volume": "91",
+      "author": "Tester",
+      "year": "2003",
+      "journal-title": "Ann Bot"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib744",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.1007/s11738-009-0385-1",
+      "article-title": "Effect of salt stress on cucumber: Na+-K+ ratio, osmolyte concentration, phenols and chlorophyll content",
+      "volume": "32",
+      "author": "Tiwari",
+      "year": "2010",
+      "journal-title": "Acta Physiol Plant"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib745",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.1007/s00572-003-0223-z",
+      "article-title": "Influence of a Bacillus sp. on physiological activities of two arbuscular mycorrhizal fungi and on plant responses to PEG-induced drought stress",
+      "volume": "13",
+      "author": "Vivas",
+      "year": "2003",
+      "journal-title": "Mycorrhiza"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib746",
+      "doi-asserted-by": "crossref",
+      "first-page": "677",
+      "DOI": "10.2136/sssaj1965.03615995002900060025x",
+      "article-title": "Test of an ascorbic acid method for determining phosphorus in water and NaHCO3 extracts from soil",
+      "volume": "29",
+      "author": "Watanabe",
+      "year": "1965",
+      "journal-title": "Soil Sci Soc Am J"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib747",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.21769/BioProtoc.1569",
+      "article-title": "Isolation of rhizosphere bacterial communities from soil",
+      "volume": "5",
+      "author": "White",
+      "year": "2015",
+      "journal-title": "Bio-Protocol"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib748",
+      "doi-asserted-by": "crossref",
+      "first-page": "410",
+      "DOI": "10.3389/fpls.2013.00410",
+      "article-title": "Sodium transport system in plant cells",
+      "volume": "4",
+      "author": "Yamaguchi",
+      "year": "2013",
+      "journal-title": "Front Plant Sci"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib749",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.tplants.2008.10.004",
+      "article-title": "Rhizosphere bacteria help plants tolerate abiotic stress",
+      "volume": "14",
+      "author": "Yang",
+      "year": "2009",
+      "journal-title": "Trends Plant Sci"
+    },
+    {
+      "key": "10.1016/S1002-0160(19)60835-0_bib750",
+      "doi-asserted-by": "crossref",
+      "first-page": "1097",
+      "DOI": "10.1094/MPMI-23-8-1097",
+      "article-title": "Choline and osmotic-stress tolerance induced in Arabidopsis by the soil microbe Bacillus subtilis (GB03)",
+      "volume": "23",
+      "author": "Zhang",
+      "year": "2010",
+      "journal-title": "Mol Plant Microbe Interact"
+    }
+  ],
+  "container-title": [
+    "Pedosphere"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1002016019608350?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1002016019608350?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2025-10-19T11:43:14Z",
+    "timestamp": 1760874194000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1002016019608350"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S1002016019608350"
+  ],
+  "URL": "https://doi.org/10.1016/s1002-0160(19)60835-0",
+  "relation": {},
+  "ISSN": [
+    "1002-0160"
+  ],
+  "issn-type": [
+    {
+      "value": "1002-0160",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Halophile plant growth-promoting rhizobacteria induce salt tolerance traits in wheat seedlings (Triticum aestivum L.)",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Pedosphere",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/S1002-0160(19)60835-0",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Copyright © 2020 Soil Science Society of China. Published by Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

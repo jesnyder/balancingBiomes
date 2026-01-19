@@ -1,0 +1,124 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        7
+      ]
+    ],
+    "date-time": "2026-01-07T12:45:35Z",
+    "timestamp": 1767789935237,
+    "version": "3.49.0"
+  },
+  "publisher": "Publications Office of the European Union",
+  "award-start": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "award": "101182148",
+  "DOI": "10.3030/101182148",
+  "type": "grant",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        12
+      ]
+    ],
+    "date-time": "2025-05-12T03:00:39Z",
+    "timestamp": 1747018839000
+  },
+  "source": "Crossref",
+  "prefix": "10.3030",
+  "member": "4854",
+  "project": [
+    {
+      "project-title": [
+        {
+          "title": "Halophyte Biorefinery Process for Sustainable Production of Textiles, Composites, and High-Value Biochemicals",
+          "language": "en"
+        },
+        {
+          "title": "HALO-TEX",
+          "language": "en"
+        }
+      ],
+      "project-description": [
+        {
+          "description": "HALO-TEX demonstrates a novel, sustainable, and circular bioproduct manufacturing system based on the biorefinery of salt-tolerant plant biomass. Cellulose-based yarns and fabrics with improved recyclability, bio-based additives, and composites are targeted towards high-pressure textile and biochemical industries. It addresses the European Green Deal objectives, the EU Circular Economy Action Plan, and the EU strategies regarding bioeconomy and circular textiles, amongst other policies and initiatives. HALO-TEX goes beyond the state-of-the-art by using underexploited feedstock in an innovative extraction, pretreatment, and separation process cascade for maximum resource valorization, and sustainable cost-effective manufacturing of multiple products. Consumer acceptance studies and comprehensive product information systems will be developed to overcome the social barriers related to the uptake of bioproducts. The textile industry has a tremendous negative environmental impact regarding primary raw material, freshwater and land use, emissions and pollution, and waste generation. HALO-TEX addresses these issues by using novel, secondary feedstocks grown in marginal land, developing circular biorefinery system with low energy and chemical input, and enhancing the sorting and recycling of materials and bioproducts. It will provide an innovative value chain and a sustainable model for bioproduct manufacturing to advance transitions towards a circular bioeconomy, increase the uptake of novel products, and foster socio-economic opportunities, especially in rural, vulnerable regions. The partners are skilled experts within their respective fields, and the project builds on previous Horizon projects. Located across Europe, the consortium provides a broad perspective on the related research areas and target industries while ensuring that the results and project’s benefits are widespread, reaching consumers and stakeholders across the value chains and beyond sector borders.",
+          "language": "en"
+        }
+      ],
+      "award-amount": {
+        "amount": 3999685.0,
+        "currency": "EUR"
+      },
+      "award-start": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            1
+          ]
+        ]
+      },
+      "funding": [
+        {
+          "type": "grant",
+          "scheme": "HORIZON.2.6",
+          "award-amount": {
+            "amount": 3999685.0,
+            "currency": "EUR",
+            "percentage": 100
+          },
+          "funder": {
+            "id": [
+              {
+                "id": "10.13039/100018701",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "HORIZON EUROPE HORIZON.2.6"
+          }
+        }
+      ]
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        7
+      ]
+    ],
+    "date-time": "2026-01-07T07:36:52Z",
+    "timestamp": 1767771412000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://cordis.europa.eu/project/id/101182148"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.3030/101182148",
+  "relation": {},
+  "subject": []
+}

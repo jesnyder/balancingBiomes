@@ -1,0 +1,128 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2024-03-01T04:49:40Z",
+    "timestamp": 1709268580923
+  },
+  "reference-count": 0,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "1-2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "FEMS Microbiology Letters"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1986,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1016/0378-1097(86)90067-4",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2002-12-28T01:18:52Z",
+    "timestamp": 1041038332000
+  },
+  "page": "103-107",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Cell envelope phospholipid changes in a moderate halophile during phenotypic adaptation to altered salinity and osmotic stress"
+  ],
+  "prefix": "10.1093",
+  "volume": "39",
+  "author": [
+    {
+      "given": "N",
+      "family": "Russell",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "286",
+  "container-title": [
+    "FEMS Microbiology Letters"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        10
+      ]
+    ],
+    "date-time": "2015-04-10T00:01:01Z",
+    "timestamp": 1428624061000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://doi.wiley.com/10.1016/0378-1097(86)90067-4"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1986,
+        7
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1-2",
+    "published-print": {
+      "date-parts": [
+        [
+          1986,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "0378-1097(86)90067-4"
+  ],
+  "URL": "https://doi.org/10.1016/0378-1097(86)90067-4",
+  "relation": {},
+  "ISSN": [
+    "0378-1097"
+  ],
+  "issn-type": [
+    {
+      "value": "0378-1097",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1986,
+        7
+      ]
+    ]
+  }
+}

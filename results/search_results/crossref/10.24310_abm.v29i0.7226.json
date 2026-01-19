@@ -1,0 +1,177 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        22
+      ]
+    ],
+    "date-time": "2025-12-22T14:56:03Z",
+    "timestamp": 1766415363863
+  },
+  "reference-count": 0,
+  "publisher": "Malaga University",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2004,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2004-12-01T00:00:00Z",
+        "timestamp": 1101859200000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "abm"
+  ],
+  "abstract": "<jats:p>RÉSUMÉ. Analyse de la biodiversité floristique des zones humides du Maroc: flore rare, menacée et halophile. La flore des zones humides du Maroc montre une grande richesse floristique de ces écosystèmes, estimée à plus de 670 espèces et sous-espèces (83 familles) auxquelles s’ajoutent au moins 272 autres considérées plutôt comme terrestres, mais qui peuvent coloniser périodiquement ces milieux. Le taux d’endémisme se rapproche de 6,5 %, mais le fait le plus marquant est la grande proportion des taxons rares ou menacés, évaluée à 34 %. La flore halophile fait l’objet d’un commentaire particulier vu la prédominance de milieux salés au Maroc à la fois par le nombre et par l’étendue des sites. Elle compte environ 115 espèces et sous-espèces réparties entre 20 familles.Mots clés. Biodiversité, zones humides, flore rare, flore menacée, flore halophile, Maroc.Abstract. Analysis of the moroccan wetlands floristical diversity: rare, threatened and halophilous flora. The moroccan wetlands flora shows a great floristical richness of these ecosystems, estimated at more than 670 species and subspecies (83 families) which can be supplemented by at least 272 others taxa considered rather as terrestrials but can colonize periodically these biotopes. This flora shows a rate of endemism close to 6,5 %, but the most fact is the great proportion of rare or threatened taxa (estimated at 34%). The halophilous flora was a subjet of particular comment considering the prevalence of the salt biotopes in Morocco, either by the number or the extent of the sites. It counts 115 species and subspecies distributed among 20 families.Key words. Biodiversity, wetlands flora, rare flora, threatened flora, halophilous flora, Morocco.</jats:p>",
+  "DOI": "10.24310/abm.v29i0.7226",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        25
+      ]
+    ],
+    "date-time": "2020-03-25T09:16:28Z",
+    "timestamp": 1585127788000
+  },
+  "page": "43-66",
+  "source": "Crossref",
+  "is-referenced-by-count": 18,
+  "title": [
+    "Analyse de la biodiversité floristique des zones humides du Maroc: flore rare, menacée et halophile."
+  ],
+  "prefix": "10.24310",
+  "volume": "29",
+  "author": [
+    {
+      "given": "Soumaya",
+      "family": "Hammada",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Mahamed",
+      "family": "Dakki",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Mohamed",
+      "family": "Ibn Tattou",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Aïcha",
+      "family": "Ouyahya",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Mohamed",
+      "family": "Fennane",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "10411",
+  "published-online": {
+    "date-parts": [
+      [
+        2004,
+        12,
+        1
+      ]
+    ]
+  },
+  "container-title": [
+    "Acta Botanica Malacitana"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://revistas.uma.es/index.php/abm/article/download/7226/6713",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://revistas.uma.es/index.php/abm/article/download/7226/6713",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        29
+      ]
+    ],
+    "date-time": "2020-10-29T09:38:18Z",
+    "timestamp": 1603964298000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://revistas.uma.es/index.php/abm/article/view/7226"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2004,
+        12,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.24310/abm.v29i0.7226",
+  "relation": {},
+  "ISSN": [
+    "2340-5074",
+    "0210-9506"
+  ],
+  "issn-type": [
+    {
+      "value": "2340-5074",
+      "type": "electronic"
+    },
+    {
+      "value": "0210-9506",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2004,
+        12,
+        1
+      ]
+    ]
+  }
+}

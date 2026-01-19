@@ -1,0 +1,550 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        17
+      ]
+    ],
+    "date-time": "2024-03-17T00:24:23Z",
+    "timestamp": 1710635063279
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "group-title": "SSRN",
+  "reference-count": 42,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.2139/ssrn.4761257",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        16
+      ]
+    ],
+    "date-time": "2024-03-16T01:17:53Z",
+    "timestamp": 1710551873000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Enhanced Drought Tolerance and Photosynthetic Efficiency in Arabidopsis by Overexpressing Phosphoenolpyruvate Carboxylase from a Single-Cell C4 Halophyte Suaeda Aralocaspica"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "given": "Caixia",
+      "family": "Li",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Juan",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Haiyan",
+      "family": "Lan",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Qinghui",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1146/annurev.arplant.59.032607.092759",
+      "article-title": "Chlorophyll fluorescence: a probe of photosynthesis in vivo",
+      "volume": "59",
+      "author": "N R Baker",
+      "year": "2008",
+      "journal-title": "Annu Rev Plant Biol"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1204",
+      "DOI": "10.1016/j.plantsci.2007.02.016",
+      "article-title": "Enhanced photosynthesis rate in genetically engineered indica rice expressing pepc gene cloned from maize",
+      "volume": "172",
+      "author": "A Bandyopadhyay",
+      "year": "2007",
+      "journal-title": "Plant sci"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1007/s11120-018-0535-7",
+      "article-title": "Light acclimation of shade-tolerant and sun-resistant Tradescantia species: photochemical activity of PSII and its sensitivity to heat treatment",
+      "volume": "139",
+      "author": "M A Benkov",
+      "year": "2019",
+      "journal-title": "Photosynth Res"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1007/s11120-013-9880-8",
+      "article-title": "Photosynthetic gene expression in higher plants",
+      "volume": "117",
+      "author": "J O Berry",
+      "year": "2013",
+      "journal-title": "Photosynth Res"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1016/j.pbi.2016.04.003",
+      "article-title": "Strategies for improving C4 photosynthesis",
+      "volume": "31",
+      "author": "S Caemmerer",
+      "year": "2016",
+      "journal-title": "Curr Opin Plant Biol"
+    },
+    {
+      "key": "ref6",
+      "article-title": "Genome-wide identification and analysis of the phosphoenolpyruvate carboxylase gene family in Suaeda aralocaspica, an annual halophyte with single-cellular C4 anatomy",
+      "volume": "30",
+      "author": "J Cao",
+      "year": "2021",
+      "journal-title": "Front Plant Sci"
+    },
+    {
+      "key": "ref7",
+      "article-title": "Genome-wide identification and comparative analyses of key genes involved in C4 photosynthesis in five main gramineous crops",
+      "volume": "14",
+      "author": "L Chen",
+      "year": "2023",
+      "journal-title": "Front Plant Sci"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1016/j.enzmictec.2015.11.006",
+      "article-title": "Cloning of PEPC-1 from a C4 halophyte Suaeda aralocaspica without Kranz anatomy and its recombinant enzymatic activity in responses to abiotic stresses",
+      "volume": "83",
+      "author": "G Cheng",
+      "year": "2016",
+      "journal-title": "Enzyme Microb Technol"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "851",
+      "DOI": "10.1126/science.adc9831",
+      "article-title": "Soybean photosynthesis and crop yield are improved by accelerating recovery from photoprotection",
+      "volume": "377",
+      "author": "De Souza",
+      "year": "2022",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref10",
+      "first-page": "1837",
+      "article-title": "What can enzymes of C4 photosynthesis do for C3 plants under stress",
+      "volume": "180",
+      "author": "V Doubnerov�",
+      "year": "2002",
+      "journal-title": "Plant Sci"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1080",
+      "DOI": "10.1007/BF02900682",
+      "article-title": "The characteristics of CO 2 assimilation of photosynthesis and chlorophyll fluorescence in transgenic PEPC rice",
+      "volume": "46",
+      "author": "D M Jiao",
+      "year": "2001",
+      "journal-title": "Chin. Sci. Bull"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1186/s12870-023-04305-9",
+      "article-title": "Leaf chlorophyll fluorescence and reflectance of oakleaf lettuce exposed to metal and metal (oid) oxide nanoparticles",
+      "volume": "23",
+      "author": "A Kalisz",
+      "year": "2023",
+      "journal-title": "BMC Plant Biol"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1007/s11120-016-0224-3",
+      "article-title": "Towards efficient photosynthesis: overexpression of Zea mays phosphoenolpyruvate carboxylase in Arabidopsis thaliana",
+      "volume": "130",
+      "author": "D Kandoi",
+      "year": "2016",
+      "journal-title": "Photosynth Res"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "first-page": "949",
+      "DOI": "10.1104/pp.111.4.949",
+      "article-title": "Evolution and expression of C4 photosynthesis genes",
+      "volume": "111",
+      "author": "M S B Ku",
+      "year": "1996",
+      "journal-title": "Plant Physiol"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "673",
+      "DOI": "10.1104/pp.106.085829",
+      "article-title": "Species having C4 single-cell-type photosynthesis in the Chenopodiaceae family evolved a photosynthetic phosphoenolpyruvate carboxylase like that of Kranz-type C4 species",
+      "volume": "142",
+      "author": "M V Lara",
+      "year": "2006",
+      "journal-title": "Plant Physiol"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1503",
+      "DOI": "10.1007/s11738-012-1191-8",
+      "article-title": "Physiological and metabolic enzymes activity changes in transgenic rice plants with increased phosphoenolpyruvate carboxylase activity during the flowering stage",
+      "volume": "35",
+      "author": "X Li",
+      "year": "2013",
+      "journal-title": "Acta Physiol Plant"
+    },
+    {
+      "key": "ref17",
+      "author": "O Liran",
+      "year": "2020",
+      "journal-title": "Novel remote sensing index of electron transport rate predicts primary production and crop health in L. sativa and Z. mays"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "539",
+      "DOI": "10.1007/s11515-012-9248-z",
+      "article-title": "Recent progress in the single-cell C4 photosynthesis in terrestrial plants",
+      "volume": "7",
+      "author": "S C Lung",
+      "year": "2012",
+      "journal-title": "Front. Biol"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1016",
+      "DOI": "10.1111/ppl.13338",
+      "article-title": "Insights into the plant responses to drought and decoding the potential of root associated microbiome for inducing drought tolerance",
+      "volume": "172",
+      "author": "P Mathur",
+      "year": "2021",
+      "journal-title": "Physiol Plant"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fpls.2021.627012",
+      "article-title": "Regulation of photosystem II heterogeneity and photochemistry in two cultivars of C4 crop sugarcane under chilling stress",
+      "volume": "12",
+      "author": "S Mathur",
+      "year": "2021",
+      "journal-title": "Front Plant Sci"
+    },
+    {
+      "key": "ref21",
+      "article-title": "Estimation of chlorophyll fluorescence at different scales: A Review",
+      "volume": "51",
+      "author": "K Maxwell",
+      "year": "2000",
+      "journal-title": "Sensors (Basel)"
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1016/S0003-9861(02)00460-5",
+      "article-title": "Requirements for activation of the signal-transduction network that leads to regulatory phosphorylation of leaf guard-cell phosphoenolpyruvate carboxylase during fusicoccin-stimulated stomatal opening",
+      "volume": "407",
+      "author": "W H Outlaw",
+      "year": "2002",
+      "journal-title": "Arch Biochem Biophys"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fpls.2023.1159247",
+      "article-title": "CO 2 recycling by phosphoenolpyruvate carboxylase enables cassava leaf metabolism to tolerate low water availability",
+      "volume": "14",
+      "author": "N Punyasu",
+      "year": "2023",
+      "journal-title": "Front Plant Sci"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1017",
+      "DOI": "10.1007/s00709-016-1010-y",
+      "article-title": "Physiological characteristics and metabolomics of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene under high temperature stress",
+      "volume": "254",
+      "author": "X L Qi",
+      "year": "2017",
+      "journal-title": "Protoplasma"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "crossref",
+      "first-page": "1503",
+      "DOI": "10.1007/s00709-015-0906-2",
+      "article-title": "Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene",
+      "volume": "253",
+      "author": "N Qin",
+      "year": "2016",
+      "journal-title": "Protoplasma"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1189",
+      "DOI": "10.1016/j.jplph.2004.01.013",
+      "article-title": "Drought-induced responses of photosynthesis and antioxidant metabolism in higher plants",
+      "volume": "161",
+      "author": "A R Reddy",
+      "year": "2004",
+      "journal-title": "J Plant Physiol"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "crossref",
+      "first-page": "178",
+      "DOI": "10.1556/ABiol.65.2014.2.6",
+      "article-title": "Effect of polyethylene glycol induced drought stress on photosynthesis in two chickpea genotypes with different drought tolerance",
+      "volume": "65",
+      "author": "A Saglam",
+      "year": "2014",
+      "journal-title": "Acta Biol Hung"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1046/j.1365-313X.1992.t01-44-00999.x",
+      "article-title": "Maize C4 photosynthesis involves differential regulation of phosphoenolpyruvate carboxylase genes",
+      "volume": "2",
+      "author": "A R Sch�ffner",
+      "year": "1992",
+      "journal-title": "Plant J"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1007/s11120-020-00772-5",
+      "article-title": "Amelioration of plant responses to drought under elevated CO 2 by rejuvenating photosynthesis and nitrogen use efficiency: implications for future climate-resilient crops",
+      "volume": "150",
+      "author": "K M Sekhar",
+      "year": "2021",
+      "journal-title": "Photosynth Res"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1119",
+      "DOI": "10.1093/jxb/ery445",
+      "article-title": "Feeding the world: improving photosynthetic efficiency for sustainable crop production",
+      "volume": "70",
+      "author": "A J Simkin",
+      "year": "2019",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "1313",
+      "DOI": "10.1016/j.bbabio.2010.03.008",
+      "article-title": "Simultaneous in vivo recording of prompt and delayed fluorescence and 820-nm reflection changes during drying and after rehydration of the resurrection plant Haberlea rhodopensis",
+      "volume": "1797",
+      "author": "R J Strasser",
+      "year": "2010",
+      "journal-title": "Biochim Biophys Acta"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "first-page": "1381",
+      "DOI": "10.1093/jxb/err367",
+      "article-title": "Light-regulated and cell-specific methylation of the maize PEPC promoter",
+      "volume": "63",
+      "author": "B J Tolley",
+      "year": "2012",
+      "journal-title": "J Exp Bot"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "543",
+      "DOI": "10.1038/35107073",
+      "article-title": "Kranz anatomy is not essential for terrestrial C4 plant photosynthesis",
+      "volume": "414",
+      "author": "E V Voznesenskaya",
+      "year": "2001",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref34",
+      "author": "L Wang",
+      "year": "2019",
+      "journal-title": "A draft genome assembly of halophyte Suaeda aralocaspica"
+    },
+    {
+      "key": "ref35",
+      "doi-asserted-by": "crossref",
+      "first-page": "735",
+      "DOI": "10.1515/biolog-2017-0081",
+      "article-title": "Effects of different light qualities on seedling growth and chlorophyll fluorescence parameters of Dendrobium officinale",
+      "volume": "72",
+      "author": "Y Wang",
+      "year": "2017",
+      "journal-title": "Biologia"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1023/A:1006188004189",
+      "article-title": "Rapid light curves: A new fluorescence method to assess the state of the photosynthetic apparatus",
+      "volume": "59",
+      "author": "A J White",
+      "year": "1999",
+      "journal-title": "Photosynthesis Research"
+    },
+    {
+      "key": "ref37",
+      "article-title": "Effects of LED photoperiods and light qualities on in vitro growth and chlorophyll fluorescence of Cunninghamia lanceolata",
+      "volume": "20",
+      "author": "Y Y Xu",
+      "year": "2020",
+      "journal-title": "BMC Plant Biol"
+    },
+    {
+      "key": "ref38",
+      "doi-asserted-by": "crossref",
+      "first-page": "1428",
+      "DOI": "10.1016/j.bbabio.2010.02.002",
+      "article-title": "Overexpression of ?-tocopherol methyl transferase gene in transgenic Brassica juncea plants alleviates abiotic stress: physiological and chlorophyll a fluorescence measurements",
+      "volume": "1797",
+      "author": "M A Yusuf",
+      "year": "2010",
+      "journal-title": "Biochim Biophys Acta"
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "328",
+      "DOI": "10.1016/j.plaphy.2017.03.019",
+      "article-title": "Physiological investigation of C4-phosphoenolpyruvate-carboxylase-introduced rice line shows that sucrose metabolism is involved in the improved drought tolerance",
+      "volume": "115",
+      "author": "C Zhang",
+      "year": "2017",
+      "journal-title": "Plant Physiol Biochem"
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "first-page": "1163",
+      "DOI": "10.1007/s00709-014-0624-1",
+      "article-title": "Pyramiding expression of maize genes encoding phosphoenolpyruvate carboxylase (PEPC) and pyruvate orthophosphate dikinase (PPDK) synergistically improve the photosynthetic characteristics of transgenic wheat",
+      "volume": "251",
+      "author": "H F Zhang",
+      "year": "2014",
+      "journal-title": "Protoplasma"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1080/15592324.2021.1885894",
+      "article-title": "Response of transgenic Arabidopsis expressing maize C4 photosynthetic enzyme genes to high light",
+      "volume": "16",
+      "author": "Q C Zhang",
+      "year": "2021",
+      "journal-title": "Plant Signal Behav"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1016/j.gene.2019.02.061",
+      "article-title": "Evolution of PEPC gene family in Gossypium reveals functional diversification and GhPEPC genes responding to abiotic stresses",
+      "volume": "698",
+      "author": "Y P Zhao",
+      "year": "2019",
+      "journal-title": "Gene"
+    }
+  ],
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        16
+      ]
+    ],
+    "date-time": "2024-03-16T06:25:55Z",
+    "timestamp": 1710570355000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=4761257"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "references-count": 42,
+  "URL": "https://doi.org/10.2139/ssrn.4761257",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

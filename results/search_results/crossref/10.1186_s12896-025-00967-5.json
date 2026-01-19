@@ -1,0 +1,916 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2025-09-11T21:04:23Z",
+    "timestamp": 1757624663593,
+    "version": "3.44.0"
+  },
+  "reference-count": 56,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            18
+          ]
+        ],
+        "date-time": "2025-08-18T00:00:00Z",
+        "timestamp": 1755475200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            18
+          ]
+        ],
+        "date-time": "2025-08-18T00:00:00Z",
+        "timestamp": 1755475200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "BMC Biotechnol"
+  ],
+  "DOI": "10.1186/s12896-025-00967-5",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        18
+      ]
+    ],
+    "date-time": "2025-08-18T07:37:38Z",
+    "timestamp": 1755502658000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Novel thrombolytic protease from the rare halophile Brachybacterium paraconglomeratum: bioprocessing and in vitro application"
+  ],
+  "prefix": "10.1186",
+  "volume": "25",
+  "author": [
+    {
+      "given": "Mandragutti",
+      "family": "Teja",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Tura Safawo",
+      "family": "Jarso",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Dokka Muni",
+      "family": "Kumar",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Sudhakar",
+      "family": "Godi",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "967_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "11",
+      "DOI": "10.4103/0970-1591.45531",
+      "volume": "25",
+      "author": "S Agarwal",
+      "year": "2009",
+      "unstructured": "Agarwal S, Lee AD, Raju RS, Stephen E. Venous thromboembolism: A problem in the Indian/Asian population? Indian J Uro. 2009;25:11–6. https://doi.org/10.4103/0970-1591.45531.",
+      "journal-title": "Indian J Uro"
+    },
+    {
+      "key": "967_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "307",
+      "DOI": "10.1007/s10562-020-03316-7",
+      "volume": "151",
+      "author": "M Naveed",
+      "year": "2021",
+      "unstructured": "Naveed M, Nadeem F, Mehmood T, Bilal M, Anwar Z, Amjad F. Protease—A versatile and ecofriendly biocatalyst with multi-industrial applications: an updated review. Catal Lett. 2021;151:307–23.",
+      "journal-title": "Catal Lett"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "75",
+      "DOI": "10.2174/2212711904666170405123414",
+      "volume": "4",
+      "author": "EN Ibrahim",
+      "year": "2017",
+      "unstructured": "Ibrahim EN, Ma K. Industrial applications of thermostable enzymes from extremophilic microorganisms. Curr Biochem Eng. 2017;4(2):75–98. https://doi.org/10.2174/2212711904666170405123414.",
+      "journal-title": "Curr Biochem Eng"
+    },
+    {
+      "issue": "13",
+      "key": "967_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "3366",
+      "DOI": "10.1016/j.biortech.2009.01.061",
+      "volume": "100",
+      "author": "A Haddar",
+      "year": "2009",
+      "unstructured": "Haddar A, Agrebi R, Bougatef A, Hmidet N, Sellami-Kamoun A, Nasri M. Two detergent stable alkaline serine-proteases from Bacillus mojavensis A21: purification, characterization and potential application as a laundry detergent additive. Bioresour Technol. 2009;100(13):3366–73.",
+      "journal-title": "Bioresour Technol"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "15",
+      "DOI": "10.1007/s00253-002-0975-y",
+      "volume": "59",
+      "author": "R Gupta",
+      "year": "2002",
+      "unstructured": "Gupta R, Beg QK, Lorenz P. Bacterial alkaline proteases: molecular approaches and industrial applications. Appl Microbiol Biotechnol. 2002;59(1):15–32.",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "issue": "5",
+      "key": "967_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "610",
+      "DOI": "10.1007/s10126-016-9721-9",
+      "volume": "18",
+      "author": "W Cuiling",
+      "year": "2016",
+      "unstructured": "Cuiling W, Dan L, Xinghao Y, Ribang W, Jiang Z, Jiafeng H, Hailun H. Improving production of protease from Pseudoalteromonas Sp. CSN423 by random mutagenesis. Mar Biotechnol. 2016;18(5):610–8. https://doi.org/10.1007/s10126-016-9721-9.",
+      "journal-title": "Mar Biotechnol"
+    },
+    {
+      "key": "967_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "87",
+      "DOI": "10.1016/s0076-6879(81)80033-x",
+      "volume": "80",
+      "author": "KW Jackson",
+      "year": "1981",
+      "unstructured": "Jackson KW, Esmon N, Tang J, Streptokinase. Staphylokinase Methods Enzymol. 1981;80:87–394. https://doi.org/10.1016/s0076-6879(81)80033-x.",
+      "journal-title": "Staphylokinase Methods Enzymol"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "255",
+      "DOI": "10.3329/dujps.v16i2.35265",
+      "volume": "16",
+      "author": "T Akhtar",
+      "year": "2017",
+      "unstructured": "Akhtar T, Hoq MM, Mazid MA. Bacterial proteases as thrombolytics and fibrinolytics. Dhaka Univ J Pharm Sci. 2017;16(2):255–69.",
+      "journal-title": "Dhaka Univ J Pharm Sci"
+    },
+    {
+      "key": "967_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1033",
+      "DOI": "10.1016/j.ijbiomac.2018.03.167",
+      "volume": "114",
+      "author": "R Hadjidj",
+      "year": "2009",
+      "unstructured": "Hadjidj R, Badis A, Mechri S, Eddouaouda K, Khelouia L, Annane R, Hattab M, Jaouadi B. Purification, biochemical and molecular characterization of novel protease from Bacillus licheniformis strain K7A. Int J Biol Macromol. 2009;114:1033–48.",
+      "journal-title": "Int J Biol Macromol"
+    },
+    {
+      "issue": "19",
+      "key": "967_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "10468",
+      "DOI": "10.3390/ijms221910468",
+      "volume": "22",
+      "author": "D Diwan",
+      "year": "2021",
+      "unstructured": "Diwan D, Usmani Z, Sharma M, Nelson JW, Thakur VK, Christie G, Molina G, Gupta VK. Thrombolytic enzymes of microbial origin: A review. Int J Mol Sci. 2021;22(19):10468. https://doi.org/10.3390/ijms221910468.",
+      "journal-title": "Int J Mol Sci"
+    },
+    {
+      "issue": "3",
+      "key": "967_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "461",
+      "DOI": "10.2170/jjphysiol.41.461",
+      "volume": "41",
+      "author": "H Mihara",
+      "year": "1991",
+      "unstructured": "Mihara H, Sumi H, Yoneta T, Mizumoto H, Ikeda R, Seiki M, Maruyama M. A novel fibrinolytic enzyme extracted from the earthworm, Lumbricus rubellus. Jpn J Physiol. 1991;41(3):461–72. https://doi.org/10.2170/jjphysiol.41.461.",
+      "journal-title": "Jpn J Physiol"
+    },
+    {
+      "issue": "6",
+      "key": "967_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "683",
+      "DOI": "10.1016/0041-0101(91)90060-5",
+      "volume": "29",
+      "author": "HÁ Chen",
+      "year": "1991",
+      "unstructured": "Chen HÁ, Guan AÁ, Markland FS Jr. Immunological properties of the fibrinolytic enzyme (fibrolase) from Southern Copperhead (Agkistrodon contortrix contortrix) venom and its purification by immunoaffinity chromatography. Toxicon. 1991;29(6):683–94. https://doi.org/10.1016/0041-0101(91)90060-5.",
+      "journal-title": "Toxicon"
+    },
+    {
+      "key": "967_CR13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2105/9780875530024",
+      "volume-title": "Standard methods for the examination of dairy products",
+      "author": "HM Wehr",
+      "year": "2004",
+      "unstructured": "Wehr HM, Frank JF. Standard methods for the examination of dairy products. 17th ed. Washington, DC: American Public Health Association; 2004. https://doi.org/10.2105/9780875530024.",
+      "edition": "17"
+    },
+    {
+      "issue": "3",
+      "key": "967_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "184",
+      "DOI": "10.1007/s13205-017-0808-4",
+      "volume": "7",
+      "author": "K Taneja",
+      "year": "2017",
+      "unstructured": "Taneja K, Bajaj BK, Kumar S, Dilbaghi N. Production, purification and characterization of fibrinolytic enzyme from Serratia Sp. KG-2-1 using optimized media. 3 Biotech. 2017;7(3):184. https://doi.org/10.1007/s13205-017-0808-4.",
+      "journal-title": "3 Biotech"
+    },
+    {
+      "key": "967_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.1007/BF01568094",
+      "volume": "14",
+      "author": "O Tsuchida",
+      "year": "1986",
+      "unstructured": "Tsuchida O, Yamagota Y, Ishizuka J, Arai J, Yamada J, Takeuchi M, Ichishima E. An alkaline proteinase of an alkalophilic Bacillus Sp. Curr Microbiol. 1986;14:7–12.",
+      "journal-title": "Curr Microbiol"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "265",
+      "DOI": "10.1016/S0021-9258(19)52451-6",
+      "volume": "193",
+      "author": "OH Lowry",
+      "year": "1951",
+      "unstructured": "Lowry OH, Rosebrough NJ, Farr AL, Randall RL. Protein measurement with the Folin phenol reagent. J Biol Chem. 1951;193(1):265–75.",
+      "journal-title": "J Biol Chem"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "295",
+      "DOI": "10.1016/j.jgeb.2018.05.009",
+      "volume": "16",
+      "author": "B Lakshmi",
+      "year": "2018",
+      "unstructured": "Lakshmi B, Muni Kumar D, Hemalatha K. Purification and characterization of alkaline protease with novel properties from Bacillus cereus strain S8. J Genet Eng Biotechnol. 2018;16(2):295–304. https://doi.org/10.1016/j.jgeb.2018.05.009.",
+      "journal-title": "J Genet Eng Biotechnol"
+    },
+    {
+      "issue": "4",
+      "key": "967_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "291",
+      "DOI": "10.1038/sj.jim.2900822",
+      "volume": "24",
+      "author": "A Bayoudh",
+      "year": "2000",
+      "unstructured": "Bayoudh A, Gharsallah N, Chamkha M, Dhouib A, Ammar S, Nasri M. Purification and characterization of an alkaline protease from Pseudomonas aeruginosa MN1. J Indust Microbiol Biotechnol. 2000;24(4):291–5. https://doi.org/10.1038/sj.jim.2900822.",
+      "journal-title": "J Indust Microbiol Biotechnol"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "149",
+      "DOI": "10.1042/ba20010013",
+      "volume": "35",
+      "author": "EB Thangam",
+      "year": "2002",
+      "unstructured": "Thangam EB, Rajkumar GS. Purification and characterization of alkaline protease from Alcaligenes faecalis. Biotechnol Appl Biochem. 2002;35(2):149. https://doi.org/10.1042/ba20010013.",
+      "journal-title": "Biotechnol Appl Biochem"
+    },
+    {
+      "issue": "5259",
+      "key": "967_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "680",
+      "DOI": "10.1038/227680a0",
+      "volume": "227",
+      "author": "UK Laemmli",
+      "year": "1970",
+      "unstructured": "Laemmli UK. Cleavage of structural proteins during the assembly of the head of bacteriophage T4. Nature. 1970;227(5259):680–5. https://doi.org/10.1038/227680a0.",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "3",
+      "key": "967_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "641",
+      "DOI": "10.1111/j.1365-2672.2005.02634.x",
+      "volume": "99",
+      "author": "M Nicodeme",
+      "year": "2005",
+      "unstructured": "Nicodeme M, Grill JP, Humbert G, Gaillard JL. Extracellular protease activity of different Pseudomonas strains: dependence of proteolytic activity on culture conditions. J Appl Microbiol. 2005;99(3):641–8.",
+      "journal-title": "J Appl Microbiol"
+    },
+    {
+      "issue": "3",
+      "key": "967_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "475",
+      "DOI": "10.1093/clinchem/30.3.475",
+      "volume": "30",
+      "author": "T Marshall",
+      "year": "1984",
+      "unstructured": "Marshall T. Sodium Dodecyl sulfate polyacrylamide gel electrophoresis of serum after protein denaturation in the presence or absence of 2-mercaptoethanol. Clin Chem. 1984;30(3):475–9. https://doi.org/10.1093/clinchem/30.3.475.",
+      "journal-title": "Clin Chem"
+    },
+    {
+      "key": "967_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1039/as9710100001",
+      "volume": "1",
+      "author": "DMW Anderson",
+      "year": "1971",
+      "unstructured": "Anderson DMW, Dea ICM, Hendrie A. Molecular-sieve chromatography. Sel Annu Rev Anal. 1971;1:1–40. https://doi.org/10.1039/as9710100001.",
+      "journal-title": "Sel Annu Rev Anal"
+    },
+    {
+      "issue": "5",
+      "key": "967_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "1412",
+      "DOI": "10.1002/jsfa.7879",
+      "volume": "97",
+      "author": "R Gao",
+      "year": "2016",
+      "unstructured": "Gao R, Shi T, Liu X, Zhao M, Cui H, Yuan L. Purification and characterisation of a salt-stable protease from the halophilic archaeon Halogranum rubrum. J Sci Food Agric. 2016;97(5):1412–9. https://doi.org/10.1002/jsfa.7879.",
+      "journal-title": "J Sci Food Agric"
+    },
+    {
+      "issue": "10",
+      "key": "967_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "2399",
+      "DOI": "10.1007/s00606-015-1236-8",
+      "volume": "301",
+      "author": "M Darabi",
+      "year": "2015",
+      "unstructured": "Darabi M, Seddigh S. Bioinformatic characterization of aspartic protease (AP) enzyme in seed plants. Plant Syst Evol. 2015;301(10):2399–417. https://doi.org/10.1007/s00606-015-1236-8.",
+      "journal-title": "Plant Syst Evol"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "14",
+      "DOI": "10.1186/1477-9560-4-14",
+      "volume": "4",
+      "author": "S Prasad",
+      "year": "2006",
+      "unstructured": "Prasad S, Kashyap RS, Deopujari JY, Purohit HJ, Taori GM, Daginawala HF. Development of an in vitro model to study clot Lysis activity of thrombolytic drugs. Thromb J. 2006;4(1):14. https://doi.org/10.1186/1477-9560-4-14.",
+      "journal-title": "Thromb J"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "59",
+      "DOI": "10.1186/s12934-024-02324-1",
+      "volume": "23",
+      "author": "T Mandragutti",
+      "year": "2024",
+      "unstructured": "Mandragutti T, Tura SJ, Sudhakar G, Sharmila B, Beulah K. Physicochemical characterization of polyhydroxybutyrate (PHB) produced by the rare halophile Brachybacterium paraconglomeratum MTCC 13074. Microb Cell Fact. 2024;23(1):59. https://doi.org/10.1186/s12934-024-02324-1.",
+      "journal-title": "Microb Cell Fact"
+    },
+    {
+      "key": "967_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "2",
+      "DOI": "10.1186/s43141-023-00484-y",
+      "volume": "21",
+      "author": "T Mandragutti",
+      "year": "2023",
+      "unstructured": "Mandragutti T, Sudhakar G. Selective isolation and genomic characterization of biopolymer producer—A novel feature of halophile Brachybacterium paraconglomeratum MTCC 13074. J Genet Eng Biotechnol. 2023;21:2. https://doi.org/10.1186/s43141-023-00484-y.",
+      "journal-title": "J Genet Eng Biotechnol"
+    },
+    {
+      "issue": "5",
+      "key": "967_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "881",
+      "DOI": "10.4014/jmb.0910.10038",
+      "volume": "20",
+      "author": "MH Wan",
+      "year": "2010",
+      "unstructured": "Wan MH. Screening, characterization, and cloning of a solvent-tolerant protease from Serratia marcescens MH6. J Microbiol Biotechnol. 2010;20(5):881–8. https://doi.org/10.4014/jmb.0910.10038.",
+      "journal-title": "J Microbiol Biotechnol"
+    },
+    {
+      "key": "967_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "791847",
+      "DOI": "10.3389/fphar.2021.791847",
+      "volume": "12",
+      "author": "C Yu",
+      "year": "2021",
+      "unstructured": "Yu C, Li R, Yin X, Yu H, Li P. Synergistic effect of proteinase activity by purification and identification of toxic protease from Nemopilema nomurai. Front Pharmacol. 2021;12:791847. https://doi.org/10.3389/fphar.2021.791847.",
+      "journal-title": "Front Pharmacol"
+    },
+    {
+      "key": "967_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "299",
+      "DOI": "10.1016/j.ijbiomac.2016.07.009",
+      "volume": "92",
+      "author": "EM Ben",
+      "year": "2016",
+      "unstructured": "Ben EM, Zaraî JN, Rekik H, Omrane M, Mechri S, Moujehed E, Kourdali S, Hattab EM, Badis A, Bejar S, et al. Biochemical and molecular characterization of new keratinolytic protease from Actinomadura viridilutea DZ50. Int J Biol Macromol. 2016;92:299–315. https://doi.org/10.1016/j.ijbiomac.2016.07.009.",
+      "journal-title": "Int J Biol Macromol"
+    },
+    {
+      "issue": "7",
+      "key": "967_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "873",
+      "DOI": "10.1007/s00449-012-0820-3",
+      "volume": "36",
+      "author": "N Annamalai",
+      "year": "2013",
+      "unstructured": "Annamalai N, Rajeswari MV, Thavasi R, Vijayalakshmi S, Balasubramanian T. Optimization, purification and characterization of novel thermostable, haloalkaline, solvent-stable protease from Bacillus halodurans CAS6 using marine shellfish wastes: A potential additive for detergent and antioxidant synthesis. Bioprocess Biosyst Eng. 2013;36(7):873–83. https://doi.org/10.1007/s00449-012-0820-3.",
+      "journal-title": "Bioprocess Biosyst Eng"
+    },
+    {
+      "issue": "621",
+      "key": "967_CR33",
+      "first-page": "1",
+      "volume": "147",
+      "author": "C Muthulakshmi",
+      "year": "2011",
+      "unstructured": "Muthulakshmi C, Gomathi D, Kumar DG. Production, purification and characterization of protease by Aspergillus flavus under solid state fermentation. Jordan J Biol Sci. 2011;147(621):1–12.",
+      "journal-title": "Jordan J Biol Sci"
+    },
+    {
+      "key": "967_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.pep.2014.11.002",
+      "volume": "107",
+      "author": "SR Waghmare",
+      "year": "2015",
+      "unstructured": "Waghmare SR, Gurav AA, Mali SA, Nadaf NH, Jadhav DB, Sonawane KD. Purification and characterization of novel organic solvent-tolerant 98 kda alkaline protease from isolated Stenotrophomonas maltophilia strain SK. Protein Expr Purif. 2015;107:1–6. https://doi.org/10.1016/j.pep.2014.11.002.",
+      "journal-title": "Protein Expr Purif"
+    },
+    {
+      "issue": "4",
+      "key": "967_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "335",
+      "DOI": "10.1016/j.fbp.2013.08.009",
+      "volume": "92",
+      "author": "N Annamalai",
+      "year": "2014",
+      "unstructured": "Annamalai N, Rajeswari MV, Balasubramanian T. Extraction, purification and application of thermostable and halostable alkaline protease from Bacillus alveayuensis CAS5 using marine wastes. Food Bioprod Process. 2014;92(4):335–42. https://doi.org/10.1016/j.fbp.2013.08.009.",
+      "journal-title": "Food Bioprod Process"
+    },
+    {
+      "issue": "3",
+      "key": "967_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "1481",
+      "DOI": "10.1007/s13213-014-0987-8",
+      "volume": "65",
+      "author": "R Sathishkumar",
+      "year": "2015",
+      "unstructured": "Sathishkumar R, Ananthan G, Raghunathan C. Production and characterization of haloalkaline protease from ascidian-associated Virgibacillus halodenitrificans RSK CAS1 using marine wastes. Ann Microbiol. 2015;65(3):1481–93.",
+      "journal-title": "Ann Microbiol"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "53",
+      "DOI": "10.1007/s13205-016-0377-y",
+      "volume": "6",
+      "author": "T Mothe",
+      "year": "2016",
+      "unstructured": "Mothe T, Sultanpuram VR. Production, purification and characterization of a thermotolerant alkaline Serine protease from a novel species Bacillus caseinilyticus. 3 Biotech. 2016;6(1):53. https://doi.org/10.1007/s13205-016-0377-y.",
+      "journal-title": "3 Biotech"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "157",
+      "DOI": "10.1007/s13205-016-0474-y",
+      "volume": "6",
+      "author": "T Maruthiah",
+      "year": "2016",
+      "unstructured": "Maruthiah T, Somanath B, Jasmin JV, Immanuel G, Palavesam A. Production, purification and characterization of halophilic organic solvent-tolerant protease from marine crustacean shell wastes and its efficacy on deproteinization. 3 Biotech. 2016;6(2):157. https://doi.org/10.1007/s13205-016-0474-y.",
+      "journal-title": "3 Biotech"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "131",
+      "DOI": "10.1016/j.jbiosc.2015.12.021",
+      "volume": "122",
+      "author": "M Chandrasekaran",
+      "year": "2016",
+      "unstructured": "Chandrasekaran M, Chandrasekar R, Chun SC, Sathiyabama M. Isolation, characterization And molecular three-dimensional structural predictions of metalloprotease from a phytopathogenic fungus, Alternaria Solani (Ell. And Mart.) Sor. J Biosci Bioeng. 2016;122(2):131–9. https://doi.org/10.1016/j.jbiosc.2015.12.021.",
+      "journal-title": "J Biosci Bioeng"
+    },
+    {
+      "issue": "4",
+      "key": "967_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "295",
+      "DOI": "10.1093/bfgp/eli002",
+      "volume": "4",
+      "author": "B Cañas",
+      "year": "2006",
+      "unstructured": "Cañas B, López-Ferrer D, Ramos-Fernández A, Camafeita E, Calvo E. Mass spectrometry technologies for proteomics. Brief Funct Genomic Proteomic. 2006;4(4):295–320.",
+      "journal-title": "Brief Funct Genomic Proteomic"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "139",
+      "DOI": "10.1006/gcen.1999.7447",
+      "volume": "118",
+      "author": "Z Xia",
+      "year": "2000",
+      "unstructured": "Xia Z, Gale WL, Chang X, Langenau D, Patiño R, Maule AG, Densmore LD. Phylogenetic sequence analysis, Recombinant expression, and tissue distribution of a channel catfish Estrogen receptor Β. Gen Comp Endocrinol. 2000;118(1):139–49.",
+      "journal-title": "Gen Comp Endocrinol"
+    },
+    {
+      "key": "967_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "345",
+      "DOI": "10.1007/978-981-13-7709-9_15",
+      "volume": "1148",
+      "author": "SS Kumar",
+      "year": "2019",
+      "unstructured": "Kumar SS, Sabu A. Fibrinolytic enzymes for thrombolytic therapy. Adv Exp Med Biol. 2019;1148:345–81. https://doi.org/10.1007/978-981-13-7709-9_15.",
+      "journal-title": "Adv Exp Med Biol"
+    },
+    {
+      "issue": "5",
+      "key": "967_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "157",
+      "DOI": "10.2323/jgam.61.157",
+      "volume": "61",
+      "author": "MK Narasimhan",
+      "year": "2015",
+      "unstructured": "Narasimhan MK, Chandrasekaran M, Rajesh M. Fibrinolytic enzyme production by newly isolated Bacillus cereus SRM-001 with enhanced in-vitro blood clot Lysis potential. J Gen Appl Microbiol. 2015;61(5):157–64. https://doi.org/10.2323/jgam.61.157.",
+      "journal-title": "J Gen Appl Microbiol"
+    },
+    {
+      "issue": "2",
+      "key": "967_CR44",
+      "first-page": "319",
+      "volume": "84",
+      "author": "P Sudhakar",
+      "year": "2022",
+      "unstructured": "Sudhakar P, Kumar RS, Kothai R, Arul B. In-vitro thrombolytic and in-vivo cardioprotective activities of methanolic extract of Indigofera cassioides Rottl. Ex. DC. Indian J Pharm Sci. 2022;84(2):319–27.",
+      "journal-title": "Indian J Pharm Sci"
+    },
+    {
+      "issue": "22",
+      "key": "967_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "6776",
+      "DOI": "10.3390/molecules26226776",
+      "volume": "26",
+      "author": "M Shen",
+      "year": "2021",
+      "unstructured": "Shen M, Wang Y, Hu F, Lv L, Chen K, Xing G. Thrombolytic agents: nanocarriers in targeted release. Molecules. 2021;26(22):6776. https://doi.org/10.3390/molecules26226776.",
+      "journal-title": "Molecules"
+    },
+    {
+      "issue": "3",
+      "key": "967_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "307",
+      "DOI": "10.1017/s0033583503003901",
+      "volume": "36",
+      "author": "JC Whisstock",
+      "year": "2003",
+      "unstructured": "Whisstock JC, Lesk AM. Prediction of protein function from protein sequence and structure. Q Rev Biophys. 2003;36(3):307–40. https://doi.org/10.1017/s0033583503003901.",
+      "journal-title": "Q Rev Biophys"
+    },
+    {
+      "issue": "7",
+      "key": "967_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "637",
+      "DOI": "10.3390/fermentation9070637",
+      "volume": "9",
+      "author": "E Kotb",
+      "year": "2023",
+      "unstructured": "Kotb E, Alabdalall AH, Alsayed MA, Alghamdi AI, Alkhaldi E, AbdulAzeez S, Borgio JF. Isolation, screening, and identification of alkaline protease-producing bacteria and application of the most potent enzyme from Bacillus Sp. Mar64. Fermentation. 2023;9(7):637. https://doi.org/10.3390/fermentation9070637.",
+      "journal-title": "Fermentation"
+    },
+    {
+      "issue": "7",
+      "key": "967_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.17485/ijst/2008/v1i7.8",
+      "volume": "1",
+      "author": "M Kalpana Devi",
+      "year": "2008",
+      "unstructured": "Kalpana Devi M, Rasheedha Banu A, Gnanaprabhal GR, Pradeep BV, Palaniswamy M. Purification, characterization of alkaline protease enzyme from native isolate Aspergillus Niger and its compatibility with commercial detergents. Indian J Sci Technol. 2008;1(7):1–6.",
+      "journal-title": "Indian J Sci Technol"
+    },
+    {
+      "key": "967_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "978",
+      "DOI": "10.17485/ijst/2008/v1i7.8",
+      "volume": "64",
+      "author": "P Mitra",
+      "year": "2005",
+      "unstructured": "Mitra P, Chakrabartty PK. An extracellular protease with depilation activity from Streptomyces nogalator. J Sci Ind Res. 2005;64:978–83. https://doi.org/10.17485/ijst/2008/v1i7.8.",
+      "journal-title": "J Sci Ind Res"
+    },
+    {
+      "issue": "6",
+      "key": "967_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "725",
+      "DOI": "10.1016/j.nbt.2011.01.001",
+      "volume": "28",
+      "author": "BK Bajaj",
+      "year": "2011",
+      "unstructured": "Bajaj BK, Sharma P. An alkali-thermotolerant extracellular protease from a newly isolated Streptomyces Sp. DP2. N Biotechnol. 2011;28(6):725–32. https://doi.org/10.1016/j.nbt.2011.01.001.",
+      "journal-title": "N Biotechnol"
+    },
+    {
+      "issue": "4",
+      "key": "967_CR51",
+      "first-page": "1087",
+      "volume": "11",
+      "author": "A Mahboubi",
+      "year": "2012",
+      "unstructured": "Mahboubi A, Sadjady SK, Mirzaei Saleh Abadi M, Azadi S, Solaimanian R. Biological activity analysis of native and Recombinant streptokinase using clot Lysis and chromogenic substrate assay. Iran J Pharm Res. 2012;11(4):1087–93.",
+      "journal-title": "Iran J Pharm Res"
+    },
+    {
+      "key": "967_CR52",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Alakbaree M, Zakaria Z, Ahmed H, Zawawi N. In-vitro characterization of thrombolytic activity of staphylokinase produced by Staphylococcus aureus S1. In: Proceedings of the 1st Samarra International Conference for Pure and Applied Sciences, Samarra, Iraq, 23–24 March 2021; AIP Publishing: Melville, NY, USA. 2022;2394:1. https://doi.org/10.1063/5.0121711",
+      "DOI": "10.1063/5.0121711"
+    },
+    {
+      "issue": "6",
+      "key": "967_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "1731",
+      "DOI": "10.1172/JCI111381",
+      "volume": "73",
+      "author": "V Gurewich",
+      "year": "1984",
+      "unstructured": "Gurewich V, Pannell R, Louie S, Kelley P, Suddith RL, Greenlee R. Effective and fibrin-specific clot Lysis by a Zymogen precursor form of urokinase (pro-urokinase). A study in vitro and in two animal species. J Clin Invest. 1984;73(6):1731–9. https://doi.org/10.1172/JCI111381.",
+      "journal-title": "J Clin Invest"
+    },
+    {
+      "issue": "1",
+      "key": "967_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "13799",
+      "DOI": "10.1038/s41598-024-64160-y",
+      "volume": "14",
+      "author": "R Pinontoan",
+      "year": "2024",
+      "unstructured": "Pinontoan R, Purnomo JS, Avissa EB. In-vitro and in-silico analyses of the thrombolytic potential of green Kiwifruit. Sci Rep. 2024;14(1):13799. https://doi.org/10.1038/s41598-024-64160-y.",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "key": "967_CR55",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Dickey A, Wang N, Cooper E, Tull L, Breedlove D, Mason H, Liu D, Wang KY. Transient expression of Lumbrokinase (PI239) in tobacco (Nicotiana tabacum) using a geminivirus-based single replicon system dissolves fibrin and blood clots. Evid Based Complement Alternat Med. 2017;2017(6093017). https://doi.org/10.1155/2017/6093017.",
+      "DOI": "10.1155/2017/6093017"
+    },
+    {
+      "issue": "4",
+      "key": "967_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "793",
+      "DOI": "10.3390/toxins2040793",
+      "volume": "2",
+      "author": "FS Markland",
+      "year": "2010",
+      "unstructured": "Markland FS, Swenson S, Fibrolase. Trials and tribulations. Toxins. 2010;2(4):793–808. https://doi.org/10.3390/toxins2040793.",
+      "journal-title": "Toxins"
+    }
+  ],
+  "container-title": [
+    "BMC Biotechnology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1186/s12896-025-00967-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1186/s12896-025-00967-5/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1186/s12896-025-00967-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        9
+      ]
+    ],
+    "date-time": "2025-09-09T15:37:44Z",
+    "timestamp": 1757432264000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://bmcbiotechnol.biomedcentral.com/articles/10.1186/s12896-025-00967-5"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        18
+      ]
+    ]
+  },
+  "references-count": 56,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "967"
+  ],
+  "URL": "https://doi.org/10.1186/s12896-025-00967-5",
+  "relation": {},
+  "ISSN": [
+    "1472-6750"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "1472-6750"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        18
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "7 February 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "11 April 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "18 August 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "Ethical clearance was not applicable.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethics approval and consent to participate"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent for publication"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "85"
+}

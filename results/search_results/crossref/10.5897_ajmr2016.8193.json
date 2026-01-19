@@ -1,0 +1,353 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2025-10-17T19:54:45Z",
+    "timestamp": 1760730885921
+  },
+  "reference-count": 38,
+  "publisher": "Academic Journals",
+  "issue": "36",
+  "content-domain": {
+    "domain": [
+      "academicjournals.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Afr. J. Microbiol. Res."
+  ],
+  "DOI": "10.5897/ajmr2016.8193",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2016-10-20T12:20:29Z",
+    "timestamp": 1476966029000
+  },
+  "page": "1540-1547",
+  "update-policy": "http://dx.doi.org/10.5897/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Halophile isolation to produce halophilic protease, protease production and testing crude protease as a detergent ingredient"
+  ],
+  "prefix": "10.5897",
+  "volume": "10",
+  "author": [
+    {
+      "given": "Sekar",
+      "family": "Ashokkumar",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Packyam",
+      "family": "Mayavu",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Kim",
+      "family": "Keun",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "3908",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "key-10.5897/AJMR2016.8193-1",
+      "unstructured": "Amoozegar MA, Ashengroph M, Malekzadeh F, Reza Razavi M, Naddaf, Kabiri M (2008). Isolation and initial characterization of the tellurite reducing moderately halophilic bacterium, Salinicoccus sp. strain QW6. Microbiol. Res. 163:456-465."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Anson ML (1938). The estimation of pepsin, trypsin, papain and cathepsin with hemoglobin. J. Gen. Physiol. 22:79-89.",
+      "DOI": "10.1085/jgp.22.1.79"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-3",
+      "unstructured": "Ashokkumar Sekar, Mayavu Packyam. (2014). Screening, identification and antagonistic activity of halo stable Bacillus sp. Mk22 used as probiotic in Penaeus monodon Fabricius, 1798. Afr. J. Food. Sci. 8:48-53."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Banerjee VC, Saani RK, Azmi W, Soni R (1999). Thermostable alkaline protease from Bacillus brevis and its characterization as a laundry additive. Process. Biochem. 35: 213-219.",
+      "DOI": "10.1016/S0032-9592(99)00053-9"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Banik RM, Prakash M (2004). Laundry detergent compatibility of the alkaline protease from Bacillus cereus. Microbiol. Res. 159: 135-140.",
+      "DOI": "10.1016/j.micres.2004.01.002"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Capiralla H, Hiroi T, Hirokawa T, Maeda S (2002). Purification and characterization of a hydrophobic amino acid-specific endopeptidase from Halobacterium halobium S9 with potential application in debittering of protein hydrolysates. Process Biochem. 38: 571-579.",
+      "DOI": "10.1016/S0032-9592(02)00180-2"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chandel AK (2007). Industrial enzymes in bioindustrial sector development: an Indian perspective. J. Commun. Biotechnol. 13:283-291.",
+      "DOI": "10.1057/palgrave.jcb.3050065"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chi Z, Ma C, Wang P, Li HF (2007). Optimization of medium and cultivation conditions for alkaline protease production by the marine yeast Auerobasodium pullalans. Bioresour. Technol. 98:534-538.",
+      "DOI": "10.1016/j.biortech.2006.02.006"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Elevi R, Assa P, Birbir M, Ogan A, Oren A (2004). Characterization of extremely halophilc archaea isolated from the Ayvalik salterns, Turkey. World J. Microbiol. Biotechnol. 20: 719-725.",
+      "DOI": "10.1007/s11274-004-4515-z"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ganesh Kumar A, Swarnalatha S, Sairam B, Sekaran G (2008). Production of alkaline protease by Pseudomonas aeruginosa using proteinaceous solid waste generated from leather manufacturing industries. Bioresource Technology. 99: 1939-1944.",
+      "DOI": "10.1016/j.biortech.2007.03.025"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-11",
+      "unstructured": "Godfrey T, West S (1996). Introduction to industrial enzymology.In: Godfrey T, West S (eds) Industrial enzymology, 2nd edn. Macmillan Press, London. pp. 1-8."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gupta A, Roy I, Patel RK, Singh SP, Khare SK, Gupta MN (2005). One-step purification and characterization of an alkaline protease from haloalkaliphilic Bacillus sp. J. Chromatogr. A. 1075(1):103-108.",
+      "DOI": "10.1016/j.chroma.2005.03.127"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gupta R, Gupta K, Saxena RK, Khan S (1999). Bleach-stable alkaline protease from Bacillus sp. Biotechnol. Lett. 21:135-138.",
+      "DOI": "10.1023/A:1005478117918"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Haddar A, Bougatef A, Agrebi R, Sellami-Kamoun A, Nasri M (2009). A novel surfactant- stable alkaline serine protease from a newly isolated Bacillus mojavensis A21. Purification and characterization. Process Biochem. 44(1):29-35.",
+      "DOI": "10.1016/j.procbio.2008.09.003"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-15",
+      "unstructured": "Izotova LS, Strongin AY, Chekulaeva LN, Sterkin VE, Ostoslavskaya VI, Lyublinskaya LA, Timokhina EA, Stepanov VM (1983). Purification and properties of serine protease from Halobacterium halobium. J Bacteriol. 155(2):826-830."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-16",
+      "unstructured": "Johnvesly B, Naik GR (2001). Production of bleach stable and halo-tolerant alkaline protease by an alkalophilic Bacillus pumilus JB 05 isolated from cement industry effluents. J. Microbiol. Biotechnol. 11:558-563."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Joo WA, Kim CW (2005). Proteomics of Halophilic archaea. J. Chromatography B. 815: 237-250.",
+      "DOI": "10.1016/j.jchromb.2004.10.041"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kapdan IK, Erten B (2007). Anaerobic treatment of saline wastewater by Halanaerobium lacusrosei. Process Biochem. 42: 449-453.",
+      "DOI": "10.1016/j.procbio.2006.09.001"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-19",
+      "unstructured": "Na JM, Kang MS, Kim JH, Jin YX, Je JH, Kim JB, Cho YS, Kim JH, Kim SY (2011). Distribution and identification of halophilic bacteria in solar salts produced during entire manufacturing process. Korean J. Microbiol. Biotechnol. 39:133-139."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kumar S, Sharma NS, Saharan MR, Singh R (2005). Extracellular acid protease from Rhizopus oryzae: Puriﬁcation and characterization. Process Biochem. 40:1701-1705.",
+      "DOI": "10.1016/j.procbio.2004.06.047"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Laemmli UK (1970). Cleavage of structural proteins during the assembly of the head of bacteriophage T4. Nature 227:680-685.",
+      "DOI": "10.1038/227680a0"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-22",
+      "unstructured": "Lowry OH, Rosebrough NJ, Farr AL, Randall RJ (1951). Protein measurement with the Folin phenol reagent. J. Biol. Chem. 193:265-275."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-23",
+      "unstructured": "Malathi S, Chekraborty R (1991). Production of alkaline protease by a new Aspergillus flavus isolate under solid substrate fermentation conditions for use as a depilation agent. Appl. Environ. Microbiol. 57:712-716."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Manni L, Jellouli K, Agrebi R, Bayoudh A, Nasri M (2008). Biochemical and molecular characterization of a novel calcium-dependent metalloprotease from Bacillus cereus SV1. Process Biochem. 43:522-530.",
+      "DOI": "10.1016/j.procbio.2008.01.016"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mariana Delgado-Garcia, Blanca Valdivia-Urdiales, Cristobal Noe Aguilar-Gonzalez, Juan Carlos Contreras-Esquivel and Raul Rodrıguez-Herrera (2012). Halophilic hydrolases as a new tool for the biotechnological industries. J. Sci. Food Agric. 92(13): 2575-80",
+      "DOI": "10.1002/jsfa.5860"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-26",
+      "unstructured": "Mellado E, Ventosa A (2003). Biotechnological potential of moderately and extremely halophilic microorganisms. In: Barredo J.L. (Ed.), Microorganisms for Health Care, Food and Enzyme Production. Research Signpost, Kerala, 233-256. Methanogens: Ecology, Physiol, Biochem. Genet. pp. 115-120."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-27",
+      "unstructured": "Moore DD (1995). Preparation and analysis of DNA. In: F.M. Ausubel, R. Brent, R.E. Kingston, D.D. Moore, J.G. Seidman, J.A. Smith, and K. Struhl (eds). Current. Protocols in Molecular Biology, New York: John Wiley. pp. 2-1 to 2-12."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-28",
+      "unstructured": "Moreno ML, Mellado E, Garica MT, Ventosa A (2007). Diversity of extreme halophilic producing hydrolytic enzymes in hypersaline habitats. Halophiles. pp. 59-60."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Oren A (2002). Diversity of halophilic microorganisms: environments, phylogeny, physiology, and applications. J. Ind. Microbiol. Biotechnol. 28: 56-63.",
+      "DOI": "10.1038/sj/jim/7000176"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Patel PK, Arcangioli B, Baker SP, Bensimon A, Rhind N (2006). DNA replication origins fire stochastically in fission yeast. Mol. Biol. Cell. 17:308-316.",
+      "DOI": "10.1091/mbc.E05-07-0657"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-31",
+      "unstructured": "Ravindran B, Ganeshkumar A, Arunabhavani PS, Ganesan Sekaran (2011). Solid-state fermentation for the production of alkaline protease by Bacillus cereus 1173900 using proteinaceous tannery solid waste. Curr. Sci. 100(5):726-730."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ruiz DM, De Castro RE, (2007). Effect of organic solvents on the activity and stability of an extracellular protease secreted by the haloalkaliphilic archaeon Natrialb magadii. J. Ind. Microbiol. Biotechnol. 34: 111-115.",
+      "DOI": "10.1007/s10295-006-0174-4"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-33",
+      "unstructured": "Smibert RM, Krieg NR, (1994). Phenotypic characterization. In: Gerhardt, P., R.G. E. Murray, W.A. Wood and N.R. Krieg (Eds.). Manual of Methods for General Bacteriology. Washington, D.C.: American Society for Microbiology. pp. 607-654."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Souza PMD (2010). Application of microbial -amylase in industry-A review. Braz. J. Microbiol. 41(4): 850-861.",
+      "DOI": "10.1590/S1517-83822010000400004"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Thompson JD, Higgins DG, Gibson TJ, (1994). CLUSTAL W: Improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position specific gap penalties and weight matrix choice. Nucleic Acids Res. 22:4673-4680.",
+      "DOI": "10.1093/nar/22.22.4673"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-36",
+      "unstructured": "Ventosa A, Nieto JJ, Oren (1998). A Biology of moderately halophilic aerobic bacteria. Microbiol. Mol. Biol. Rev. 62:504 44."
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xin L, Hui-Ying Y, Xiao-Xue L, Xiao S (2011). Production and characterization of a novel extracellular metalloproteinase by a newly isolated moderate halophile, Halobacillus sp. LY6. Folia Microbiologica 56(4):329- 334.",
+      "DOI": "10.1007/s12223-011-0046-9"
+    },
+    {
+      "key": "key-10.5897/AJMR2016.8193-38",
+      "unstructured": "Zavaleta AI, Cardenas Fernandez AM (2007). Diversity of moderately halophilic bacteria producing extracellular hydrolytic enzymes isolated from Pilluana salt brine in Peru. Halophiles-2007. Congress Booklet. pp. 50-51."
+    }
+  ],
+  "container-title": [
+    "African Journal of Microbiology Research"
+  ],
+  "original-title": [
+    "English"
+  ],
+  "link": [
+    {
+      "URL": "http://academicjournals.org/journal/AJMR/article-full-text-pdf/B77B84E60900",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2017,
+        6,
+        25
+      ]
+    ],
+    "date-time": "2017-06-25T01:40:38Z",
+    "timestamp": 1498354838000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.academicjournals.org/journal/AJMR/article-abstract/B77B84E60900"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        28
+      ]
+    ]
+  },
+  "references-count": 38,
+  "journal-issue": {
+    "issue": "36",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          28
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.5897/ajmr2016.8193",
+  "relation": {},
+  "ISSN": [
+    "1996-0808"
+  ],
+  "issn-type": [
+    {
+      "value": "1996-0808",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        28
+      ]
+    ]
+  }
+}

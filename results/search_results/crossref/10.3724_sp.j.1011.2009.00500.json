@@ -1,0 +1,208 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        13
+      ]
+    ],
+    "date-time": "2023-09-13T20:12:56Z",
+    "timestamp": 1694635976934
+  },
+  "reference-count": 14,
+  "publisher": "China Science Publishing & Media Ltd.",
+  "issue": "3",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Chinese Journal of Eco-Agriculture"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2009,
+        6,
+        22
+      ]
+    ]
+  },
+  "DOI": "10.3724/sp.j.1011.2009.00500",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2009,
+        6,
+        23
+      ]
+    ],
+    "date-time": "2009-06-23T03:00:57Z",
+    "timestamp": 1245726057000
+  },
+  "page": "500-505",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Dynamics of soil enzyme activity in the rhizosphere of desert halophyte"
+  ],
+  "prefix": "10.3724",
+  "volume": "17",
+  "author": [
+    {
+      "given": "Liang-Peng",
+      "family": "YI",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Jian",
+      "family": "MA",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Yan",
+      "family": "LI",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "2026",
+  "reference": [
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-1"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-2"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-3",
+      "author": "Lynch J. P"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-4",
+      "doi-asserted-by": "publisher",
+      "author": "Morris R. A.",
+      "DOI": "10.1016/0378-4290(93)90120-C"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-5",
+      "doi-asserted-by": "publisher",
+      "author": "Speir T. W.",
+      "DOI": "10.1016/0038-0717(80)90075-9"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-6"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-7",
+      "doi-asserted-by": "publisher",
+      "author": "McGrath S. P.",
+      "DOI": "10.1023/A:1004248123948"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-8"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-9"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-10"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-11"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-12"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-13",
+      "doi-asserted-by": "publisher",
+      "author": "Toal M. E.",
+      "DOI": "10.1023/A:1004736021965"
+    },
+    {
+      "key": "10.3724/SP.J.1011.2009.00500-14"
+    }
+  ],
+  "container-title": [
+    "CHINESE JOURNAL OF ECO-AGRICULTURE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.ecoagri.ac.cn/article/exportPdf?id=2009318",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        8
+      ]
+    ],
+    "date-time": "2022-03-08T07:38:06Z",
+    "timestamp": 1646725086000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.ecoagri.ac.cn/cn/article/doi/10.3724/SP.J.1011.2009.00500"
+    }
+  },
+  "subtitle": [
+    "Dynamics of soil enzyme activity in the rhizosphere of desert halophyte"
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2009,
+        6,
+        22
+      ]
+    ]
+  },
+  "references-count": 14,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          17
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.3724/sp.j.1011.2009.00500",
+  "relation": {},
+  "ISSN": [
+    "1671-3990"
+  ],
+  "issn-type": [
+    {
+      "value": "1671-3990",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2009,
+        6,
+        22
+      ]
+    ]
+  }
+}

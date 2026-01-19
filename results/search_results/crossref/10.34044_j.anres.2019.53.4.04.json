@@ -1,0 +1,120 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2025-07-02T16:03:08Z",
+    "timestamp": 1751472188426
+  },
+  "reference-count": 0,
+  "publisher": "Kasetsart University and Development Institute",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "ANRES"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        8,
+        30
+      ]
+    ]
+  },
+  "DOI": "10.34044/j.anres.2019.53.4.04",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        30
+      ]
+    ],
+    "date-time": "2019-09-30T07:28:58Z",
+    "timestamp": 1569828538000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Germination behavior of Seidlitzia rosmarinus Boiss., a perennial halophyte of Arabian deserts"
+  ],
+  "prefix": "10.34044",
+  "member": "19614",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        8,
+        30
+      ]
+    ]
+  },
+  "container-title": [
+    "Agriculture and Natural Resources"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        30
+      ]
+    ],
+    "date-time": "2019-09-30T07:34:17Z",
+    "timestamp": 1569828857000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://kasetsartjournal.ku.ac.th/abstractShow.aspx?param=YXJ0aWNsZUlEPTYyODh8bWVkaWFJRD02NTUz"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        8,
+        30
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.34044/j.anres.2019.53.4.04",
+  "relation": {},
+  "ISSN": [
+    "2452-316X",
+    "2468-1458"
+  ],
+  "issn-type": [
+    {
+      "value": "2452-316X",
+      "type": "electronic"
+    },
+    {
+      "value": "2468-1458",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        8,
+        30
+      ]
+    ]
+  }
+}

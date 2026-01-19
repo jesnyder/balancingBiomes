@@ -1,0 +1,667 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        5
+      ]
+    ],
+    "date-time": "2025-07-05T04:46:58Z",
+    "timestamp": 1751690818257
+  },
+  "reference-count": 42,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2018-05-01T00:00:00Z",
+        "timestamp": 1525132800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2018-05-01T00:00:00Z",
+        "timestamp": 1525132800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            10
+          ]
+        ],
+        "date-time": "2024-08-10T00:00:00Z",
+        "timestamp": 1723248000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 2293,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Desalination and Water Treatment"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.5004/dwt.2018.22294",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        9
+      ]
+    ],
+    "date-time": "2018-06-09T16:18:17Z",
+    "timestamp": 1528561097000
+  },
+  "page": "227-234",
+  "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "special_numbering": "C",
+  "title": [
+    "Organic pollutants biodegradation by halophile-isolated bacteria in saline conditions"
+  ],
+  "prefix": "10.1016",
+  "volume": "113",
+  "author": [
+    {
+      "given": "Meryem",
+      "family": "Jemli",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Fathi",
+      "family": "Aloui",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Fatma",
+      "family": "Karray",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Sami",
+      "family": "Sayadi",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.5004/dwt.2018.22294_bb0005",
+      "first-page": "74",
+      "article-title": "Biodegradation of organic pollutants by halophilic bacteria and archaea",
+      "volume": "15",
+      "author": "Le Borgne",
+      "year": "2008",
+      "journal-title": "J. Mol. Microbiol. Biotechnol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0010",
+      "article-title": "Procédés intégrés couplant l’électrodialyse et le traitement biologique : Influence de la composition ionique et application aux effluents salins, Dissertation",
+      "volume": "III",
+      "author": "Singlande",
+      "year": "2006",
+      "journal-title": "University of Toulouse"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "966",
+      "DOI": "10.1061/(ASCE)0733-9372(1999)125:10(966)",
+      "article-title": "Salt inhibition effects in biological treatment of saline wastewater in RBC",
+      "volume": "125",
+      "author": "Kargi",
+      "year": "1999",
+      "journal-title": "J. Environ. Eng."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "529",
+      "DOI": "10.1016/S0141-0229(96)00070-1",
+      "article-title": "Effect of salt concentration on biological treatment of saline wastewater by fed-batch operation",
+      "volume": "19",
+      "author": "Kargi",
+      "year": "1996",
+      "journal-title": "Enzym. Microl. Technol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "865",
+      "DOI": "10.1002/jctb.647",
+      "article-title": "Biological treatment of saline wastewaters from marine-products processing factories by a fixed-bed reactor",
+      "volume": "77",
+      "author": "Gharsallah",
+      "year": "2002",
+      "journal-title": "J. Chem. Technol. Bio- technol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "2605",
+      "DOI": "10.1099/ijs.0.008896-0",
+      "article-title": "Marinobacter szutsaonensis sp. nov., isolated from a solar saltern",
+      "volume": "59",
+      "author": "Wang",
+      "year": "2009",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1007/s007920100184",
+      "article-title": "Potential of halotolerant and halo- philic microorganisms for biotechnology",
+      "volume": "5",
+      "author": "Margesin",
+      "year": "2001",
+      "journal-title": "Extremophiles"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0040",
+      "first-page": "295",
+      "article-title": "Diversity of moderately halophilic bacteria producing extracellular hydrolytic enzymes",
+      "volume": "94",
+      "author": "Sánchez-Porro",
+      "year": "2003",
+      "journal-title": "J. Environ. Eng."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "9578",
+      "DOI": "10.1007/s11356-014-3036-z",
+      "article-title": "Biodegradation of organic pollutants in saline wastewater by halophilic microorganisms: A review",
+      "volume": "16",
+      "author": "Castillo-Carvajal",
+      "year": "2014",
+      "journal-title": "Environ. Sci. Pollut. Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "901",
+      "DOI": "10.1016/S0032-9592(00)00287-9",
+      "article-title": "Performance of rotating biological disc system treating saline wastewater",
+      "volume": "36",
+      "author": "Dinçer",
+      "year": "2001",
+      "journal-title": "Process Biochem."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "871",
+      "DOI": "10.1080/09593330802015318",
+      "article-title": "The effect of sodium chloride on the denitrification of saline fishery wastewaters",
+      "volume": "29",
+      "author": "Mariángel",
+      "year": "2008",
+      "journal-title": "Environ. Technol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1016/S1389-1723(01)80070-0",
+      "article-title": "Treatment of hypersaline-containing wastewater with salt-tolerant microorganisms",
+      "volume": "91",
+      "author": "Kubo",
+      "year": "2001",
+      "journal-title": "J. Biosci. Bioeng."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "1595",
+      "DOI": "10.1590/S1517-83822012000400044",
+      "article-title": "Screening and isolation of halophilic bacteria producing industrially important enzymes",
+      "volume": "43",
+      "author": "Kumar",
+      "year": "2012",
+      "journal-title": "Braz. J. Microbiol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0070",
+      "first-page": "67",
+      "article-title": "Production and biochemical characterization of an α-amylase from the moderate halophile Halomonas meridiana",
+      "volume": "183",
+      "author": "Coronado",
+      "year": "2000",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0075",
+      "first-page": "504",
+      "article-title": "Biology of aerobic moderately halophilic bacteria",
+      "volume": "62",
+      "author": "Ventosa",
+      "year": "1998",
+      "journal-title": "Appl. Microbiol. Biotechnol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "38",
+      "DOI": "10.3390/life3010038",
+      "article-title": "Halophilic bacteria as a source of novel hydrolytic enzymes",
+      "volume": "3",
+      "author": "Moreno",
+      "year": "2013",
+      "journal-title": "Life"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0085",
+      "series-title": "Adaptation to life at high salt concentrations in Archaea, Bacteria, and Eukarya",
+      "first-page": "337",
+      "article-title": "Halophilic archaea and bacteria as a source of extracellular hydrolytic enzymes",
+      "author": "Ventosa",
+      "year": "2005"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "825",
+      "DOI": "10.1080/09593330903370026",
+      "article-title": "Industrial and environmental applications of halo- philic microorganisms",
+      "volume": "31",
+      "author": "Oren",
+      "year": "2010",
+      "journal-title": "Environ. Technol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "1011",
+      "DOI": "10.1007/s00253-013-5417-5",
+      "article-title": "Biotechnological applications of halophilic lipases and thioesterases",
+      "volume": "98",
+      "author": "Schreck",
+      "year": "2014",
+      "journal-title": "Appl. Microbiol. Biotech- nol."
+    },
+    {
+      "year": "2005",
+      "series-title": "Standard methods for the examination of water and wastewater",
+      "author": "Eaton",
+      "key": "10.5004/dwt.2018.22294_bb0100"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "1571",
+      "DOI": "10.1016/S0043-1354(02)00528-6",
+      "article-title": "A critical comparison of respirometric biodegradation tests based on OECD 301 and related test methods",
+      "volume": "37",
+      "author": "Reuschenbach",
+      "year": "2003",
+      "journal-title": "Water Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0110",
+      "first-page": "202",
+      "article-title": "Manometric measurement of the biochemical oxygen demand of sewage",
+      "volume": "20",
+      "author": "Caldwell",
+      "year": "1948",
+      "journal-title": "Sewage Works"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "62",
+      "DOI": "10.1016/j.watres.2013.10.066",
+      "article-title": "Methods for assessing biochemical oxygen demand (BOD): A review",
+      "volume": "49",
+      "author": "Jouanneau",
+      "year": "2014",
+      "journal-title": "Water Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "355",
+      "DOI": "10.5897/AJMR12.1087",
+      "article-title": "Prokaryotic biodiversity of halophilic microorganisms isolated from Sehline Sebkha Salt Lake (Tunisia)",
+      "volume": "8",
+      "author": "Hedi",
+      "year": "2014",
+      "journal-title": "Afr. J. Microbiol. Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1111/j.1574-6968.2006.00381.x",
+      "article-title": "Bioconversion of ferulic acid to vanillic acid by Halomonas elongata isolated from table-olive fermentation",
+      "volume": "262",
+      "author": "Abdelkafi",
+      "year": "2006",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.1111/j.1574-6968.1993.tb06107.x",
+      "article-title": "Thermoalkalophilic lipase producing Bacillus selected by continuous cultivation",
+      "volume": "108",
+      "author": "Emanuilova",
+      "year": "1993",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "648",
+      "DOI": "10.1016/j.enzmictec.2005.06.003",
+      "article-title": "Screening purification and characterization of the thermoalkalophilic lipase produced by Bacillus thermoleovorans CCR11",
+      "volume": "37",
+      "author": "Castro-Ochoa",
+      "year": "2005",
+      "journal-title": "Enzym. Microb. Technol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0140",
+      "first-page": "1364",
+      "article-title": "Characterization of novel extracellular protease produced by marine bacterial isolate from the Indian Ocean, Brazil",
+      "volume": "42",
+      "author": "Fulzele",
+      "year": "2011",
+      "journal-title": "J. Microbiol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1007/BF01568094",
+      "article-title": "An alkaline protease of an alkalophilic Bacillus sp",
+      "volume": "14",
+      "author": "Tsuchida",
+      "year": "1986",
+      "journal-title": "Curr. Microbiol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0150",
+      "series-title": "Current protocols in molecular biology",
+      "first-page": "241",
+      "author": "Wilson",
+      "year": "1997"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "697",
+      "DOI": "10.1128/jb.173.2.697-703.1991",
+      "article-title": "16S ribosomal DNA amplification for phylogenetic study",
+      "volume": "173",
+      "author": "Weisburg",
+      "year": "1991",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "3389",
+      "DOI": "10.1093/nar/25.17.3389",
+      "article-title": "Gapped BLAST and PSI-BLAST: A new generation of protein database search programs",
+      "volume": "25",
+      "author": "Altschul",
+      "year": "1997",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "141",
+      "DOI": "10.1093/nar/gkn879",
+      "article-title": "The ribosomal database project: Improved alignments and new tools for rRNA analysis",
+      "volume": "37",
+      "author": "Cole",
+      "year": "2009",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "1792",
+      "DOI": "10.1093/nar/gkh340",
+      "article-title": "MUSCLE: Multiple sequence alignment with high accuracy and high throughput",
+      "volume": "32",
+      "author": "Edgar",
+      "year": "2004",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "1870",
+      "DOI": "10.1093/molbev/msw054",
+      "article-title": "MEGA7: Molecular evolutionary genetics analysis version 7.0 for bigger datasets",
+      "volume": "33",
+      "author": "Kumar",
+      "year": "2016",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0180",
+      "first-page": "406",
+      "article-title": "The neighbor-joining method: A new method for reconstructing phylogenetic trees",
+      "volume": "4",
+      "author": "Saitou",
+      "year": "1987",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0185",
+      "first-page": "783",
+      "volume": "39",
+      "author": "Felsenstein",
+      "year": "1985",
+      "journal-title": "Confidence limits of phylogenesis. Evol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0190",
+      "series-title": "The Bacteria",
+      "first-page": "171",
+      "author": "Kushner",
+      "year": "1985"
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0195",
+      "first-page": "34",
+      "article-title": "Salinivibrio costicola subsp. alcaliphilus subsp. nov., a haloal- kaliphilic aerobe from Campania Region (Italy) Syst",
+      "volume": "28",
+      "author": "Romano",
+      "year": "2005",
+      "journal-title": "Appl. Microbiol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "416",
+      "DOI": "10.1099/00207713-44-3-416",
+      "article-title": "Phylogenetic analysis and assessment of the genera Vibrio, Photobacterium, Aeromonas, and Plesiom- onas deduced from small-subunit rRNA sequences",
+      "volume": "44",
+      "author": "Ruimy",
+      "year": "1994",
+      "journal-title": "Int. J. Syst. bacterial."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "880",
+      "DOI": "10.1099/ijs.0.001768-0",
+      "article-title": "Salinivibrio siamensis sp. nov., from fermented fish (pla-ra) in Thailand",
+      "volume": "59",
+      "author": "Chamroensaksri",
+      "year": "2009",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "10.5004/dwt.2018.22294_bb0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1016/j.jes.2014.11.002",
+      "article-title": "Biological treatment of fish processing wastewater: A case study from Sfax City (Southeastern Tunisia)",
+      "volume": "30",
+      "author": "Jemli",
+      "year": "2015",
+      "journal-title": "J. Environ. Sci."
+    }
+  ],
+  "container-title": [
+    "Desalination and Water Treatment"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1944398624124101?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1944398624124101?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.deswater.com/DWT_articles/vol_113_papers/113_2018_227.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2024-08-12T10:38:26Z",
+    "timestamp": 1723459106000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1944398624124101"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5
+      ]
+    ]
+  },
+  "references-count": 42,
+  "alternative-id": [
+    "S1944398624124101"
+  ],
+  "URL": "https://doi.org/10.5004/dwt.2018.22294",
+  "relation": {},
+  "ISSN": [
+    "1944-3986"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "1944-3986"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Organic pollutants biodegradation by halophile-isolated bacteria in saline conditions",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Desalination and Water Treatment",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.5004/dwt.2018.22294",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "simple-article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Copyright © 2018 Elsevier Inc.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2026-01-13T08:47:12Z",
+    "timestamp": 1768294032058,
+    "version": "3.49.0"
+  },
+  "reference-count": 42,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Talented Young Scientist Program",
+      "award": [
+        "19-074"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "19-074"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Science of The Total Environment"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.scitotenv.2020.142885",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        14
+      ]
+    ],
+    "date-time": "2020-10-14T03:19:35Z",
+    "timestamp": 1602645575000
+  },
+  "page": "142885",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 27,
+  "special_numbering": "C",
+  "title": [
+    "Improving quality of metal-contaminated soils by some halophyte and non-halophyte forage plants"
+  ],
+  "prefix": "10.1016",
+  "volume": "764",
+  "author": [
+    {
+      "given": "Zheli",
+      "family": "Ding",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Saif",
+      "family": "Alharbi",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Yaser A.",
+      "family": "Almaroai",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Mamdouh A.",
+      "family": "Eissa",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "7256",
+      "DOI": "10.1007/s11356-013-1735-5",
+      "article-title": "5-Aminolevulinic acid ameliorates cadmium-induced morphological, biochemical and ultrastructural changes in seedlings of oilseed rape",
+      "volume": "20",
+      "author": "Ali",
+      "year": "2013",
+      "journal-title": "Environ. Sci. Pollut. Res."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1300/J064v14n02_08",
+      "article-title": "Soil aggregate stability: a review",
+      "volume": "14",
+      "author": "Ame’zketa",
+      "year": "1999",
+      "journal-title": "J. Sust. Agric."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "714",
+      "DOI": "10.1016/j.ecoenv.2019.02.068",
+      "article-title": "Phytoremediation: environmentally sustainable way for reclamation of heavy metal polluted soils",
+      "volume": "174",
+      "author": "Ashraf",
+      "year": "2019",
+      "journal-title": "Ecotoxicol. Environ. Saf."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1007/BF00018060",
+      "article-title": "Rapid determination of free proline for water stress studies",
+      "volume": "39",
+      "author": "Bates",
+      "year": "1973",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1007/s12303-008-0006-9",
+      "article-title": "Fractionation and bioavailability of Pb in municipal solid waste compost and Pb uptake by rice straw and grain under submerged condition in amended soil",
+      "volume": "12",
+      "author": "Bhattacharyya",
+      "year": "2008",
+      "journal-title": "Geosci. J."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1023/A:1026246728095",
+      "article-title": "Spatial distribution of roots of pearl millet on sandy soils of Niger",
+      "volume": "256",
+      "author": "Bruck",
+      "year": "2003",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0035",
+      "series-title": "Soil Survey Laboratory Methods Manual. Soil Survey Investigations Report No. 42, Version 4.0",
+      "author": "Burt",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1016/j.soilbio.2019.01.026",
+      "article-title": "Drought-induced decline of productivity in the dominant grassland species Lolium 387 perenne L. depends on soil type and prevailing climatic conditions",
+      "volume": "132",
+      "author": "Buttler",
+      "year": "2019",
+      "journal-title": "Soil Biol. Biochem."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0045",
+      "first-page": "1877",
+      "article-title": "Performance of river saltbush (Atriplex amnicola) grown on contaminated soils as affected by organic fertilization",
+      "volume": "30",
+      "author": "Eissa",
+      "year": "2014",
+      "journal-title": "World Appl. Sci. J."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "540",
+      "DOI": "10.2134/agronj2015.0460",
+      "article-title": "Phosphate and organic amendments for safe production of okra from metal-contaminated soils",
+      "volume": "108",
+      "author": "Eissa",
+      "year": "2016",
+      "journal-title": "Agron. J."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1080/15320383.2018.1551325",
+      "article-title": "Effect of compost and biochar on heavy metals phytostabilization by the halophytic plant old man saltbush [Atriplex nummularia Lindl]",
+      "volume": "28",
+      "author": "Eissa",
+      "year": "2019",
+      "journal-title": "Soil Sediment Contam."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "569",
+      "DOI": "10.1080/15320383.2019.1634674",
+      "article-title": "Phytoremediation capacity of some forage plants grown on a metals-contaminated soil",
+      "volume": "28",
+      "author": "Eissa",
+      "year": "2019",
+      "journal-title": "Soil Sediment Contam."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.scitotenv.2020.142885_bb2020",
+      "first-page": "1097",
+      "article-title": "Heavy metals uptake and translocation by lettuce and spinach grown on a metal-contaminated soil",
+      "volume": "18",
+      "author": "Eissa",
+      "year": "2018",
+      "journal-title": "J. Soil Sci. Plant Nutr."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb2300",
+      "doi-asserted-by": "crossref",
+      "first-page": "126",
+      "DOI": "10.1016/j.sajb.2018.01.015",
+      "article-title": "Nitrogen fertilization: effect on Cd-phytoextraction by the halophytic plant quail bush [Atriplex lentiformis (torr.) s. wats]",
+      "volume": "115",
+      "author": "Eissa",
+      "year": "2018",
+      "journal-title": "S. Afr. J. Bot."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "628",
+      "DOI": "10.1007/s11356-018-3627-1",
+      "article-title": "Growth and biochemical changes in quail bush (Atriplex lentiformis (Torr.) S.Wats) under Cd stress",
+      "volume": "26",
+      "author": "Eissa",
+      "year": "2019",
+      "journal-title": "Environ. Sci. Pollut. Res."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb2500",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.1016/j.sajb.2018.09.014",
+      "article-title": "Impact of in vitro cold stress on two banana genotypes based on physio-biochemical Evaluation",
+      "volume": "119",
+      "author": "El-Mahdy",
+      "year": "2018",
+      "journal-title": "S. Afr. J. Bot."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0070",
+      "author": "EU European Union"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0075",
+      "series-title": "Guidelines for soil description",
+      "author": "FAO",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0080",
+      "series-title": "The World Sorghum and Millet Economies – Facts, Trends and Outlooks",
+      "author": "FAO",
+      "year": "1996"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0085",
+      "series-title": "Challenges and Opportunities for Enhancing Sustainable Cowpea Production, IITA, Ibadan, Nigeria",
+      "author": "Fatokun",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "1148",
+      "DOI": "10.1016/j.ecolmodel.2010.01.003",
+      "article-title": "The dynamics of heavy metals in plant–soil interactions",
+      "volume": "221",
+      "author": "Guala",
+      "year": "2010",
+      "journal-title": "Ecol. Model."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "389",
+      "DOI": "10.1007/BF00333714",
+      "article-title": "A global analysis of root distributions for terrestrial biomes",
+      "volume": "108",
+      "author": "Jackson",
+      "year": "1996",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "3161",
+      "DOI": "10.1016/j.scitotenv.2018.10.209",
+      "article-title": "Impacts of rising temperature, carbon dioxide concentration and sea level on wheat production in North Nile delta",
+      "volume": "651",
+      "author": "Kheir",
+      "year": "2019",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0105",
+      "first-page": "1",
+      "article-title": "Impacts of sewage irrigation on soil properties of farmland in China: A review",
+      "volume": "87",
+      "author": "Li",
+      "year": "2018",
+      "journal-title": "Int. J. Experim. Botany"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "206",
+      "DOI": "10.1016/j.scitotenv.2018.03.161",
+      "article-title": "Remediation techniques for heavy metal-contaminated soils: principles and applicability",
+      "volume": "633",
+      "author": "Liu",
+      "year": "2018",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "1271",
+      "DOI": "10.2134/jeq2004.1271",
+      "article-title": "Heavy metal accumulation by the halophyte species Mediterranean saltbush",
+      "volume": "33",
+      "author": "Lutts",
+      "year": "2004",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "175",
+      "DOI": "10.1016/j.foodres.2018.04.023",
+      "article-title": "Potential use of pearl millet (Pennisetum glaucum (L.) R. Br.) in Brazil: food security, processing, health benefits and nutritional products",
+      "volume": "109",
+      "author": "Martins",
+      "year": "2018",
+      "journal-title": "Food Res. Int."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "352",
+      "DOI": "10.1626/jcs.65.352",
+      "article-title": "Mechanism of interspecific differences among four gramineous crops in growth response to soil drying",
+      "volume": "65",
+      "author": "Matsuura",
+      "year": "1996",
+      "journal-title": "JPN. J. Crop Sci."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0135",
+      "series-title": "Mineral Tolerance of Animals",
+      "author": "National Research Council",
+      "year": "2005"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "777",
+      "DOI": "10.3389/fpls.2018.00777",
+      "article-title": "Coping with metal toxicity cues from halophytes",
+      "volume": "9",
+      "author": "Nikalje",
+      "year": "2018",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "603",
+      "DOI": "10.5194/soil-1-603-2015",
+      "article-title": "Can we manipulate root system architecture to control soil erosion?",
+      "volume": "1",
+      "author": "Ola",
+      "year": "2015",
+      "journal-title": "Soil"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "1585",
+      "DOI": "10.2135/cropsci1998.0011183X003800060029x",
+      "article-title": "Crop diversification in the Sahel through use of environmental changes near Faidherbia Albida (Del.) A. Chev",
+      "volume": "38",
+      "author": "Payne",
+      "year": "1998",
+      "journal-title": "Crop Sci."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.scitotenv.2020.142885_bb0155",
+      "first-page": "320",
+      "article-title": "Adaptation and potential uses of sorghum and pearl millet in alternative and health foods",
+      "volume": "7",
+      "author": "Rai",
+      "year": "2008",
+      "journal-title": "Compr. Rev. Food Sci. Food Saf."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "1279",
+      "DOI": "10.1016/j.chemosphere.2008.11.007",
+      "article-title": "EDTA-assisted Pb phytoextraction",
+      "volume": "74",
+      "author": "Saifullah",
+      "year": "2009",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0165",
+      "series-title": "Interacting Processes in Soil Science",
+      "first-page": "38",
+      "article-title": "Physical-chemical effects of salts upon infiltration and water movement in soils",
+      "author": "Shainberg",
+      "year": "1992"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0170",
+      "series-title": "Advances in Cowpea Research",
+      "first-page": "30",
+      "article-title": "Recent advances in cowpea breeding",
+      "author": "Singh",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "308",
+      "DOI": "10.1016/j.agwat.2004.09.036",
+      "article-title": "Effects of irrigation with saline waters, at different concentrations on soil physical and chemical characteristics",
+      "volume": "77",
+      "author": "Tedeschi",
+      "year": "2005",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0180",
+      "unstructured": "US EPA, 1996. United States Environmental Protection Agency. Method 3050B.Acid Digestion of Sediments, Sludges, and Soils.USEPA; 1996."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0185",
+      "series-title": "Exposure Factors Handbook. Volume II-Food Ingestion Factors. EPA/600//P-95/002Fa",
+      "author": "US EPA (United State Environmental Protection Agency)",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "5775",
+      "DOI": "10.1007/s10661-012-2983-4",
+      "article-title": "Heavy metal contamination in a vulnerable mangrove swamp in South China",
+      "volume": "185",
+      "author": "Wang",
+      "year": "2013",
+      "journal-title": "Environ. Monit. Assess."
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "775",
+      "DOI": "10.1016/S0045-6535(02)00232-1",
+      "article-title": "Ecological restoration of mine degraded soils, with emphasis on metal contaminated soils",
+      "volume": "50",
+      "author": "Wong",
+      "year": "2003",
+      "journal-title": "Chemosphere"
+    },
+    {
+      "key": "10.1016/j.scitotenv.2020.142885_bb0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "456",
+      "DOI": "10.1016/j.scitotenv.2006.01.016",
+      "article-title": "Accumulation of Pb, Cu, and Zn in native plants growing on a contaminated Florida site",
+      "volume": "368",
+      "author": "Yoon",
+      "year": "2006",
+      "journal-title": "Sci. Total Environ."
+    }
+  ],
+  "container-title": [
+    "Science of The Total Environment"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0048969720364159?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0048969720364159?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        24
+      ]
+    ],
+    "date-time": "2025-09-24T11:35:10Z",
+    "timestamp": 1758713710000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048969720364159"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "references-count": 42,
+  "alternative-id": [
+    "S0048969720364159"
+  ],
+  "URL": "https://doi.org/10.1016/j.scitotenv.2020.142885",
+  "relation": {},
+  "ISSN": [
+    "0048-9697"
+  ],
+  "issn-type": [
+    {
+      "value": "0048-9697",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Improving quality of metal-contaminated soils by some halophyte and non-halophyte forage plants",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Science of The Total Environment",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.scitotenv.2020.142885",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2020 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "142885"
+}

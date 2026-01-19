@@ -1,0 +1,184 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        26
+      ]
+    ],
+    "date-time": "2025-10-26T21:21:14Z",
+    "timestamp": 1761513674695
+  },
+  "reference-count": 0,
+  "publisher": "Portland Press Ltd.",
+  "issue": "2",
+  "content-domain": {
+    "domain": [
+      "portlandpress.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        1989,
+        7,
+        15
+      ]
+    ]
+  },
+  "abstract": "<jats:p>The relationship between area per molecule and surface pressure of monolayers of phosphatidylglycerol phosphate from extreme halophile Halobacterium cutrirubrum and its deoxy analogue, deoxyphosphatidylglycerol phosphate, spread at an air/water interface was examined. The effect of ionization of the primary and secondary acidic functions of the phosphate groups of the two lipids on surface characteristics of compression isotherms was determined by spreading monolayers on subphases with pH values ranging from below the apparent pKa of the primary ionization (pH 0) to greater than that of secondary ionization (pH 10.9). The limiting molecular area increases with decreasing pH below 2. Ionization of the primary phosphate functions of both phospholipids (with bulk pK1 values close to 4) is associated with a marked expansion of the films, as judged by values of limiting molecular area. Ionization of the secondary phosphate functions causes further expansion of the films, with the apparent pK2 of deoxyphosphatidylglycerol phosphate slightly less than that indicated for phosphatidylglycerol phosphate. Values of surface-compressibility modulus calculated from the surface characteristics of the phosphatidylglcerol phosphate monolayers showed that films spread on subphases with a pH of about the apparent pK1 of the primary phosphate functions were the least compressible. Increasing or decreasing subphase pH caused an increase in compressibility; this effect on compressibility was much less with monolayers of deoxyphosphatidylglycerol phosphate at high pH. The effect of inorganic counter-ions on monolayer characteristics of phosphatidylglycerol phosphate was examined by using subphases of NaCl concentrations varying from 0.01 to 1 M. The limiting molecular area was found to increase exponentially with respect to the subphase NaCl concentration.</jats:p>",
+  "DOI": "10.1042/bj2610377",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        8,
+        10
+      ]
+    ],
+    "date-time": "2015-08-10T21:13:56Z",
+    "timestamp": 1439241236000
+  },
+  "page": "377-381",
+  "update-policy": "http://dx.doi.org/10.1042/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 11,
+  "title": [
+    "Surface characteristics of phosphatidylglycerol phosphate from the extreme halophile <i>Halobacterium cutirubrum</i> compared with those of its deoxy analogue, at the air/water interface"
+  ],
+  "prefix": "10.1042",
+  "volume": "261",
+  "author": [
+    {
+      "given": "P J",
+      "family": "Quinn",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Biochemistry, King's College London, Campden Hill, London W8 7AH, U.K."
+        }
+      ]
+    },
+    {
+      "given": "M",
+      "family": "Kates",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biochemistry, University of Ottawa, Ottawa, Canada KIN 6N5"
+        }
+      ]
+    },
+    {
+      "given": "J F",
+      "family": "Tocanne",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre de Recherche de Biochimie et de Genetique Cellulaires du C.N.R.S., Toulouse 3162, France"
+        }
+      ]
+    },
+    {
+      "given": "M",
+      "family": "Tomoaia-Cotişel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Physical Chemistry, University of Cluj-Napoca, 3400-Cluj-Napoca, Romania"
+        }
+      ]
+    }
+  ],
+  "member": "288",
+  "container-title": [
+    "Biochemical Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://portlandpress.com/biochemj/article-pdf/261/2/377/597254/bj2610377.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://portlandpress.com/biochemj/article-pdf/261/2/377/597254/bj2610377.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        25
+      ]
+    ],
+    "date-time": "2021-11-25T18:17:53Z",
+    "timestamp": 1637864273000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://portlandpress.com/biochemj/article/261/2/377/25223/Surface-characteristics-of-phosphatidylglycerol"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1989,
+        7,
+        15
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          1989,
+          7,
+          15
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1042/bj2610377",
+  "relation": {},
+  "ISSN": [
+    "0264-6021",
+    "1470-8728"
+  ],
+  "issn-type": [
+    {
+      "value": "0264-6021",
+      "type": "print"
+    },
+    {
+      "value": "1470-8728",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1989,
+        7,
+        15
+      ]
+    ]
+  }
+}

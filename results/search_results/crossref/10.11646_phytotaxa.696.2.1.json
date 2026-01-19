@@ -1,0 +1,167 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        8
+      ]
+    ],
+    "date-time": "2025-11-08T23:05:23Z",
+    "timestamp": 1762643123404,
+    "version": "3.40.3"
+  },
+  "reference-count": 0,
+  "publisher": "Magnolia Press",
+  "issue": "2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Phytotaxa"
+  ],
+  "abstract": "<jats:p>Members of the genus Neocamarosporium are known from diverse ecological niches, mainly as endophytes, saprobes, or pathogens on halophytes in saline environments. During our survey on the biodiversity of fungal species inhabiting halophyte plants growing in Shadegan International Wetland (southwest of Iran), we obtained three isolates of Neocamarosporium from Suaeda vermiculata and Halocnemum strobilaceum. Two new Neocamarosporium species, viz. N. halocnemi and N. suaedae, are described and illustrated based on molecular and morphological data. In the phylogenetic tree, both new species formed distinct lineages from previously known species of Neocamarosporium. Neocamarosporium halocnemi differs from N. suaedae by having longer ellipsoid and oblong conidia and some pycnidia with 1–2 short necks. The presence of these fungi within halophytes may contribute to their adaptation to harsh ecosystems.</jats:p>",
+  "DOI": "10.11646/phytotaxa.696.2.1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        31
+      ]
+    ],
+    "date-time": "2025-03-31T23:11:40Z",
+    "timestamp": 1743462700000
+  },
+  "page": "101-116",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "New species of Neocamarosporium from two halophyte plants in Iran"
+  ],
+  "prefix": "10.11646",
+  "volume": "696",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-3650-3032",
+      "authenticated-orcid": false,
+      "given": "ATENA",
+      "family": "SAFI",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1893-1458",
+      "authenticated-orcid": false,
+      "given": "MEHDI",
+      "family": "MEHRABI-KOUSHKI",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6159-3629",
+      "authenticated-orcid": false,
+      "given": "MAHDI",
+      "family": "ARZANLOU",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "4913",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        1
+      ]
+    ]
+  },
+  "container-title": [
+    "Phytotaxa"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://phytotaxa.mapress.com/pt/article/download/phytotaxa.696.2.1/52764",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://phytotaxa.mapress.com/pt/article/download/phytotaxa.696.2.1/52764",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        31
+      ]
+    ],
+    "date-time": "2025-03-31T23:11:40Z",
+    "timestamp": 1743462700000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://phytotaxa.mapress.com/pt/article/view/phytotaxa.696.2.1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "2",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.11646/phytotaxa.696.2.1",
+  "relation": {},
+  "ISSN": [
+    "1179-3163",
+    "1179-3155"
+  ],
+  "issn-type": [
+    {
+      "value": "1179-3163",
+      "type": "electronic"
+    },
+    {
+      "value": "1179-3155",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        1
+      ]
+    ]
+  }
+}

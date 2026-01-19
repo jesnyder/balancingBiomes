@@ -1,0 +1,286 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        11
+      ]
+    ],
+    "date-time": "2025-12-11T07:24:06Z",
+    "timestamp": 1765437846484
+  },
+  "reference-count": 15,
+  "publisher": "Elsevier BV",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1972,
+            6,
+            1
+          ]
+        ],
+        "date-time": "1972-06-01T00:00:00Z",
+        "timestamp": 76204800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Phytochemistry"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1972,
+        6
+      ]
+    ]
+  },
+  "DOI": "10.1016/s0031-9422(00)90147-x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        7,
+        25
+      ]
+    ],
+    "date-time": "2002-07-25T20:11:08Z",
+    "timestamp": 1027627868000
+  },
+  "page": "1881-1886",
+  "source": "Crossref",
+  "is-referenced-by-count": 85,
+  "title": [
+    "The effect of sodium chloride on enzyme activities from four halophyte species of chenopodiaceae"
+  ],
+  "prefix": "10.1016",
+  "volume": "11",
+  "author": [
+    {
+      "given": "T.J.",
+      "family": "Flowers",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB1",
+      "first-page": "97",
+      "volume": "1",
+      "author": "Larsen",
+      "year": "1967"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB2",
+      "unstructured": "T.J. Flowers, J. Exptl Bot. in press"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB3",
+      "unstructured": "H. Greenway and C.B. Osmond, Plant Physiol. in press"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB4",
+      "doi-asserted-by": "crossref",
+      "first-page": "751",
+      "DOI": "10.1093/jxb/20.4.751",
+      "volume": "20",
+      "author": "Hall",
+      "year": "1969",
+      "journal-title": "J. Exptl Bot."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB5",
+      "first-page": "37",
+      "volume": "4",
+      "author": "Hayward",
+      "year": "1956",
+      "journal-title": "UNESCO Arid Zone Res."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB6",
+      "author": "Chapman",
+      "year": "1960",
+      "journal-title": "Salt Marshes and Salt Deserts of the World"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB7",
+      "first-page": "559",
+      "volume": "36",
+      "author": "van Eijk",
+      "year": "1939",
+      "journal-title": "Rec. Trav. Bot. Neerl."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB8",
+      "first-page": "24",
+      "volume": "152",
+      "author": "Baumeister",
+      "year": "1962",
+      "journal-title": "Flora"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB9",
+      "doi-asserted-by": "crossref",
+      "first-page": "261",
+      "DOI": "10.1007/BF02232902",
+      "volume": "24",
+      "author": "Webb",
+      "year": "1966",
+      "journal-title": "Plant & Soil"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB10",
+      "doi-asserted-by": "crossref",
+      "first-page": "293",
+      "DOI": "10.2307/2256518",
+      "volume": "35",
+      "author": "Chapman",
+      "year": "1947",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB11",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1146/annurev.pp.09.060158.000325",
+      "volume": "9",
+      "author": "Bernstein",
+      "year": "1958",
+      "journal-title": "Ann. Rev. Pl. Physiol."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB12",
+      "doi-asserted-by": "crossref",
+      "first-page": "279",
+      "DOI": "10.1086/336163",
+      "volume": "123",
+      "author": "Nieman",
+      "year": "1962",
+      "journal-title": "Bot. Gazz. Ital."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB13",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.2307/2256539",
+      "volume": "38",
+      "author": "Chapman",
+      "year": "1950",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB14",
+      "doi-asserted-by": "crossref",
+      "first-page": "939",
+      "DOI": "10.1104/pp.44.7.939",
+      "volume": "44",
+      "author": "Flowers",
+      "year": "1969",
+      "journal-title": "Pl. Physiol. Lancaster"
+    },
+    {
+      "key": "10.1016/S0031-9422(00)90147-X_BIB15",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1016/0003-2697(69)90308-X",
+      "volume": "29",
+      "author": "Hinton",
+      "year": "1969",
+      "journal-title": "Analyt. Biochem."
+    }
+  ],
+  "container-title": [
+    "Phytochemistry"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S003194220090147X?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S003194220090147X?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        4,
+        21
+      ]
+    ],
+    "date-time": "2019-04-21T20:22:18Z",
+    "timestamp": 1555878138000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S003194220090147X"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1972,
+        6
+      ]
+    ]
+  },
+  "references-count": 15,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          1972,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S003194220090147X"
+  ],
+  "URL": "https://doi.org/10.1016/s0031-9422(00)90147-x",
+  "relation": {},
+  "ISSN": [
+    "0031-9422"
+  ],
+  "issn-type": [
+    {
+      "value": "0031-9422",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1972,
+        6
+      ]
+    ]
+  }
+}

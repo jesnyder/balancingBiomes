@@ -1,0 +1,117 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        2
+      ]
+    ],
+    "date-time": "2024-03-02T01:20:27Z",
+    "timestamp": 1709342427176
+  },
+  "reference-count": 0,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2001,
+        10,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1104/pp.127.2.517",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        7,
+        27
+      ]
+    ],
+    "date-time": "2002-07-27T04:59:39Z",
+    "timestamp": 1027745979000
+  },
+  "page": "517-528",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Environmental and Developmental Regulation of the Wound-Induced Cell Wall Protein WI12 in the Halophyte Ice Plant"
+  ],
+  "prefix": "10.1093",
+  "volume": "127",
+  "author": [
+    {
+      "given": "S.-K.",
+      "family": "Yen",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "286",
+  "container-title": [
+    "PLANT PHYSIOLOGY"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        4
+      ]
+    ],
+    "date-time": "2021-02-04T23:46:54Z",
+    "timestamp": 1612482414000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.plantphysiol.org/cgi/doi/10.1104/pp.127.2.517"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2001,
+        10,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "2"
+  },
+  "URL": "https://doi.org/10.1104/pp.127.2.517",
+  "relation": {},
+  "ISSN": [
+    "0032-0889"
+  ],
+  "issn-type": [
+    {
+      "value": "0032-0889",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2001,
+        10,
+        1
+      ]
+    ]
+  }
+}

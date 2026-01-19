@@ -1,0 +1,114 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        6
+      ]
+    ],
+    "date-time": "2026-01-06T13:46:07Z",
+    "timestamp": 1767707167320
+  },
+  "reference-count": 0,
+  "publisher": "Frontiers Media SA",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Front. Microbiol."
+  ],
+  "DOI": "10.3389/fmicb.2013.00380",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        12,
+        10
+      ]
+    ],
+    "date-time": "2013-12-10T09:51:57Z",
+    "timestamp": 1386669117000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 39,
+  "title": [
+    "Raman spectroscopy in halophile research"
+  ],
+  "prefix": "10.3389",
+  "volume": "4",
+  "author": [
+    {
+      "given": "Jan",
+      "family": "Jehlička",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Aharon",
+      "family": "Oren",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "1965",
+  "published-online": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "container-title": [
+    "Frontiers in Microbiology"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        2,
+        18
+      ]
+    ],
+    "date-time": "2015-02-18T19:27:55Z",
+    "timestamp": 1424287675000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://journal.frontiersin.org/article/10.3389/fmicb.2013.00380/abstract"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.3389/fmicb.2013.00380",
+  "relation": {},
+  "ISSN": [
+    "1664-302X"
+  ],
+  "issn-type": [
+    {
+      "value": "1664-302X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  }
+}

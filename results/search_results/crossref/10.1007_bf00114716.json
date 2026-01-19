@@ -1,0 +1,540 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        31
+      ]
+    ],
+    "date-time": "2025-10-31T07:00:12Z",
+    "timestamp": 1761894012657
+  },
+  "reference-count": 36,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1987,
+            1,
+            1
+          ]
+        ],
+        "date-time": "1987-01-01T00:00:00Z",
+        "timestamp": 536457600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Vegetatio"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1987,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1007/bf00114716",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2004,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2004-11-01T02:03:11Z",
+    "timestamp": 1099274591000
+  },
+  "page": "157-168",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "title": [
+    "The demography of the annual halophyte Spergularia marina on a baltic seashore meadow"
+  ],
+  "prefix": "10.1007",
+  "volume": "68",
+  "author": [
+    {
+      "given": "Peter",
+      "family": "Torstensson",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "reference": [
+    {
+      "key": "CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.2307/2424357",
+      "volume": "88",
+      "author": "J. M. Baskin",
+      "year": "1972",
+      "unstructured": "Baskin, J. M. & Baskin, C. C., 1972. Influence of germination date on survival and seed production in a natural population of Leavenworthia stylosa. Am. Midl. Nat. 88: 318?323.",
+      "journal-title": "Am. Midl. Nat."
+    },
+    {
+      "key": "CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "2439",
+      "DOI": "10.1139/b74-318",
+      "volume": "52",
+      "author": "J. M. Baskin",
+      "year": "1974",
+      "unstructured": "Baskin, J. M. & Baskin, C. C., 1974. Germination and survival in a population of the winter annual Alyssum alyssoides. Can. J. Bot. 52: 2439?2445.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1031",
+      "DOI": "10.2307/2259549",
+      "volume": "72",
+      "author": "R. W. Dolan",
+      "year": "1984",
+      "unstructured": "Dolan, R. W. & Sharitz, R. R., 1984. Population dynamics of Ludwigia leptocarpa (Onagraceae) and some factors affecting size hierarchies in a natural population. J. Ecol. 72: 1031?1041.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR4",
+      "volume-title": "Population biology of plants",
+      "author": "J. L. Harper",
+      "year": "1977",
+      "unstructured": "Harper, J. L., 1977. Population biology of plants. Academic Press, London."
+    },
+    {
+      "key": "CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1146/annurev.es.05.110174.002223",
+      "volume": "5",
+      "author": "J. L. Harper",
+      "year": "1974",
+      "unstructured": "Harper, J. L. & White, J., 1974. The demography of plants. Ann. Rev. Ecol. Syst. 5: 419?463.",
+      "journal-title": "Ann. Rev. Ecol. Syst."
+    },
+    {
+      "key": "CR6",
+      "volume-title": "Topics in plant population biology",
+      "author": "J. C. Hickman",
+      "year": "1979",
+      "unstructured": "Hickman, J. C., 1979. The basic biology of plant numbers. In: O. T. Solbrig, S. Jain, G. Johnson & P. H. Raven (eds), Topics in plant population biology. Columbia University Press, New York."
+    },
+    {
+      "key": "CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.2307/2259813",
+      "volume": "69",
+      "author": "R. L. Jefferies",
+      "year": "1981",
+      "unstructured": "Jefferies, R. L., Davy, A. J. & Rudmik, T., 1981. Population biology of the salt marsh annual Salicornia europaea agg. J. Ecol. 69: 17?31.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR8",
+      "first-page": "399",
+      "volume": "7",
+      "author": "A. Jensen",
+      "year": "1984",
+      "unstructured": "Jensen, A. & Jefferies, R. L., 1984. Fecundity and mortality in populations of Salicornia europaea agg. at Skallingen, Denmark. Holarct. Ecol. 7: 399?412.",
+      "journal-title": "Holarct. Ecol."
+    },
+    {
+      "key": "CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "615",
+      "DOI": "10.2307/2259688",
+      "volume": "69",
+      "author": "P. A. Keddy",
+      "year": "1981",
+      "unstructured": "Keddy, P. A., 1981. Experimental demography of the sand dune annual, Cakile edentula, growing along an environmental gradient. J. Ecol. 69: 615?630.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "348",
+      "DOI": "10.1007/BF00367958",
+      "volume": "52",
+      "author": "P. A. Keddy",
+      "year": "1982",
+      "unstructured": "Keddy, P. A., 1982. Population ecology on an environmental gradient: Cakile edentula on a sand dune. Oecologia 52: 348?355.",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "691",
+      "DOI": "10.2307/2259586",
+      "volume": "71",
+      "author": "K. M. Klemow",
+      "year": "1983",
+      "unstructured": "Klemow, K. M. & Raynal, D. J., 1983. Population biology of an annual plant in a temporally variable habitat. J. Ecol. 71: 691?703.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1267",
+      "DOI": "10.2307/1937291",
+      "volume": "62",
+      "author": "R. Law",
+      "year": "1981",
+      "unstructured": "Law, R., 1981. The dynamics of a colonizing population of Poa annua. Ecology 62: 1267?1277.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "891",
+      "DOI": "10.1086/283443",
+      "volume": "113",
+      "author": "W. J. Leverich",
+      "year": "1979",
+      "unstructured": "Leverich, W. J. & Levin, D. A., 1979. Age specific survivorship and reproduction in Phlox drummondii. Am. Nat. 113: 891?903.",
+      "journal-title": "Am. Nat."
+    },
+    {
+      "key": "CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "309",
+      "DOI": "10.2307/2258697",
+      "volume": "64",
+      "author": "R. N. Mack",
+      "year": "1976",
+      "unstructured": "Mack, R. N., 1976. Survivorship of Cerastium atrovirens at Aberffraw, Anglesey. J. Ecol. 64: 309?312.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.2307/2259964",
+      "volume": "71",
+      "author": "R. N. Mack",
+      "year": "1983",
+      "unstructured": "Mack, R. N. & Pyke, D. A., 1983. The demography of Bromus tectorum: Variation in time and space. J. Ecol. 71: 69?93.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "335",
+      "DOI": "10.1111/j.1399-3054.1983.tb04211.x",
+      "volume": "59",
+      "author": "O. T. Okusanya",
+      "year": "1983",
+      "unstructured": "Okusanya, O. T. & Ungar, I. A., 1983. The effects of time seed production on the germination response of Spergularia marina. Physiol. Plant. 59: 335?342.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "923",
+      "DOI": "10.2307/2259221",
+      "volume": "67",
+      "author": "D. L. Regehr",
+      "year": "1979",
+      "unstructured": "Regehr, D. L. & Bazzaz, F. A., 1979. The population dynamics of Erigeron canadensis, a successional winter annual. J. Ecol. 67: 923?933.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1007/BF00378386",
+      "volume": "54",
+      "author": "B. A. Schaal",
+      "year": "1982",
+      "unstructured": "Schaal, B. A. & Leverich, W. J., 1982. Survivorship patterns in an annual plant community. Oecologia 54: 149?151.",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "CR19",
+      "first-page": "142",
+      "volume-title": "Ecology and evolution of communities",
+      "author": "W. M. Schaffer",
+      "year": "1975",
+      "unstructured": "Schaffer, W. M. & Gadgil, M. D., 1975. Selection for optimal life-histories in plants. In: M. L. Cody & J. M. Diamond (eds), Ecology and evolution of communities, pp. 142?157. Harvard University Press, Cambridge, Massachusetts."
+    },
+    {
+      "key": "CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "723",
+      "DOI": "10.2307/1935669",
+      "volume": "54",
+      "author": "R. R. Scharitz",
+      "year": "1975",
+      "unstructured": "Scharitz, R. R. & McCormick, J. F., 1975. Population dynamics of two competng annual plant species. Ecology 54: 723?740.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "CR21",
+      "volume-title": "Introduction to plant population ecology",
+      "author": "J. W. Silvertown",
+      "year": "1982",
+      "unstructured": "Silvertown, J. W., 1982. Introduction to plant population ecology. Longman, London and New York."
+    },
+    {
+      "key": "CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "405",
+      "DOI": "10.2307/2259723",
+      "volume": "71",
+      "author": "B. H. Smith",
+      "year": "1983",
+      "unstructured": "Smith, B. H., 1983a. Demography of Floerkea proserpinacoides, a forestfloor annual. II. Density-dependent reproduction. J. Ecol. 71: 405?412.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "413",
+      "DOI": "10.2307/2259724",
+      "volume": "71",
+      "author": "B. H. Smith",
+      "year": "1983",
+      "unstructured": "Smith, B. H., 1983b. Demography of Floerkea proserpinacoides, a forestfloor annual. III. Dynamics of seed and seedling mortality. J. Ecol. 71: 413?425.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "467",
+      "DOI": "10.1111/j.1438-8677.1969.tb00613.x",
+      "volume": "18",
+      "author": "A. A. Sterk",
+      "year": "1969",
+      "unstructured": "Sterk, A. A., 1969a. Biosystematic studies on Spergularia media and S. marina in the Netherlands II. The morphological variation of S. marina. Acta Bot. Neerl. 18: 467?476.",
+      "journal-title": "Acta Bot. Neerl."
+    },
+    {
+      "key": "CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "561",
+      "DOI": "10.1111/j.1438-8677.1969.tb00597.x",
+      "volume": "18",
+      "author": "A. A. Sterk",
+      "year": "1969",
+      "unstructured": "Sterk, A. A., 1969b. Biosystematic studies on Spergularia media and S. marina in the Netherlands III. The variability of S. media and S. marina in relation to the environment. Acta Bot. Neerl. 18: 561?577.",
+      "journal-title": "Acta Bot. Neerl."
+    },
+    {
+      "key": "CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "639",
+      "DOI": "10.1111/j.1438-8677.1969.tb00087.x",
+      "volume": "18",
+      "author": "A. A. Sterk",
+      "year": "1969",
+      "unstructured": "Sterk, A. A., 1969c. Biosystematic studies on Spergularia media and S. marina in the Netherlands IV. Reproduction, dissemination, karyogenetics and taxonomy. Acta Bot. Neerl. 18: 639?650.",
+      "journal-title": "Acta Bot. Neerl."
+    },
+    {
+      "key": "CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "481",
+      "DOI": "10.1111/j.1438-8677.1972.tb00801.x",
+      "volume": "21",
+      "author": "A. A. Sterk",
+      "year": "1972",
+      "unstructured": "Sterk, A. A. & Dijkhuizen, L., 1972. The relation between the genetic determination and the ecological significance of the seed wing in Spergularia media and S. marina. Acta Bot. Neerl. 21: 481?490.",
+      "journal-title": "Acta Bot. Neerl."
+    },
+    {
+      "key": "CR28",
+      "first-page": "374",
+      "volume": "22",
+      "author": "E. Symonides",
+      "year": "1974",
+      "unstructured": "Symonides, E., 1974. Populations of Spergula vernalis Willd. on dunes in the Torun Basin. Ekol. Pol. 22: 374?416.",
+      "journal-title": "Ekol. Pol."
+    },
+    {
+      "key": "CR29",
+      "first-page": "191",
+      "volume": "27",
+      "author": "E. Symonides",
+      "year": "1979",
+      "unstructured": "Symonides, E., 1979a. The structure and population dynamics of psammophytes on inland dunes. II. Loose-sod populations. Ekol. Pol. 27: 191?234.",
+      "journal-title": "Ekol. Pol."
+    },
+    {
+      "key": "CR30",
+      "first-page": "235",
+      "volume": "27",
+      "author": "E. Symonides",
+      "year": "1979",
+      "unstructured": "Symonides, E., 1979b. The structure and population dynamics of psammophytes on inland dunes. III. Populations of compact psammophyte communities. Ekol. Pol. 27: 235?257.",
+      "journal-title": "Ekol. Pol."
+    },
+    {
+      "key": "CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1007/BF00114717",
+      "volume": "68",
+      "author": "P. Torstensson",
+      "year": "1986",
+      "unstructured": "Torstensson, P., 1986. Population dynamics of the annual halophyte Spergularia marina on a Baltic seashore meadow. Vegetatio 68: 169?172.",
+      "journal-title": "Vegetatio"
+    },
+    {
+      "key": "CR32",
+      "first-page": "13",
+      "volume": "9",
+      "author": "P. Torstensson",
+      "year": "1986",
+      "unstructured": "Torstensson, P. & Telenius, A., 1986. Plastic morphological response to density in Spergularia marina (L.) Griseb.: Leaf demography and meristem activity. Holarct. Ecol. 9: 13?19.",
+      "journal-title": "Holarct. Ecol."
+    },
+    {
+      "key": "CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "487",
+      "DOI": "10.1007/BF00044776",
+      "volume": "62",
+      "author": "A. R. Watkinson",
+      "year": "1985",
+      "unstructured": "Watkinson, A. R. & Davy, A. J., 1985. Population biology of saltmarsh and sand dune annuals. Vegetatio 62: 487?497.",
+      "journal-title": "Vegetatio"
+    },
+    {
+      "key": "CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.2307/2259178",
+      "volume": "66",
+      "author": "A. R. Watkinson",
+      "year": "1978",
+      "unstructured": "Watkinson, A. R. & Harper, J. L., 1978. The demography of a sand dune annual: Vulpia fasciculata. I. The natural regulation of populations. J. Ecol. 66: 15?33.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1007/BF00345444",
+      "volume": "39",
+      "author": "K. K. Wu",
+      "year": "1979",
+      "unstructured": "Wu, K. K. & Jain, S. K., 1979. Population regulation in Bromus rubens and B. mollis: life cycle components and competition. Oecologia 39: 337?357.",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "CR36",
+      "volume-title": "Biostatistical analysis",
+      "author": "J. A. Zar",
+      "year": "1974",
+      "unstructured": "Zar, J. A., 1974. Biostatistical analysis. Prentice-Hall, Inc. Englewood Cliffs, N. J."
+    }
+  ],
+  "container-title": [
+    "Vegetatio"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF00114716.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/BF00114716/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF00114716",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        4,
+        8
+      ]
+    ],
+    "date-time": "2019-04-08T14:09:12Z",
+    "timestamp": 1554732552000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/BF00114716"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1987,
+        1
+      ]
+    ]
+  },
+  "references-count": 36,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          1987,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BF00114716"
+  ],
+  "URL": "https://doi.org/10.1007/bf00114716",
+  "relation": {},
+  "ISSN": [
+    "0042-3106",
+    "1573-5052"
+  ],
+  "issn-type": [
+    {
+      "value": "0042-3106",
+      "type": "print"
+    },
+    {
+      "value": "1573-5052",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1987,
+        1
+      ]
+    ]
+  }
+}

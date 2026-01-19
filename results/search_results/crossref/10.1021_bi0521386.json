@@ -1,0 +1,415 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ],
+    "date-time": "2025-10-24T07:52:17Z",
+    "timestamp": 1761292337484
+  },
+  "reference-count": 35,
+  "publisher": "American Chemical Society (ACS)",
+  "issue": "22",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Biochemistry"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2006,
+        6,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1021/bi0521386",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        5,
+        30
+      ]
+    ],
+    "date-time": "2006-05-30T04:30:47Z",
+    "timestamp": 1148963447000
+  },
+  "page": "6835-6845",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "title": [
+    "Acquisition of an Insertion Peptide for Efficient Aminoacylation by a Halophile tRNA Synthetase"
+  ],
+  "prefix": "10.1021",
+  "volume": "45",
+  "author": [
+    {
+      "given": "Caryn",
+      "family": "Evilia",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Biochemistry and Molecular Biology, Thomas Jefferson University, 233 South 10th Street, Suite 220, Philadelphia, Pennsylvania 19107"
+        }
+      ]
+    },
+    {
+      "given": "Ya-Ming",
+      "family": "Hou",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biochemistry and Molecular Biology, Thomas Jefferson University, 233 South 10th Street, Suite 220, Philadelphia, Pennsylvania 19107"
+        }
+      ]
+    }
+  ],
+  "member": "316",
+  "published-online": {
+    "date-parts": [
+      [
+        2006,
+        5,
+        16
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "bi0521386b00001/bi0521386b00001_1",
+      "volume-title": "Curr. Opin. Microbiol. 2, 265−9.",
+      "author": "Madigan M. T.",
+      "year": "1999"
+    },
+    {
+      "key": "bi0521386b00002/bi0521386b00002_1",
+      "volume-title": "Adv. Protein Chem. 43, 1−62.",
+      "author": "Eisenberg H.",
+      "year": "1992"
+    },
+    {
+      "key": "bi0521386b00003/bi0521386b00003_1",
+      "volume-title": "Biochemistry 35, 5272−9.",
+      "author": "Lohman T. M.",
+      "year": "1996"
+    },
+    {
+      "key": "bi0521386b00004/bi0521386b00004_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1146/annurev.biochem.69.1.617",
+      "volume": "69",
+      "author": "Ibba M.",
+      "year": "2000",
+      "journal-title": "Rev. Biochem."
+    },
+    {
+      "key": "bi0521386b00005/bi0521386b00005_1",
+      "volume-title": "Protein Expression Purif. 17, 312−23.",
+      "author": "Turner G. J.",
+      "year": "1999"
+    },
+    {
+      "key": "bi0521386b00006/bi0521386b00006_1",
+      "volume-title": "Mol. Microbiol. 35, 667−76.",
+      "author": "Peck R. F.",
+      "year": "2000"
+    },
+    {
+      "key": "bi0521386b00007/bi0521386b00007_1",
+      "volume-title": "RNA 9, 794−801.",
+      "author": "Evilia C.",
+      "year": "2003"
+    },
+    {
+      "key": "bi0521386b00008/bi0521386b00008_1",
+      "volume-title": "Biochemistry 32, 7435−44.",
+      "author": "Komatsoulis G. A.",
+      "year": "1993"
+    },
+    {
+      "key": "bi0521386b00009/bi0521386b00009_1",
+      "volume-title": "Biochemistry 36, 7967−72.",
+      "author": "Hamann C. S.",
+      "year": "1997"
+    },
+    {
+      "key": "bi0521386b00010/bi0521386b00010_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1006/jmbi.1999.3353",
+      "volume": "295",
+      "author": "Hamann C. S.",
+      "year": "2000",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00011/bi0521386b00011_1",
+      "volume-title": "EMBO J. 21, 2778−87.",
+      "author": "Newberry K. J.",
+      "year": "2002"
+    },
+    {
+      "key": "bi0521386b00012/bi0521386b00012_1",
+      "volume-title": "Nat. Struct. Mol. Biol. 11, 1134−41.",
+      "author": "Hauenstein S.",
+      "year": "2004"
+    },
+    {
+      "key": "bi0521386b00013/bi0521386b00013_1",
+      "volume-title": "Proc. Natl. Acad. Sci. U.S.A. 97",
+      "author": "Ng W. V.",
+      "year": "2000"
+    },
+    {
+      "key": "bi0521386b00014/bi0521386b00014_1",
+      "volume-title": "Proc. Natl. Acad. Sci. U.S.A. 95",
+      "author": "Lipman R. S.",
+      "year": "1998"
+    },
+    {
+      "key": "bi0521386b00015/bi0521386b00015_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/S0022-2836(02)00232-2",
+      "volume": "318",
+      "author": "Ming X.",
+      "year": "2002",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00016/bi0521386b00016_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1021/bi00682a700",
+      "volume": "14",
+      "author": "Fersht A. R.",
+      "year": "1975",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "bi0521386b00017/bi0521386b00017_1",
+      "volume-title": "Proc. Natl. Acad. Sci. U.S.A. 90",
+      "author": "Hou Y. M.",
+      "year": "1993"
+    },
+    {
+      "key": "bi0521386b00018/bi0521386b00018_1",
+      "volume-title": "in The Peptides:  Analysis",
+      "author": "Woody R. W.",
+      "year": "1985"
+    },
+    {
+      "key": "bi0521386b00019/bi0521386b00019_1",
+      "volume-title": "Biochemistry 42, 10931−7.",
+      "author": "Zhang C. M.",
+      "year": "2003"
+    },
+    {
+      "key": "bi0521386b00020/bi0521386b00020_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3109/10408417809090622",
+      "volume": "6",
+      "author": "Bayley S. T.",
+      "year": "1978",
+      "journal-title": "CRC Crit. Rev. Microbiol."
+    },
+    {
+      "key": "bi0521386b00021/bi0521386b00021_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1128/br.38.3.272-290.1974",
+      "volume": "38",
+      "author": "Lanyi J. K.",
+      "year": "1974",
+      "journal-title": "Bacteriol. Rev."
+    },
+    {
+      "key": "bi0521386b00022/bi0521386b00022_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/0022-2836(89)90512-3",
+      "volume": "208",
+      "author": "Zaccai G.",
+      "year": "1989",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00023/bi0521386b00023_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/S0022-2836(02)00916-6",
+      "volume": "323",
+      "author": "Wright D. B.",
+      "year": "2002",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00024/bi0521386b00024_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "8",
+      "DOI": "10.1007/s007920050142",
+      "volume": "4",
+      "author": "Madern D.",
+      "year": "2000",
+      "journal-title": "Extremophiles"
+    },
+    {
+      "key": "bi0521386b00025/bi0521386b00025_1",
+      "volume-title": "Biochemistry 41, 13234−44.",
+      "author": "Ebel C.",
+      "year": "2002"
+    },
+    {
+      "key": "bi0521386b00026/bi0521386b00026_1",
+      "first-page": "39",
+      "volume": "44",
+      "author": "Marg B. L.",
+      "year": "2005",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "bi0521386b00027/bi0521386b00027_1",
+      "volume-title": "Biochemistry 45, 2189−99.",
+      "author": "Chen L.",
+      "year": "2006"
+    },
+    {
+      "key": "bi0521386b00028/bi0521386b00028_1",
+      "volume-title": "Biochemistry 44, 5177−87.",
+      "author": "Bakhtina M.",
+      "year": "2005"
+    },
+    {
+      "key": "bi0521386b00029/bi0521386b00029_1",
+      "volume": "303",
+      "author": "Xin Y.",
+      "year": "2000",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00030/bi0521386b00030_1",
+      "volume": "303",
+      "author": "Xin Y.",
+      "year": "2000",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00031/bi0521386b00031_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/S0022-2836(03)00241-9",
+      "volume": "327",
+      "author": "Zhang C. M.",
+      "year": "2003",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "bi0521386b00032/bi0521386b00032_1",
+      "volume-title": "Nucleic Acids Res. 23, 4793−8.",
+      "author": "Schmitt E.",
+      "year": "1995"
+    },
+    {
+      "key": "bi0521386b00033/bi0521386b00033_1",
+      "volume-title": "Biochemistry 39, 1001−10.",
+      "author": "Madern D.",
+      "year": "2000"
+    },
+    {
+      "key": "bi0521386b00034/bi0521386b00034_1",
+      "volume-title": "Nat. Struct. Biol. 3, 452−8.",
+      "author": "Frolow F.",
+      "year": "1996"
+    },
+    {
+      "key": "bi0521386n00001/bi0521386n00001_1",
+      "volume-title": "aminoacyl-tRNA synthetase",
+      "author": "Abbreviations RS"
+    }
+  ],
+  "container-title": [
+    "Biochemistry"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pubs.acs.org/doi/pdf/10.1021/bi0521386",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        6
+      ]
+    ],
+    "date-time": "2023-03-06T17:56:02Z",
+    "timestamp": 1678125362000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.acs.org/doi/10.1021/bi0521386"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2006,
+        5,
+        16
+      ]
+    ]
+  },
+  "references-count": 35,
+  "journal-issue": {
+    "issue": "22",
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1021/bi0521386"
+  ],
+  "URL": "https://doi.org/10.1021/bi0521386",
+  "relation": {},
+  "ISSN": [
+    "0006-2960",
+    "1520-4995"
+  ],
+  "issn-type": [
+    {
+      "value": "0006-2960",
+      "type": "print"
+    },
+    {
+      "value": "1520-4995",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2006,
+        5,
+        16
+      ]
+    ]
+  }
+}

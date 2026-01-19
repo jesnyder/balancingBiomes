@@ -6,11 +6,12 @@ from compile_searches import compile_searches
 from build_js_table import build_js_table
 from count_species import count_species
 from detail_species import detail_species
+from build_table_summary import build_table_summary
 
 def main():
     print("main running")
 
-    tasks = [1,8]
+    tasks = [5]
 
     # detail species
     if 1 in tasks: detail_species()
@@ -26,12 +27,13 @@ def main():
 
     # compile and summarize searches
     if 6 in tasks: compile_searches()
+    if 7 in tasks: build_table_summary()
 
     # build javasript elements
-    if 7 in tasks: build_js_table()
+    if 8 in tasks: build_js_table()
 
     # count species and build js table
-    if 8 in tasks: count_species()
+    if 9 in tasks: count_species()
 
 
 

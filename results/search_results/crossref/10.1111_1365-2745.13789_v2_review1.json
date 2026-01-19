@@ -1,0 +1,105 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        2
+      ]
+    ],
+    "date-time": "2024-03-02T03:10:48Z",
+    "timestamp": 1709349048778
+  },
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "content-domain": {
+    "domain": []
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        25
+      ]
+    ]
+  },
+  "DOI": "10.1111/1365-2745.13789/v2/review1",
+  "type": "peer-review",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2021-10-11T13:44:28Z",
+    "timestamp": 1633959868000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Review for \"Great granny still ruling from the grave: phenotypical response of plant performance and seed functional traits to salt stress affects multiple generations of a halophyte\""
+  ],
+  "prefix": "10.1111",
+  "member": "311",
+  "container-title": [],
+  "review": {
+    "type": "referee-report",
+    "running-number": "PR1V2",
+    "revision-round": "2",
+    "stage": "pre-publication"
+  },
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2021-10-11T13:44:32Z",
+    "timestamp": 1633959872000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://publons.com/publon/49736138"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        25
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.1111/1365-2745.13789/v2/review1",
+  "relation": {
+    "is-review-of": [
+      {
+        "id-type": "doi",
+        "id": "10.1111/1365-2745.13789",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        25
+      ]
+    ]
+  }
+}

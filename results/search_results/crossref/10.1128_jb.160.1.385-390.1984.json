@@ -1,0 +1,411 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ],
+    "date-time": "2025-10-09T12:43:59Z",
+    "timestamp": 1760013839052
+  },
+  "reference-count": 20,
+  "publisher": "American Society for Microbiology",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1984,
+            10,
+            1
+          ]
+        ],
+        "date-time": "1984-10-01T00:00:00Z",
+        "timestamp": 465436800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.asm.org/non-commercial-tdm-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.asm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J Bacteriol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1984,
+        10
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Vibrio costicola grown in the presence of different NaCl concentrations contains cell-associated Na+ and K+ ions whose sum is equal to or greater than the external Na+ concentration. In the presence of 0.5 M NaCl, virtually no in vitro protein is synthesized in extracts of cells grown in 1.0 M NaCl. However, we report here that active in vitro protein synthesis occurred in 0.6 M or higher concentrations of Na2SO4, sodium formate, sodium acetate, sodium aspartate, or sodium glutamate, whereas 0.6 M NaF, NaCl, or NaBr completely inhibited protein synthesis as measured by polyuridylic acid-directed incorporation of [14C]phenylalanine. Sodium glutamate, sodium aspartate, and betaine (0.3 M) counteracted the inhibitory action of 0.6 M NaCl. The cell-associated Cl- concentration was 0.22 mol/kg in cells grown in 1.0 M NaCl. Of this, the free intracellular Cl- concentration was only 0.02 mol/kg. Cells contained 0.11 mol of glutamate per kg and small concentrations of other amino acids. All of the negative counterions for cell-associated Na+ and K+ have not yet been determined. In vitro protein synthesis by Escherichia coli was inhibited by sodium glutamate. Hybridization experiments with ribosomes and the soluble (S-100) fractions from extracts of E. coli and V. costicola showed that the glutamate-sensitive fraction was found in the soluble, not the ribosomal, part of the system. The phenylalanyl-tRNA synthetase of V. costicola was not inhibited by 0.5 M or higher concentrations of NaCl; it was slightly more sensitive to high concentrations of sodium glutamate. Therefore, this enzyme was not responsible for the salt response of the V. costicola in vitro protein-synthesizing system.</jats:p>",
+  "DOI": "10.1128/jb.160.1.385-390.1984",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        3
+      ]
+    ],
+    "date-time": "2020-01-03T18:01:25Z",
+    "timestamp": 1578074485000
+  },
+  "page": "385-390",
+  "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 19,
+  "title": [
+    "Effect of chloride and glutamate ions on in vitro protein synthesis by the moderate halophile Vibrio costicola"
+  ],
+  "prefix": "10.1128",
+  "volume": "160",
+  "author": [
+    {
+      "given": "M",
+      "family": "Kamekura",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "D J",
+      "family": "Kushner",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "235",
+  "reference": [
+    {
+      "key": "p_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "2249",
+      "DOI": "10.1021/bi00846a030",
+      "article-title": "A cell-free amino acid incorporating system from an extremely halophilic bacterium",
+      "volume": "7",
+      "author": "Bayley S. T.",
+      "year": "1968",
+      "unstructured": "Bayley , S. T. , and E. Griffiths . 1968 . A cell-free amino acid incorporating system from an extremely halophilic bacterium . Biochemistry 7 : 2249 - 2256 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bengis-Garber C. and Z. Gromet Elhanan. 1979. Purification of the energy-transducing adenosine triphosphate complex from Rhodospirilluim riubruim Biochemistry 18:3577-3581.",
+      "DOI": "10.1021/bi00583a022"
+    },
+    {
+      "key": "p_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "730",
+      "DOI": "10.1039/an9396400730",
+      "article-title": "Observation on the use of potassium chromate as indicator for the titration of chlorides with silver nitrate",
+      "volume": "64",
+      "author": "Berry A. J.",
+      "year": "1939",
+      "unstructured": "Berry , A. J. , and J. E. Driver . 1939 . Observation on the use of potassium chromate as indicator for the titration of chlorides with silver nitrate . Analyst 64 : 730 - 734 .",
+      "journal-title": "Analyst"
+    },
+    {
+      "key": "p_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "506",
+      "DOI": "10.1016/0006-3002(62)90453-5",
+      "article-title": "Solute concentrations within cells of halophilic and non-halophilic bacteria",
+      "volume": "65",
+      "author": "Christian J. H. B.",
+      "year": "1962",
+      "unstructured": "Christian , J. H. B. , and J. A. Waltho . 1962 . Solute concentrations within cells of halophilic and non-halophilic bacteria . Biochim. Biophys. Acta 65 : 506 - 508 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "297",
+      "DOI": "10.1099/00221287-84-2-297",
+      "article-title": "Nature of the major inorganic ions concentrated during growth of Bacillus ainyloliquefaciens",
+      "volume": "84",
+      "author": "Coleman G.",
+      "year": "1974",
+      "unstructured": "Coleman , G. 1974 . Nature of the major inorganic ions concentrated during growth of Bacillus ainyloliquefaciens . J. Gen. Microbiol. 84 : 297 - 302 .",
+      "journal-title": "J. Gen. Microbiol."
+    },
+    {
+      "key": "p_6",
+      "first-page": "277",
+      "article-title": "Determination of chloride in biological materials",
+      "volume": "12",
+      "author": "Cotlove E.",
+      "year": "1964",
+      "unstructured": "Cotlove , E. 1964 . Determination of chloride in biological materials . Methods Biol. Anal. 12 : 277 - 391 .",
+      "journal-title": "Methods Biol. Anal."
+    },
+    {
+      "key": "p_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "639",
+      "DOI": "10.1016/0003-2697(71)90300-9",
+      "article-title": "A very rapid method for washing large numbers of precipitates of proteins and nucleic acids",
+      "volume": "43",
+      "author": "Furano A. V.",
+      "year": "1971",
+      "unstructured": "Furano , A. V. 1971 . A very rapid method for washing large numbers of precipitates of proteins and nucleic acids . Anal. Biochem. 43 : 639 - 640 .",
+      "journal-title": "Anal. Biochem."
+    },
+    {
+      "key": "p_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1139/m80-030",
+      "article-title": "Protein turnover in a moderately halophilic bacterium",
+      "volume": "26",
+      "author": "Hipkiss A. R.",
+      "year": "1980",
+      "unstructured": "Hipkiss , A. R. , D. W. Armstrong , and D. J. Kushner . 1980 . Protein turnover in a moderately halophilic bacterium . Can. J. Microbiol. 26 : 196 - 203 .",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "p_9",
+      "first-page": "669",
+      "article-title": "Kinetic analysis of enzyme reactions. 11. The potassium activation and calcium inhibition of pyruvic phosphoferase",
+      "volume": "200",
+      "author": "Kachmar J. F.",
+      "year": "1953",
+      "unstructured": "Kachmar , J. F. , and P. D. Boyer . 1953 . Kinetic analysis of enzyme reactions. 11. The potassium activation and calcium inhibition of pyruvic phosphoferase . J. Biol. Chem. 200 : 669 - 682 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "237",
+      "DOI": "10.1002/bit.260080205",
+      "article-title": "Mass culture of red halophilic bacteria",
+      "volume": "8",
+      "author": "Kushner D. J.",
+      "year": "1966",
+      "unstructured": "Kushner , D. J. 1966 . Mass culture of red halophilic bacteria . Biotechnol. Bioeng. 8 : 237 - 245 .",
+      "journal-title": "Biotechnol. Bioeng."
+    },
+    {
+      "key": "p_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1163",
+      "DOI": "10.1128/jb.153.3.1163-1171.1983",
+      "article-title": "Development of salt-resistant active transport in a moderately halophilic bacterium",
+      "volume": "153",
+      "author": "Kushner D. J.",
+      "year": "1983",
+      "unstructured": "Kushner , D. J. , F. Hamaide , and R. A. MacLeod . 1983 . Development of salt-resistant active transport in a moderately halophilic bacterium . J. Bacteriol. 153 : 1163 - 1171 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1016/S0021-9258(19)52451-6",
+      "article-title": "Protein measurement with the Folin phenol reagent",
+      "volume": "193",
+      "author": "Lowry 0.",
+      "year": "1951",
+      "unstructured": "Lowry , 0. H. , N. J. Rosebrough , A. L. Farr , and R. J. Randall . 1951 . Protein measurement with the Folin phenol reagent . J. Biol. Chem. 193 : 265 - 275 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "1181",
+      "DOI": "10.1139/m73-191",
+      "article-title": "Intracellular concentrations of Na+, K+, and Cl- of a moderately halophilic bacterium",
+      "volume": "19",
+      "author": "Masui M.",
+      "year": "1973",
+      "unstructured": "Masui , M. , and S. Wada . 1973 . Intracellular concentrations of Na+, K+, and Cl- of a moderately halophilic bacterium . Can. J. Microbiol. 19 : 1181 - 1186 .",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "p_14",
+      "unstructured": "Modolell J. 1971. The S-30 system from Escherichia coli p. 1-65. In J. A. Last and A. I. Laskin (ed.) Protein biosynthesis in bacterial systems. Marcel Dekker Inc. New York."
+    },
+    {
+      "key": "p_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.1085/jgp.46.1.159",
+      "article-title": "Cation transport in Escherichia coli. II. Intracellular chloride concentration",
+      "volume": "46",
+      "author": "Schultz S. G.",
+      "year": "1962",
+      "unstructured": "Schultz , S. G. , N. L. Wilson , and W. Epstein . 1962 . Cation transport in Escherichia coli. II. Intracellular chloride concentration . J. Gen. Physiol. 46 : 159 - 165 .",
+      "journal-title": "J. Gen. Physiol."
+    },
+    {
+      "key": "p_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "2847",
+      "DOI": "10.1021/bi00580a027",
+      "article-title": "Competition between a- and P-globin messenger ribonucleic acids for eucaryotic initiation factor 2",
+      "volume": "18",
+      "author": "Segni G. D.",
+      "year": "1979",
+      "unstructured": "Segni , G. D. , H. Rosen , and R. Kaempfer . 1979 . Competition between a- and P-globin messenger ribonucleic acids for eucaryotic initiation factor 2 . Biochemistry 18 : 2847 - 2854 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "698",
+      "DOI": "10.1128/JB.130.2.698-703.1977",
+      "article-title": "Cellbound cations of the moderately halophilic bacterium Vibrio costicola",
+      "volume": "130",
+      "author": "Shindler D. B.",
+      "year": "1977",
+      "unstructured": "Shindler , D. B. , R. M. Wydro , and D. J. Kushner . 1977 . Cellbound cations of the moderately halophilic bacterium Vibrio costicola . J. Bacteriol. 130 : 698 - 703 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "8761",
+      "DOI": "10.1016/S0021-9258(18)43566-1",
+      "article-title": "Faithful and efficient translation of homologous and heterologous mRNA in an mRNA dependent cell-free system from Saccharomyces cerevisiae",
+      "volume": "255",
+      "author": "Tuite M. F.",
+      "year": "1980",
+      "unstructured": "Tuite , M. F. , J. Plesset , K. Moldave , and C. S. McLaughlin . 1980 . Faithful and efficient translation of homologous and heterologous mRNA in an mRNA dependent cell-free system from Saccharomyces cerevisiae . J. Biol. Chem. 255 : 8761 - 8766 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "4007",
+      "DOI": "10.1016/S0021-9258(17)40350-4",
+      "article-title": "Inhibition of protein synthesis by Cl-",
+      "volume": "252",
+      "author": "Weber L. A.",
+      "year": "1977",
+      "unstructured": "Weber , L. A. , E. D. Hickey , P. A. Moroney , and C. Baglioni . 1977 . Inhibition of protein synthesis by Cl- . J. Biol. Chem. 252 : 4007 - 4010 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "824",
+      "DOI": "10.1038/269824a0",
+      "article-title": "Salt-sensitive in vitro protein synthesis by a moderately halophilic bacterium",
+      "volume": "269",
+      "author": "Wydro R. M.",
+      "year": "1977",
+      "unstructured": "Wydro , R. M. , M. Madira , T. Hiramatsu , M. Kogut , and D. J. Kushner . 1977 . Salt-sensitive in vitro protein synthesis by a moderately halophilic bacterium . Nature (London) 269 : 824 - 825 .",
+      "journal-title": "Nature (London)"
+    }
+  ],
+  "container-title": [
+    "Journal of Bacteriology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.160.1.385-390.1984",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.160.1.385-390.1984",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        1
+      ]
+    ],
+    "date-time": "2021-06-01T19:20:01Z",
+    "timestamp": 1622575201000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.asm.org/doi/10.1128/jb.160.1.385-390.1984"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1984,
+        10
+      ]
+    ]
+  },
+  "references-count": 20,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          1984,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1128/jb.160.1.385-390.1984"
+  ],
+  "URL": "https://doi.org/10.1128/jb.160.1.385-390.1984",
+  "relation": {},
+  "ISSN": [
+    "0021-9193",
+    "1098-5530"
+  ],
+  "issn-type": [
+    {
+      "value": "0021-9193",
+      "type": "print"
+    },
+    {
+      "value": "1098-5530",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1984,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-02-02",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

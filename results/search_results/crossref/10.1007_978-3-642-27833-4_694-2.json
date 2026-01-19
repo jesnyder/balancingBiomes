@@ -1,0 +1,231 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2025-03-27T13:09:40Z",
+    "timestamp": 1743080980757,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 6,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+    {
+      "type": "electronic",
+      "value": "9783642278334"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2014-01-01T00:00:00Z",
+        "timestamp": 1388534400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-642-27833-4_694-2",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        5,
+        29
+      ]
+    ],
+    "date-time": "2015-05-29T05:06:44Z",
+    "timestamp": 1432876004000
+  },
+  "page": "1-3",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Halophile"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Josefa",
+      "family": "Anton",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        15
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "694-2_CR1",
+      "volume-title": "Halophiles. Encyclopedia of life sciences",
+      "author": "S DasSarma",
+      "year": "2006",
+      "unstructured": "DasSarma S, Arora P (2006) Halophiles. Encyclopedia of life sciences. Wiley, London"
+    },
+    {
+      "key": "694-2_CR2",
+      "volume-title": "Halophilic bacteria",
+      "author": "DJ Kushner",
+      "year": "1988",
+      "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodríguez-Valera F (ed) Halophilic bacteria. CRC, Boca Raton"
+    },
+    {
+      "key": "694-2_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "334",
+      "DOI": "10.1128/MMBR.63.2.334-348.1999",
+      "volume": "63",
+      "author": "A Oren",
+      "year": "1999",
+      "unstructured": "Oren A (1999) Bioenergetic aspects of halophilism. Microbiol Mol Biol Rev 63:334–348",
+      "journal-title": "Microbiol Mol Biol Rev"
+    },
+    {
+      "key": "694-2_CR4",
+      "volume-title": "The prokaryotes: a handbook on the biology of bacteria",
+      "author": "A Oren",
+      "year": "2006",
+      "unstructured": "Oren A (2006) Life at high salt concentrations. In: Dworkin M (ed) The prokaryotes: a handbook on the biology of bacteria. Springer, New York"
+    },
+    {
+      "key": "694-2_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "2",
+      "DOI": "10.1186/1746-1448-4-2",
+      "volume": "4",
+      "author": "A Oren",
+      "year": "2008",
+      "unstructured": "Oren A (2008) Microbial salt at high salt concentrations: phylogenetic and metabolic diversity. Saline Syst 4:2",
+      "journal-title": "Saline Syst"
+    },
+    {
+      "key": "694-2_CR6",
+      "volume-title": "SGM symposium 66: prokaryotic diversity-mechanisms and significance",
+      "author": "A Ventosa",
+      "year": "2006",
+      "unstructured": "Ventosa A (2006) Unusual micro-organisms from unusual habitats: hypersaline environments. In: Logan NA, Lappin-Scott HM, Oyston PCF (eds) SGM symposium 66: prokaryotic diversity-mechanisms and significance. Cambridge University Press, Cambridge"
+    }
+  ],
+  "container-title": [
+    "Encyclopedia of Astrobiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-3-642-27833-4_694-2",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        10
+      ]
+    ],
+    "date-time": "2023-02-10T09:11:04Z",
+    "timestamp": 1676020264000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-3-642-27833-4_694-2"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783642278334"
+  ],
+  "references-count": 6,
+  "URL": "https://doi.org/10.1007/978-3-642-27833-4_694-2",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "5 March 2014, 11:42:20",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    },
+    {
+      "value": "5 March 2014, 11:42:20",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    },
+    {
+      "value": "15 April 2015",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    }
+  ]
+}

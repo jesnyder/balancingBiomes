@@ -1,0 +1,206 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2023-11-04T16:03:46Z",
+    "timestamp": 1699113826851
+  },
+  "reference-count": 3,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1978,
+            6,
+            1
+          ]
+        ],
+        "date-time": "1978-06-01T00:00:00Z",
+        "timestamp": 265507200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Naturwissenschaften"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1978,
+        6
+      ]
+    ]
+  },
+  "DOI": "10.1007/bf00368378",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2004,
+        11,
+        2
+      ]
+    ],
+    "date-time": "2004-11-02T11:36:51Z",
+    "timestamp": 1099395411000
+  },
+  "page": "339-339",
+  "source": "Crossref",
+  "is-referenced-by-count": 6,
+  "title": [
+    "Transfer cells in the epidermis of roots of the halophyte Atriplex hastata L."
+  ],
+  "prefix": "10.1007",
+  "volume": "65",
+  "author": [
+    {
+      "given": "D.",
+      "family": "Kramer",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "reference": [
+    {
+      "key": "CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1007/BF00387658",
+      "volume": "85",
+      "author": "J.S. Pate",
+      "year": "1968",
+      "unstructured": "Pate, J.S., Gunning, B.E.S., Briarty, L.G.: Planta 85, 11 (1968)",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "173",
+      "DOI": "10.1146/annurev.pp.23.060172.001133",
+      "volume": "23",
+      "author": "J.S. Pate",
+      "year": "1972",
+      "unstructured": "Pate, J.S., Gunning, B.E.S.: Ann. Rev. Plant Physiol. 23, 173 (1972)",
+      "journal-title": "Ann. Rev. Plant Physiol."
+    },
+    {
+      "key": "CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1031",
+      "DOI": "10.1093/oxfordjournals.aob.a085372",
+      "volume": "41",
+      "author": "D. Kramer",
+      "year": "1977",
+      "unstructured": "Kramer, D., et al.: Ann. Bot. 41, 1031 (1977)",
+      "journal-title": "Ann. Bot."
+    }
+  ],
+  "container-title": [
+    "Naturwissenschaften"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF00368378.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/BF00368378/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF00368378",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        4,
+        8
+      ]
+    ],
+    "date-time": "2019-04-08T21:43:23Z",
+    "timestamp": 1554759803000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/BF00368378"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1978,
+        6
+      ]
+    ]
+  },
+  "references-count": 3,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BF00368378"
+  ],
+  "URL": "https://doi.org/10.1007/bf00368378",
+  "relation": {},
+  "ISSN": [
+    "0028-1042",
+    "1432-1904"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-1042",
+      "type": "print"
+    },
+    {
+      "value": "1432-1904",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1978,
+        6
+      ]
+    ]
+  }
+}

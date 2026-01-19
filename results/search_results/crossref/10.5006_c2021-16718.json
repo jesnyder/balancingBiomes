@@ -1,0 +1,392 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        17
+      ]
+    ],
+    "date-time": "2025-04-17T04:11:37Z",
+    "timestamp": 1744863097342,
+    "version": "3.40.4"
+  },
+  "reference-count": 23,
+  "publisher": "AMPP",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        19
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Here, we coupled successive rounds of molecular microbial methods (MMM) to calibrate adenosine triphosphate (ATP) readings to trend Halanaerobium fouling in unconventional wells. ATP was then used to drive a biocide efficacy study, which resulted in selecting a glutaraldehyde/quaternary amine (quat) blend. This selection was partly supported by literature searches, which showed that quats have been effective on Halanaerobium. ATP monitoring was then used to direct the success of a downhole biocide treatment program for horizontal wells. Since sessile samples were not routinely available, planktonic samples were used. Over two years of reviewing the treatment results of approximately 30 wells in a single lease, where multiple sample points were available, we found that most treatments were successful in returning/or maintaining wells within KPIs. The operator has experienced reduced failures and currently relies on MMM supported ATP to monitor multiple leases where Halanaerobium is present.</jats:p>",
+  "DOI": "10.5006/c2021-16718",
+  "type": "proceedings-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        16
+      ]
+    ],
+    "date-time": "2025-04-16T14:52:23Z",
+    "timestamp": 1744815143000
+  },
+  "page": "1-13",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Successful Treatment of a Corrosive Acetic Acid Producing Halophile That Is Averse to Culture Media"
+  ],
+  "prefix": "10.5006",
+  "author": [
+    {
+      "given": "Christopher",
+      "family": "Rodriguez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Clariant OMS, 2750 Technology Forest Blvd, The Woodlands, TX, 77381, USA"
+        }
+      ]
+    },
+    {
+      "given": "Jason",
+      "family": "Hook",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Clariant OMS, 3408 Easy Hwy 158, Midland, TX, 79702, USA"
+        }
+      ]
+    },
+    {
+      "given": "Shane",
+      "family": "Underwood",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Clariant OMS, 3408 East Hwy 158, Midland, TX, 79702, USA"
+        }
+      ]
+    }
+  ],
+  "member": "2917",
+  "reference": [
+    {
+      "key": "2025041610514915500_b1-c2021-16718",
+      "volume-title": "Trends in U.S. Oil and Natural Gas Upstream Costs",
+      "author": "U.S. Energy Information Administration",
+      "year": "2016"
+    },
+    {
+      "key": "2025041610514915500_b2-c2021-16718",
+      "first-page": "123450",
+      "article-title": "Controlling Bacteria in Recycled Production Water for Completion and Workover Operations",
+      "volume-title": "SPE International",
+      "author": "Tischler",
+      "year": "2009"
+    },
+    {
+      "key": "2025041610514915500_b3-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.1111/j.1574-6941.2011.01196.x",
+      "article-title": "Bacterial communities associated with hydraulic fracturing fluids in thermogenic natural gas wells in North Central Texas, USA",
+      "volume": "81",
+      "author": "Struchtemeyer",
+      "year": "2012",
+      "journal-title": "FEMS Microbiol Ecol"
+    },
+    {
+      "key": "2025041610514915500_b4-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "141",
+      "DOI": "10.1016/S0065-2164(08)00806-X",
+      "article-title": "Microbial Processes in the Oil Fields: Culprits, Problems, and Oppurtunities",
+      "volume": "66",
+      "author": "Youssef",
+      "year": "2009",
+      "journal-title": "Adv Appl Microbiol"
+    },
+    {
+      "key": "2025041610514915500_b5-c2021-16718",
+      "volume-title": "Field Monitoring of Bacterial growth in Oil and Gas Systems",
+      "author": "NACE International TMO194-2014"
+    },
+    {
+      "issue": "988",
+      "key": "2025041610514915500_b6-c2021-16718",
+      "first-page": "1",
+      "article-title": "Metabolic Capability of a Predominant Halanaerobium Sp. In Hydraulically Fractured Gas Wells and Its Implication in Pipeline Corrosion",
+      "volume": "7",
+      "author": "Liang",
+      "year": "2016",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "2025041610514915500_b7-c2021-16718",
+      "first-page": "173709",
+      "article-title": "Investigation of Microorganisms in a West Texas Oilfield Using Growth and Genetic Testing",
+      "volume-title": "SPE International",
+      "author": "Kilbane",
+      "year": "2015"
+    },
+    {
+      "key": "2025041610514915500_b8-c2021-16718",
+      "first-page": "13033",
+      "article-title": "Expanding Industry Access to Molecular Microbiological Methods: Development of an Off-the-Shelf Laboratory Workflow for qPCR and NGS Analysis",
+      "volume-title": "NACE International",
+      "author": "Sharma",
+      "year": "2019"
+    },
+    {
+      "key": "2025041610514915500_b9-c2021-16718",
+      "article-title": "Delivering Value Through Microbial Control",
+      "author": "Donovan",
+      "year": "2016",
+      "journal-title": "Hart’s Explortion and Production Magazine"
+    },
+    {
+      "issue": "10",
+      "key": "2025041610514915500_b10-c2021-16718",
+      "first-page": "1031",
+      "article-title": "The ATP Assay, A Method for Measuring Biological Activity in Industrial Water",
+      "volume": "51",
+      "author": "Caprita",
+      "year": "2006",
+      "journal-title": "Revue Roumaine de Chimiel"
+    },
+    {
+      "issue": "3",
+      "key": "2025041610514915500_b11-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1128/jcm.28.3.495-503.1990",
+      "article-title": "Rapid and Simple Method for Purification of Nucleic Acids",
+      "volume": "28",
+      "author": "Boom",
+      "year": "1990",
+      "journal-title": "Journal of Clinical Microbiology"
+    },
+    {
+      "issue": "Supplement 1",
+      "key": "2025041610514915500_b12-c2021-16718",
+      "first-page": "4516",
+      "article-title": "Global Patterns of 16S rRNA Diversity at a Depth of Millions of Sequences per Sample",
+      "volume": "108",
+      "author": "Caporaso",
+      "year": "2010",
+      "journal-title": "PNAS"
+    },
+    {
+      "issue": "4",
+      "key": "2025041610514915500_b13-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "1213",
+      "DOI": "10.1128/JCM.02036-07",
+      "article-title": "Rapid Antimicrobial Susceptibility Determination of Uropathogens in Clinical Urine Specimens by Use of ATP Bioluminescence",
+      "volume": "46",
+      "author": "Ivancic",
+      "year": "2008",
+      "journal-title": "Journal of Clinical Microbiology"
+    },
+    {
+      "issue": "22",
+      "key": "2025041610514915500_b14-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "13141",
+      "DOI": "10.1021/es402928b",
+      "article-title": "Microbial Community Changes in Hydraulic Fracturing fluids, and Produced Water from Shale Gas Extraction",
+      "volume": "47",
+      "author": "Mohan",
+      "year": "2013",
+      "journal-title": "Environ, Sci. Technol."
+    },
+    {
+      "issue": "11",
+      "key": "2025041610514915500_b15-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "6508",
+      "DOI": "10.1021/es501173p",
+      "article-title": "Temporal Changes in Microbial Ecology and Geochemistry in Produced Water from Hydraulically Fractured Marcellus Shale Gas Wells",
+      "volume": "48",
+      "author": "Cluff",
+      "year": "2014",
+      "journal-title": "Environ, Sci. Technol."
+    },
+    {
+      "issue": "8",
+      "key": "2025041610514915500_b16-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "e02659-16",
+      "DOI": "10.1128/AEM.02659-16",
+      "article-title": "Predominance and Metabolic Potential of Halanaerobium in Produced Water from Hydraulically Fractured Marcellus Shale Wells",
+      "volume": "83",
+      "author": "Lipus",
+      "year": "2017",
+      "journal-title": "Appl Environ Microbiol"
+    },
+    {
+      "key": "2025041610514915500_b17-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1093/femsec/fiw166",
+      "article-title": "Hydraulic Fracturing Offers View of Microbial Life in the Deep Terrestrial Subsurface",
+      "volume": "92",
+      "author": "Mouser",
+      "year": "2016",
+      "journal-title": "FEMS Microbiol Ecol"
+    },
+    {
+      "key": "2025041610514915500_b18-c2021-16718",
+      "first-page": "2299",
+      "article-title": "Developing a Metric for Microbiologically Influenced Corrosion (MIC) in Oilfield Water Handling Systems",
+      "volume-title": "NACE International",
+      "author": "Al-Shamari",
+      "year": "2013"
+    },
+    {
+      "issue": "4",
+      "key": "2025041610514915500_b19-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1128/mSphereDirect.00257-17",
+      "article-title": "Sulfide Generation by Dominant Halanaerobium microorganisms in Hydraulically Fractured Shales",
+      "volume": "2",
+      "author": "Booker",
+      "year": "2017",
+      "journal-title": "mSphere"
+    },
+    {
+      "key": "2025041610514915500_b20-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1111/j.1574-6968.1997.tb10224.x",
+      "article-title": "Halanaerobium congolense sp. nov., an anaerobic, moderately halophilic, thiosulfate-and sulfur-reducing bacterium from an African oil field",
+      "volume": "147",
+      "author": "Ravot",
+      "year": "1997",
+      "journal-title": "FEMS Microbiol. lett."
+    },
+    {
+      "issue": "28",
+      "key": "2025041610514915500_b21-c2021-16718",
+      "doi-asserted-by": "crossref",
+      "first-page": "E6585",
+      "DOI": "10.1073/pnas.1800155115",
+      "article-title": "Coupled Laboratory and Field Investigations Resolve Microbial Interactions that underpin Persistence in Hydraulically Fractured Shales",
+      "volume": "115",
+      "author": "Borton",
+      "year": "2018",
+      "journal-title": "PNAS"
+    },
+    {
+      "key": "2025041610514915500_b22-c2021-16718",
+      "first-page": "342",
+      "volume-title": "Production Chemicals for the Oil and Gas Industry",
+      "author": "Kelland",
+      "year": "2009",
+      "edition": "1st"
+    },
+    {
+      "key": "2025041610514915500_b23-c2021-16718",
+      "first-page": "3876",
+      "article-title": "The Environmental Fate of Oil and Gas Biocides: A Review",
+      "volume-title": "NACE International",
+      "author": "Williams",
+      "year": "2014"
+    }
+  ],
+  "event": {
+    "name": "CORROSION 2021",
+    "location": "Virtual Conference",
+    "acronym": "CONF_APR2021",
+    "start": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ]
+    },
+    "end": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          30
+        ]
+      ]
+    }
+  },
+  "container-title": [
+    "CORROSION 2021"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://content.ampp.org/nace/proceedings-pdf/doi/10.5006/C2021-16718/1095843/c2021-16718.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://content.ampp.org/nace/proceedings-pdf/doi/10.5006/C2021-16718/1095843/c2021-16718.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        16
+      ]
+    ],
+    "date-time": "2025-04-16T14:52:28Z",
+    "timestamp": 1744815148000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://content.ampp.org/nace/proceedings/CONF_APR2021/2021/1/59374"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        19
+      ]
+    ]
+  },
+  "references-count": 23,
+  "URL": "https://doi.org/10.5006/c2021-16718",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        19
+      ]
+    ]
+  }
+}

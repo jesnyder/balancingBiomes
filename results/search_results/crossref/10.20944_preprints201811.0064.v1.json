@@ -1,0 +1,162 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        3
+      ]
+    ],
+    "date-time": "2024-03-03T11:31:19Z",
+    "timestamp": 1709465479654
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        2
+      ]
+    ]
+  },
+  "group-title": "EARTH SCIENCES",
+  "reference-count": 0,
+  "publisher": "MDPI AG",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2018-11-02T00:00:00Z",
+        "timestamp": 1541116800000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "accepted": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Carbonate precipitation induced by microorganism has become a hot spot in the field of carbonate sedimentology, while the effect of different magnesium on biominerals has rarely been studied. Therefore, magnesium sulfate and magnesium chloride were used to investigate the significant role played on carbonate minerals. In this study, Staphylococcus epidermidis Y2 was isolated and identified by 16S rDNA homology comparison. The ammonia, pH, carbonic anhydrase, carbonate and bicarbonate ions were investigated. The mineral phase, morphology and elemental composition were analyzed by XRD and SEM-EDS. The ultrathin slices of bacteria were analyzed by HRTEM-SAED and STEM. The result showed that this bacterium could release ammonia and carbonic anhydrase to increase pH, and elevate the supersaturation via a large number of carbonate and bicarbonate ions released through carbon dioxide hydration catalyzed by carbonic anhydrase. The crystal cell density of monohydrocalcite was lower in magnesium chloride medium than that in magnesium sulfate medium. The crystal grew in a mode of spiral staircas in magnesium sulfate medium, while in a concentric circular pattern in magnesium chloride medium. There was no obvious intracellular biomineralization. This study may be helpful to further understand the biomineralization mechanism, may also provide some references for the reconstruction of paleogeological environment.</jats:p>",
+  "DOI": "10.20944/preprints201811.0064.v1",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        5
+      ]
+    ],
+    "date-time": "2018-11-05T10:13:30Z",
+    "timestamp": 1541412810000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "The Significant Role of Different Magnesium: Carbonate Minerals Induced by Moderate Halophile &lt;em&gt;Staphylococcus epidermis&lt;/em&gt; Y2"
+  ],
+  "prefix": "10.20944",
+  "author": [
+    {
+      "given": "Zuozhen",
+      "family": "Han",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Wenwen",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Yanhong",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Maurice E.",
+      "family": "Tucker",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Huaxiao",
+      "family": "Yan",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "1968",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        11,
+        8
+      ]
+    ],
+    "date-time": "2019-11-08T07:31:44Z",
+    "timestamp": 1573198304000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.preprints.org/manuscript/201811.0064/v1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        2
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.20944/preprints201811.0064.v1",
+  "relation": {
+    "is-preprint-of": [
+      {
+        "id-type": "doi",
+        "id": "10.3390/min8120594",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        2
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

@@ -1,0 +1,425 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        13
+      ]
+    ],
+    "date-time": "2025-12-13T07:04:33Z",
+    "timestamp": 1765609473101
+  },
+  "reference-count": 21,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            31
+          ]
+        ],
+        "date-time": "2011-05-31T00:00:00Z",
+        "timestamp": 1306800000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Folia Microbiol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2011,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1007/s12223-011-0046-9",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        30
+      ]
+    ],
+    "date-time": "2011-05-30T09:51:28Z",
+    "timestamp": 1306749088000
+  },
+  "page": "329-334",
+  "source": "Crossref",
+  "is-referenced-by-count": 11,
+  "title": [
+    "Production and characterization of a novel extracellular metalloproteinase by a newly isolated moderate halophile, Halobacillus sp. LY6"
+  ],
+  "prefix": "10.1007",
+  "volume": "56",
+  "author": [
+    {
+      "given": "Li",
+      "family": "Xin",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Yu",
+      "family": "Hui-Ying",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Liu",
+      "family": "Xiao-Xue",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Sun",
+      "family": "Xiao",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        31
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "46_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "32",
+      "DOI": "10.1021/cen-v073n051.p032",
+      "volume": "73",
+      "author": "MW Adams",
+      "year": "1995",
+      "unstructured": "Adams MW, Kelly RM (1995) Enzymes from microorganisms in extreme environments. Chem Eng News 73:32–42",
+      "journal-title": "Chem Eng News"
+    },
+    {
+      "issue": "3",
+      "key": "46_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1002/jobm.200700361",
+      "volume": "48",
+      "author": "MA Amoozegar",
+      "year": "2008",
+      "unstructured": "Amoozegar MA, Salehghamari E, Khajeh K, Kabiri M, Naddaf S (2008) Production of an extracellular thermohalophilic lipase from a moderately halophilic bacterium, Salinivibrio sp. strain SA-2. J Basic Microbiol 48(3):160–167",
+      "journal-title": "J Basic Microbiol"
+    },
+    {
+      "issue": "1",
+      "key": "46_CR3",
+      "first-page": "67",
+      "volume": "183",
+      "author": "M Coronado",
+      "year": "2000",
+      "unstructured": "Coronado M, Vargas C, Hofemeister J, Ventosa A, Nieto JJ (2000) Production and biochemical characterization of an alpha-amylase from the moderate halophile Halomonas meridiana. FEMS Microbiol Lett 183(1):67–71",
+      "journal-title": "FEMS Microbiol Lett"
+    },
+    {
+      "key": "46_CR4",
+      "first-page": "223-23",
+      "volume": "2",
+      "author": "J Gomez",
+      "year": "2004",
+      "unstructured": "Gomez J, Steiner W (2004) The biocatalytic potential of extremophiles and extremozymes, extremophiles and extremozymes. Food Technol Biotechnol 2:223-23",
+      "journal-title": "Food Technol Biotechnol"
+    },
+    {
+      "key": "46_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1007/s00253-002-0975-y",
+      "volume": "59",
+      "author": "R Gupta",
+      "year": "2002",
+      "unstructured": "Gupta R, Beg QK, Lorenz P (2002) Bacterial alkaline proteinases: molecular approaches and industrial applications. Appl Microbiol Biotechnol 59:15–32",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "key": "46_CR6",
+      "first-page": "15",
+      "volume": "38",
+      "author": "W Kanlayakrit",
+      "year": "2005",
+      "unstructured": "Kanlayakrit W, Bovornreungroj P, Oka T, Goto M (2005) Production and characterization of proteinase from an extremely halophilic Halobacterium sp. PB407. Kasetsart J (Nat Sci) 38:15–20",
+      "journal-title": "Kasetsart J (Nat Sci)"
+    },
+    {
+      "key": "46_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "266",
+      "DOI": "10.1016/j.enzmictec.2006.04.006",
+      "volume": "40",
+      "author": "HR Karbalaei-Heidari",
+      "year": "2007",
+      "unstructured": "Karbalaei-Heidari HR, Ziaee A-A, Schaller J, Amoozega MA (2007) Purification and characterization of an extracellular haloalkaline proteinase produced by the moderately halophilic bacterium, Salinivibrio sp. strain AF-2004. Enzyme Microb Technol 40:266–272",
+      "journal-title": "Enzyme Microb Technol"
+    },
+    {
+      "issue": "1",
+      "key": "46_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1007/s10295-008-0466-y",
+      "volume": "36",
+      "author": "HR Karbalaei-Heidari",
+      "year": "2009",
+      "unstructured": "Karbalaei-Heidari HR, Amoozegar MA, Hajighasemi M, Ziaee AA, Ventosa A (2009) Production, optimization and purification of a novel extracellular proteinase from the moderately halophilic bacterium Halobacillus karajensis. J Ind Microbiol Biotechnol 36(1):21–27",
+      "journal-title": "J Ind Microbiol Biotechnol"
+    },
+    {
+      "key": "46_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "680",
+      "DOI": "10.1038/227680a0",
+      "volume": "227",
+      "author": "UK Laemmli",
+      "year": "1970",
+      "unstructured": "Laemmli UK (1970) Cleavage of structural proteins during the assembly of the head of becteriophage T4. Nature 227:680–685",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "46_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "478",
+      "DOI": "10.1016/j.resmic.2004.12.004",
+      "volume": "156",
+      "author": "L Lama",
+      "year": "2005",
+      "unstructured": "Lama L, Romano I, Calandrelli V, Nicolaus B, Gambacorta A (2005) Purification and characterization of a proteinase produced by an aerobic haloalkaliphilic species belonging to the Salinivibrio genus. Res Microbiol 156:478–484",
+      "journal-title": "Res Microbiol"
+    },
+    {
+      "key": "46_CR11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lv XY, Guo LZ, Song L, Fu Q, Zhao K, Li AX, Luo XL, Lu WD (2010) Purification and characterization of a novel extracellular carboxylesterase from the moderately halophilic bacterium Thalassobacillus sp. strain DF-E4. Ann Microbiol. doi: 10.1007/s13213-010-0135-z",
+      "DOI": "10.1007/s13213-010-0135-z"
+    },
+    {
+      "key": "46_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1395",
+      "DOI": "10.1271/bbb.50658",
+      "volume": "70",
+      "author": "S Namwong",
+      "year": "2006",
+      "unstructured": "Namwong S, Hiraga K, Takada K, Tsunemi M, Tanasupawat S, Oda K (2006) A halophilic serine proteinase from Halobacillus sp. SR5-3 isolated from fish sauce: purification and characterization. Biosci Biotechnol Biochem 70:1395–1401",
+      "journal-title": "Biosci Biotechnol Biochem"
+    },
+    {
+      "key": "46_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "597",
+      "DOI": "10.1128/MMBR.62.3.597-635.1998",
+      "volume": "62",
+      "author": "MB Rao",
+      "year": "1998",
+      "unstructured": "Rao MB, Tanksale AM, Ghatge MS, Deshpande VV (1998) Molecular and biotechnological aspects of microbial proteinases. Microbiol Mol Biol Rev 62:597–635",
+      "journal-title": "Microbiol Mol Biol Rev"
+    },
+    {
+      "key": "46_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1007/s00792-003-0316-9",
+      "volume": "7",
+      "author": "C Sánchez-Porro",
+      "year": "2003",
+      "unstructured": "Sánchez-Porro C, Mellado E, Bertoldo C, Antranikian G, Ventosa A (2003) Screening and characterization of the proteinase CP1 produced by the moderately halophilic bacterium Pseudoalteromonas sp. strain CP76. Extremophiles 7:221–228",
+      "journal-title": "Extremophiles"
+    },
+    {
+      "key": "46_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "471",
+      "DOI": "10.1016/S0141-0229(99)00075-7",
+      "volume": "25",
+      "author": "GA Sellek",
+      "year": "1999",
+      "unstructured": "Sellek GA, Chaudhuri JB (1999) Biocatalysis in organic media using enzymes from extremophiles. Enzyme Microb Technol 25:471–482",
+      "journal-title": "Enzyme Microb Technol"
+    },
+    {
+      "key": "46_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "492",
+      "DOI": "10.1099/00207713-46-2-492",
+      "volume": "46",
+      "author": "S Spring",
+      "year": "1996",
+      "unstructured": "Spring S, Ludwig W, Marquez MC (1996) Halobacillus gen. nov., with descriptions of Halobacillus litoralis sp. nov. and Halobacillus trueperi sp. nov., and transfer of Sporosarcina halophila to Halobacillus halophilus comb. nov. Int J Syst Bacteriol 46:492–496",
+      "journal-title": "Int J Syst Bacteriol"
+    },
+    {
+      "issue": "6",
+      "key": "46_CR17",
+      "first-page": "375",
+      "volume": "41",
+      "author": "CA Studdert",
+      "year": "2001",
+      "unstructured": "Studdert CA, Herrera Seitz MK, Plasencia Gil MI, Sanchez JJ, de Castro RE (2001) Purification and biochemical characterization of the haloalkaliphilic archaeon Natronococcus occultus extracellular serine proteinase. J Gen Microbiol 41(6):375–383",
+      "journal-title": "J Gen Microbiol"
+    },
+    {
+      "key": "46_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "504",
+      "DOI": "10.1128/MMBR.62.2.504-544.1998",
+      "volume": "62",
+      "author": "A Ventosa",
+      "year": "1998",
+      "unstructured": "Ventosa A, Nieto JJ, Oren A (1998) Biology of moderately halophilic aerobic bacteria. Microbiol Mol Biol Rev 62:504–544",
+      "journal-title": "Microbiol Mol Biol Rev"
+    },
+    {
+      "issue": "1",
+      "key": "46_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "12",
+      "DOI": "10.1590/S1517-83822009000100002",
+      "volume": "40",
+      "author": "M Vidyasagar",
+      "year": "2009",
+      "unstructured": "Vidyasagar M, Prakash S, Vineet M, Shouche YS, Sreeramulu K (2009) Purification and characterization of an extreme halothermophilic proteinase from a halophilic bacterium Chromohalobacter sp. TVSP101. Braz J microbial 40(1):12–19",
+      "journal-title": "Braz J microbial"
+    },
+    {
+      "key": "46_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "193",
+      "DOI": "10.1042/bj3280193",
+      "volume": "328",
+      "author": "S Wragg",
+      "year": "1997",
+      "unstructured": "Wragg S, Hagen FK, Tabak LA (1997) Identification of essential histidine residues in UDP-N-acetyl-d-galactosamine: polypeptide N-acetylgalactosaminyltransferase-T1. Biochem J 328:193–197",
+      "journal-title": "Biochem J"
+    },
+    {
+      "key": "46_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "2021",
+      "DOI": "10.1099/ijs.0.65188-0",
+      "volume": "57",
+      "author": "JH Yoon",
+      "year": "2007",
+      "unstructured": "Yoon JH, Kang SJ, Jung YT, Oh TK (2007) Halobacillus campisalis sp. nov., containing meso-diaminopimelic acid in the cell-wall peptidoglycan, and emended description of the genus Halobacillus. Int J Syst Evol Microbiol 57:2021–2025",
+      "journal-title": "Int J Syst Evol Microbiol"
+    }
+  ],
+  "container-title": [
+    "Folia Microbiologica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s12223-011-0046-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s12223-011-0046-9/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s12223-011-0046-9",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        6,
+        19
+      ]
+    ],
+    "date-time": "2020-06-19T18:42:13Z",
+    "timestamp": 1592592133000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/s12223-011-0046-9"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        31
+      ]
+    ]
+  },
+  "references-count": 21,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "46"
+  ],
+  "URL": "https://doi.org/10.1007/s12223-011-0046-9",
+  "relation": {},
+  "ISSN": [
+    "0015-5632",
+    "1874-9356"
+  ],
+  "issn-type": [
+    {
+      "value": "0015-5632",
+      "type": "print"
+    },
+    {
+      "value": "1874-9356",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        31
+      ]
+    ]
+  }
+}

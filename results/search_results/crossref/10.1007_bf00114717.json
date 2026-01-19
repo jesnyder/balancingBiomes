@@ -1,0 +1,274 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        31
+      ]
+    ],
+    "date-time": "2025-10-31T18:34:45Z",
+    "timestamp": 1761935685442,
+    "version": "build-2065373602"
+  },
+  "reference-count": 10,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1987,
+            1,
+            1
+          ]
+        ],
+        "date-time": "1987-01-01T00:00:00Z",
+        "timestamp": 536457600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Vegetatio"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1987,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1007/bf00114717",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2004,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2004-11-01T02:03:11Z",
+    "timestamp": 1099274591000
+  },
+  "page": "169-172",
+  "source": "Crossref",
+  "is-referenced-by-count": 10,
+  "title": [
+    "Population dynamics of the annual halophyte Spergularia marina on a Baltic seashore meadow"
+  ],
+  "prefix": "10.1007",
+  "volume": "68",
+  "author": [
+    {
+      "given": "Peter",
+      "family": "Torstensson",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "reference": [
+    {
+      "key": "CR1",
+      "volume-title": "Topics in plant population biology",
+      "author": "J. C. Hickman",
+      "year": "1979",
+      "unstructured": "Hickman, J. C., 1979. The basic biology of plant numbers. In: O. T. Solbrig, S. Jain, G. Johnson & P. H. Raven (eds), Topics in plant population biology. New York, Columbia University Press."
+    },
+    {
+      "key": "CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.2307/2259813",
+      "volume": "69",
+      "author": "R. L. Jefferies",
+      "year": "1981",
+      "unstructured": "Jefferies, R. L., Davy, A. J. & Rudmik, T., 1981. Population biology of the salt marsh annual Salicornia europaea agg. J. Ecol. 69: 17?31.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "762",
+      "DOI": "10.1139/b83-085",
+      "volume": "61",
+      "author": "R. L. Jefferies",
+      "year": "1983",
+      "unstructured": "Jefferies, R. L., Jensen, A. & Bazley, D., 1983. The biology of the annual Salicornia europaea agg. at the limit of its range in Hudson Bay. Can. J. Bot. 61: 762?773.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "348",
+      "DOI": "10.1007/BF00367958",
+      "volume": "52",
+      "author": "P. A. Keddy",
+      "year": "1982",
+      "unstructured": "Keddy, P. A., 1982. Population ecology on an environmental gradient: Cakile edentula on a sand dune. Oecologia 52: 348?355.",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "691",
+      "DOI": "10.2307/2259586",
+      "volume": "71",
+      "author": "K. M. Klemow",
+      "year": "1983",
+      "unstructured": "Klemow, K. M. & Raynal, D. J., 1983. Population biology of an annual plant in a temporally variable habitat. J. Ecol. 71: 691?703.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.2307/2259964",
+      "volume": "71",
+      "author": "R. N. Mack",
+      "year": "1983",
+      "unstructured": "Mack, R. N. & Pyke, D. A., 1983. The demography of Bromus tectorum: Variation in time and space. J. Ecol. 71: 69?93.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR7",
+      "first-page": "235",
+      "volume": "27",
+      "author": "E. Symonides",
+      "year": "1979",
+      "unstructured": "Symonides, E., 1979. The structure and population dynamics of psammophytes on inland dunes. III. Populations of compact psammophyte communities. Ekol. Pol. 27: 235?257.",
+      "journal-title": "Ekol. Pol."
+    },
+    {
+      "key": "CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1007/BF00114716",
+      "volume": "68",
+      "author": "P. Torstensson",
+      "year": "1986",
+      "unstructured": "Torstensson, P., 1986. The demography of the annual halophyte Spergularia marina on a Baltic seashore meadow. Vegetatio 68: 157?168.",
+      "journal-title": "Vegetatio"
+    },
+    {
+      "key": "CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.2307/2259178",
+      "volume": "66",
+      "author": "A. R. Watkinson",
+      "year": "1978",
+      "unstructured": "Watkinson, A. R. & Harper, J. L., 1978. The demography of a sand dune annual: Vulpia fasciculata. I. The natural regulation of populations. J. Ecol. 66: 15?33.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "CR10",
+      "volume-title": "The analysis of biological populations",
+      "author": "M. H. Williamson",
+      "year": "1972",
+      "unstructured": "Williamson, M. H., 1972. The analysis of biological populations. Arnold, London."
+    }
+  ],
+  "container-title": [
+    "Vegetatio"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF00114717.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/BF00114717/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF00114717",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        4,
+        8
+      ]
+    ],
+    "date-time": "2019-04-08T14:09:12Z",
+    "timestamp": 1554732552000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/BF00114717"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1987,
+        1
+      ]
+    ]
+  },
+  "references-count": 10,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          1987,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BF00114717"
+  ],
+  "URL": "https://doi.org/10.1007/bf00114717",
+  "relation": {},
+  "ISSN": [
+    "0042-3106",
+    "1573-5052"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0042-3106"
+    },
+    {
+      "type": "electronic",
+      "value": "1573-5052"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1987,
+        1
+      ]
+    ]
+  }
+}

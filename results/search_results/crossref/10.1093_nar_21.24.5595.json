@@ -1,0 +1,140 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        13
+      ]
+    ],
+    "date-time": "2025-10-13T08:58:26Z",
+    "timestamp": 1760345906974
+  },
+  "reference-count": 0,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "24",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nucl Acids Res"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "DOI": "10.1093/nar/21.24.5595",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2007,
+        1,
+        4
+      ]
+    ],
+    "date-time": "2007-01-04T21:43:25Z",
+    "timestamp": 1167947005000
+  },
+  "page": "5595-5599",
+  "source": "Crossref",
+  "is-referenced-by-count": 16,
+  "title": [
+    "Structure specific ds&amp;2.urule;ss-RNase activity in the extreme halophile Halobacterium salinarium"
+  ],
+  "prefix": "10.1093",
+  "volume": "21",
+  "author": [
+    {
+      "given": "Pelle",
+      "family": "Stolt",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Wolfram",
+      "family": "Zillig",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "286",
+  "container-title": [
+    "Nucleic Acids Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://academic.oup.com/nar/article-pdf/21/24/5595/7072758/21-24-5595.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        24
+      ]
+    ],
+    "date-time": "2017-08-24T09:34:14Z",
+    "timestamp": 1503567254000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/21.24.5595"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "24",
+    "published-print": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1093/nar/21.24.5595",
+  "relation": {},
+  "ISSN": [
+    "0305-1048",
+    "1362-4962"
+  ],
+  "issn-type": [
+    {
+      "value": "0305-1048",
+      "type": "print"
+    },
+    {
+      "value": "1362-4962",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  }
+}

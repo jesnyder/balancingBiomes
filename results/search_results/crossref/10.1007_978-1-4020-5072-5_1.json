@@ -1,0 +1,123 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        20
+      ]
+    ],
+    "date-time": "2025-11-20T12:20:33Z",
+    "timestamp": 1763641233479
+  },
+  "publisher-location": "Dordrecht",
+  "reference-count": 0,
+  "publisher": "Springer Netherlands",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9781402050718"
+    },
+    {
+      "type": "electronic",
+      "value": "9781402050725"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/978-1-4020-5072-5_1",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2008,
+        8,
+        26
+      ]
+    ],
+    "date-time": "2008-08-26T22:01:23Z",
+    "timestamp": 1219788083000
+  },
+  "page": "1-7",
+  "source": "Crossref",
+  "is-referenced-by-count": 10,
+  "title": [
+    "Sabkha ecosystem and halophyte plant communities in Saudi Arabia"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Ali A.",
+      "family": "Al-Jaloud",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Ghulam",
+      "family": "Hussain",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "container-title": [
+    "Tasks for Vegetation Science",
+    "Sabkha Ecosystems"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4020-5072-5_1.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        29
+      ]
+    ],
+    "date-time": "2021-04-29T04:52:06Z",
+    "timestamp": 1619671926000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/978-1-4020-5072-5_1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        null
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781402050718",
+    "9781402050725"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.1007/978-1-4020-5072-5_1",
+  "relation": {},
+  "ISSN": [
+    "0167-9406"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0167-9406"
+    }
+  ],
+  "subject": []
+}

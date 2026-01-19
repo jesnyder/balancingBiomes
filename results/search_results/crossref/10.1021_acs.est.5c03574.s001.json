@@ -1,0 +1,74 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        19
+      ]
+    ],
+    "date-time": "2025-11-19T22:13:25Z",
+    "timestamp": 1763590405826,
+    "version": "3.45.0"
+  },
+  "description": "Supplemental Information for 10.1021/acs.est.5c03574",
+  "reference-count": 0,
+  "publisher": "American Chemical Society (ACS)",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1021/acs.est.5c03574.s001",
+  "type": "component",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        7
+      ]
+    ],
+    "date-time": "2025-05-07T08:30:14Z",
+    "timestamp": 1746606614000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Sustainable Recovery of Lithium from Contaminated Soil through Halophyte Salt Excretion"
+  ],
+  "prefix": "10.1021",
+  "member": "316",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        20
+      ]
+    ],
+    "date-time": "2025-05-20T06:10:13Z",
+    "timestamp": 1747721413000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.est.5c03574/suppl_file/es5c03574_si_001.pdf"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        null
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.1021/acs.est.5c03574.s001",
+  "relation": {},
+  "subject": []
+}

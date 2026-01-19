@@ -1,167 +1,218 @@
 import json
-import csv
+import pandas as pd
 from pathlib import Path
-from collections import defaultdict
+import requests
+import time
 
+# -------------------------------
+# CrossRef API
+# -------------------------------
+CROSSREF_API = "https://api.crossref.org/works/"
+
+def fetch_crossref_metadata(doi, cache):
+    """
+    Query CrossRef for a DOI with caching.
+    Returns metadata dict with 'abstract' and 'year'.
+    """
+    doi_key = doi.strip().lower()
+    if doi_key in cache:
+        print(f"[CrossRef][Cache] Using cached metadata for DOI: {doi}")
+        return cache[doi_key]
+
+    headers = {"User-Agent": "compile_searches_script/1.0 (mailto:you@example.com)"}
+    url = CROSSREF_API + doi
+    try:
+        print(f"[CrossRef] Querying DOI: {doi}")
+        response = requests.get(url, headers=headers, timeout=10)
+        metadata = {}
+        if response.status_code == 200:
+            message = response.json().get("message", {})
+            # Abstract
+            if "abstract" in message:
+                metadata["abstract"] = message["abstract"]
+            # Year
+            pub_date = message.get("published-print", message.get("published-online"))
+            if pub_date and "date-parts" in pub_date:
+                metadata["year"] = pub_date["date-parts"][0][0]
+            if metadata:
+                print(f"[CrossRef] Metadata found for DOI: {doi}")
+            else:
+                print(f"[CrossRef] No abstract/year found for DOI: {doi}")
+        else:
+            print(f"[CrossRef] Warning: DOI {doi} returned status {response.status_code}")
+
+        # Save to cache
+        cache[doi_key] = metadata
+        return metadata
+    except Exception as e:
+        print(f"[CrossRef] Error querying DOI {doi}: {e}")
+        cache[doi_key] = {}  # Save empty to avoid retrying repeatedly
+        return {}
+
+# -------------------------------
+# Enhance compiled entries with CrossRef
+# -------------------------------
+def enhance_compiled_with_crossref(compiled_entries, compiled_file, cache_file):
+    """
+    For each entry with a DOI, fetch abstract and year from CrossRef.
+    Uses caching and incremental saving.
+    """
+    # Load or create cache
+    if cache_file.exists():
+        with open(cache_file, "r", encoding="utf-8") as f:
+            crossref_cache = json.load(f)
+    else:
+        crossref_cache = {}
+
+    total = len(compiled_entries)
+    print(f"[INFO] Enhancing {total} entries with CrossRef metadata...")
+
+    for i, entry in enumerate(compiled_entries, start=1):
+        doi = entry.get("doi")
+        if doi:
+            metadata = fetch_crossref_metadata(doi, crossref_cache)
+            if metadata:
+                for k, v in metadata.items():
+                    if k not in entry or entry[k] in (None, "", []):
+                        entry[k] = v
+
+            # Save progress incrementally
+            with open(compiled_file, "w", encoding="utf-8") as f:
+                json.dump(compiled_entries, f, indent=2, ensure_ascii=False)
+            # Save cache
+            with open(cache_file, "w", encoding="utf-8") as f:
+                json.dump(crossref_cache, f, indent=2, ensure_ascii=False)
+
+            print(f"[Progress] Entry {i}/{total} processed")
+            time.sleep(3)  # rate limit
+
+    print("[INFO] CrossRef enhancement complete.")
+
+# -------------------------------
+# Main compilation function
+# -------------------------------
 def compile_searches():
     """
-    Compile search results from multiple database JSON files,
-    deduplicate entries, add citation counts, save compiled results,
-    and produce a search summary.
+    Main function:
+    - Load JSON search results
+    - Deduplicate & merge entries
+    - Add cited_by and database info
+    - Enhance with CrossRef metadata (cached + incremental save)
+    - Save list_compiled.json/csv
+    - Generate search_summary.csv
     """
+    print("[INFO] Starting compilation process...")
 
-    # -------------------------------
     # Paths
-    # -------------------------------
-    search_results_dir = Path("results/search_results")
-    search_results_dir.mkdir(parents=True, exist_ok=True)
+    RESULTS_DIR = Path("results/search_results")
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    compiled_json_file = RESULTS_DIR / "list_compiled.json"
+    compiled_csv_file = RESULTS_DIR / "list_compiled.csv"
+    crossref_cache_file = RESULTS_DIR / "crossref_cache.json"
 
-    # Assume all JSON files in the folder are individual database results
-    database_files = list(search_results_dir.glob("*.json"))
-
-    if not database_files:
-        print("No JSON database files found in results/search_results")
+    # Load all JSON search results
+    search_files = list(RESULTS_DIR.glob("*.json"))
+    if not search_files:
+        print("[WARNING] No JSON search files found. Exiting.")
         return
 
-    compiled_dict = {}  # key: unique identifier (doi or url or title lower)
-    database_summary = {}
+    db_entries = {}
+    for f in search_files:
+        db_name = f.stem
+        try:
+            print(f"[INFO] Loading database file: {f}")
+            with open(f, "r", encoding="utf-8") as file:
+                data = json.load(file)
+                if not isinstance(data, list):
+                    print(f"[WARNING] {f} does not contain a list. Skipping.")
+                    continue
+                db_entries[db_name] = data
+        except Exception as e:
+            print(f"[WARNING] Could not read {f}: {e}")
 
-    # -------------------------------
-    # Helper function to get unique key
-    # -------------------------------
-    def get_unique_key(article):
-        if "doi" in article and article["doi"]:
-            return article["doi"].lower()
-        if "url" in article and article["url"]:
-            return article["url"].lower()
-        if "title" in article and article["title"]:
-            return article["title"].strip().lower()
-        return None
+    # Deduplicate
+    compiled = []
+    seen = {}
+    def generate_keys(entry):
+        keys = []
+        doi = entry.get("doi")
+        title = entry.get("title")
+        url = entry.get("url")
+        if doi: keys.append(f"doi::{doi.strip().lower()}")
+        if title: keys.append(f"title::{title.strip().lower()}")
+        if url: keys.append(f"url::{url.strip().lower()}")
+        return keys
 
-    # -------------------------------
-    # Read each database JSON
-    # -------------------------------
-    for db_file in database_files:
-        db_name = db_file.stem  # use file name as database name
-        with open(db_file, "r", encoding="utf-8") as f:
-            try:
-                articles = json.load(f)
-            except Exception as e:
-                print(f"Error reading {db_file}: {e}")
+    print("[INFO] Deduplicating entries...")
+    for db_name, entries in db_entries.items():
+        for entry in entries:
+            if "is_referenced_by_count" in entry and "cited_by" not in entry:
+                entry["cited_by"] = entry["is_referenced_by_count"]
+            entry.setdefault("databases_found_in", [])
+            if db_name not in entry["databases_found_in"]:
+                entry["databases_found_in"].append(db_name)
+
+            keys = generate_keys(entry)
+            found = False
+            for key in keys:
+                if key in seen:
+                    idx = seen[key]
+                    compiled_entry = compiled[idx]
+                    # Merge metadata
+                    for k, v in entry.items():
+                        if k == "databases_found_in":
+                            compiled_entry[k] = list(set(compiled_entry[k] + v))
+                        elif k not in compiled_entry or compiled_entry[k] in (None, "", []):
+                            compiled_entry[k] = v
+                    found = True
+                    break
+            if not found:
+                idx = len(compiled)
+                compiled.append(entry)
+                for key in keys:
+                    seen[key] = idx
+
+    print(f"[INFO] Deduplication complete. Total unique entries: {len(compiled)}")
+
+    # Enhance with CrossRef metadata
+    enhance_compiled_with_crossref(compiled, compiled_json_file, crossref_cache_file)
+
+    # Sort by cited_by
+    compiled_sorted = sorted(compiled, key=lambda x: x.get("cited_by", 0) or 0, reverse=True)
+
+    # Save JSON & CSV
+    with open(compiled_json_file, "w", encoding="utf-8") as f:
+        json.dump(compiled_sorted, f, indent=2, ensure_ascii=False)
+    pd.DataFrame(compiled_sorted).to_csv(compiled_csv_file, index=False)
+    print(f"[INFO] Compiled data saved: {compiled_json_file}, {compiled_csv_file}")
+
+    # Build search summary CSV
+    summary_rows = []
+    for db_name, entries in db_entries.items():
+        row = {"database": db_name, "num_results": len(entries)}
+        if entries:
+            fields = sorted({k for e in entries for k in e.keys()})
+            row["fields_captured"] = ", ".join(fields)
+        else:
+            row["fields_captured"] = ""
+        # Overlaps
+        for other_db_name, other_entries in db_entries.items():
+            if db_name == other_db_name:
+                row[f"in_{other_db_name}"] = len(entries)
                 continue
+            other_keys = set(k for e in other_entries for k in generate_keys(e))
+            count_overlap = sum(any(k in other_keys for k in generate_keys(e)) for e in entries)
+            row[f"in_{other_db_name}"] = count_overlap
+        summary_rows.append(row)
 
-        if not isinstance(articles, list):
-            print(f"{db_file} is not a list, skipping")
-            continue
+    summary_df = pd.DataFrame(summary_rows)
+    summary_csv_file = RESULTS_DIR / "search_summary.csv"
+    summary_df.to_csv(summary_csv_file, index=False)
+    print(f"[INFO] Search summary saved: {summary_csv_file}")
+    print("[INFO] Compilation process completed successfully!")
 
-        database_summary[db_name] = {
-            "count": len(articles),
-            "fields": list(articles[0].keys()) if articles else [],
-            "articles": articles
-        }
-
-        for article in articles:
-            # Add cited_by if is_referenced_by_count exists
-            if "is_referenced_by_count" in article:
-                article["cited_by"] = article["is_referenced_by_count"]
-
-            # Record which databases this article came from
-            article_key = get_unique_key(article)
-            if not article_key:
-                continue
-
-            if article_key in compiled_dict:
-                # Merge metadata
-                existing = compiled_dict[article_key]
-
-                # Combine databases
-                existing["databases"] = list(set(existing.get("databases", []) + [db_name]))
-
-                # Merge fields - keep existing values, add new if not present
-                for k, v in article.items():
-                    if k not in existing or not existing[k]:
-                        existing[k] = v
-            else:
-                # First occurrence
-                article["databases"] = [db_name]
-                compiled_dict[article_key] = article
-
-    compiled_list = list(compiled_dict.values())
-
-    # -------------------------------
-    # Sort compiled list by citations descending
-    # -------------------------------
-    def citation_sort_key(article):
-        return int(article.get("cited_by", 0) or 0)
-
-    compiled_list.sort(key=citation_sort_key, reverse=True)
-
-    # -------------------------------
-    # Save list_compiled.json
-    # -------------------------------
-    json_path = search_results_dir / "list_compiled.json"
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(compiled_list, f, indent=4, ensure_ascii=False)
-    print(f"Saved compiled JSON: {json_path}")
-
-    # -------------------------------
-    # Save list_compiled.csv
-    # -------------------------------
-    # Determine all possible fields dynamically
-    all_fields = set()
-    for art in compiled_list:
-        all_fields.update(art.keys())
-    all_fields = sorted(all_fields)
-
-    csv_path = search_results_dir / "list_compiled.csv"
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=all_fields)
-        writer.writeheader()
-        for art in compiled_list:
-            writer.writerow({k: art.get(k, "") for k in all_fields})
-    print(f"Saved compiled CSV: {csv_path}")
-
-    # -------------------------------
-    # Build search_summary.csv
-    # -------------------------------
-    summary_path = search_results_dir / "search_summary.csv"
-    with open(summary_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        # Header
-        header = ["Database", "Total Articles", "Fields Captured"]
-        db_names = list(database_summary.keys())
-        for db in db_names:
-            header.append(f"Articles Also in {db}")
-        writer.writerow(header)
-
-        # Rows
-        for db_name, info in database_summary.items():
-            row = [
-                db_name,
-                len(info["articles"]),
-                "; ".join(info["fields"]) if info["fields"] else "0"
-            ]
-            for compare_db in db_names:
-                if compare_db == db_name:
-                    # All articles are also in the same db
-                    count = len(info["articles"])
-                else:
-                    # Count articles also found in compare_db
-                    compare_keys = set()
-                    for a in database_summary[compare_db]["articles"]:
-                        key = get_unique_key(a)
-                        if key:
-                            compare_keys.add(key)
-
-                    count = 0
-                    for a in info["articles"]:
-                        key = get_unique_key(a)
-                        if key and key in compare_keys:
-                            count += 1
-                row.append(count)
-            writer.writerow(row)
-    print(f"Saved search summary CSV: {summary_path}")
-
-
+# -------------------------------
+# Run
+# -------------------------------
 if __name__ == "__main__":
     compile_searches()

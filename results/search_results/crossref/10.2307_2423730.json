@@ -1,0 +1,124 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        25
+      ]
+    ],
+    "date-time": "2025-10-25T11:57:23Z",
+    "timestamp": 1761393443011
+  },
+  "reference-count": 0,
+  "publisher": "JSTOR",
+  "issue": "1",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "American Midland Naturalist"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1970,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.2307/2423730",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        4,
+        24
+      ]
+    ],
+    "date-time": "2006-04-24T11:18:56Z",
+    "timestamp": 1145877536000
+  },
+  "page": "105",
+  "source": "Crossref",
+  "is-referenced-by-count": 69,
+  "title": [
+    "Is Any Angiosperm an Obligate Halophyte?"
+  ],
+  "prefix": "10.2307",
+  "volume": "84",
+  "author": [
+    {
+      "given": "Michael G.",
+      "family": "Barbour",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "1121",
+  "container-title": [
+    "American Midland Naturalist"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2018,
+        4,
+        17
+      ]
+    ],
+    "date-time": "2018-04-17T20:04:43Z",
+    "timestamp": 1523995483000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.jstor.org/stable/2423730?origin=crossref"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1970,
+        7
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          1970,
+          7
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.2307/2423730",
+  "relation": {},
+  "ISSN": [
+    "0003-0031"
+  ],
+  "issn-type": [
+    {
+      "value": "0003-0031",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1970,
+        7
+      ]
+    ]
+  }
+}
