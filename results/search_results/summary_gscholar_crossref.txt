@@ -1,0 +1,3 @@
+Total Articles: 462
+Enriched: 175 (DOI: 175, Title fallback: 0)
+Failed: 287

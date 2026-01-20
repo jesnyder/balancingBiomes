@@ -1,197 +1,190 @@
-#!/usr/bin/env python3
-"""
-count_species.py
-
-Single-file pipeline that:
-- Reads species list
-- Scans article corpus
-- Counts species mentions
-- Computes citation-aware metrics
-- Writes JSON + CSV
-- Generates a complete Tabulator JS file
-
-No external dependencies.
-"""
-
 import json
-import os
-import csv
-
-SPECIES_FILE = "results/species_detailed.json"
-ARTICLES_FILE = "results/search_results/list_compiled.json"
-
-OUT_DIR = "results/species_found"
-OUT_JSON = f"{OUT_DIR}/species_frequency.json"
-OUT_CSV = f"{OUT_DIR}/species_frequency.csv"
-
-JS_DIR = "docs/js"
-JS_FILE = f"{JS_DIR}/species_found.js"
-
-
-def extract_article_text(article):
-    text = []
-    for k, v in article.items():
-        if k == "reference":
-            continue
-        if isinstance(v, str):
-            text.append(v)
-        elif isinstance(v, list):
-            for x in v:
-                if isinstance(x, str):
-                    text.append(x)
-        elif isinstance(v, dict):
-            for x in v.values():
-                if isinstance(x, str):
-                    text.append(x)
-    return " ".join(text).lower()
+from pathlib import Path
 
 
 def count_species():
-    print("\n=== Loading input files ===")
+    print("🔍 Starting species frequency analysis...")
 
+    # ----------------------------
+    # Paths
+    # ----------------------------
+    SPECIES_FILE = Path("results/species_detailed.json")
+    ARTICLES_FILE = Path("results/search_results/list_compiled.json")
+
+    OUTPUT_JSON = Path("results/species_found/species_frequency.json")
+    OUTPUT_JS_DIR = Path("docs/js")
+    OUTPUT_JS = OUTPUT_JS_DIR / "species_found.js"
+
+    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_JS_DIR.mkdir(parents=True, exist_ok=True)
+
+    # ----------------------------
+    # Load data
+    # ----------------------------
+    print("📖 Loading species list...")
     with open(SPECIES_FILE, "r", encoding="utf-8") as f:
         species_list = json.load(f)
 
+    print("📖 Loading article list...")
     with open(ARTICLES_FILE, "r", encoding="utf-8") as f:
         articles = json.load(f)
 
-    print(f"Species loaded: {len(species_list)}")
-    print(f"Articles loaded: {len(articles)}")
+    print(f"✔ Loaded {len(species_list)} species")
+    print(f"✔ Loaded {len(articles)} articles")
 
-    os.makedirs(OUT_DIR, exist_ok=True)
-    os.makedirs(JS_DIR, exist_ok=True)
-
-    print("\n=== Preprocessing articles ===")
-
+    # ----------------------------
+    # Prepare article text blobs
+    # ----------------------------
     article_texts = []
-    citation_counts = []
+    articles_with_2plus_cites = 0
 
     for art in articles:
-        article_texts.append(extract_article_text(art))
+        citation_count = (
+            art.get("cited_by")
+            or art.get("is_referenced_by_count")
+            or 0
+        )
 
-        c = art.get("cited_by") or art.get("is_referenced_by_count") or 0
-        try:
-            c = int(c)
-        except:
-            c = 0
+        if citation_count >= 2:
+            articles_with_2plus_cites += 1
 
-        citation_counts.append(c)
+        combined = []
+        for k, v in art.items():
+            if k == "reference":
+                continue
+            if isinstance(v, str):
+                combined.append(v)
+            elif isinstance(v, list):
+                combined.append(" ".join(str(x) for x in v))
+            elif isinstance(v, dict):
+                combined.append(" ".join(str(x) for x in v.values()))
 
-    total_articles = len(article_texts)
-    total_2plus = sum(1 for c in citation_counts if c >= 2)
+        article_texts.append({
+            "text": " ".join(combined).lower(),
+            "citations": citation_count
+        })
 
-    print(f"Articles with ≥2 citations: {total_2plus}")
+    print(f"✔ Articles with ≥2 citations: {articles_with_2plus_cites}")
 
+    # ----------------------------
+    # Count species mentions
+    # ----------------------------
     results = []
 
-    print("\n=== Counting species ===")
-
-    for i, entry in enumerate(species_list, 1):
-        name = entry.get("species") or entry.get("name")
-        if not name:
+    for entry in species_list:
+        species_name = entry.get("species", "").strip()
+        if not species_name:
             continue
 
-        name_lc = name.lower()
-
-        found = 0
+        species_lower = species_name.lower()
+        found_count = 0
         found_2plus = 0
 
-        for idx, text in enumerate(article_texts):
-            if name_lc in text:
-                found += 1
-                if citation_counts[idx] >= 2:
+        for art in article_texts:
+            if species_lower in art["text"]:
+                found_count += 1
+                if art["citations"] >= 2:
                     found_2plus += 1
 
-        pct = round((found / total_articles) * 100, 2) if total_articles else 0
-        pct2 = round((found_2plus / total_2plus) * 100, 2) if total_2plus else 0
+        if found_count == 0:
+            continue
 
-        entry["article_count"] = found
-        entry["article_pct"] = pct
-        entry["article_morethan2_count"] = found_2plus
-        entry["article_morethan2_pct"] = pct2
+        total_articles = len(article_texts)
 
-        print(f"[{i:4}] {name:<40} → {found} articles")
+        result = dict(entry)  # preserve all original fields
+        result["article_count"] = found_count
+        result["article_pct"] = round((found_count / total_articles) * 100, 3)
+        result["article_morethan2_count"] = found_2plus
+        result["article_morethan2_pct"] = (
+            round((found_2plus / articles_with_2plus_cites) * 100, 3)
+            if articles_with_2plus_cites > 0 else 0.0
+        )
 
-        results.append(entry)
+        results.append(result)
 
     results.sort(key=lambda x: x["article_count"], reverse=True)
 
-    print("\n=== Writing JSON & CSV ===")
-
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    # ----------------------------
+    # Save JSON
+    # ----------------------------
+    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
 
-    with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(
-            f,
-            fieldnames=[
-                "species",
-                "article_count",
-                "article_pct",
-                "article_morethan2_count",
-                "article_morethan2_pct",
-            ],
-        )
-        writer.writeheader()
-        for r in results:
-            writer.writerow({
-                "species": r.get("species", ""),
-                "article_count": r["article_count"],
-                "article_pct": r["article_pct"],
-                "article_morethan2_count": r["article_morethan2_count"],
-                "article_morethan2_pct": r["article_morethan2_pct"],
-            })
+    print(f"✔ Saved JSON → {OUTPUT_JSON}")
+    print(f"✔ Species found: {len(results)}")
 
-    print("JSON + CSV written.")
-
-    print("\n=== Writing Tabulator JS ===")
-
+    # ----------------------------
+    # Build JS table
+    # ----------------------------
     js_data = json.dumps(results, indent=2)
 
-    js_code = f"""
-/*
-====================================================
-species_found.js
+    js_template = f"""
+/**
+==========================================================
+SPECIES FREQUENCY TABLE
+==========================================================
 
-Include in HTML:
+HOW TO USE:
 
+1. Add Tabulator:
 <link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet">
 <script src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
 
-<button id="downloadCSV">Download CSV</button>
+2. Add HTML:
+<button id="download-species-csv">Download CSV</button>
 <div id="species_found"></div>
-<script src="docs/js/species_found.js"></script>
-====================================================
+
+3. Load this file after Tabulator:
+<script src="js/species_found.js"></script>
+
+==========================================================
 */
 
 const speciesFound = {js_data};
 
 const speciesTable = new Tabulator("#species_found", {{
     data: speciesFound,
-    layout: "fitDataStretch",
+    layout: "fitColumns",
     pagination: "local",
     paginationSize: 20,
     movableColumns: true,
+    height: "700px",
 
     columns: [
-        {{ title: "Species", field: "species", headerFilter: "input", widthGrow: 3 }},
-        {{ title: "Articles", field: "article_count", sorter: "number", width: "15%", headerFilter: "number" }},
-        {{ title: "% of Articles", field: "article_pct", sorter: "number", width: "15%", headerFilter: "number" }},
-        {{ title: "≥2 Citations", field: "article_morethan2_count", sorter: "number", width: "15%", headerFilter: "number" }},
-        {{ title: "% ≥2 Citations", field: "article_morethan2_pct", sorter: "number", width: "15%", headerFilter: "number" }}
+        {{ title: "Kingdom", field: "kingdom", headerFilter: "input" }},
+        {{ title: "Phylum", field: "phylum", headerFilter: "input" }},
+        {{ title: "Class", field: "class", headerFilter: "input" }},
+        {{ title: "Order", field: "order", headerFilter: "input" }},
+        {{ title: "Family", field: "family", headerFilter: "input" }},
+        {{ title: "Species", field: "species", headerFilter: "input" }},
+        {{
+            title: "URL",
+            field: "url",
+            formatter: function(cell) {{
+                const v = cell.getValue();
+                if (!v) return "";
+                return `<a href="${{v}}" target="_blank" rel="noopener noreferrer">link</a>`;
+            }},
+            width: "12%"
+        }},
+        {{ title: "Halotolerant", field: "halotolerant", headerFilter: "input", width: "10%" }},
+        {{ title: "Article Count", field: "article_count", sorter: "number", width: "10%" }},
+        {{ title: "Article %", field: "article_pct", sorter: "number", width: "10%" }},
+        {{ title: "≥2 Cite Count", field: "article_morethan2_count", sorter: "number", width: "10%" }},
+        {{ title: "≥2 Cite %", field: "article_morethan2_pct", sorter: "number", width: "10%" }}
     ]
 }});
 
-document.getElementById("downloadCSV").addEventListener("click", function () {{
+document.getElementById("download-species-csv").addEventListener("click", function () {{
     speciesTable.download("csv", "species_frequency.csv");
 }});
 """
 
-    with open(JS_FILE, "w", encoding="utf-8") as f:
-        f.write(js_code)
+    with open(OUTPUT_JS, "w", encoding="utf-8") as f:
+        f.write(js_template)
 
-    print(f"JS written → {JS_FILE}")
-    print("\n✅ DONE")
+    print(f"✔ JS table written → {OUTPUT_JS}")
+    print("✅ Done.")
 
 
 if __name__ == "__main__":

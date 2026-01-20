@@ -282,6 +282,7 @@ Save the appended json - results/species_found/species_frequency.json
 File two of two is a javascript file that builds a table
 Also create javascript to build a table
 reference results/species_found/species_frequency.csv
+
 Ignore species that were not found
 creates a a javascript file "species_found.js"
 save in the folder "docs" and subfolder "js" (may have to create the js file
@@ -289,7 +290,10 @@ save "species_found.js" there
 if the table has hyperlinks, open the hyperlinks in a new tab.
 Use Tabulator https://tabulator.info/ as template
 Add search below below each field in the table
-name the div in the html "species_found"
+name the div in the html "species_found
+
+in the table display the "classification" "species" "url" "halotolerant" and the counts and percentages
+
 in notes at the top of the .js file explain what to paste into index.html to make the .js work
 specify where to paste parts and explain why in the notes
 when you build the table. load the data into the .js file as a variable.
@@ -302,7 +306,7 @@ adjust the non-number columns to evenly divide the remaining width
 Present 20 results per page of the table.
 Add search to each field of the table
 
-Add a button to download the table
+Add a button to download the data displayed in the table
 Add the button before the table
 Add a button for downloading the .csv
 
