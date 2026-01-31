@@ -1,0 +1,74 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        19
+      ]
+    ],
+    "date-time": "2025-11-19T23:32:05Z",
+    "timestamp": 1763595125696,
+    "version": "3.45.0"
+  },
+  "description": "Supplemental Information for 10.1021/acs.joc.9b01229",
+  "reference-count": 0,
+  "publisher": "American Chemical Society (ACS)",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1021/acs.joc.9b01229.s002",
+  "type": "component",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        8
+      ]
+    ],
+    "date-time": "2020-04-08T09:26:36Z",
+    "timestamp": 1586337996000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "()-Alternarlactones A and B, Two Antiparasitic Alternariol-like Dimers from the Fungus Alternaria alternata P1210 Isolated from the Halophyte Salicornia sp."
+  ],
+  "prefix": "10.1021",
+  "member": "316",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        8
+      ]
+    ],
+    "date-time": "2020-04-08T09:26:37Z",
+    "timestamp": 1586337997000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.joc.9b01229/suppl_file/jo9b01229_si_002.zip"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        null
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.1021/acs.joc.9b01229.s002",
+  "relation": {},
+  "subject": []
+}

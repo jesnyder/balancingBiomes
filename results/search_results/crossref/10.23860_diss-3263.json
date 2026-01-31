@@ -1,0 +1,103 @@
+{
+  "institution": [
+    {
+      "name": "University of Rhode Island",
+      "acronym": [
+        "URI"
+      ],
+      "place": [
+        "Kingston, RI"
+      ]
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2025-03-04T20:40:19Z",
+    "timestamp": 1741120819325,
+    "version": "3.38.0"
+  },
+  "reference-count": 0,
+  "publisher": "University of Rhode Island",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.23860/diss-3263",
+  "type": "dissertation",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2025-03-04T19:41:13Z",
+    "timestamp": 1741117273000
+  },
+  "approved": {
+    "date-parts": [
+      [
+        1984
+      ]
+    ]
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "SODIUM-FLUX, ION-COMPARTMENTATION AND MEMBRANE-ULTRASTRUCTURE STUDIES RELATED TO PLANT SALT TOLERANCE (HALOPHYTE, ENDOCYTOSIS, SODIUM)"
+  ],
+  "prefix": "10.23860",
+  "author": [
+    {
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "TODD",
+      "family": "PETERSON",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "9949",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2025-03-04T19:59:02Z",
+    "timestamp": 1741118342000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://digitalcommons.uri.edu/oa_diss/3263"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        null
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.23860/diss-3263",
+  "relation": {},
+  "subject": []
+}

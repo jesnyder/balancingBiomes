@@ -1,0 +1,87 @@
+
+
+Write python code to accomplish the following tasks
+Take your time, accuracy is more important than speed
+
+Add a comment to the header with the following:
+> Date prepared
+> Objective of the code
+> Tasks - list of actions the code takes in order. Include details of packages or libraries with sufficient details so if pasted as another prompt, another AI would prepare the same code
+> Input - what files were retrieved or databses quieried
+> Output - what files were made by the code
+
+Comment the code with robust, clear descriptions of how and why code is used for people to read and understand
+Place all the code in a main function called "search_gscholar"
+Print statements to the terminal with progress.
+
+> Query Google Scholar https://scholar.google.com/
+My query is ("Halophyte"AND"Halophile")
+I want articles that cite both halophyte and halophile
+Use pageination to collect all the results. 10 at a time.
+Save each scraped json page using a four digit integer to refer to page number, for example the first page would be saved as
+"results/search_results/gscholar/pages/0000.json"
+the second page would be saved as
+"results/search_results/gscholar/pages/0010.json"
+
+Wait 62 seconds between queries.
+Between page quereies compile and clean results.
+Create a single json file with all results.
+Deduplicate results
+Sort the list, so most cited artciles are at the top.
+Save the compiled lists as "results/search_results/results_gscholar.json"
+
+Structure the json files as:
+{
+database: "gscholar",
+count: integer, number of results,
+count_abstract: integer, number of results with an abstract,
+count_doi: integer, number of results with a doi,
+count_2: integer, number of results with at least 2 citations,
+keys: [list of keys in article, not all keys are in all articles],
+articles: [list of artciles retrieved (sorted by citation, most cited at the top],
+}
+
+If an error is sent, such as too many request, stop trying and continue with the code.
+Print statements to the terminal to update progress.
+
+> Clean and deduplicate the articles
+
+For each article in the list, remove html tages from the title or snippet fields
+
+Search for the doi number in the metadata fields, especially the url.
+
+If found, add the key "doi" to the article and add doi value and a "doi_url" key that create the doi url, which is "https://doi.org/" followed by the doi
+
+A DOI (Digital Object Identifier) is a permanent, standardized identifier used to uniquely identify scholarly works such as journal articles, datasets, and reports. It consists of two main parts separated by a slash: a prefix and a suffix. The prefix always begins with 10, which designates the DOI system, followed by a number that identifies the publisher or registrant (for example, 10.1016 for Elsevier or 10.1038 for Nature). The suffix is assigned by the publisher and uniquely identifies the specific item; it often encodes information such as the journal name, year of publication, and article number, but its structure is not standardized. When combined, the prefix and suffix form a globally unique identifier that can be resolved through https://doi.org/, ensuring persistent access to the referenced work even if its web location changes.
+
+The doi can be at the end of middle of a url.
+
+Examples:
+"pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470015902.a0000394.pub3",
+the doi is in the url
+"doi": "10.1002/9780470015902.a0000394.pub3",
+"doi_url": "https://doi.org/10.1002/9780470015902.a0000394.pub3"
+
+another example
+"pub_url": "https://link.springer.com/content/pdf/10.1007/1-4020-4018-0.pdf#page=372",
+the doi is in the url
+"doi": "10.1007/1-4020-4018-0",
+"doi_url": "https://doi.org/10.1007/1-4020-4018-0"
+
+another example
+pub_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.00148/full",
+the doi is in the url
+"doi": "10.3389/fmicb.2018.00148",
+"doi_url": "https://doi.org/10.3389/fmicb.2018.00148"
+
+another example
+"pub_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-66480-4.pdf",
+the doi is in the url
+"doi": "10.1007/978-3-319-66480-4",
+"doi_url": "https://doi.org/10.1007/978-3-319-66480-4"
+
+another example
+"pub_url": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001914",
+the doi is in the url
+    "doi": "10.1099/ijsem.0.001914",
+    "doi_url": "https://doi.org/10.1099/ijsem.0.001914"

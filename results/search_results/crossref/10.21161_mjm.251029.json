@@ -1,0 +1,126 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2025-10-20T00:40:22Z",
+    "timestamp": 1760920822012,
+    "version": "build-2065373602"
+  },
+  "reference-count": 0,
+  "publisher": "Malaysian Journal of Microbiology",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "MJM"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.21161/mjm.251029",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2025-10-19T13:28:57Z",
+    "timestamp": 1760880537000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Comparative toxicity of metal oxide nanoparticles to the moderate halophile  Yangia sp. ND199"
+  ],
+  "prefix": "10.21161",
+  "author": [
+    {
+      "family": "Elrobi, A.",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "family": "Sayed, O. M.",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "family": "Hozayen, W.",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "family": "Dishisha, T.",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "8754",
+  "container-title": [
+    "Malaysian Journal of Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2025-10-19T13:29:02Z",
+    "timestamp": 1760880542000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://mjm.usm.my/index.php?r=cms/entry/view&id=3029&slug=Comparative-toxicity-of-metal-oxide-nanoparticles-to-the-moderate-halophile-Yangia-sp.-ND199"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.21161/mjm.251029",
+  "relation": {},
+  "ISSN": [
+    "2231-7538"
+  ],
+  "issn-type": [
+    {
+      "value": "2231-7538",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  }
+}

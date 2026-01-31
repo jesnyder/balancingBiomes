@@ -1,0 +1,774 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ],
+    "date-time": "2026-01-14T20:36:59Z",
+    "timestamp": 1768423019435,
+    "version": "3.49.0"
+  },
+  "reference-count": 49,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            22
+          ]
+        ],
+        "date-time": "2024-02-22T00:00:00Z",
+        "timestamp": 1708560000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            22
+          ]
+        ],
+        "date-time": "2024-02-22T00:00:00Z",
+        "timestamp": 1708560000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Microb Cell Fact"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Polyhydroxybutyrate is a biopolymer produced by bacteria and archaea under nitrogen-limiting conditions. PHB is an essential polymer in the bioplastic sector because of its biodegradability, eco-friendliness, and adaptability. The characterization of PHB is a multifaceted process for studying the structure and its properties. This entire aspect can assure the long-term viability and performance attributes of the PHB. The characteristics of PHB extracted from the halophile <jats:italic>Brachybacterium paraconglomeratum</jats:italic> were investigated with the objective of making films for application in healthcare.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>This was the first characterization study on PHB produced by a rare halophile, <jats:italic>Brachybacterium paraconglomeratum</jats:italic> (MTCC 13074). In this study, the strain produced 2.72 g/l of PHB for.5.1 g/l of biomass under optimal conditions. Methods are described for the determination of the physicochemical properties of PHB. The prominent functional groups CH<jats:sub>3</jats:sub> and C = O were observed by FT-IR and the actual chemical structure of the PHB was deduced by NMR. GCMS detects the confirmation of four methyl ester derivatives of the extracted PHB in the sample. Mass spectrometry revealed the molecular weight of methyl 3-hydroxybutyric acid (3HB) present in the extract. The air-dried PHB films were exposed to TGA, DSC and a universal testing machine to determine the thermal profile and mechanical stability. Additionally, the essential property of biopolymers like viscosity was also assessed for the extracted PHB.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>The current study demonstrated the consistency and quality of <jats:italic>B. paraconglomeratum</jats:italic> PHB. Therefore, <jats:italic>Brachybacterium sps</jats:italic> are also a considerable source of PHB with desired characteristics for industrial production.</jats:p>\n              </jats:sec>",
+  "DOI": "10.1186/s12934-024-02324-1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        22
+      ]
+    ],
+    "date-time": "2024-02-22T08:04:43Z",
+    "timestamp": 1708589083000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 22,
+  "title": [
+    "Physicochemical characterization of polyhydroxybutyrate (PHB) produced by the rare halophile Brachybacterium paraconglomeratum MTCC 13074"
+  ],
+  "prefix": "10.1186",
+  "volume": "23",
+  "author": [
+    {
+      "given": "Teja",
+      "family": "Mandragutti",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Tura Safawo",
+      "family": "Jarso",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Sudhakar",
+      "family": "Godi",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "S Sharmila",
+      "family": "Begum",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Beulah",
+      "family": "K",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2324_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "6565",
+      "DOI": "10.1016/j.biomaterials.2005.04.036",
+      "volume": "26",
+      "author": "GQ Chen",
+      "year": "2005",
+      "unstructured": "Chen GQ, Wu Q. The application of polyhydroxyalkanoates as tissue engineering materials. Biomat. 2005;26:6565–78.",
+      "journal-title": "Biomat"
+    },
+    {
+      "key": "2324_CR2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Steinbüchel A, Wieczorek R, Krüger N. PHA biosynthesis, its regulation and application of C1 utilizing microorganisms for polyester production. In Microbial growth on C1 compounds. Proceedings of the 8th International Symposium on Microbial Growth on C1 Compounds. San Diego USA. 1996;237-244.",
+      "DOI": "10.1007/978-94-009-0213-8_32"
+    },
+    {
+      "key": "2324_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "660",
+      "DOI": "10.1021/bm801394s",
+      "volume": "10",
+      "author": "K Grage",
+      "year": "2009",
+      "unstructured": "Grage K, Anika C, Jahns AC, Parlane N, Palanisamy R, Indira A, Rasiah IA, Atwood JA, Rehm BH. Bacterial polyhydroxyalkanoate granules: biogenesis, structure, and potential use as nano-/micro-beads in biotechnological and biomedical applications. Biomacromol. 2009;10:660–9.",
+      "journal-title": "Biomacromol"
+    },
+    {
+      "key": "2324_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "1454",
+      "DOI": "10.1080/09168451.2015.1034651",
+      "volume": "79",
+      "author": "P Bhagowati",
+      "year": "2015",
+      "unstructured": "Bhagowati P, Pradhan S, Dash HR, Das S. Production, optimization and characterization of polyhydroxybutyrate, a biodegradable plastic by Bacillus spp. Biosci Biotechnol Biochem. 2015;79:1454–63.",
+      "journal-title": "Biosci Biotechnol Biochem"
+    },
+    {
+      "key": "2324_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "242",
+      "DOI": "10.3390/app7030242",
+      "volume": "7",
+      "author": "RI Sharma Pk, Munir",
+      "year": "2017",
+      "unstructured": "Sharma Pk, Munir RI, Blunt W, Dartiailh C, Cheng J, Charles TC, Levin DB. Synthesis and physical properties of polyhydroxyalkanoate polymers with different monomer compositions by recombinant Pseudomonas putida LS46 expressing a novel PHA synthase (PhaC116) enzyme. Appl sci. 2017;7:242.",
+      "journal-title": "Appl sci"
+    },
+    {
+      "key": "2324_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "2289",
+      "DOI": "10.14233/ajchem.2023.27924",
+      "volume": "35",
+      "author": "RR Preethi",
+      "year": "2023",
+      "unstructured": "Preethi RR, Kulandhaivel M. Microbial production of biopolymer polyhydroxybutyrate (PHB): current challenges and its application. Asian J Chem. 2023;35:2289–300.",
+      "journal-title": "Asian J Chem"
+    },
+    {
+      "key": "2324_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "4977",
+      "DOI": "10.21746/ijbio.2016.04.005",
+      "volume": "5",
+      "author": "G Suchitra",
+      "year": "2016",
+      "unstructured": "Suchitra G. Methods for identification, quantification and characterization of polyhydroxyalkanoates. Int J Bioassays. 2016;5:4977–83.",
+      "journal-title": "Int J Bioassays"
+    },
+    {
+      "key": "2324_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "167",
+      "DOI": "10.1023/A:1018401513621",
+      "volume": "11",
+      "author": "E Yeol Lee",
+      "year": "1997",
+      "unstructured": "Yeol Lee E, Yong Choi C. Structural identification of polyhydroxyalkanoic acid (PHA) containing 4-hydroxyalkanoic acids by gas chromatography-mass spectrometry (GC-MS) and its application to bacteria screening. Biotechnol Techniq. 1997;11:167–71.",
+      "journal-title": "Biotechnol Techniq"
+    },
+    {
+      "key": "2324_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "195",
+      "DOI": "10.1002/(SICI)1097-0231(19990228)13:4<195::AID-RCM433>3.0.CO;2-D",
+      "volume": "13",
+      "author": "MJ Egan",
+      "year": "1999",
+      "unstructured": "Egan MJ, Porter EA, Kite GC, Simmonds MS, Barker J, Howells S. High performance liquid chromatography quadrupole ion trap and gas chromatography/mass spectrometry studies of polyhydroxyalkaloids in bluebells. Rapid Commun Mass Spectrom. 1999;13:195–200.",
+      "journal-title": "Rapid Commun Mass Spectrom"
+    },
+    {
+      "key": "2324_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "3415",
+      "DOI": "10.1128/AEM.66.8.3415-3420.2000",
+      "volume": "66",
+      "author": "M Kansiz",
+      "year": "2000",
+      "unstructured": "Kansiz M, Billman Jacobe H, McNaughton D. Quantitative determination of the biodegradable polymer poly(beta-hydroxybutyrate) in a recombinant Escherichia coli strain by use of mid-infrared spectroscopy and multivariative statistics. Appl Environ Microb. 2000;66:3415–20.",
+      "journal-title": "Appl Environ Microb"
+    },
+    {
+      "key": "2324_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "1217",
+      "DOI": "10.1023/A:1005602911977",
+      "volume": "22",
+      "author": "AK Misra",
+      "year": "2000",
+      "unstructured": "Misra AK, Thakur MS, Srinivas P, Karanth NG. Screening of poly-β-hydroxybutyrate-producing microorganisms using fourier transform infrared spectroscopy. Biotechnol Lett. 2000;22:1217–9.",
+      "journal-title": "Biotechnol Lett"
+    },
+    {
+      "key": "2324_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "1347",
+      "DOI": "10.1111/jam.12135",
+      "volume": "114",
+      "author": "BB Salgaonkar",
+      "year": "2013",
+      "unstructured": "Salgaonkar BB, Mani K, Braganca JM. Characterization of polyhydroxyalkanoates accumulated by a moderately halophilic salt pan isolate Bacillus megaterium strain H16. J Appl Microbiol. 2013;114:1347–56.",
+      "journal-title": "J Appl Microbiol"
+    },
+    {
+      "key": "2324_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "628719",
+      "DOI": "10.3389/fbioe.2021.628719",
+      "volume": "9",
+      "author": "L Lorini",
+      "year": "2021",
+      "unstructured": "Lorini L, Martinelli A, Capuani G, Frison N, Reis M, Sommer Ferreira B, Valentino F. Characterization of polyhydroxyalkanoates produced at pilot scale from different organic wastes. Front Bioeng Biotechnol. 2021;9:628719.",
+      "journal-title": "Front Bioeng Biotechnol"
+    },
+    {
+      "key": "2324_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "29",
+      "DOI": "10.1016/j.mser.2010.11.002",
+      "volume": "72",
+      "author": "R Rai",
+      "year": "2011",
+      "unstructured": "Rai R, Keshavarz T, Roether JA, Boccaccini AR, Roy I. Medium chain length polyhydroxyalkanoates, promising new biomedical materials for the future. Mater Sci Eng R Rep. 2011;72:29–47.",
+      "journal-title": "Mater Sci Eng R Rep"
+    },
+    {
+      "key": "2324_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "333",
+      "DOI": "10.1016/j.apcbee.2013.05.057",
+      "volume": "5",
+      "author": "N Sivakumar",
+      "year": "2013",
+      "unstructured": "Sivakumar N, Al Bahry S, Al Battashi HS. Screening of biopolymer producing bacteria isolated from some brassica plants. APCBEE Procedia. 2013;5:333–8.",
+      "journal-title": "APCBEE Procedia"
+    },
+    {
+      "key": "2324_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "177",
+      "DOI": "10.1016/j.carbpol.2017.03.051",
+      "volume": "167",
+      "author": "AC Correa",
+      "year": "2017",
+      "unstructured": "Correa AC, Carmona VB, Simão JA, Capparelli Mattoso LH, Marconcini JM. Biodegradable blends of urea plasticized thermoplastic starch (UTPS) and poly(ε-caprolactone) (PCL): morphological, rheological, thermal and mechanical properties. Carbohydr Polym. 2017;167:177–84.",
+      "journal-title": "Carbohydr Polym"
+    },
+    {
+      "key": "2324_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "24",
+      "DOI": "10.1186/s43141-023-00484-y",
+      "volume": "21",
+      "author": "T Mandragutti",
+      "year": "2023",
+      "unstructured": "Mandragutti T, Sudhakar G. Selective isolation and genomic characterization of biopolymer producer—a novel feature of halophile Brachybacterium paraconglomeratum MTCC 13074. J Genet Eng Biotechnol. 2023;21:24.",
+      "journal-title": "J Genet Eng Biotechnol"
+    },
+    {
+      "key": "2324_CR18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s13568-018-0672-6",
+      "author": "A Balakrishna Pillai",
+      "year": "2018",
+      "unstructured": "Balakrishna Pillai A, Jaya Kumar A, Kumarapillai H. Enhanced production of poly(3-hydroxybutyrate) in recombinant Escherichia coli and EDTA–microwave-assisted cell lysis for polymer recovery. AMB Expr. 2018. https://doi.org/10.1186/s13568-018-0672-6",
+      "journal-title": "AMB Expr"
+    },
+    {
+      "key": "2324_CR19",
+      "first-page": "37",
+      "volume": "58",
+      "author": "Abd El Haleem DA",
+      "year": "2009",
+      "unstructured": "Abd El Haleem DA. Biosynthesis of polyhydroxyalkanotes in wild type yeasts. Pol J Microbiol. 2009;58:37–41.",
+      "journal-title": "Pol J Microbiol"
+    },
+    {
+      "key": "2324_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1908",
+      "DOI": "10.1080/03602559.2016.1185616",
+      "volume": "55",
+      "author": "M Sundaram",
+      "year": "2016",
+      "unstructured": "Sundaram M, Radhakrishnan L, Chithiraivelu S, Athiyappa Gounder P. Enhanced production of polyhydroxybutyrate using Enterococcus faecium kt722772 isolated from cattle rumen fluid by substrates optimization. Poly Plast Technol Eng. 2016;55:1908–15.",
+      "journal-title": "Poly Plast Technol Eng"
+    },
+    {
+      "key": "2324_CR21",
+      "first-page": "58",
+      "volume": "5",
+      "author": "GG Biradar",
+      "year": "2015",
+      "unstructured": "Biradar GG, Shivasharana CT, Kaliwal BB. Isolation and characterization of polyhydroxybutyrate (PHB) producing Bacillus species from agricultural soil. Europ J Exp Biol. 2015;5:58–65.",
+      "journal-title": "Europ J Exp Biol"
+    },
+    {
+      "key": "2324_CR22",
+      "first-page": "680",
+      "volume": "3",
+      "author": "S Mohapatra",
+      "year": "2014",
+      "unstructured": "Mohapatra S, Samantaray DP, Samantaray SM. Phylogenetic heterogeneity of the rhizospheric soil bacterial isolates producing PHAs revealed by comparative analysis of 16S rRNA. Int J Curr Microbiol Appl Sci. 2014;3:680–90.",
+      "journal-title": "Int J Curr Microbiol Appl Sci"
+    },
+    {
+      "key": "2324_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "523526",
+      "DOI": "10.1007/s002530051427",
+      "volume": "51",
+      "author": "K Hong",
+      "year": "1999",
+      "unstructured": "Hong K, Sun S, Tian W, Chen GQ, Huang W. A rapid method for detecting bacterial polyhydroxyalkanoates in intact cells by fourier transform infrared spectroscopy. Appl Microbiol Biotechnol. 1999;51:523526.",
+      "journal-title": "Appl Microbiol Biotechnol"
+    },
+    {
+      "key": "2324_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "32",
+      "DOI": "10.1007/s13205-019-2017-9",
+      "volume": "10",
+      "author": "A Balakrishna Pillai",
+      "year": "2020",
+      "unstructured": "Balakrishna Pillai A, Jaya Kumar A, Kumarapillai H. Biosynthesis of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) in Bacillus aryabhattai and cytotoxicity evaluation of PHBV/poly (ethylene glycol) blends. 3 Biotech. 2020;10:32.",
+      "journal-title": "3 Biotech"
+    },
+    {
+      "key": "2324_CR25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s40643-014-0009-5",
+      "author": "AK Bhuwal",
+      "year": "2014",
+      "unstructured": "Bhuwal AK, Singh G, Aggarwal NK, et al. Poly-β-hydroxybutyrate production and management of cardboard industry effluent by new Bacillus sp. NA10. Bioresour Bioprocess. 2014. https://doi.org/10.1186/s40643-014-0009-5",
+      "journal-title": "Bioresour Bioprocess"
+    },
+    {
+      "key": "2324_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "8815",
+      "DOI": "10.1038/s41598-020-65858-5",
+      "volume": "10",
+      "author": "YS Mostafa",
+      "year": "2020",
+      "unstructured": "Mostafa YS, Alrumman SA, Alamri SA, Otaif KA, Mostafa MS, Alfaify AM. Bioplastic (poly-3-hydroxybutyrate) production by the marine bacterium Pseudodonghicola xiamenensis through date syrup valorization and structural assessment of the biopolymer. Scient rep. 2020;10:8815.",
+      "journal-title": "Scient rep"
+    },
+    {
+      "key": "2324_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.ejbt.2021.12.003",
+      "volume": "56",
+      "author": "T Sriyapai",
+      "year": "2022",
+      "unstructured": "Sriyapai T, Chuarung T, Kimbara K, Samosorn S, Sriyapai P. Production and optimization of polyhydroxyalkanoates (PHAs) from Paraburkholderia sp. PFN 29 under submerged fermentation. Elect J Biotechnol. 2022;56:1–11.",
+      "journal-title": "Elect J Biotechnol"
+    },
+    {
+      "key": "2324_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "397",
+      "DOI": "10.1016/j.ijbiomac.2016.03.002",
+      "volume": "87",
+      "author": "A Aramvash",
+      "year": "2016",
+      "unstructured": "Aramvash A, Hajizadeh Turchi S, Moazzeni zavareh F, Gholami Banadkuki N, Malek sabet N, Akbari Shahabi Z. Effective enhancement of hydroxyvalerate content of PHBV in Cupriavidus necator and its characterization. Int J Biol Macromol. 2016;87:397–404.",
+      "journal-title": "Int J Biol Macromol"
+    },
+    {
+      "key": "2324_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "e0538",
+      "DOI": "10.1016/j.heliyon.2020.e05381",
+      "volume": "6",
+      "author": "M Narayanan",
+      "year": "2020",
+      "unstructured": "Narayanan M, Kandasamy S, Kumarasamy S. Screening of polyhydroxybutyrate producing indigenous bacteria from polluted lake soil. Heliyon. 2020;6:e0538.",
+      "journal-title": "Heliyon"
+    },
+    {
+      "key": "2324_CR30",
+      "first-page": "3",
+      "volume": "1",
+      "author": "AM Desuoky",
+      "year": "2007",
+      "unstructured": "Desuoky AM, El Haleem ABD, Zaki SA, Abuelhamd AT, Amara A, Aboelreesh GMS. Biosynthesis of polyhydroxyalkanotes in wildtype yeasts. J Appl Sci Environ Manage. 2007;1:3.",
+      "journal-title": "J Appl Sci Environ Manage"
+    },
+    {
+      "key": "2324_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "61",
+      "DOI": "10.1016/j.imu.2018.04.009",
+      "volume": "11",
+      "author": "D Sabarinathan",
+      "year": "2018",
+      "unstructured": "Sabarinathan D, Chandrika SP, Venkatraman P, Easwaran M, Sureka CS, Preethi K. Production of polyhydroxybutyrate (PHB) from Pseudomonas plecoglossicida and its application towards cancer detection. Informat Med Unlock. 2018;11:61–7.",
+      "journal-title": "Informat Med Unlock"
+    },
+    {
+      "key": "2324_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "183",
+      "DOI": "10.1186/s12866-022-02593-z",
+      "volume": "22",
+      "author": "SM Hamdy",
+      "year": "2022",
+      "unstructured": "Hamdy SM, Danial AW, Gad El Rab S, Shoreit A, Hesham AE. Production and optimization of bioplastic (polyhydroxybutyrate) from Bacillus cereus strain SH-02 using response surface methodology. BMC Microbiol. 2022;22:183.",
+      "journal-title": "BMC Microbiol"
+    },
+    {
+      "key": "2324_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "1686",
+      "DOI": "10.3390/ma14071686",
+      "volume": "14",
+      "author": "I Blanco",
+      "year": "2021",
+      "unstructured": "Blanco I, Siracusa V. The use of thermal techniques in the characterization of bio-sourced polymers. Materials. 2021;14:1686.",
+      "journal-title": "Materials"
+    },
+    {
+      "key": "2324_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "226",
+      "DOI": "10.1016/j.polymertesting.2011.11.002",
+      "volume": "31",
+      "author": "YM Corre",
+      "year": "2012",
+      "unstructured": "Corre YM, Bruzaud S, Audic JL, Grohens Y, Koller M, Atli´c A, Dias M. Morphology and functional properties of commercial polyhydroxyalkanoates: a comprehensive and comparative study. Polym Test. 2012;31:226–23.",
+      "journal-title": "Polym Test"
+    },
+    {
+      "key": "2324_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "7263",
+      "DOI": "10.1038/s41598-022-11114-x",
+      "volume": "12",
+      "author": "K Szacherska",
+      "year": "2022",
+      "unstructured": "Szacherska K, et al. Polyhydroxyalkanoates production from short and medium chain carboxylic acids by Paracoccus homiensis. Sci rep. 2022;12:7263.",
+      "journal-title": "Sci rep"
+    },
+    {
+      "key": "2324_CR36",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wang Y, Chen R, Cai J, Liu Z, Zheng Y, Wang H, et al. Biosynthesis and thermal properties of phbv produced from levulinic acid by Ralstonia eutropha. PLoS ONE. 2013;2013. https://doi.org/10.1371/journal.pone.0060318",
+      "DOI": "10.1371/journal.pone.0060318"
+    },
+    {
+      "key": "2324_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1954",
+      "DOI": "10.1016/j.polymdegradstab.2006.02.008",
+      "volume": "91",
+      "author": "DF Parra",
+      "year": "2006",
+      "unstructured": "Parra DF, Fusaro J, Gaboardi F, Rosa DS. Influence of poly (ethylene glycol) on the thermal, mechani-cal, morphological, physical-chemical and biodegradation properties of poly (3-hydroxybutyrate). Polym Degrad Stab. 2006;91:1954–59.",
+      "journal-title": "Polym Degrad Stab"
+    },
+    {
+      "key": "2324_CR38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0158168",
+      "author": "S Ansari",
+      "year": "2016",
+      "unstructured": "Ansari S, Fatma T. Cyanobacterial polyhydroxybutyrate (PHB): screening, optimization and characterization. PLoS ONE. 2016. https://doi.org/10.1371/journal.pone.0158168",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "2324_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "689",
+      "DOI": "10.1002/mabi.200500066",
+      "volume": "5",
+      "author": "T Iwata",
+      "year": "2005",
+      "unstructured": "Iwata T. Strong fibers and films of microbial polyesters. Macromol Biosci. 2005;5:689–701.",
+      "journal-title": "Macromol Biosci"
+    },
+    {
+      "key": "2324_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "1051",
+      "DOI": "10.1038/pj.2016.78",
+      "volume": "48",
+      "author": "T Tsuge",
+      "year": "2016",
+      "unstructured": "Tsuge T. Fundamental factors determining the molecular weight of polyhydroxyalkanoate during biosynthesis. Polym J. 2016;48:1051–7.",
+      "journal-title": "Polym J"
+    },
+    {
+      "key": "2324_CR41",
+      "first-page": "1",
+      "volume": "2",
+      "author": "NN Chopabayeva",
+      "year": "2015",
+      "unstructured": "Chopabayeva NN, Mukanov KN. Synthesis and characterization of novel nano-, micro- and macroporous lignin sorbents for purification of biological fluids. J Chem Eng Res Upd. 2015;2:1–11.",
+      "journal-title": "J Chem Eng Res Upd"
+    },
+    {
+      "key": "2324_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2748",
+      "DOI": "10.21769/BioProtoc.2748",
+      "volume": "8",
+      "author": "JR Juengert",
+      "year": "2018",
+      "unstructured": "Juengert JR, Bresan S, Jendrossek D. Determination of polyhydroxybutyrate (PHB) content in Ralstonia eutropha using gas chromatography and Nile red staining. Bio-protoc. 2018;8:e2748. https://doi.org/10.21769/BioProtoc.2748",
+      "journal-title": "Bio-protoc"
+    },
+    {
+      "key": "2324_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "379",
+      "DOI": "10.1016/j.jbiosc.2013.08.020",
+      "volume": "117",
+      "author": "GYA Tan",
+      "year": "2014",
+      "unstructured": "Tan GYA, Chen CL, Ge L, Li L, Wang L, Zhao L, Wang JY. Enhanced gas chromatography-mass spectrometry method for bacterial polyhydroxyalkanoates analysis. J Biosci Bioeng. 2014;117:379–82.",
+      "journal-title": "J Biosci Bioeng"
+    },
+    {
+      "key": "2324_CR44",
+      "first-page": "65",
+      "volume-title": "Vincent Stroobant. Mass Spectrometry: principles and applications",
+      "author": "E De Hoffmann",
+      "year": "2003",
+      "unstructured": "De Hoffmann E. Vincent Stroobant. Mass Spectrometry: principles and applications. 2nd ed. Toronto: Wiley; 2003. p. 65.",
+      "edition": "2"
+    },
+    {
+      "key": "2324_CR45",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hagagy N, Saddiq AA, Tag HM, Selim S, Abd Elgawad H, Martínez Espinosa RM. Characterization of polyhydroxybutyrate, PHB, synthesized by newly isolated haloarchaea, Halolamina spp. Molecules. 2022;27:7366.",
+      "DOI": "10.3390/molecules27217366"
+    },
+    {
+      "key": "2324_CR46",
+      "unstructured": "Susumu Ito E, Shimoda N, Okubo, Hidehiro Takahashi. Evaluation for degradation of polymer materials using sample observation TG-DSC system. 5th CEEC-TAC. 2019. https://www.hitachi-hightech.com/global/en/knowledge/analytical-systems/thermal-analysis/references.html#sec-2"
+    },
+    {
+      "key": "2324_CR47",
+      "unstructured": "Yoshikazu Nishiyama N, Okubo E, Shimoda, Hidehiro Takahashi. Evaluation for melting behaviour of polymer materials using sample observation DSC system. 5th CEEC-TAC. 2019. https://www.hitachi-hightech.com/global/en/knowledge/analytical-systems/thermal-analysis/references.html#sec-2"
+    },
+    {
+      "key": "2324_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1007/978-3-662-10796-6",
+      "volume-title": "Viscosimetry of polymers and polyelectrolytes",
+      "author": "WM Kulicke",
+      "year": "2004",
+      "unstructured": "Kulicke WM, Clasen C. Viscosimetry of polymers and polyelectrolytes. Berlin Heidelberg: Springer-Verlag; 2004:3–540–40760."
+    },
+    {
+      "key": "2324_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "245",
+      "DOI": "10.1128/jb.89.1.245-251.1965",
+      "volume": "89",
+      "author": "DG Lundgren",
+      "year": "1965",
+      "unstructured": "Lundgren DG, Alper R, Schnaitman C, Marchessault RH. Characterization of poly-β-hydroxybutyrate extracted from different bacteria. J Bacterial. 1965;89:245–51.",
+      "journal-title": "J Bacterial"
+    }
+  ],
+  "container-title": [
+    "Microbial Cell Factories"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1186/s12934-024-02324-1.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1186/s12934-024-02324-1/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1186/s12934-024-02324-1.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        22
+      ]
+    ],
+    "date-time": "2024-02-22T08:07:43Z",
+    "timestamp": 1708589263000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-024-02324-1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        22
+      ]
+    ]
+  },
+  "references-count": 49,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2324"
+  ],
+  "URL": "https://doi.org/10.1186/s12934-024-02324-1",
+  "relation": {},
+  "ISSN": [
+    "1475-2859"
+  ],
+  "issn-type": [
+    {
+      "value": "1475-2859",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        22
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "16 September 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "3 February 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "22 February 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethics approval and consent to participate"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent for publication"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "59"
+}

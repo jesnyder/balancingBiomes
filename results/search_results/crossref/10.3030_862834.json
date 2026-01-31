@@ -1,0 +1,124 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        6
+      ]
+    ],
+    "date-time": "2026-01-06T12:34:49Z",
+    "timestamp": 1767702889375,
+    "version": "3.48.0"
+  },
+  "publisher": "Publications Office of the European Union",
+  "award-start": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        1
+      ]
+    ]
+  },
+  "award": "862834",
+  "DOI": "10.3030/862834",
+  "type": "grant",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2022-12-12T09:41:38Z",
+    "timestamp": 1670838098000
+  },
+  "source": "Crossref",
+  "prefix": "10.3030",
+  "member": "4854",
+  "project": [
+    {
+      "project-title": [
+        {
+          "title": "Integrated on-farm Aquaponics systems for co-production of fish, halophyte vegetables, bioactive compounds, and bioenergy",
+          "language": "en"
+        },
+        {
+          "title": "AQUACOMBINE",
+          "language": "en"
+        }
+      ],
+      "project-description": [
+        {
+          "description": "One of the most important challenges of the 21st century is to meet the world's demand for sustainably produced biomass for both food and the growing bio-products sector. Increased use of fresh water for agriculture and loss of farmland due to salinity are related concerns. Salicornia europaea (S. europaea) is grown commercially in the EU for its fresh tips, which are edible as salad (marsh samphire). It is a halophyte plant and can grow on saline lands without requiring freshwater for irrigation. When grown as a vegetable only the fresh tips are used while the woody part of the plant is considered a residue. Today, European farmers are using part of the fibrous residue for soil amendment and drying the fibers to produce herbal salt. However, the amount of residue to food product is large (approximately 80%) and the salt content of the residue is a problem when used for soil amendment, as it returns the salt to the soil. There is a great wish from Salicornia farmers to increase the value of this fraction in line with the principles of circular economy. The woody residue part of Salicornia has been investigated as a source of pharma- and nutraceutical products due to its high content of phytochemicals e.g. hydroxycinnamic acids (HCA). To help increase Salicornia farming there is a wish to valorize these residues via biochemicals and bioenergy production. The project will also examine the combination of aquaculture and Salicornia farming creating synergies such as formulation and test of phyto-chemicals rich functional fish feed and formulation and test of protein and lipids rich fish feed. The outcomes of this study will enable Salicornia farmers and aquaponics farms to utilize all fractions of the produced biomass and produce value added HCAs, functional fish feed, and bioenergy. This will create new circular industries with co-production of food, pharma, and bioenergy from this new sustainable type of crop with very little or no production of waste streams.",
+          "language": "en"
+        }
+      ],
+      "award-amount": {
+        "amount": 9789884.0,
+        "currency": "EUR"
+      },
+      "award-start": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            1
+          ]
+        ]
+      },
+      "funding": [
+        {
+          "type": "grant",
+          "scheme": "H2020-EU.3.2.",
+          "award-amount": {
+            "amount": 9789884.0,
+            "currency": "EUR",
+            "percentage": 100
+          },
+          "funder": {
+            "id": [
+              {
+                "id": "10.13039/100010678",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "H2020 Food"
+          }
+        }
+      ]
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        6
+      ]
+    ],
+    "date-time": "2026-01-06T12:11:54Z",
+    "timestamp": 1767701514000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://cordis.europa.eu/project/id/862834"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        1
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.3030/862834",
+  "relation": {},
+  "subject": []
+}

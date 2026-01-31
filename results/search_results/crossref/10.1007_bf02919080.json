@@ -1,0 +1,1837 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        13
+      ]
+    ],
+    "date-time": "2025-11-13T12:18:50Z",
+    "timestamp": 1763036330966
+  },
+  "reference-count": 167,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1978,
+            4,
+            1
+          ]
+        ],
+        "date-time": "1978-04-01T00:00:00Z",
+        "timestamp": 260236800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Bot. Rev"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1978,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1007/bf02919080",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2008,
+        7,
+        3
+      ]
+    ],
+    "date-time": "2008-07-03T00:55:31Z",
+    "timestamp": 1215046531000
+  },
+  "page": "233-264",
+  "source": "Crossref",
+  "is-referenced-by-count": 258,
+  "title": [
+    "Halophyte seed germination"
+  ],
+  "prefix": "10.1007",
+  "volume": "44",
+  "author": [
+    {
+      "given": "Irwin A.",
+      "family": "Ungar",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "reference": [
+    {
+      "key": "BF02919080_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.2135/cropsci1964.0011183X000400020010x",
+      "volume": "4",
+      "author": "G. Abel",
+      "year": "1964",
+      "unstructured": "Abel, G. andA. J. Mackenzie. 1964. Salt tolerance of soybean varieties (Glycine max L. Merrill) during germination and later growth. Crop Sci.4: 157–161.",
+      "journal-title": "Crop Sci."
+    },
+    {
+      "key": "BF02919080_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "767",
+      "DOI": "10.1104/pp.13.4.767",
+      "volume": "13",
+      "author": "S. M. Ahi",
+      "year": "1938",
+      "unstructured": "Ahi, S. M. andW. L. Powers. 1938. Salt tolerance of plants at various temperatures. Plant Physiology13: 767–789.",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "key": "BF02919080_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "836",
+      "DOI": "10.2134/agronj1973.00021962006500050048x",
+      "volume": "65",
+      "author": "E. E. Albregts",
+      "year": "1973",
+      "unstructured": "Albregts, E. E. andC. M. Howard. 1973. Influence of temperature and moisture stress from sodium chloride salinization on okra emergence. Agronomy J.65: 836–847.",
+      "journal-title": "Agronomy J."
+    },
+    {
+      "key": "BF02919080_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/BF02858619",
+      "volume": "34",
+      "author": "R. D. Amen",
+      "year": "1968",
+      "unstructured": "Amen, R. D. 1968. A model of seed dormancy. Botan. Rev.34: 1–31.",
+      "journal-title": "Botan. Rev."
+    },
+    {
+      "key": "BF02919080_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1005",
+      "DOI": "10.1111/j.1469-8137.1970.tb02480.x",
+      "volume": "69",
+      "author": "R. D. Amen",
+      "year": "1970",
+      "unstructured": "—,G. E. Carter, andR. J. Kelly. 1970. The nature of seed dormancy and germination in the salt marsh grassDistichlis spicata. New Phytol.69: 1005–1013.",
+      "journal-title": "New Phytol."
+    },
+    {
+      "key": "BF02919080_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "583",
+      "DOI": "10.1111/j.1469-8137.1973.tb04409.x",
+      "volume": "72",
+      "author": "S. M. Arnold",
+      "year": "1973",
+      "unstructured": "Arnold, S. M. 1973. Interactions of light and temperature on the germination ofPlantago maritima L. New Phytol.72: 583–593.",
+      "journal-title": "New Phytol."
+    },
+    {
+      "key": "BF02919080_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "82",
+      "DOI": "10.2134/agronj1952.00021962004400020006x",
+      "volume": "44",
+      "author": "A. D. Ayers",
+      "year": "1952",
+      "unstructured": "Ayers, A. D. 1952. Seed germination as affected by soil moisture and salinity. Agron. J.44: 82–84.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.2134/agronj1953.00021962004500020008x",
+      "volume": "45",
+      "author": "A. D. Ayers",
+      "year": "1953",
+      "unstructured": "—. 1953. Germination and emergence of several varieties of barley in salinized soil cultures. Agron. J.45: 68–71.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "224",
+      "DOI": "10.2136/sssaj1949.036159950013000C0039x",
+      "volume": "13",
+      "author": "A. D. Ayers",
+      "year": "1948",
+      "unstructured": "— andH. E. Hayward. 1948. A method for measuring the effects of soil salinity on seed germination with observations on several crop plants. Soil Sci.13: 224–226.",
+      "journal-title": "Soil Sci."
+    },
+    {
+      "key": "BF02919080_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.4141/cjss62-009",
+      "volume": "42",
+      "author": "A. Ballantyne",
+      "year": "1962",
+      "unstructured": "Ballantyne, A. 1962. Tolerance of cereal crops to saline soils in Saskatchewan. Canadian J. Soil Sci.42: 61–67.",
+      "journal-title": "Canadian J. Soil Sci."
+    },
+    {
+      "key": "BF02919080_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "915",
+      "DOI": "10.2307/1936543",
+      "volume": "49",
+      "author": "M. G. Barbour",
+      "year": "1968",
+      "unstructured": "Barbour, M. G. 1968. Germination requirements of the desert shrubLarrea divaricata. Ecology49: 915–923.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.2307/2483986",
+      "volume": "97",
+      "author": "M. G. Barbour",
+      "year": "1970",
+      "unstructured": "—. 1970. Germination and early growth of the strand plantCakile maritima. Bull. Torr. Bot. Club97: 13–22.",
+      "journal-title": "Bull. Torr. Bot. Club"
+    },
+    {
+      "key": "BF02919080_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1007/BF00379620",
+      "volume": "13",
+      "author": "F. A. Bazzaz",
+      "year": "1973",
+      "unstructured": "Bazzaz, F. A. 1973. Seed germination in relation to salt concentration in three populations ofProsopis farcta. Oecologia13: 73–81.",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "BF02919080_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.2307/1931251",
+      "volume": "33",
+      "author": "N. C. W. Beadle",
+      "year": "1952",
+      "unstructured": "Beadle, N. C. W. 1952. Studies in halophytes. I. The germination of the seed and establishment of the seedlings of five species ofAtriplex in Australia. Ecology33: 49–62.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1146/annurev.pp.09.060158.000325",
+      "volume": "9",
+      "author": "L. Bernstein",
+      "year": "1958",
+      "unstructured": "Bernstein, L. andH. A. Hayward. 1958. Physiology of salt tolerance. An. Rev. Plant Phys.9: 25–46.",
+      "journal-title": "An. Rev. Plant Phys."
+    },
+    {
+      "key": "BF02919080_CR16",
+      "first-page": "181",
+      "volume": "13",
+      "author": "D. R. Bhumbula",
+      "year": "1968",
+      "unstructured": "Bhumbula, D. R., R. Singh, andN. T. Singh. 1968. Effects of salt on seed germination. Indian J. Agronomy13: 181–185.",
+      "journal-title": "Indian J. Agronomy"
+    },
+    {
+      "key": "BF02919080_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.1080/00378941.1960.10837928",
+      "volume": "107",
+      "author": "P. Binet",
+      "year": "1960",
+      "unstructured": "Binet, P. 1960a. La dormance des semences deSuaeda vulgaris Moq. et deSuaeda macrocarpa Moq. Bull. Soc. Bot. Fr.107: 159–162.",
+      "journal-title": "Bull. Soc. Bot. Fr."
+    },
+    {
+      "key": "BF02919080_CR18",
+      "first-page": "422",
+      "volume": "251",
+      "author": "P. Binet",
+      "year": "1960",
+      "unstructured": "—. 1960b. L’eau de mer et le froid, facteurs de levée de la dormance pour les semences deTriglochin maritimum L. C. R. Acad. Sci.251: 422–424.",
+      "journal-title": "Acad. Sci."
+    },
+    {
+      "key": "BF02919080_CR19",
+      "first-page": "253",
+      "volume": "10",
+      "author": "P. Binet",
+      "year": "1964",
+      "unstructured": "—. 1964. La germination des semences des halophytes. Bull. Soc. Fr. Physiol. Végét.10: 253–263.",
+      "journal-title": "Bull. Soc. Fr. Physiol. Végét."
+    },
+    {
+      "key": "BF02919080_CR20",
+      "first-page": "115",
+      "volume": "14",
+      "author": "P. Binet",
+      "year": "1968",
+      "unstructured": "—. 1968. Dormances et aptitude a germer en milieu sale chez les halophytes. Bull. Soc. Fr. Physiol. Végét.14: 115–124.",
+      "journal-title": "Bull. Soc. Fr. Physiol. Végét."
+    },
+    {
+      "key": "BF02919080_CR21",
+      "first-page": "125",
+      "volume": "14",
+      "author": "P. Binet",
+      "year": "1968",
+      "unstructured": "— andJ. Boucaud. 1968. Dormance, levée de dormance et aptitude á germer en milieu sale dans le genreSuaeda Forsk. Bull. Soc. Fr. Physiol. Végét.14: 125–132.",
+      "journal-title": "Bull. Soc. Fr. Physiol. Végét."
+    },
+    {
+      "key": "BF02919080_CR22",
+      "first-page": "895",
+      "volume": "253",
+      "author": "P. Binet",
+      "year": "1961",
+      "unstructured": "— andM. R. Combes. 1961. Action de la température et de l’eau de mer sur la germination des graines deCochlearia anglica L. C. R. Acad. Sci.253: 895–897.",
+      "journal-title": "Acad. Sci."
+    },
+    {
+      "key": "BF02919080_CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "803",
+      "DOI": "10.1093/oxfordjournals.aob.a084251",
+      "volume": "32",
+      "author": "L. A. Boorman",
+      "year": "1968",
+      "unstructured": "Boorman, L. A. 1968. Some aspects of the reproductive biology ofLimonium vulgare Mill. andLimonium humile. Ann. Bot.32: 803–824.",
+      "journal-title": "Ann. Bot."
+    },
+    {
+      "key": "BF02919080_CR24",
+      "first-page": "63",
+      "volume": "3",
+      "author": "J. Boucaud",
+      "year": "1962",
+      "unstructured": "Boucaud, J. 1962. Étude morphologique et écophysiologique de la germination de trois variétés deSuaeda maritima Dum. Bull. Soc. Linn. Norm.3: 63–74.",
+      "journal-title": "Bull. Soc. Linn. Norm."
+    },
+    {
+      "key": "BF02919080_CR25",
+      "volume-title": "Caractéristiques éco-physiologiques et aspects du métabolisme azoté de deux écotypes deSuaeda maritima (L.) Dum. en relation avec leur halophile. Thèse de Doctorat d’etat",
+      "author": "J. Boucaud",
+      "year": "1972",
+      "unstructured": "—. 1972. Caractéristiques éco-physiologiques et aspects du métabolisme azoté de deux écotypes deSuaeda maritima (L.) Dum. en relation avec leur halophile. Thèse de Doctorat d’etat. Université de Caen, Caen, France. 207 pp."
+    },
+    {
+      "key": "BF02919080_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1111/j.1399-3054.1973.tb04816.x",
+      "volume": "29",
+      "author": "J. Boucaud",
+      "year": "1973",
+      "unstructured": "— andI. A. Ungar. 1973. The role of hormones in controlling the mechanically induced dormancy ofSuaeda spp. Physiol. Plant.29: 97–102.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "DOI": "10.1111/j.1399-3054.1976.tb03948.x",
+      "volume": "37",
+      "author": "J. Boucaud",
+      "year": "1976",
+      "unstructured": "——. 1976. Hormonal control of germination under saline conditions of three halophytic taxa in the genusSuaeda. Physiol. Plant.37: 143–148.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR28",
+      "first-page": "1",
+      "volume": "9",
+      "author": "B. C. Buffum",
+      "year": "1899",
+      "unstructured": "Buffum, B. C. 1899. Alkali studies. III. Germinating experiments with alkali salts. Ann. Rept. Wyoming Agric. Expt.9: 1–40.",
+      "journal-title": "Ann. Rept. Wyoming Agric. Expt."
+    },
+    {
+      "key": "BF02919080_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.2307/2257717",
+      "volume": "55",
+      "author": "P. B. Cavers",
+      "year": "1967",
+      "unstructured": "Cavers, P. B. andJ. L. Harper. 1967. The comparative biology of closely related species living in the same area. IX.Rumex: the nature of adaptation to the seashore habitat. J. Ecol.55: 73–82.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "BF02919080_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.1086/394660",
+      "volume": "17",
+      "author": "V. J. Chapman",
+      "year": "1942",
+      "unstructured": "Chapman, V. J. 1942. The new perspectives in the halophytes. Quart. Rev. Biol.17: 291–311.",
+      "journal-title": "Quart. Rev. Biol."
+    },
+    {
+      "key": "BF02919080_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "293",
+      "DOI": "10.2307/2256518",
+      "volume": "35",
+      "author": "V. J. Chapman",
+      "year": "1947",
+      "unstructured": "—. 1947.Suaeda maritima (L.) Dum. J. Ecol.35: 293–302.",
+      "journal-title": "J. Ecol."
+    },
+    {
+      "key": "BF02919080_CR32",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/B978-0-12-586450-3.50006-8",
+      "volume-title": "Salt marshes and salt deserts of the world",
+      "author": "V. J. Chapman",
+      "year": "1974",
+      "unstructured": "—. 1974. Salt marshes and salt deserts of the world. Stechert-Macmillan, Pennsauken, New Jersey. 494 pp."
+    },
+    {
+      "key": "BF02919080_CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "448",
+      "DOI": "10.2134/agronj1969.00021962006100030035x",
+      "volume": "61",
+      "author": "N. J. Chatterton",
+      "year": "1969",
+      "unstructured": "Chatterton, N. J. andC. M. McKell. 1969.Atriplex polycarpa. I. Germination and growth as affected by sodium chloride in water cultures. Agron. J.61: 448–450.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "208",
+      "DOI": "10.1007/BF01880239",
+      "volume": "28",
+      "author": "I. I. Chaudhuri",
+      "year": "1968",
+      "unstructured": "Chaudhuri, I. I. andH. H. Wiebe. 1968. Influence of calcium pretreatment on wheat germination on saline media. Plant and Soil28: 208–216.",
+      "journal-title": "Plant and Soil"
+    },
+    {
+      "key": "BF02919080_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "465",
+      "DOI": "10.2307/1934113",
+      "volume": "49",
+      "author": "G. N. Choudhuri",
+      "year": "1968",
+      "unstructured": "Choudhuri, G. N. 1968. Effect of soil salinity on germination and survival of some steppe plants in Washington. Ecology49: 465–471.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR36",
+      "doi-asserted-by": "crossref",
+      "first-page": "286",
+      "DOI": "10.2307/3895935",
+      "volume": "22",
+      "author": "L. D. Clarke",
+      "year": "1969",
+      "unstructured": "Clarke, L. D. andN. E. West. 1969. Germination ofKochia americana in relation to salinity. J. Range Manag.22: 286–287.",
+      "journal-title": "J. Range Manag."
+    },
+    {
+      "key": "BF02919080_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "197",
+      "DOI": "10.1038/199197a0",
+      "volume": "199",
+      "author": "D. H. Dalby",
+      "year": "1963",
+      "unstructured": "Dalby, D. H. 1963. Seed dispersal inSalicornia pusilla. Nature199: 197–198.",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BF02919080_CR38",
+      "first-page": "130",
+      "volume": "1",
+      "author": "C. Darwin",
+      "year": "1857",
+      "unstructured": "Darwin, C. 1857. On the action of sea-water on the germination of seeds. J. Linn. S.1: 130–140.",
+      "journal-title": "J. Linn. S."
+    },
+    {
+      "key": "BF02919080_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "631",
+      "DOI": "10.2134/agronj1960.00021962005200110006x",
+      "volume": "52",
+      "author": "D. R. Dewey",
+      "year": "1960",
+      "unstructured": "Dewey, D. R. 1960. Salt tolerance of twenty-five strains ofAgropyron. Agron. J.52: 631–635.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "353",
+      "DOI": "10.2134/agronj1962.00021962005400040024x",
+      "volume": "54",
+      "author": "D. R. Dewey",
+      "year": "1962",
+      "unstructured": "—. 1962. Germination of crested wheatgrass in salinized soil. Agron. J.54: 353–355.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR41",
+      "doi-asserted-by": "crossref",
+      "first-page": "308",
+      "DOI": "10.2134/agronj1959.00021962005100050019x",
+      "volume": "51",
+      "author": "A. D. Dotsenko",
+      "year": "1959",
+      "unstructured": "Dotsenko, A. D. andJ. G. Dean. 1959. Germination of six alfalfa varieties at three levels of osmotic pressure. Agron. J.51: 308–309.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "1045",
+      "DOI": "10.1093/oxfordjournals.aob.a084895",
+      "volume": "38",
+      "author": "M. J. Durrant",
+      "year": "1974",
+      "unstructured": "Durrant, M. J., Draycott, A. P., andP. A. Payne. 1974. Some effects of sodium chloride on germination and seedling growth of sugar beet. Ann. Bot.38: 1045–1051.",
+      "journal-title": "Ann. Bot."
+    },
+    {
+      "key": "BF02919080_CR43",
+      "first-page": "299",
+      "volume": "133",
+      "author": "A. A. EI-Zahab",
+      "year": "1971",
+      "unstructured": "EI-Zahab, A. A. 1971. Salt tolerance of eight Egyptian cotton varieties. Z. Acker- und Pflanzenbau133: 299–307.",
+      "journal-title": "Z. Acker- und Pflanzenbau"
+    },
+    {
+      "key": "BF02919080_CR44",
+      "first-page": "1",
+      "volume": "46",
+      "author": "W. Feekes",
+      "year": "1936",
+      "unstructured": "Feekes, W. 1936. De ontwikkeling van de natuurlijke vegetatie in de wieringermeer-polder, de eerste groote droogmakerij van der Zuiderzee. Nederl. Kruidk. Arch.46: 1–296.",
+      "journal-title": "Nederl. Kruidk. Arch."
+    },
+    {
+      "key": "BF02919080_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "38",
+      "DOI": "10.2134/agronj1964.00021962005600010012x",
+      "volume": "56",
+      "author": "L. E. Francois",
+      "year": "1964",
+      "unstructured": "Francois, L. E. andL. Bernstein. 1964. Salt tolerance of safflower. Agron. J.56: 38–40.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "272",
+      "DOI": "10.2134/agronj1972.00021962006400030004x",
+      "volume": "64",
+      "author": "L. E. Francois",
+      "year": "1972",
+      "unstructured": "— andJ. R. Goodin. 1972. Interaction of temperature and salinity on sugar beet germination. Agron. J.64: 272–273.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "596",
+      "DOI": "10.1093/jxb/17.3.596",
+      "volume": "17",
+      "author": "B. Frankland",
+      "year": "1966",
+      "unstructured": "Frankland, B. andP. F. Wareing. 1966. Hormonal regulation of seed dormancy in hazel (Corylus avellana L.) and beech (Fagus sylvatica L.). J. Exp. Bot.17: 596–611.",
+      "journal-title": "J. Exp. Bot."
+    },
+    {
+      "key": "BF02919080_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.2307/3670414",
+      "volume": "18",
+      "author": "C.E. Freeman",
+      "year": "1973",
+      "unstructured": "Freeman, C.E. 1973a. Some germination responses of Lechguilla (Agave lecheguilla Torr.). Southwestern Natur.18: 125–134.",
+      "journal-title": "Southwestern Natur."
+    },
+    {
+      "key": "BF02919080_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "252",
+      "DOI": "10.2307/2424160",
+      "volume": "89",
+      "author": "C.E. Freeman",
+      "year": "1973",
+      "unstructured": "—. 1973b. Germination responses of a Texas population of Ocotillo (Pouqueria splendens Engelm.) to constant temperature, water stress, pH, and salinity. Amer. Midl. Natur.89: 252–256.",
+      "journal-title": "Amer. Midl. Natur."
+    },
+    {
+      "key": "BF02919080_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "256",
+      "DOI": "10.2134/agronj1972.00021962006400020038x",
+      "volume": "64",
+      "author": "S. R. Ghorashy",
+      "year": "1972",
+      "unstructured": "Ghorashy, S. R., N. Sionit, andM. Kheradnam. 1972. Salt tolerance of safflower varieties (Carthamus tinctorius L.) during germination. Agron. J.64: 256–257.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR51",
+      "doi-asserted-by": "crossref",
+      "first-page": "360",
+      "DOI": "10.1111/j.1469-8137.1965.tb07545.x",
+      "volume": "64",
+      "author": "G. F. Gifford",
+      "year": "1965",
+      "unstructured": "Gifford, G. F. andE. D. Nelson. 1965. Uptake of22Na by intact seeds. New Phytol.64: 360–365.",
+      "journal-title": "New Phytol."
+    },
+    {
+      "key": "BF02919080_CR52",
+      "volume-title": "U.A. thesis",
+      "author": "H. Gold",
+      "year": "1939",
+      "unstructured": "Gold, H. 1939. A preliminary study of salt effects in the germinationof Alienrolfea occidentalis. U.A. thesis, Univ. of Utah, Salt Lake City. 60 pp."
+    },
+    {
+      "key": "BF02919080_CR53",
+      "first-page": "367",
+      "volume": "8",
+      "author": "M. Grouzis",
+      "year": "1973",
+      "unstructured": "Grouzis, M. 1973. Exigences écologiques comparées d’une salicorne vivace et d’une salicorne annuelle: germination et croissance des stades jeunes. Oecol. Plant.8: 367–375.",
+      "journal-title": "Oecol. Plant."
+    },
+    {
+      "key": "BF02919080_CR54",
+      "unstructured": "Haas, A. R. C. 1950. Effect of sodium chloride on Mexican, Guatemalan, and West Indian avocado seedlings. Calif. Avocado Soc. Yearbook 153–160."
+    },
+    {
+      "key": "BF02919080_CR55",
+      "first-page": "1",
+      "volume": "5",
+      "author": "F. S. Harris",
+      "year": "1915",
+      "unstructured": "Harris, F. S. 1915. The effect of alkali salts in soils on the germination and growth of crops. J. Agric. Res.5: 1–53.",
+      "journal-title": "J. Agric. Res."
+    },
+    {
+      "key": "BF02919080_CR56",
+      "doi-asserted-by": "crossref",
+      "first-page": "241",
+      "DOI": "10.1071/BT9720241",
+      "volume": "20",
+      "author": "R. L. Harty",
+      "year": "1972",
+      "unstructured": "Harty, R. L. andT. J. McDonald. 1972. Germination behavior in beach spinifex (Spinifex hirsutus Labill.). Aust. J. Bot.20: 241–251.",
+      "journal-title": "Aust. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR57",
+      "doi-asserted-by": "crossref",
+      "first-page": "584",
+      "DOI": "10.1007/BF02872595",
+      "volume": "24",
+      "author": "H. E. Hayward",
+      "year": "1958",
+      "unstructured": "Hayward, H. E. andL. Bernstein. 1958. Plant-growth relationships on salt-affected soils. Botan. Rev.24: 584–635.",
+      "journal-title": "Botan. Rev."
+    },
+    {
+      "key": "BF02919080_CR58",
+      "first-page": "79",
+      "volume-title": "“Physiologie, Okologie und Biochemie der Keimung” by H. Borriss",
+      "author": "P. Henckel",
+      "year": "1967",
+      "unstructured": "Henckel, P. 1967. Über die Determination neuer physiologischer Eigenschaften bei keimenden Samen. In “Physiologie, Okologie und Biochemie der Keimung” by H. Borriss. pp. 79–92. Ernst-Moritz-Arndt-Universität, Greifswald, East Germany."
+    },
+    {
+      "key": "BF02919080_CR59",
+      "doi-asserted-by": "crossref",
+      "first-page": "42",
+      "DOI": "10.1038/246042a0",
+      "volume": "246",
+      "author": "W. Heydecker",
+      "year": "1973",
+      "unstructured": "Heydecker, W., J. Higgins, andR. L. Gulliver. 1973. Accelerated germination by osmotic treatment. Nature246: 42–44.",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BF02919080_CR60",
+      "first-page": "17",
+      "volume": "4",
+      "author": "W. Heydecker",
+      "year": "1974",
+      "unstructured": "———. 1974. Instant germination—a method of brinkmanship. Commercial Grower4: 17–18.",
+      "journal-title": "Commercial Grower"
+    },
+    {
+      "key": "BF02919080_CR61",
+      "first-page": "86",
+      "volume": "15",
+      "author": "W. H. Hilton",
+      "year": "1941",
+      "unstructured": "Hilton, W. H. 1941. Effects of certain microecological factors on the germinability and early development ofEurotia lanata. Northw. Sci.15: 86–92.",
+      "journal-title": "Northw. Sci."
+    },
+    {
+      "key": "BF02919080_CR62",
+      "volume-title": "M.S. thesis",
+      "author": "W. C. Hogan",
+      "year": "1968",
+      "unstructured": "Hogan, W. C. 1968. The effect of salinity on the germination of two inland halophytes. M.S. thesis, Dept. of Botany, Ohio University, Athens, Ohio. 38 pp."
+    },
+    {
+      "key": "BF02919080_CR63",
+      "doi-asserted-by": "crossref",
+      "first-page": "390",
+      "DOI": "10.2307/3896554",
+      "volume": "25",
+      "author": "S. Z. Hyder",
+      "year": "1972",
+      "unstructured": "Hyder, S. Z. andS. Yasmun. 1972. Salt tolerance and cation interaction in alkali sacaton at germination. J. Range Manag.25: 390–392.",
+      "journal-title": "J. Range Manag."
+    },
+    {
+      "key": "BF02919080_CR64",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.1104/pp.47.1.87",
+      "volume": "47",
+      "author": "C. Itai",
+      "year": "1971",
+      "unstructured": "Itai, C. andY. Vaadia. 1971. Cytokinin activity in water-stressed shoots. Plant Physiol.47: 87–90.",
+      "journal-title": "Plant Physiol."
+    },
+    {
+      "key": "BF02919080_CR65",
+      "doi-asserted-by": "crossref",
+      "first-page": "425",
+      "DOI": "10.1111/j.1399-3054.1970.tb06432.x",
+      "volume": "23",
+      "author": "O. Juntilla",
+      "year": "1970",
+      "unstructured": "Juntilla, O. 1970. Effect of gibberellic acid and germination temperatures on the germination ofBetula nana. Physiol. Plant.23: 425–433.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "645",
+      "DOI": "10.1126/science.125.3249.645",
+      "volume": "125",
+      "author": "A. Kahn",
+      "year": "1957",
+      "unstructured": "Kahn, A., J. A. Goss, andD. E. Smith. 1957. Effect of gibberellins on germination of lettuce seeds. Science125: 645–646.",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BF02919080_CR67",
+      "first-page": "155",
+      "volume": "38",
+      "author": "M. Kassas",
+      "year": "1965",
+      "unstructured": "Kassas, M. andM. A. Zahran. 1965. Studies on the ecology of the Red Sea coastal land. II. The district from El Galala, El Obeiya to Hurghada. Bull. Soc. Geogr.38: 155–193.",
+      "journal-title": "Bull. Soc. Geogr."
+    },
+    {
+      "key": "BF02919080_CR68",
+      "doi-asserted-by": "crossref",
+      "first-page": "1761",
+      "DOI": "10.1139/b69-253",
+      "volume": "47",
+      "author": "M. R. Kaufmann",
+      "year": "1969",
+      "unstructured": "Kaufmann, M. R. 1969. Effects of water potential on germination of lettuce, sunflower, and citrus seeds. Can. J. Bot.47: 1761–1764.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR69",
+      "doi-asserted-by": "crossref",
+      "first-page": "413",
+      "DOI": "10.1002/j.1537-2197.1970.tb09831.x",
+      "volume": "47",
+      "author": "M. R. Kaufmann",
+      "year": "1970",
+      "unstructured": "— andK. J. Ross. 1970. Water potential temperature, and kinetin effects on seed germination in soil and solute systems. Amer. J. Bot.47: 413–419.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR70",
+      "volume-title": "Ph.D. dissertation",
+      "author": "D. K. Kaushik",
+      "year": "1963",
+      "unstructured": "Kaushik, D. K. 1963. The influence of salinity on the growth and reproduction of marsh plants. Ph.D. dissertation, Utah State Univ., Logan. 122 pp."
+    },
+    {
+      "key": "BF02919080_CR71",
+      "first-page": "202",
+      "volume": "23",
+      "author": "A. Keren",
+      "year": "1974",
+      "unstructured": "Keren, A. andM. Evanari. 1974. Some ecological aspects of distribution and germination ofPancratium maritimum L. Israel J. Bot.23: 202–215.",
+      "journal-title": "Israel J. Bot."
+    },
+    {
+      "key": "BF02919080_CR72",
+      "doi-asserted-by": "crossref",
+      "first-page": "853",
+      "DOI": "10.1126/science.171.3974.853",
+      "volume": "171",
+      "author": "A. A. Khan",
+      "year": "1971",
+      "unstructured": "Khan, A. A. 1971. Cytokinins: permissive role in seed germination. Science171: 853–859.",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BF02919080_CR73",
+      "doi-asserted-by": "crossref",
+      "first-page": "8",
+      "DOI": "10.1175/1520-0477(1972)053<0008:ACOWSP>2.0.CO;2",
+      "volume": "53",
+      "author": "Y. T. Kiang",
+      "year": "1972",
+      "unstructured": "Kiang, Y. T. 1972. Effects of de-icing salt on populations of roadside grass species. Bull. Ecol. Soc. Amer.53: 8.",
+      "journal-title": "Bull. Ecol. Soc. Amer."
+    },
+    {
+      "key": "BF02919080_CR74",
+      "doi-asserted-by": "crossref",
+      "first-page": "1377",
+      "DOI": "10.1139/b76-150",
+      "volume": "54",
+      "author": "R. W. Kingsbury",
+      "year": "1976",
+      "unstructured": "Kingsbury, R. W., A. Radlow, P. J. Mudie, J. Rutherford, andR. Radlow. 1976. Salt stress responses inLasthenia glabrata, a winter annual composite endemic to saline soils. Can. J. Bot.54: 1377–1385.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR75",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1086/336569",
+      "volume": "132",
+      "author": "O. D. Knipe",
+      "year": "1971",
+      "unstructured": "Knipe, O. D. 1971. Effect of different osmotica on germination of alkali sacaton (Sporobolus airoides Torr.) at various moisture stresses. Bot. Gaz.132: 109–112.",
+      "journal-title": "Bot. Gaz."
+    },
+    {
+      "key": "BF02919080_CR76",
+      "first-page": "5",
+      "volume": "22",
+      "author": "A. Knoerr",
+      "year": "1959",
+      "unstructured": "Knoerr, A. 1959. Quelques essais de germination d’halophytes. Bull. Soc. Linn. Provence22: 5–17.",
+      "journal-title": "Bull. Soc. Linn. Provence"
+    },
+    {
+      "key": "BF02919080_CR77",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.2307/1932120",
+      "volume": "38",
+      "author": "D. Koller",
+      "year": "1957",
+      "unstructured": "Koller, D. 1957. Germination-regulating mechanisms in some desert seeds. IV.Atriplex dimorphostegia Kar. et Kir. Ecology38: 1–13.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR78",
+      "first-page": "160",
+      "volume": "2",
+      "author": "J. Langlois",
+      "year": "1961",
+      "unstructured": "Langlois, J. 1961. Aspects morphologiques et ecophysiologiques de la germination de trois variétés deSalicornia herbacea L. Bull. Soc. Linn. Norm.2: 160–174.",
+      "journal-title": "Bull. Soc. Linn. Norm."
+    },
+    {
+      "key": "BF02919080_CR79",
+      "first-page": "25",
+      "volume": "73",
+      "author": "J. Langlois",
+      "year": "1966",
+      "unstructured": "—. 1966. Étude comparée de l’aptitude a germer des graines deSalicornia stricta Dumort,Salicornia disarticulata Moss, andSalicornia radicans Moss. Rev. Gén. Botanique73: 25–39.",
+      "journal-title": "Rev. Gén. Botanique"
+    },
+    {
+      "key": "BF02919080_CR80",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1111/j.1399-3054.1959.tb07927.x",
+      "volume": "12",
+      "author": "H. R. Lerner",
+      "year": "1959",
+      "unstructured": "Lerner, H. R., A. M. Mayer andM. Evenari. 1959. The nature of the germination inhibitors present in dispersal units ofZygophyllum dumosum andTrigonella arabica. Physiol. Plant.12: 245–250.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR81",
+      "doi-asserted-by": "crossref",
+      "first-page": "730",
+      "DOI": "10.2307/1936271",
+      "volume": "50",
+      "author": "G. L. Lesko",
+      "year": "1969",
+      "unstructured": "Lesko, G. L. andR. B. Walker. 1969. Effect of seawater on seed germination in two Pacific atoll beach species. Ecology50: 730–734.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR82",
+      "volume-title": "Responses of plants to environmental stress",
+      "author": "J. Levitt",
+      "year": "1972",
+      "unstructured": "Levitt, J. 1972. Responses of plants to environmental stress. Academic Press, New York. 732 pp."
+    },
+    {
+      "key": "BF02919080_CR83",
+      "first-page": "1",
+      "volume": "2376",
+      "author": "D. E. Longenecker",
+      "year": "1965",
+      "unstructured": "Longenecker, D. E., E. L. Thaxton, Jr., andP. J. Lyerly. 1965. Salt tolerance of seed of six upland cotton varieties during germination as affected by salinity conditions during seed production. Texas Agric. Expt. Sta. Prog. Rept.2376: 1–6.",
+      "journal-title": "Texas Agric. Expt. Sta. Prog. Rept."
+    },
+    {
+      "key": "BF02919080_CR84",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1007/978-94-017-6016-4_2",
+      "volume-title": "Saline irrigation for agriculture and forestry",
+      "author": "G. Lopez",
+      "year": "1968",
+      "unstructured": "Lopez, G. 1968. Germination capacity of seeds in saline soil.In Saline irrigation for agriculture and forestry. Dr. W. Junk Publishers, The Hague (H. Boyko) 11–23."
+    },
+    {
+      "key": "BF02919080_CR85",
+      "first-page": "287",
+      "volume": "5",
+      "author": "W. Lotschert",
+      "year": "1970",
+      "unstructured": "Lotschert, W. 1970. Keimung, Transpiration, Wasser- und Ioneaufnahme bei Glycophyten und Halophyten. Oecol. Plant.5: 287–300.",
+      "journal-title": "Oecol. Plant."
+    },
+    {
+      "key": "BF02919080_CR86",
+      "first-page": "41",
+      "volume": "82",
+      "author": "J. B. MacKay",
+      "year": "1954",
+      "unstructured": "MacKay, J. B. andV. J. Chapman. 1954. Some notes onSuaeda australis Moq. var.nova zelandica var. nov. andMesembryanthemum australe Sol. ex Forst F. Trans. Roy. Soc. New Zealand82: 41–47.",
+      "journal-title": "Trans. Roy. Soc. New Zealand"
+    },
+    {
+      "key": "BF02919080_CR87",
+      "doi-asserted-by": "crossref",
+      "first-page": "515",
+      "DOI": "10.1139/b71-081",
+      "volume": "49",
+      "author": "A. Macke",
+      "year": "1971",
+      "unstructured": "Macke, A. andI. A. Ungar. 1971. The effect of salinity on seed germination and early growth ofPuccinellia nuttalliana. Can. J. Bot.49: 515–520.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR88",
+      "doi-asserted-by": "crossref",
+      "first-page": "181",
+      "DOI": "10.1007/BF02872514",
+      "volume": "11",
+      "author": "O. C. Magistad",
+      "year": "1945",
+      "unstructured": "Magistad, O. C. 1945. Plant growth relations on saline and alkali soils. Botan. Rev.11: 181–230.",
+      "journal-title": "Botan. Rev."
+    },
+    {
+      "key": "BF02919080_CR89",
+      "first-page": "72",
+      "volume": "47",
+      "author": "C. V. Malcolm",
+      "year": "1964",
+      "unstructured": "Malcolm, C. V. 1964. Effects of salt, temperature, and seed scarification on germination of two varieties ofArthrocnemum halocnemoides. J. Roy. Soc. West. Aust.47: 72–74.",
+      "journal-title": "J. Roy. Soc. West. Aust."
+    },
+    {
+      "key": "BF02919080_CR90",
+      "first-page": "9",
+      "volume": "3",
+      "author": "R. Malcoste",
+      "year": "1962",
+      "unstructured": "Malcoste, R. 1962. Germination des semences d’Obioneportulacoides Moq. Bull. Soc. Linn. Norm.3: 9–24.",
+      "journal-title": "Bull. Soc. Linn. Norm."
+    },
+    {
+      "key": "BF02919080_CR91",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1007/BF00384644",
+      "volume": "71",
+      "author": "M. S. Manohar",
+      "year": "1966",
+      "unstructured": "Manohar, M. S. 1966. Effect of osmotic systems on germination of peas (Pisum sativum L.). Planta71: 81–88.",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "BF02919080_CR92",
+      "volume-title": "The germination of seeds",
+      "author": "A. M. Mayer",
+      "year": "1963",
+      "unstructured": "Mayer, A. M. andA. Poljakoff-Mayber. 1963. The germination of seeds. MacMillan Co., New York. 263 pp."
+    },
+    {
+      "key": "BF02919080_CR93",
+      "volume-title": "M.S. Thesis",
+      "author": "K. McMahon",
+      "year": "1975",
+      "unstructured": "McMahon, K. 1975. Population dynamics of the halophyteAtriplex triangularis Willd. M.S. Thesis, Ohio Univ., Athens, Ohio."
+    },
+    {
+      "key": "BF02919080_CR94",
+      "unstructured": "-and I. A. Ungar. 1977. Phenology, distribution and survival ofAtriplex triangularis Willd. in an Ohio salt pan. Amer. Midl. Nat. (in press)."
+    },
+    {
+      "key": "BF02919080_CR95",
+      "doi-asserted-by": "crossref",
+      "first-page": "521",
+      "DOI": "10.1002/j.1537-2197.1959.tb07044.x",
+      "volume": "46",
+      "author": "C. McMillan",
+      "year": "1959",
+      "unstructured": "McMillan, C. 1959. Salt tolerance within aTypha population. Amer. J. Bot.46: 521–526.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR96",
+      "doi-asserted-by": "crossref",
+      "first-page": "423",
+      "DOI": "10.1071/BI9710423",
+      "volume": "24",
+      "author": "J. R. McWilliam",
+      "year": "1971",
+      "unstructured": "McWilliam, J. R. andP. J. Phillips. 1971. Effect of osmotic and matric potentials on the availability of water for seed germination. Aust. J. Biol. Sci.24: 423–431.",
+      "journal-title": "Aust. J. Biol. Sci."
+    },
+    {
+      "key": "BF02919080_CR97",
+      "first-page": "169",
+      "volume": "6",
+      "author": "B. V. Mehta",
+      "year": "1958",
+      "unstructured": "Mehta, B. V. andR. S. Desai. 1958. Effect of soil salinity on germination of some weeds. J. Soil Water Conserv. India6: 169–176.",
+      "journal-title": "J. Soil Water Conserv. India"
+    },
+    {
+      "key": "BF02919080_CR98",
+      "first-page": "198",
+      "volume": "28",
+      "author": "A. J. Millington",
+      "year": "1951",
+      "unstructured": "Millington, A. J., G. H. Burvill, andB. Marsh. 1951. Soil salinity investigations. Salt tolerance, germination and growth tests under controlled salinity conditions. J. Agric. West. Australia28: 198–210.",
+      "journal-title": "J. Agric. West. Australia"
+    },
+    {
+      "key": "BF02919080_CR99",
+      "doi-asserted-by": "crossref",
+      "first-page": "752",
+      "DOI": "10.1104/pp.48.6.752",
+      "volume": "48",
+      "author": "Y. Mizrahi",
+      "year": "1971",
+      "unstructured": "Mizrahi, Y., A. Blumenfeld, S. Bittner, andA. E. Richmond. 1971. Abscisic acid and cytokinin contents of leaves in relation to salinity and relative humidity. Plant Physiol.48: 752–755.",
+      "journal-title": "Plant Physiol."
+    },
+    {
+      "key": "BF02919080_CR100",
+      "first-page": "434",
+      "volume": "121",
+      "author": "C. Montfort",
+      "year": "1927",
+      "unstructured": "Montfort, C. 1927. Über Halobiose und ihre Aufstungen. Flora121: 434–502.",
+      "journal-title": "Flora"
+    },
+    {
+      "key": "BF02919080_CR101",
+      "first-page": "902",
+      "volume": "66",
+      "author": "C. Montfort",
+      "year": "1926",
+      "unstructured": "— andW. Brandrup. 1926. Physiologische unde Pflanzengeographische Seesalzwirkungen. II. Ökologische Studien über Keimung und erste Entwicklung bei Halophyten. Jahr. Wiss. Botan.66: 902–946.",
+      "journal-title": "Jahr. Wiss. Botan."
+    },
+    {
+      "key": "BF02919080_CR102",
+      "doi-asserted-by": "crossref",
+      "first-page": "48",
+      "DOI": "10.1002/j.1537-2197.1971.tb09944.x",
+      "volume": "58",
+      "author": "M. T. Mooring",
+      "year": "1971",
+      "unstructured": "Mooring, M. T., A. W. Cooper, andE. D. Seneca. 1971. Seed germination response and evidence for height ecophenes inSpartina alterniflora from North Carolina. Amer. J. Bot.58: 48–55.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR103",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.2134/agronj1969.00021962006100030001x",
+      "volume": "61",
+      "author": "R. P. Narale",
+      "year": "1969",
+      "unstructured": "Narale, R. P., T. K. Subramanyam, andR. K. Mukherjee. 1969. Influence of salinity on germination, vegetative growth and grain yield of rice. Agron. J.61: 341–344.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR104",
+      "doi-asserted-by": "crossref",
+      "first-page": "167",
+      "DOI": "10.21273/JASHS.94.2.167",
+      "volume": "94",
+      "author": "O. A. Odegbaro",
+      "year": "1969",
+      "unstructured": "Odegbaro, O. A. andO. E. Smith. 1969. Effects of kinetin, salt concentration, and temperature on germination and early seedling growth ofLactuca sativa L. J. Am. Soc. Hort. Sci.94: 167–170.",
+      "journal-title": "J. Am. Soc. Hort. Sci."
+    },
+    {
+      "key": "BF02919080_CR105",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1111/j.1399-3054.1977.tb04881.x",
+      "volume": "41",
+      "author": "O. T. Okusanya",
+      "year": "1977",
+      "unstructured": "Okusanya, O. T. 1977. The effect of sea water and temperature on the germination behavior ofCrithmum maritimum. Physiol. Plant.41: 265–267.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR106",
+      "doi-asserted-by": "crossref",
+      "first-page": "101",
+      "DOI": "10.1080/11263507209426542",
+      "volume": "106",
+      "author": "A. Onnis",
+      "year": "1972",
+      "unstructured": "Onnis, A. andR. Bellattato. 1972. Dormienza e alotolleranza in due specie spontanee diHordeum (H. murinum eH. marinum Huds.) G. Bot. Ital.106: 101–113.",
+      "journal-title": "Bot. Ital."
+    },
+    {
+      "key": "BF02919080_CR107",
+      "doi-asserted-by": "crossref",
+      "first-page": "131",
+      "DOI": "10.1080/11263507109429318",
+      "volume": "105",
+      "author": "A. Onnis",
+      "year": "1971",
+      "unstructured": "— andM. Mazzanti. 1971. Effects of temperature and seawater on germination behavior ofAlthenia liliformis. G. Bot. Ital.105: 131–143.",
+      "journal-title": "G. Bot. Ital."
+    },
+    {
+      "key": "BF02919080_CR108",
+      "doi-asserted-by": "crossref",
+      "first-page": "188",
+      "DOI": "10.1093/jxb/3.2.188",
+      "volume": "3",
+      "author": "P. C. Owen",
+      "year": "1952",
+      "unstructured": "Owen, P. C. 1952. The relation of germination to wheat water potential. J. Exp. Bot.3: 188–203.",
+      "journal-title": "J. Exp. Bot."
+    },
+    {
+      "key": "BF02919080_CR109",
+      "first-page": "359",
+      "volume": "9",
+      "author": "G. Palfi",
+      "year": "1960",
+      "unstructured": "Palfi, G. 1960. Seed germination of crop plants in saline media. Novenytermeles9: 359–368.",
+      "journal-title": "Novenytermeles"
+    },
+    {
+      "key": "BF02919080_CR110",
+      "doi-asserted-by": "crossref",
+      "first-page": "151",
+      "DOI": "10.1097/00010694-196609000-00003",
+      "volume": "102",
+      "author": "G. A. Pearson",
+      "year": "1966",
+      "unstructured": "Pearson, G. A., A. D. Ayers, andD. L. Eberhard. 1966. Relative salt tolerance of rice during germination and early seedling development. Soil Sci.102: 151–166.",
+      "journal-title": "Soil Sci."
+    },
+    {
+      "key": "BF02919080_CR111",
+      "first-page": "81",
+      "volume": "8",
+      "author": "G. Poma",
+      "year": "1922",
+      "unstructured": "Poma, G. 1922. L’influence de la salinité de l’eau sur la germination et la croissance des plantes halophytes. Bull. Acad. Roy. Belg. Sci.8: 81–99.",
+      "journal-title": "Bull. Acad. Roy. Belg. Sci."
+    },
+    {
+      "key": "BF02919080_CR112",
+      "doi-asserted-by": "crossref",
+      "first-page": "803",
+      "DOI": "10.1139/b74-104",
+      "volume": "52",
+      "author": "R. E. Redmann",
+      "year": "1974",
+      "unstructured": "Redmann, R. E. 1974. Osmotic and specific ion effects on the germination of alfalfa. Can. J. Bot.52: 803–808.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR113",
+      "volume-title": "Ecology of halophytes",
+      "author": "R. J. Reimold",
+      "year": "1974",
+      "unstructured": "Reimold, R. J. andW. H. Queen. 1974. Ecology of halophytes. Academic Press, New York. 605 pp."
+    },
+    {
+      "key": "BF02919080_CR114",
+      "doi-asserted-by": "crossref",
+      "first-page": "516",
+      "DOI": "10.1111/j.1399-3054.1973.tb08599.x",
+      "volume": "28",
+      "author": "T. Reynolds",
+      "year": "1973",
+      "unstructured": "Reynolds, T. andP. A. Thompson. 1973. Effects of kinetin, gibberellins, and abscisic acid on the germination of lettuce (Lactuca sativa). Physiol. Plant.28: 516–522.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR115",
+      "first-page": "459",
+      "volume-title": "Physiologie Öcologie und Biochemie der Keimung",
+      "author": "R. Richter",
+      "year": "1967",
+      "unstructured": "Richter, R. andE. Libbert. 1967. Untersuchungen zum keimungsphysiologischen Verhalten eininger Ostseehalophyten.In H. Borriss (ed.) Physiologie Öcologie und Biochemie der Keimung. Ernst Moritz-Arndt Univ. Greifswald, East Germany. p. 459–467."
+    },
+    {
+      "key": "BF02919080_CR116",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1111/j.1399-3054.1971.tb06719.x",
+      "volume": "24",
+      "author": "W. G. Rivers",
+      "year": "1971",
+      "unstructured": "Rivers, W. G. andD. J. Weber. 1971. The influence of salinity and temperature on seed germination inSalicornia bigelovii. Physiol. Plant.24: 73–75.",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "key": "BF02919080_CR117",
+      "first-page": "341",
+      "volume": "10",
+      "author": "J. Rozema",
+      "year": "1975",
+      "unstructured": "Rozema, J. 1975. The influence of salinity, inundation and temperature on the germination of some halophytes and non-halophytes. Oecol. Plant.10: 341–353.",
+      "journal-title": "Oecol. Plant."
+    },
+    {
+      "key": "BF02919080_CR118",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1097/00010694-192507000-00002",
+      "volume": "29",
+      "author": "W. Rudolfs",
+      "year": "1925",
+      "unstructured": "Rudolfs, W. 1925. Influence of water and salt solution upon absorption and germination of seeds. Soil Sci.29: 15–37.",
+      "journal-title": "Soil Sci."
+    },
+    {
+      "key": "BF02919080_CR119",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.2307/3897581",
+      "volume": "28",
+      "author": "J. Ryan",
+      "year": "1975",
+      "unstructured": "Ryan, J., S. Miyamoto, andJ. L. Stroehlen. 1975. Salt and specific ion effects on the germination of four grasses. J. Range Manag.28: 61–64.",
+      "journal-title": "J. Range Manag."
+    },
+    {
+      "key": "BF02919080_CR120",
+      "doi-asserted-by": "crossref",
+      "first-page": "524",
+      "DOI": "10.2307/1934245",
+      "volume": "53",
+      "author": "G. R. Saini",
+      "year": "1972",
+      "unstructured": "Saini, G. R. 1972. Seed germination and salt tolerance of crops in coastal alluvial soils of New Brunswick, Canada. Ecology53: 524–525.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR121",
+      "first-page": "287",
+      "volume": "31",
+      "author": "M. N. Sarin",
+      "year": "1961",
+      "unstructured": "Sarin, M. N. 1961. Physiological studies on salt tolerance in crop plants. XIII. Influence of IAA on the deleterious effect of sodium sulphate on root growth in wheat. Proc. Natl. Acad. Sci. India31: 287–295.",
+      "journal-title": "Proc. Natl. Acad. Sci. India"
+    },
+    {
+      "key": "BF02919080_CR122",
+      "first-page": "187",
+      "volume": "11",
+      "author": "M. N. Sarin",
+      "year": "1962",
+      "unstructured": "—. 1962. Physiological studies on salt tolerance of crop plants. V. Use of IAA to overcome depressing effect of sodium sulphate on growth and maturity of wheat. Agra Univ. J. Res. Sci.11: 187–196.",
+      "journal-title": "Agra Univ. J. Res. Sci."
+    },
+    {
+      "key": "BF02919080_CR123",
+      "doi-asserted-by": "crossref",
+      "first-page": "1201",
+      "DOI": "10.1111/j.1399-3054.1968.tb07350.x",
+      "volume": "21",
+      "author": "M. N. Sarin",
+      "year": "1968",
+      "unstructured": "— andA. Narayanin. 1968. Effects of soil salinity and growth regulators on germination and seedling metabolism of wheat. Physiol. Plant.21: 1201–1209.",
+      "journal-title": "Physiol. Plant"
+    },
+    {
+      "key": "BF02919080_CR124",
+      "first-page": "112",
+      "volume": "80",
+      "author": "E. Schratz",
+      "year": "1934",
+      "unstructured": "Schratz, E. 1934. Beiträge zur Biologie der Halophyten. I. Zur Keimungsphysiologie. Jahrb. Wiss. Botan.80: 112–142.",
+      "journal-title": "Jahrb. Wiss. Botan."
+    },
+    {
+      "key": "BF02919080_CR125",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.2307/1934661",
+      "volume": "50",
+      "author": "E. D. Seneca",
+      "year": "1969",
+      "unstructured": "Seneca, E. D. 1969. Germination response to temperature and salinity of four dune grasses from the outer banks of North Carolina. Ecology50: 45–53.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR126",
+      "doi-asserted-by": "crossref",
+      "first-page": "947",
+      "DOI": "10.1002/j.1537-2197.1974.tb14034.x",
+      "volume": "61",
+      "author": "E. D. Seneca",
+      "year": "1972",
+      "unstructured": "—. 1972. Germination and seedling responses of Atlantic and Gulf coasts populations ofSpartina alterniflora. Amer. J. Bot.61: 947–956.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR127",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1007/BF00014795",
+      "volume": "39",
+      "author": "J. Shalhevet",
+      "year": "1973",
+      "unstructured": "Shalhevet, J. andB. Yaron. 1973. Effect of soil and water salinity on tomato growth. Plant and Soil39: 285–292.",
+      "journal-title": "Plant and Soil"
+    },
+    {
+      "key": "BF02919080_CR128",
+      "first-page": "455",
+      "volume": "37",
+      "author": "J. W. Shive",
+      "year": "1916",
+      "unstructured": "Shive, J. W. 1916. The effect of salt concentrations on the germination of seeds. N. Jersey Agric. Exper. Sta. Ann. Rept.37: 455–457.",
+      "journal-title": "N. Jersey Agric. Exper. Sta. Ann. Rept."
+    },
+    {
+      "key": "BF02919080_CR129",
+      "doi-asserted-by": "crossref",
+      "first-page": "272",
+      "DOI": "10.1111/j.1399-3054.1973.tb03105.x",
+      "volume": "29",
+      "author": "N. Sionit",
+      "year": "1973",
+      "unstructured": "Sionit, N., M. Kheradnam, andS. R. Ghorashy. 1973. Effect of different osmotic potentials of media on germination of three safflower varieties. Physiol. Plant.29: 272–273.",
+      "journal-title": "Physiol. Plant"
+    },
+    {
+      "key": "BF02919080_CR130",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.2134/agronj1966.00021962005800020007x",
+      "volume": "58",
+      "author": "H. W. Springfield",
+      "year": "1966",
+      "unstructured": "Springfield, H. W. 1966. Germination of fourwing saltbush seeds at different levels of moisture stress. Agron. J.58: 149–150.",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BF02919080_CR131",
+      "unstructured": "-. 1970. Germination and establishment of fourwing saltbush in the southwest. U.S.D.A. Forest Serv. Res. Paper RM55: 1–48."
+    },
+    {
+      "key": "BF02919080_CR132",
+      "first-page": "26",
+      "volume": "9",
+      "author": "J. Stewart",
+      "year": "1898",
+      "unstructured": "Stewart, J. 1898. Effect of alkali on seed germination. Ann. Rept. Utah Agr. Col. Expt. St.9: 26–35.",
+      "journal-title": "Ann. Rept. Utah Agr. Col. Expt. St."
+    },
+    {
+      "key": "BF02919080_CR133",
+      "volume-title": "Physiological basis of salt tolerance of plants",
+      "author": "B. P. Strogonov",
+      "year": "1964",
+      "unstructured": "Strogonov, B. P. 1964. Physiological basis of salt tolerance of plants. Israel Prog. Sci. Translation, Jerusalem. 279 pp."
+    },
+    {
+      "key": "BF02919080_CR134",
+      "volume-title": "Structure and function of plant cells in saline habitats",
+      "author": "B. P. Strogonov",
+      "year": "1974",
+      "unstructured": "—. 1974. Structure and function of plant cells in saline habitats. John Wiley and Sons, New York. 284 pp."
+    },
+    {
+      "key": "BF02919080_CR135",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1002/j.1537-2197.1946.tb10376.x",
+      "volume": "33",
+      "author": "R. Uhvits",
+      "year": "1946",
+      "unstructured": "Uhvits, R. 1946. Effect of osmotic pressure in water absorption and germination of alfalfa seeds. Amer. J. Bot.33: 278–285.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR136",
+      "doi-asserted-by": "crossref",
+      "first-page": "763",
+      "DOI": "10.2307/1933476",
+      "volume": "43",
+      "author": "I. A. Ungar",
+      "year": "1962",
+      "unstructured": "Ungar, I. A. 1962. Influence of salinity on seed germination in succulent halophytes. Ecology43: 763–764.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR137",
+      "first-page": "1",
+      "volume": "46",
+      "author": "I. A. Ungar",
+      "year": "1965",
+      "unstructured": "—. 1965. An ecological study of the vegetation of the Big Salt Marsh, Stafford County, Kansas. Univ. Kansas Sci. Bull.46: 1–98.",
+      "journal-title": "Univ. Kansas Sci. Bull."
+    },
+    {
+      "key": "BF02919080_CR138",
+      "first-page": "120",
+      "volume": "67",
+      "author": "I. A. Ungar",
+      "year": "1967",
+      "unstructured": "—. 1967a. Influence of salinity and temperature on seed germination. Ohio J. Sci.67: 120–123.",
+      "journal-title": "Ohio J. Sci."
+    },
+    {
+      "key": "BF02919080_CR139",
+      "doi-asserted-by": "crossref",
+      "first-page": "98",
+      "DOI": "10.2307/2423373",
+      "volume": "78",
+      "author": "I. A. Ungar",
+      "year": "1967",
+      "unstructured": "—. 1967b. Vegetation-soil relationships on saline soils in northern Kansas. Amer. Midland Natur.78: 98–120.",
+      "journal-title": "Amer. Midland Natur."
+    },
+    {
+      "key": "BF02919080_CR140",
+      "doi-asserted-by": "crossref",
+      "first-page": "392",
+      "DOI": "10.2307/2423533",
+      "volume": "80",
+      "author": "I. A. Ungar",
+      "year": "1968",
+      "unstructured": "—. 1968. Species-soil relationships on the Great Salt Plains of northern Oklahoma. Amer. Midland Natur.80: 392–406.",
+      "journal-title": "Amer. Midland Natur."
+    },
+    {
+      "key": "BF02919080_CR141",
+      "first-page": "548",
+      "volume": "73",
+      "author": "I. A. Ungar",
+      "year": "1971",
+      "unstructured": "—. 1971.Atriplex patula var.hastata (L.) Gray seed dimorphism. Rhodora73: 548–551.",
+      "journal-title": "Rhodora"
+    },
+    {
+      "key": "BF02919080_CR142",
+      "unstructured": "-.1974a. Inland halophytes of the United States in “Ecology of halophytes.” Academic Press (R. Reimold and W. Queen, Ed.) 235–305."
+    },
+    {
+      "key": "BF02919080_CR143",
+      "doi-asserted-by": "crossref",
+      "first-page": "1357",
+      "DOI": "10.1139/b74-176",
+      "volume": "52",
+      "author": "I. A. Ungar",
+      "year": "1974",
+      "unstructured": "—. 1974b. The effect of salinity and temperature on seed germination and growth ofHordeum jubatum L. Can. J. Bot.52: 1357–1362.",
+      "journal-title": "Can. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR144",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1016/0304-3770(77)90037-7",
+      "volume": "3",
+      "author": "I. A. Ungar",
+      "year": "1977",
+      "unstructured": "—. 1977. Salinity, temperature, and growth regulator effects on seed germination ofSalicornia europaea L. Aquatic Botany3: 329–335.",
+      "journal-title": "Aquatic Botany"
+    },
+    {
+      "key": "BF02919080_CR145",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.1016/0304-3770(75)90006-6",
+      "volume": "1",
+      "author": "I. A. Ungar",
+      "year": "1975",
+      "unstructured": "— andP. Binet. 1975. Factors influencing seed dormancy inSpergularia media (L.) C. Presl. Aquatic Botany1: 45–55.",
+      "journal-title": "Presl. Aquatic Botany"
+    },
+    {
+      "key": "BF02919080_CR146",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1002/j.1537-2197.1974.tb12251.x",
+      "volume": "61",
+      "author": "I. A. Ungar",
+      "year": "1974",
+      "unstructured": "— andJ. Boucaud. 1974. Comparison of seed proteins in the genusSuaeda (Chenopodiaceae) by means of disc gel electrophoresis. Amer. J. Bot.61: 325–330.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR147",
+      "first-page": "1239",
+      "volume": "281",
+      "author": "I. A. Ungar",
+      "year": "1975",
+      "unstructured": "——. 1975. Action des fortes teneurs en NaCl sur l’évolution des cytokinines au cours de la germination d’un halophyte: leSuaeda maritima (L.) Dum. var.macrocarpa Moq. C. R. Acad. Sci. Paris281: 1239–1242.",
+      "journal-title": "Acad. Sci. Paris"
+    },
+    {
+      "key": "BF02919080_CR148",
+      "first-page": "137",
+      "volume": "23",
+      "author": "I. A. Ungar",
+      "year": "1969",
+      "unstructured": "— andF. Capilupo. 1969. An ecological life history study ofSuaeda depressa (Pursh) Wats. Adv. Frontiers in Plant Sciences23: 137–158.",
+      "journal-title": "Adv. Frontiers in Plant Sciences"
+    },
+    {
+      "key": "BF02919080_CR149",
+      "doi-asserted-by": "crossref",
+      "first-page": "150",
+      "DOI": "10.2307/1933609",
+      "volume": "51",
+      "author": "I. A. Ungar",
+      "year": "1970",
+      "unstructured": "— andW. Hogan. 1970. Seed germination inIva annua L. Ecology51: 150–154.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR150",
+      "doi-asserted-by": "crossref",
+      "first-page": "564",
+      "DOI": "10.2307/2423796",
+      "volume": "82",
+      "author": "I. A. Ungar",
+      "year": "1969",
+      "unstructured": "——, andM. McClelland. 1969. Plant communities of saline soils at Lincoln, Nebraska. Amer. Midland Natur.82: 564–577.",
+      "journal-title": "Amer. Midland Natur."
+    },
+    {
+      "key": "BF02919080_CR151",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/BF02872375",
+      "volume": "7",
+      "author": "J. C. T. Uphof",
+      "year": "1941",
+      "unstructured": "Uphof, J. C. T. 1941. Halophytes. Bot. Rev.7: 1–58.",
+      "journal-title": "Bot. Rev."
+    },
+    {
+      "key": "BF02919080_CR152",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1093/jxb/15.2.359",
+      "volume": "15",
+      "author": "T. A. Villiers",
+      "year": "1964",
+      "unstructured": "Villiers, T. A. andP. F. Wareing. 1964. Dormancy in fruits ofFraxinus excelsior L. J. Exp. Bot.15: 359–367.",
+      "journal-title": "J. Exp. Bot."
+    },
+    {
+      "key": "BF02919080_CR153",
+      "doi-asserted-by": "crossref",
+      "first-page": "519",
+      "DOI": "10.1093/jxb/16.3.519",
+      "volume": "16",
+      "author": "T. A. Villiers",
+      "year": "1965",
+      "unstructured": "——. 1965. The possible role of low temperature in breaking dormancy of seeds ofFraxinus excelsior L. J. Exp. Bot.16: 519–531.",
+      "journal-title": "J. Exp. Bot."
+    },
+    {
+      "key": "BF02919080_CR154",
+      "first-page": "185",
+      "volume": "14",
+      "author": "A. Wahab",
+      "year": "1961",
+      "unstructured": "Wahab, A. 1961. Salt tolerance of various varieties of agricultural crops at the germination stage. UNESCO Arid Zone Research14: 185–192.",
+      "journal-title": "UNESCO Arid Zone Research"
+    },
+    {
+      "key": "BF02919080_CR155",
+      "first-page": "187",
+      "volume": "D6",
+      "author": "Y. Waisel",
+      "year": "1958",
+      "unstructured": "Waisel, Y. 1958. Germination behavior of some halophytes. Bull. Res. Council Israel Sect.D6: 187–189.",
+      "journal-title": "Bull. Res. Council Israel Sect."
+    },
+    {
+      "key": "BF02919080_CR156",
+      "volume-title": "Biology of halophytes",
+      "author": "Y. Waisel",
+      "year": "1972",
+      "unstructured": "—. 1972. Biology of halophytes. Academic Press, New York. 395 pp."
+    },
+    {
+      "key": "BF02919080_CR157",
+      "first-page": "42",
+      "volume": "21",
+      "author": "Y. Waisel",
+      "year": "1972",
+      "unstructured": "— andS. Ovadia. 1972. Biological flora of Israel 3.Suaeda monoica Forsk. ex J. F. Gmel. Israel J. Botany21: 42–52.",
+      "journal-title": "Israel J. Botany"
+    },
+    {
+      "key": "BF02919080_CR158",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1007/BF01959618",
+      "volume": "15",
+      "author": "J. M. Ward",
+      "year": "1967",
+      "unstructured": "Ward, J. M. 1967. Studies in ecology of a shell barrier beach. III. Vegetatio15: 77–112.",
+      "journal-title": "Vegetatio"
+    },
+    {
+      "key": "BF02919080_CR159",
+      "doi-asserted-by": "crossref",
+      "first-page": "261",
+      "DOI": "10.1146/annurev.pp.22.060171.001401",
+      "volume": "22",
+      "author": "P. F. Wareing",
+      "year": "1971",
+      "unstructured": "Wareing, P. F. andB. F. Saunders. 1971. Hormones and dormancy. Ann. Rev. Plant Physiol.22: 261–288.",
+      "journal-title": "Ann. Rev. Plant Physiol."
+    },
+    {
+      "key": "BF02919080_CR160",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1093/jxb/24.1.105",
+      "volume": "24",
+      "author": "D. P. Webb",
+      "year": "1973",
+      "unstructured": "Webb, D. P., J. Van Staden, andP. F. Wareing. 1973. Seed dormancy inAcer. J. Exp. Bot.24: 105–116.",
+      "journal-title": "J. Exp. Bot."
+    },
+    {
+      "key": "BF02919080_CR161",
+      "doi-asserted-by": "crossref",
+      "first-page": "626",
+      "DOI": "10.2307/1929816",
+      "volume": "40",
+      "author": "P. V. Wells",
+      "year": "1959",
+      "unstructured": "Wells, P. V. 1959. An ecological investigation of two desert tobaccos. Ecology40: 626–644.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR162",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1002/j.1537-2197.1972.tb10089.x",
+      "volume": "59",
+      "author": "R. O. Willemsen",
+      "year": "1972",
+      "unstructured": "Willemsen, R. O. andE. L. Rice. 1972. Mechanism of seed dormancy inAmbrosia artemisiifolia. Amer. J. Bot.59: 248–257.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR163",
+      "doi-asserted-by": "crossref",
+      "first-page": "912",
+      "DOI": "10.1002/j.1537-2197.1972.tb10166.x",
+      "volume": "59",
+      "author": "M. D. Williams",
+      "year": "1972",
+      "unstructured": "Williams, M. D. andI. A. Ungar. 1972. The effect of environmental parameters on the germination, growth, and development ofSuaeda depressa (Pursh) Wats. Amer. J. Bot.59: 912–918.",
+      "journal-title": "Amer. J. Bot."
+    },
+    {
+      "key": "BF02919080_CR164",
+      "doi-asserted-by": "crossref",
+      "first-page": "575",
+      "DOI": "10.1093/jxb/22.3.575",
+      "volume": "22",
+      "author": "L. E. Woods",
+      "year": "1971",
+      "unstructured": "Woods, L. E. andH. A. MacDonald. 1971. The effects of temperature and osmotic moisture stress on the germination ofLotus corniculatus. J. Exp. Bot.22: 575–585.",
+      "journal-title": "J. Exp. Bot."
+    },
+    {
+      "key": "BF02919080_CR165",
+      "doi-asserted-by": "crossref",
+      "first-page": "659",
+      "DOI": "10.2307/1936512",
+      "volume": "48",
+      "author": "J. P. Workman",
+      "year": "1967",
+      "unstructured": "Workman, J. P. andN. E. West. 1967. Germination ofEurotia lanata in relation to temperature and salinity. Ecology48: 659–661.",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "BF02919080_CR166",
+      "first-page": "16",
+      "volume": "18",
+      "author": "R. B. R. Yadava",
+      "year": "1975",
+      "unstructured": "Yadava, R. B. R., K. L. Mehra, M. L. Magoon, P. R. Sreenath, andR. M. Pandey. 1975. Varietal differences in salt tolerances during seed germination of guar. Indian J. Plant Physiol.18: 16–19.",
+      "journal-title": "Indian J. Plant Physiol."
+    },
+    {
+      "key": "BF02919080_CR167",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1007/BF01372770",
+      "volume": "13",
+      "author": "A. F. Younis",
+      "year": "1971",
+      "unstructured": "Younis, A. F. andM. A. Hatata. 1971. Studies on the effects of certain salts on germination, on growth of root, and on metabolism. I. Effects of chlorides and sulphates of sodium, potassium, and magnesium on germination of wheat grains. Plant and Soil13: 183–200.",
+      "journal-title": "Plant and Soil"
+    }
+  ],
+  "container-title": [
+    "The Botanical Review"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF02919080.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/BF02919080/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/BF02919080",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        19
+      ]
+    ],
+    "date-time": "2023-05-19T02:18:01Z",
+    "timestamp": 1684462681000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/BF02919080"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1978,
+        4
+      ]
+    ]
+  },
+  "references-count": 167,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BF02919080"
+  ],
+  "URL": "https://doi.org/10.1007/bf02919080",
+  "relation": {},
+  "ISSN": [
+    "0006-8101",
+    "1874-9372"
+  ],
+  "issn-type": [
+    {
+      "value": "0006-8101",
+      "type": "print"
+    },
+    {
+      "value": "1874-9372",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1978,
+        4
+      ]
+    ]
+  }
+}

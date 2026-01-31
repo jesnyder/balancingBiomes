@@ -1,0 +1,875 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2025-03-26T20:29:10Z",
+    "timestamp": 1743020950811,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Cham",
+  "reference-count": 85,
+  "publisher": "Springer International Publishing",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783319057286"
+    },
+    {
+      "type": "electronic",
+      "value": "9783319057293"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2014-01-01T00:00:00Z",
+        "timestamp": 1388534400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2014-01-01T00:00:00Z",
+        "timestamp": 1388534400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-319-05729-3_2",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        6,
+        13
+      ]
+    ],
+    "date-time": "2014-06-13T13:43:26Z",
+    "timestamp": 1402667006000
+  },
+  "page": "5-25",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Halophyte Definitions and Classifications"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Marius-Nicusor",
+      "family": "Grigore",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Lacramioara",
+      "family": "Ivanescu",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Constantin",
+      "family": "Toma",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        10
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2_CR1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9780511565328",
+      "volume-title": "Saltmarsh ecology",
+      "author": "P Adam",
+      "year": "1990",
+      "unstructured": "Adam P (1990) Saltmarsh ecology. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "2_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "715",
+      "DOI": "10.1111/j.1469-8137.1994.tb04035.x",
+      "volume": "128",
+      "author": "GN Amzallag",
+      "year": "1994",
+      "unstructured": "Amzallag GN (1994) Influence of parental NaCl treatment on salinity tolerance of offspring in Sorghum bicolor (L.) Moench. New Phytol 128:715–723",
+      "journal-title": "New Phytol"
+    },
+    {
+      "key": "2_CR3",
+      "first-page": "55",
+      "volume-title": "Halophytes and biosaline agriculture",
+      "author": "J Aronson",
+      "year": "1996",
+      "unstructured": "Aronson J, Le floc’ HE (1996) Restoration ecology of salt-affected, arid and semi-arid lands. In: Choukr-Allah R, Malcolm CV, Hamdy A (eds) Halophytes and biosaline agriculture. Dekker, New York, pp 55–72"
+    },
+    {
+      "key": "2_CR4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.1486",
+      "volume-title": "Plant life considered with special reference to form and function",
+      "author": "CR Barnes",
+      "year": "1898",
+      "unstructured": "Barnes CR (1898) Plant life considered with special reference to form and function. Henry Colt Company, New York"
+    },
+    {
+      "key": "2_CR5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.1336",
+      "volume-title": "Plant-life on land considered in some of its biological aspects",
+      "author": "FO Bower",
+      "year": "1911",
+      "unstructured": "Bower FO (1911) Plant-life on land considered in some of its biological aspects. University Press, Cambridge"
+    },
+    {
+      "key": "2_CR6",
+      "volume-title": "Plant sociology. The study of plant communities",
+      "author": "J Braun-Blanquet",
+      "year": "1932",
+      "unstructured": "Braun-Blanquet J (1932) Plant sociology. The study of plant communities, 1st edn. George D. Fuller and Henry S, Conard Copyright",
+      "edition": "1"
+    },
+    {
+      "key": "2_CR7",
+      "first-page": "199",
+      "volume-title": "Biology of salt tolerant plants",
+      "author": "S-W Breckle",
+      "year": "1995",
+      "unstructured": "Breckle S-W (1995) How do halophytes overcome salinity? In: Khan MA, Ungar IA (eds) Biology of salt tolerant plants. University of Karachi, Pakistan, Department of Botany, pp 199–213"
+    },
+    {
+      "key": "2_CR8",
+      "unstructured": "Bucur N, Dobrescu C, Turcu GH, Lixandru GH, Teşu C, Dumbravă I, Afusoaie (1957) Contribuţii la studiul halofiliei plantelor din păşuni şi fâneţe de sărătură din Depresiunea Jijia-Bahlui (partea a I-a). Stud. şi Cerc. (Biol. şi Şt. Agric.) Acad. R.P.Române, filiala Iaşi 8(2): 277–317"
+    },
+    {
+      "key": "2_CR9",
+      "unstructured": "Bucur N, Dobrescu C, Turcu GH, Lixandru GH, Teşu C (1960) Contribuţii la studiul halofiliei plantelor din păşuni şi fâneţe de sărătură din Depresiunea Jijia-Bahlui (partea a II-a). Stud. şi Cerc. (Biol. şi Şt. Agricole) Acad. R.P.Române, filiala Iaşi 11(2): 333–347"
+    },
+    {
+      "key": "2_CR10",
+      "unstructured": "Bucur N, Dobrescu C, Turcu GH, Lixandru GH, Teşu C (1961) Contribuţii la studiul halofiliei plantelor din păşuni şi fâneţe de sărătură din Depresiunea Jijia-Bahlui (partea a III-a). Stud. şi Cerc. (Biol. şi Şt. Agricole) Acad. R.P.R., filiala Iaşi 12(1): 169–190"
+    },
+    {
+      "key": "2_CR11",
+      "first-page": "77",
+      "volume": "81",
+      "author": "VJ Chapman",
+      "year": "1937",
+      "unstructured": "Chapman VJ (1937) Note on a dune drainage system. Mem Proc Manch Lit and Phil Soc 81:77–85",
+      "journal-title": "Mem Proc Manch Lit and Phil Soc"
+    },
+    {
+      "issue": "4",
+      "key": "2_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "291",
+      "DOI": "10.1086/394660",
+      "volume": "17",
+      "author": "VJ Chapman",
+      "year": "1942",
+      "unstructured": "Chapman VJ (1942) The new perspective in the halophytes. Quart Rev Biol 17(4):291–311",
+      "journal-title": "Quart Rev Biol"
+    },
+    {
+      "key": "2_CR13",
+      "volume-title": "Salt marshes and salt deserts of the world",
+      "author": "VJ Chapman",
+      "year": "1960",
+      "unstructured": "Chapman VJ (1960) Salt marshes and salt deserts of the world. Plant science monographs. Interscience Publishers, Inc., New York"
+    },
+    {
+      "key": "2_CR14",
+      "volume-title": "Plant physiology and ecology",
+      "author": "FE Clements",
+      "year": "1907",
+      "unstructured": "Clements FE (1907) Plant physiology and ecology. Henry Holt and Company, New York"
+    },
+    {
+      "key": "2_CR15",
+      "volume-title": "Manual of the vascular plants of Texas",
+      "author": "DS Correll",
+      "year": "1970",
+      "unstructured": "Correll DS, Johnston MC (1970) Manual of the vascular plants of Texas. Texas Research Foundation, Renner, Texas"
+    },
+    {
+      "key": "2_CR16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.37671",
+      "volume-title": "A dictionary of botanical terms",
+      "author": "AA Crozier",
+      "year": "1892",
+      "unstructured": "Crozier AA (1892) A dictionary of botanical terms. Henry Holt and Company, New York"
+    },
+    {
+      "key": "2_CR17",
+      "first-page": "255",
+      "volume-title": "Biology of salt tolerant plants",
+      "author": "JC Dagar",
+      "year": "1995",
+      "unstructured": "Dagar JC (1995) Characteristics of halophytic vegetation in India. In: Khan MA, Ungar IA (eds) Biology of salt tolerant plants. University of Karachi, Karachi, Pakistan, Department of Botany, pp 255–276"
+    },
+    {
+      "key": "2_CR18",
+      "volume-title": "Biogeography, an ecological perspective",
+      "author": "P Dansereau",
+      "year": "1957",
+      "unstructured": "Dansereau P (1957) Biogeography, an ecological perspective. Ronald Press, New York"
+    },
+    {
+      "key": "2_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/B978-0-12-586450-3.50007-X",
+      "volume-title": "Ecology of halophytes",
+      "author": "WH Duncan",
+      "year": "1974",
+      "unstructured": "Duncan WH (1974) Vascular halophytes of the Atlantic and Gulf coasts of North America North Mexico. In: Reimold RJ, Queen WH (eds) Ecology of halophytes. Academic, New York, pp 23–50"
+    },
+    {
+      "key": "2_CR20",
+      "unstructured": "Ellenberg H (1974) Zeigerwerte der Gefasspflanzen Mitteleuropas.5 Scripta Geobot 9: 7–97"
+    },
+    {
+      "key": "2_CR21",
+      "volume-title": "Gray’s manual of botany",
+      "author": "ML Fernald",
+      "year": "1950",
+      "unstructured": "Fernald ML (1950) Gray’s manual of botany, 8th edn. American Book Company, New York",
+      "edition": "8"
+    },
+    {
+      "key": "2_CR22",
+      "volume-title": "Environmental physiology of plants",
+      "author": "AH Fitter",
+      "year": "2002",
+      "unstructured": "Fitter AH, Hay RKM (2002) Environmental physiology of plants, 3rd edn. Academic, New York",
+      "edition": "3"
+    },
+    {
+      "key": "2_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "945",
+      "DOI": "10.1111/j.1469-8137.2008.02531.x",
+      "volume": "179",
+      "author": "TJ Flowers",
+      "year": "2008",
+      "unstructured": "Flowers TJ, Colmer TD (2008) Salinity tolerance in halophytes. New Phytol 179:945–963",
+      "journal-title": "New Phytol"
+    },
+    {
+      "key": "2_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.1086/415032",
+      "volume": "61",
+      "author": "TJ Flowers",
+      "year": "1986",
+      "unstructured": "Flowers TJ, Hajibagheri MA, Clipson NJW (1986) Halophytes. Quart Rev Biol 61:313–337",
+      "journal-title": "Quart Rev Biol"
+    },
+    {
+      "key": "2_CR25",
+      "volume-title": "The living plant. A description and interpretation of its functions and structure",
+      "author": "WF Ganong",
+      "year": "1913",
+      "unstructured": "Ganong WF (1913) The living plant. A description and interpretation of its functions and structure. Henry Holt and Company, New York"
+    },
+    {
+      "key": "2_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "149",
+      "DOI": "10.1146/annurev.pp.31.060180.001053",
+      "volume": "31",
+      "author": "H Greenway",
+      "year": "1980",
+      "unstructured": "Greenway H, Munns R (1980) Mechanisms of salt tolerance in nonhalophytes. Annu Rev Plant Physiol 31:149–190",
+      "journal-title": "Annu Rev Plant Physiol"
+    },
+    {
+      "key": "2_CR27",
+      "volume-title": "Halofitotaxonomia. Lista plantelor de sărătură din România",
+      "author": "MN Grigore",
+      "year": "2008",
+      "unstructured": "Grigore MN (2008a) Halofitotaxonomia. Lista plantelor de sărătură din România. Edit, Pim, Iaşi"
+    },
+    {
+      "key": "2_CR28",
+      "volume-title": "Introducere în Halofitologie",
+      "author": "MN Grigore",
+      "year": "2008",
+      "unstructured": "Grigore MN (2008b) Introducere în Halofitologie. Elemente de anatomie integrativă. Edit, Pim, Iaşi"
+    },
+    {
+      "key": "2_CR29",
+      "unstructured": "Grigore MN (2010) O abordare conceptual-semantică a halofitelor, într-un climat general dominat de salinizare şi insecuritate alimentară. In: Ivănescu Lăcrămioara., Zamfirache Maria Magdalena (eds) Honorem Prof. Constantin Toma, la a 75-a aniversare. Edit. Graphys, Iaşi, pp 305–323"
+    },
+    {
+      "key": "2_CR30",
+      "volume-title": "Romanian salt tolerant plants",
+      "author": "MN Grigore",
+      "year": "2012",
+      "unstructured": "Grigore MN (2012) Romanian salt tolerant plants. Tehnopress, Iasi, Taxonomy and ecology. Edit"
+    },
+    {
+      "issue": "1",
+      "key": "2_CR31",
+      "first-page": "19",
+      "volume": "56",
+      "author": "MN Grigore",
+      "year": "2013",
+      "unstructured": "Grigore MN (2013) Nicolae Bucur’s contribution to create an original system of halophytes classification. An example of holistic ecological vision. Lucr. Şt. (Horticultură). USAMV „Ion Ionescu de la Brad”, Iaşi 56(1):19–24",
+      "journal-title": "USAMV „Ion Ionescu de la Brad”, Iaşi"
+    },
+    {
+      "key": "2_CR32",
+      "unstructured": "Grigore M-N, Toma C (2010a) Halofitele. Aspecte de anatomie ecologică. Edit. Univ. „Al. I. Cuza”, Iaşi"
+    },
+    {
+      "key": "2_CR33",
+      "volume-title": "Structuri secretoare de săruri la halofite",
+      "author": "M-N Grigore",
+      "year": "2010",
+      "unstructured": "Grigore M-N, Toma C (2010b) Structuri secretoare de săruri la halofite. O abordare integrativă. Edit. Acad. Rom, Bucureşti"
+    },
+    {
+      "issue": "1",
+      "key": "2_CR34",
+      "first-page": "45",
+      "volume": "26",
+      "author": "MN Grigore",
+      "year": "2010",
+      "unstructured": "Grigore MN, Toma C (2010c) A proposal for a new halophytes classification, based on integrative anatomy observations, 2010, Muz. Olteniei Craiova. Studii şi Comunicări, Ştiinţele Naturii 26(1):45–50",
+      "journal-title": "Studii şi Comunicări, Ştiinţele Naturii"
+    },
+    {
+      "issue": "2",
+      "key": "2_CR35",
+      "first-page": "199",
+      "volume": "26",
+      "author": "MN Grigore",
+      "year": "2010",
+      "unstructured": "Grigore MN, Toma C (2010d) Halophytes, between the fall of civilizations and biosaline agriculture. Ecological disturbances over time. Muz. Olteniei Craiova. Studii şi Comunicări, Ştiinţele Naturii 26(2):199–204",
+      "journal-title": "Studii şi Comunicări, Ştiinţele Naturii"
+    },
+    {
+      "key": "2_CR36",
+      "unstructured": "Grigore MN, Toma C, Boscaiu M (2010) Dealing with halophytes: an old problem, the same continuous exciting challenge. An. Şt. Univ. „Al. I. Cuza” Iaşi, s. II.a (Biol. Veget.) 56 (1): 21–32"
+    },
+    {
+      "issue": "Special Issue 2",
+      "key": "2_CR37",
+      "first-page": "12",
+      "volume": "5",
+      "author": "MN Grigore",
+      "year": "2011",
+      "unstructured": "Grigore MN, Boscaiu M, Vicente O (2011) Assessment of the relevance of osmolyte biosynthesis for salt tolerance of halophytes under natural conditions. Eur J Plant Sci Biotechnol 5(Special Issue 2):12–19",
+      "journal-title": "Eur J Plant Sci Biotechnol"
+    },
+    {
+      "issue": "2",
+      "key": "2_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "58",
+      "DOI": "10.15835/nbha4028246",
+      "volume": "40",
+      "author": "MN Grigore",
+      "year": "2012",
+      "unstructured": "Grigore MN, Boscaiu M, Llinares J, Vicente O (2012a) Mitigation of salt stressed-induced Inhibition of Plantago crassifolia reproductive development by supplemental calcium or magnesium. Not Bot Horti Agrobot 40(2):58–66",
+      "journal-title": "Not Bot Horti Agrobot"
+    },
+    {
+      "issue": "2",
+      "key": "2_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.15835/nsb427606",
+      "volume": "4",
+      "author": "M-N Grigore",
+      "year": "2012",
+      "unstructured": "Grigore M-N, Villanueva M, Boscaiu M, Vicente O (2012b) Do halophytes really require salt for their growth and development? An experimental approach. Not Sci Biol 4(2):23–29",
+      "journal-title": "Not Sci Biol"
+    },
+    {
+      "issue": "1–2",
+      "key": "2_CR40",
+      "first-page": "329",
+      "volume": "7",
+      "author": "M Guşuleac",
+      "year": "1933",
+      "unstructured": "Guşuleac M (1933) Urme de vegetaţie halofilă în Bucovina. Bul Fac Şt Cernăuţi 7(1–2):329–339",
+      "journal-title": "Bul Fac Şt Cernăuţi"
+    },
+    {
+      "key": "2_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "21",
+      "DOI": "10.2307/2255371",
+      "volume": "2",
+      "author": "TG Hill",
+      "year": "1914",
+      "unstructured": "Hill TG, Hanley JA (1914) The structure and water content of shingle beaches. J Ecol 2:21–38",
+      "journal-title": "J Ecol"
+    },
+    {
+      "key": "2_CR42",
+      "first-page": "222",
+      "volume-title": "Ecosystem ecology",
+      "author": "C Holzapfel",
+      "year": "2009",
+      "unstructured": "Holzapfel C (2009) Deserts. In: Jørgensen SV (ed) Ecosystem ecology. Elsevier B.V, Amsterdam, pp 222–240"
+    },
+    {
+      "key": "2_CR43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-011-2300-6",
+      "volume-title": "Diversity and evolution of land plants",
+      "author": "M Ingrouille",
+      "year": "1992",
+      "unstructured": "Ingrouille M (1992) Diversity and evolution of land plants. Chapman & Hall, London"
+    },
+    {
+      "key": "2_CR44",
+      "volume-title": "Plants",
+      "author": "M Ingrouille",
+      "year": "2006",
+      "unstructured": "Ingrouille M, Eddie B (2006) Plants. Cambridge University Press, Diversity and evolution"
+    },
+    {
+      "key": "2_CR45",
+      "unstructured": "Iversen J (1936) Biologische Pflanzentypen als Hilfsmittel in der Vegetationsforschung. Dissertation, Medd. fra Skalling Laboratoriet, Copenhagen"
+    },
+    {
+      "key": "2_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "23",
+      "DOI": "10.1111/j.1469-8137.1995.tb01811.x",
+      "volume": "130",
+      "author": "WD Jeschke",
+      "year": "1995",
+      "unstructured": "Jeschke WD, Klagges S, Hilpert A, Bhatti AS, Sarwar G (1995) Partitioning and flows of ions and nutrients in salt-treated plants of Leptochloa fusca L. Kunth. 1. Cations and chloride. New Phytol 130:23–35",
+      "journal-title": "New Phytol"
+    },
+    {
+      "key": "2_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "424",
+      "DOI": "10.1086/328507",
+      "volume": "37",
+      "author": "TH Kearney",
+      "year": "1904",
+      "unstructured": "Kearney TH (1904) Are plants of sea and dunes true halophytes? Bot Gaz 37:424–436",
+      "journal-title": "Bot Gaz"
+    },
+    {
+      "key": "2_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "455",
+      "DOI": "10.1023/A:1012211726748",
+      "volume": "6",
+      "author": "MA Khan",
+      "year": "2001",
+      "unstructured": "Khan MA, Duke NC (2001) Halophytes – a resource for the future. Wet Ecol Manage 6:455–456",
+      "journal-title": "Wet Ecol Manage"
+    },
+    {
+      "key": "2_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "345",
+      "DOI": "10.1007/1-4020-4018-0_22",
+      "volume-title": "Ecophysiology of high salinity tolerant plants",
+      "author": "H-W Koyro",
+      "year": "2006",
+      "unstructured": "Koyro H-W, Geissler N, Hussin S, Huchzermeyer B (2006) Mechanisms of cash crop halophytes to maintain yields and reclaim saline soils in arid areas. In: Khan MA, Weber DJ (eds) Ecophysiology of high salinity tolerant plants. Springer, Heidelberg, pp 345–366"
+    },
+    {
+      "key": "2_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/978-3-7643-8554-5_1",
+      "volume-title": "Biosaline agriculture and high salinity tolerance",
+      "author": "H-W Koyro",
+      "year": "2008",
+      "unstructured": "Koyro H-W, Geissler N, Hussin S, Huchzermeyer B (2008) Life strategies of halophytes – the long way from system ecology, whole plant physiology, cell biochemistry and molecular aspects back to sustainable utilization at field sites. In: Abdely D, Őzturk M, Ashraf M, Grignon FC (eds) Biosaline agriculture and high salinity tolerance. Birkhäuser Verlag AG, Basel, pp 1–20"
+    },
+    {
+      "key": "2_CR51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Koyro H-W, Geissler N, Hussin S (2009) Survival at extreme locations: life strategies of halophytes. In: Ashraf M, Ozturk M, Athar HR (eds) Salinity and water stress. Improving crop efficiency. Springer Science + Business Media B.V, pp 167–177",
+      "DOI": "10.1007/978-1-4020-9065-3_17"
+    },
+    {
+      "key": "2_CR52",
+      "volume-title": "Taxonomy of vascular plants",
+      "author": "GHM Lawrence",
+      "year": "1951",
+      "unstructured": "Lawrence GHM (1951) Taxonomy of vascular plants. MacMilian Co., New York"
+    },
+    {
+      "key": "2_CR53",
+      "volume-title": "Mineral nutrition of higher plants",
+      "author": "H Marschner",
+      "year": "1995",
+      "unstructured": "Marschner H (1995) Mineral nutrition of higher plants, 2nd edn. Academic, San Diego",
+      "edition": "2"
+    },
+    {
+      "key": "2_CR54",
+      "volume-title": "Plant ecology",
+      "author": "WB McDougall",
+      "year": "1941",
+      "unstructured": "McDougall WB (1941) Plant ecology, 3rd edn. Lea & Febiger, Philadelphia",
+      "edition": "3"
+    },
+    {
+      "key": "2_CR55",
+      "volume-title": "Dictionary of bioscience",
+      "author": "McGraw-Hill",
+      "year": "2003",
+      "unstructured": "McGraw-Hill (2003) Dictionary of bioscience, 2nd edn. McGraw-Hill Companies, Inc., New York",
+      "edition": "2"
+    },
+    {
+      "key": "2_CR56",
+      "first-page": "339",
+      "volume-title": "Encyclopedia of global environmental change",
+      "author": "HA Mooney",
+      "year": "2002",
+      "unstructured": "Mooney HA, Canadell JG (2002) The Earth system: biological and ecological dimensions of global environmental change. In: Munn T (ed) Encyclopedia of global environmental change, vol 2. Wiley, Chichester, p 339"
+    },
+    {
+      "key": "2_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "239",
+      "DOI": "10.1046/j.0016-8025.2001.00808.x",
+      "volume": "25",
+      "author": "R Munns",
+      "year": "2002",
+      "unstructured": "Munns R (2002) Comparative physiology of salt and water stress. Plant Cell Environ 25:239–250",
+      "journal-title": "Plant Cell Environ"
+    },
+    {
+      "key": "2_CR58",
+      "unstructured": "Ness BD (2003) Magill’s encyclopedia of science. In: Moose CJ (ed) Plant life, vol 2: DNA replication-metabolites: primary vs. secondary, Salern Press Inc, Pasadena"
+    },
+    {
+      "key": "2_CR59",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.5962/bhl.title.5989",
+      "volume-title": "The study of plant communities. An introduction to plant ecology",
+      "author": "HJ Oosting",
+      "year": "1948",
+      "unstructured": "Oosting HJ (1948) The study of plant communities. An introduction to plant ecology. W.H. Freeman and Company, San Francisco, California"
+    },
+    {
+      "key": "2_CR60",
+      "unstructured": "Pasternak D (1990) Fodder production with saline water. The Institute for applied research. Beer-Sheva/Israel, Ben Gurion University of the Negev"
+    },
+    {
+      "key": "2_CR61",
+      "volume-title": "Biodiversitatea halofitelor din Câmpia Banatului",
+      "author": "DI Pătruţ",
+      "year": "2005",
+      "unstructured": "Pătruţ DI, Adelina P, Ioan C (2005) Biodiversitatea halofitelor din Câmpia Banatului. Edit, Eurobit, Timişoara"
+    },
+    {
+      "key": "2_CR62",
+      "first-page": "125",
+      "volume-title": "Handbook of plant and crop stress",
+      "author": "A Poljakoff-Mayber",
+      "year": "1999",
+      "unstructured": "Poljakoff-Mayber A, Lerner HR (1999) Plants in saline environments. In: Pessarakli M (ed) Handbook of plant and crop stress, 2nd edn. Dekker, New York, pp 125–152",
+      "edition": "2"
+    },
+    {
+      "key": "2_CR63",
+      "volume-title": "Introduction to plant geography",
+      "author": "N Polunin",
+      "year": "1960",
+      "unstructured": "Polunin N (1960) Introduction to plant geography. McGraw-Hill Book Company, Inc., New York"
+    },
+    {
+      "key": "2_CR64",
+      "unstructured": "Prodan I (1939) Flora pentru detrminarea şi descrierea plantelor ce cresc în România. II. (ediţia a II-a). Edit. Cartea Românească, Cluj-Napoca, pp 253–305"
+    },
+    {
+      "key": "2_CR65",
+      "volume-title": "Greenwood guides to Biomes of the world",
+      "author": "JA Quinn",
+      "year": "2009",
+      "unstructured": "Quinn JA (2009) Desert biomes. In: Woodward SL (ed) Greenwood guides to Biomes of the world. Greenwood Press, Westport, Connecticut"
+    },
+    {
+      "key": "2_CR66",
+      "first-page": "17",
+      "volume-title": "Halophytes and biosaline agriculture",
+      "author": "J Rozema",
+      "year": "1996",
+      "unstructured": "Rozema J (1996) Biology of halophytes. In: Choukr-Allah R, Malcolm CV, Hamdy A (eds) Halophytes and biosaline agriculture. Dekker, New York, pp 17–30"
+    },
+    {
+      "key": "2_CR67",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.5962/bhl.title.116100",
+      "volume-title": "Die indo-malaysche Strandflora",
+      "author": "AFW Schimper",
+      "year": "1891",
+      "unstructured": "Schimper AFW (1891) Die indo-malaysche Strandflora. Bot Mittheil a.d, Tropen"
+    },
+    {
+      "key": "2_CR68",
+      "volume-title": "Pflanzengeographie auf physiologischer Grundlage",
+      "author": "AFW Schimper",
+      "year": "1898",
+      "unstructured": "Schimper AFW (1898) Pflanzengeographie auf physiologischer Grundlage. G. Fischer Verlag, Jena"
+    },
+    {
+      "key": "2_CR69",
+      "volume-title": "Plant geography upon a physiological basis",
+      "author": "AFW Schimper",
+      "year": "1903",
+      "unstructured": "Schimper AFW (1903) Plant geography upon a physiological basis. Clarendon, Oxford"
+    },
+    {
+      "key": "2_CR70",
+      "first-page": "112",
+      "volume": "80",
+      "author": "E Schratz",
+      "year": "1934",
+      "unstructured": "Schratz E (1934) Beitrage zur Biologie der Halophyten. I Zur Keimungsphysiologie Jahrb f Wiss Bot 80:112–142",
+      "journal-title": "I. Zur Keimungsphysiologie. Jahrb f Wiss Bot"
+    },
+    {
+      "key": "2_CR71",
+      "volume-title": "Plant ecology",
+      "author": "E-D Schulze",
+      "year": "2005",
+      "unstructured": "Schulze E-D, Beck E, Klaus M-H (2005) Plant ecology. Springer, Berlin"
+    },
+    {
+      "key": "2_CR72",
+      "volume-title": "Saline environment and plant growth",
+      "author": "SK Sharma",
+      "year": "1986",
+      "unstructured": "Sharma SK, Gupta IC (1986) Saline environment and plant growth. Agro Botanical Publishers, Bilkaner"
+    },
+    {
+      "key": "2_CR73",
+      "doi-asserted-by": "publisher",
+      "first-page": "265",
+      "DOI": "10.1007/978-3-642-91065-4_4",
+      "volume": "3",
+      "author": "O Stocker",
+      "year": "1928",
+      "unstructured": "Stocker O (1928) Das Halophytenproblem. Ergeb Biol 3:265–353",
+      "journal-title": "Ergeb Biol"
+    },
+    {
+      "key": "2_CR74",
+      "doi-asserted-by": "publisher",
+      "first-page": "519",
+      "DOI": "10.2503/jjshs.66.519",
+      "volume": "66",
+      "author": "A Tazuke",
+      "year": "1997",
+      "unstructured": "Tazuke A (1997) Growth of cucumber fruit as affected by the addition of NaCl to nutrient solution. J Jpn Soc Horti Sci 66:519–526",
+      "journal-title": "J Jpn Soc Horti Sci"
+    },
+    {
+      "issue": "1",
+      "key": "2_CR75",
+      "first-page": "57",
+      "volume": "6",
+      "author": "E Ţopa",
+      "year": "1954",
+      "unstructured": "Ţopa E (1954) Vegetaţia terenurilor sărate din R. P Română Natura 6(1):57–76",
+      "journal-title": "P. Română. Natura"
+    },
+    {
+      "key": "2_CR76",
+      "unstructured": "Ţopa E (1939) Vegetaţia halofitelor din nordul României în legătură cu cea din restul ţării. Teză prezentată la Facultatea de Științe din Cernăuți pentru obținerea titlului de doctor în Științele Naturale"
+    },
+    {
+      "key": "2_CR77",
+      "first-page": "559",
+      "volume": "36",
+      "author": "M Van Eijk",
+      "year": "1939",
+      "unstructured": "Van Eijk M (1939) Analyse der Wirkung des NaCl auf die Entwicklung Sukkulenze und Transpiration bei Salicornia herbacea, sowie Untersuchungen über den Einfluss der Salzaufnahme auf die Wurzelatmung bei Aster tripolium. Rec Trav Bot Neerl 36:559–657",
+      "journal-title": "Rec Trav Bot Neerl"
+    },
+    {
+      "key": "2_CR78",
+      "volume-title": "Biology of halophytes",
+      "author": "Y Waisel",
+      "year": "1972",
+      "unstructured": "Waisel Y (1972) Biology of halophytes. Academic, New York"
+    },
+    {
+      "key": "2_CR79",
+      "volume-title": "Plantesamfund. Grundträk af den okologiske Plantegeografi",
+      "author": "E Warming",
+      "year": "1895",
+      "unstructured": "Warming E (1895) Plantesamfund. Grundträk af den okologiske Plantegeografi. Kjöbenhavn, Philipsens"
+    },
+    {
+      "key": "2_CR80",
+      "unstructured": "Warming E (1897) Halophyt-studier. D. Kgl. Danske Vidensk. Selsk. Skr., 6, Raekke, naturvidenskabeling og mathematisk Afd. VIII(4): 173–272"
+    },
+    {
+      "key": "2_CR81",
+      "unstructured": "Warming E (1906) Dansk Plantevaekst. 1. Strandvegetation. Gyldendalske Boghandel Nordisk Forlag. København og Kristiania"
+    },
+    {
+      "key": "2_CR82",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.5962/bhl.title.160223",
+      "volume-title": "Oecology of plants. An introduction to the study of plant-communities",
+      "author": "E Warming",
+      "year": "1909",
+      "unstructured": "Warming E (1909) Oecology of plants. An introduction to the study of plant-communities. Clarendon, Oxford"
+    },
+    {
+      "key": "2_CR83",
+      "first-page": "170",
+      "volume-title": "Biology of salt tolerant plants",
+      "author": "DJ Weber",
+      "year": "1995",
+      "unstructured": "Weber DJ (1995) Mechanism and reactions of halophytes to water and salt stress. In: Khan MA, Ungar IA (eds) Biology of salt tolerant plants. University of Karachi, Karachi, Pakistan, Department of Botany, pp 170–182"
+    },
+    {
+      "key": "2_CR84",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.1428",
+      "volume-title": "A dictionary of the flowering plants and ferns",
+      "author": "JC Willis",
+      "year": "1919",
+      "unstructured": "Willis JC (1919) A dictionary of the flowering plants and ferns, 4th edn. Cambridge University Press, New York",
+      "edition": "4"
+    },
+    {
+      "key": "2_CR85",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.1007/1-4020-4018-0_21",
+      "volume-title": "Ecophysiology of high salinity tolerant plants",
+      "author": "NP Yensen",
+      "year": "2006",
+      "unstructured": "Yensen NP, Biel KY (2006) Soil remediation via salt-conduction and the hypotheses of halosynthesis and photoprotection. In: Khan MA, Weber DJ (eds) Ecophysiology of high salinity tolerant plants. Springer, Dordrecht, pp 313–344"
+    }
+  ],
+  "container-title": [
+    "Halophytes: An Integrative Anatomical Study"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-3-319-05729-3_2",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        10
+      ]
+    ],
+    "date-time": "2023-02-10T01:06:28Z",
+    "timestamp": 1675991188000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-3-319-05729-3_2"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783319057286",
+    "9783319057293"
+  ],
+  "references-count": 85,
+  "URL": "https://doi.org/10.1007/978-3-319-05729-3_2",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "10 April 2014",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    }
+  ]
+}

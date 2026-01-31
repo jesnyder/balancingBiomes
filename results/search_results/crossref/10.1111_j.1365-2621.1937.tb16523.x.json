@@ -1,0 +1,308 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        6
+      ]
+    ],
+    "date-time": "2025-12-06T04:53:23Z",
+    "timestamp": 1764996803384,
+    "version": "build-2065373602"
+  },
+  "reference-count": 19,
+  "publisher": "Wiley",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2006,
+            8,
+            25
+          ]
+        ],
+        "date-time": "2006-08-25T00:00:00Z",
+        "timestamp": 1156464000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 25257,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Food Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1937,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1111/j.1365-2621.1937.tb16523.x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        8,
+        25
+      ]
+    ],
+    "date-time": "2006-08-25T16:39:30Z",
+    "timestamp": 1156523970000
+  },
+  "page": "321-329",
+  "source": "Crossref",
+  "is-referenced-by-count": 24,
+  "title": [
+    "THE SALT LIMITS AND THERMAL STABILITY OF A NEW SPECIES OF ANAEROBIC HALOPHILE"
+  ],
+  "prefix": "10.1111",
+  "volume": "2",
+  "author": [
+    {
+      "given": "J. G.",
+      "family": "BAUMGARTNER",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2006,
+        8,
+        25
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "2",
+      "key": "e_1_2_1_2_1",
+      "article-title": "Fermentation of brine",
+      "volume": "3",
+      "author": "Akimoto",
+      "year": "1928",
+      "journal-title": "Bultezo. Sci. Fakult. Terkult. Kjusu Imp. Univ. Fuknoka. Japan"
+    },
+    {
+      "volume-title": "Manual of Determinative Bacteriology",
+      "year": "1934",
+      "author": "Bergey D. H.",
+      "key": "e_1_2_1_3_1"
+    },
+    {
+      "key": "e_1_2_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/an9275200395"
+    },
+    {
+      "key": "e_1_2_1_5_1",
+      "unstructured": "Cloake P. C. 1923.Red discoloration (so‐called “Pink” or “Pink‐eye”) on dried salted fish.Special Report No. 18. Food Invest. Board Dept. Sci. Ind. Res. London."
+    },
+    {
+      "key": "e_1_2_1_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/infdis/31.6.650"
+    },
+    {
+      "key": "e_1_2_1_7_1",
+      "first-page": "179",
+      "article-title": "Proteins and the lyotropic series",
+      "volume": "5",
+      "author": "Gortner R. A.",
+      "year": "1928",
+      "journal-title": "Am. Coll. Symp. Monog."
+    },
+    {
+      "key": "e_1_2_1_8_1",
+      "unstructured": "Harrison F. C andKennedy M. E. 1922.Red discoloration of cured codfish. Report II. Honorary Advisory Council for Sci. and Ind. Res. Canada."
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_1_9_1",
+      "first-page": "142",
+      "article-title": "Preliminary note on a marine chromogenic micro‐organism",
+      "volume": "2",
+      "author": "Lloyd B.",
+      "year": "1929",
+      "journal-title": "J. Roy. Tech. Coll. (Glasgow)"
+    },
+    {
+      "key": "e_1_2_1_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1139/cjr34-026"
+    },
+    {
+      "key": "e_1_2_1_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/infdis/48.5.457"
+    },
+    {
+      "key": "e_1_2_1_12_1",
+      "unstructured": "Pauli Wo. andValkó E. 1933.Kolloidehemie de Eiweisskörper. (Dresden and Leipzig)."
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_1_13_1",
+      "first-page": "125",
+      "article-title": "Micro‐organisms growing on salt‐saturated media",
+      "volume": "9",
+      "author": "Petrova E. K.",
+      "year": "1929",
+      "journal-title": "J. Microbiol. Inst. Bact. Pasteur (Leningrad)"
+    },
+    {
+      "key": "e_1_2_1_14_1",
+      "first-page": "1417",
+      "article-title": "Bacteria of salted fish",
+      "volume": "34",
+      "author": "Petter H. F. M.",
+      "year": "1931",
+      "journal-title": "Proc. K. Akad. Wetenschr. Amsterdam"
+    },
+    {
+      "key": "e_1_2_1_15_1",
+      "first-page": "261",
+      "article-title": "Natrium ein notwendiges Nährelement für eine marine mikroärophile Leuchtbakterie",
+      "volume": "101",
+      "author": "Richter O.",
+      "year": "1928",
+      "journal-title": "Akad. Wiss. Wien. Math. Nat. Kl. Denkschr."
+    },
+    {
+      "key": "e_1_2_1_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S002217240001069X"
+    },
+    {
+      "issue": "8",
+      "key": "e_1_2_1_17_1",
+      "first-page": "67",
+      "article-title": "Toxic action of salts",
+      "volume": "2",
+      "author": "Rubentschik L.",
+      "year": "1926",
+      "journal-title": "Centralbl. f. Bakteriol."
+    },
+    {
+      "key": "e_1_2_1_18_1",
+      "first-page": "1",
+      "article-title": "Microbiological studies of salt in relation to reddening of salted hides",
+      "volume": "383",
+      "author": "Stuart L. S.",
+      "year": "1933",
+      "journal-title": "U. S. Dept. Agr. Tech. Bul."
+    },
+    {
+      "key": "e_1_2_1_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/infdis/39.4.286"
+    },
+    {
+      "key": "e_1_2_1_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/infdis/44.6.421"
+    }
+  ],
+  "container-title": [
+    "Journal of Food Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1365-2621.1937.tb16523.x",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2621.1937.tb16523.x",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        3
+      ]
+    ],
+    "date-time": "2025-11-03T14:13:10Z",
+    "timestamp": 1762179190000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ift.onlinelibrary.wiley.com/doi/10.1111/j.1365-2621.1937.tb16523.x"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1937,
+        7
+      ]
+    ]
+  },
+  "references-count": 19,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          1937,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/j.1365-2621.1937.tb16523.x"
+  ],
+  "URL": "https://doi.org/10.1111/j.1365-2621.1937.tb16523.x",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0022-1147",
+    "1750-3841"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0022-1147"
+    },
+    {
+      "type": "electronic",
+      "value": "1750-3841"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1937,
+        7
+      ]
+    ]
+  }
+}

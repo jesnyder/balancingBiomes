@@ -1,0 +1,788 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2025-10-19T15:19:33Z",
+    "timestamp": 1760887173328
+  },
+  "reference-count": 57,
+  "publisher": "Elsevier BV",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2002,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2002-08-01T00:00:00Z",
+        "timestamp": 1028160000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Molecular Biology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2002,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1016/s0022-2836(02)00616-2",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2002-09-10T03:19:07Z",
+    "timestamp": 1031627947000
+  },
+  "page": "383-395",
+  "source": "Crossref",
+  "is-referenced-by-count": 66,
+  "title": [
+    "The Structure of the Archeabacterial Flagellar Filament of the Extreme Halophile Halobacterium salinarum R1M1 and Its Relation to Eubacterial Flagellar Filaments and Type IV Pili"
+  ],
+  "prefix": "10.1016",
+  "volume": "321",
+  "author": [
+    {
+      "given": "Sara",
+      "family": "Cohen-Krausz",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Shlomo",
+      "family": "Trachtenberg",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB1",
+      "doi-asserted-by": "crossref",
+      "first-page": "380",
+      "DOI": "10.1038/245380a0",
+      "article-title": "Bacteria swim by rotating their flagellar filaments",
+      "volume": "245",
+      "author": "Berg",
+      "year": "1973",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB2",
+      "doi-asserted-by": "crossref",
+      "first-page": "74",
+      "DOI": "10.1038/249074a0",
+      "article-title": "Change in direction of flagellar rotation is the basis of the chemotactic response in Escherichia coli",
+      "volume": "249",
+      "author": "Larsen",
+      "year": "1974",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB3",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1038/249073a0",
+      "article-title": "Flagellar rotation and the mechanism of bacterial motility",
+      "volume": "249",
+      "author": "Silverman",
+      "year": "1974",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB4",
+      "doi-asserted-by": "crossref",
+      "first-page": "384",
+      "DOI": "10.1128/JB.105.1.384-395.1971",
+      "article-title": "Fine structure and isolation of the hook–basal body complex of flagella from Escherichia coli and Bacillus subtilis",
+      "volume": "105",
+      "author": "DePamphilis",
+      "year": "1971",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB5",
+      "doi-asserted-by": "crossref",
+      "first-page": "396",
+      "DOI": "10.1128/JB.105.1.396-407.1971",
+      "article-title": "Attachment of flagellar basal bodies to the cell envelope: specific attachment to the outer, lipopolysaccharide membrane and the cytoplasmic membrane",
+      "volume": "105",
+      "author": "DePamphilis",
+      "year": "1971",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB6",
+      "series-title": "Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology",
+      "first-page": "123",
+      "article-title": "Flagella and motility",
+      "author": "Macnab",
+      "year": "1996"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1017/S0033583596003319",
+      "article-title": "Molecular architecture of bacterial flagellum",
+      "volume": "30",
+      "author": "Namba",
+      "year": "1997",
+      "journal-title": "Quart. Rev. Biophys."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB8",
+      "first-page": "99",
+      "article-title": "Polymerization of flagellin and polymorphism of flagella",
+      "volume": "1",
+      "author": "Asakura",
+      "year": "1970",
+      "journal-title": "Advan. Biophys."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB9",
+      "doi-asserted-by": "crossref",
+      "first-page": "417",
+      "DOI": "10.1016/0304-3991(93)90247-U",
+      "article-title": "Size of the export channel in the flagellar filament of Salmonella typhimurium",
+      "volume": "49",
+      "author": "Ruiz",
+      "year": "1993",
+      "journal-title": "Ultramicroscopy"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB10",
+      "doi-asserted-by": "crossref",
+      "first-page": "190",
+      "DOI": "10.1126/science.169.3941.190",
+      "article-title": "Bacterial flagella: polarity of elongation",
+      "volume": "169",
+      "author": "Emerson",
+      "year": "1970",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB11",
+      "doi-asserted-by": "crossref",
+      "first-page": "244",
+      "DOI": "10.1006/jsbi.1998.4063",
+      "article-title": "Mollicutes-wall-less bacterial with internal cytoskeletons",
+      "volume": "124",
+      "author": "Trachtenberg",
+      "year": "1998",
+      "journal-title": "J. Struct. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB12",
+      "doi-asserted-by": "crossref",
+      "first-page": "827",
+      "DOI": "10.1046/j.1365-2958.2001.02527.x",
+      "article-title": "A bacterial linear motor: cellular and molecular organization of the contractile cytoskeleton of the helical bacterium Spiroplasma melliferum BC3",
+      "volume": "41",
+      "author": "Trachtenberg",
+      "year": "2001",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB13",
+      "doi-asserted-by": "crossref",
+      "first-page": "1161",
+      "DOI": "10.1016/S0960-9822(07)00487-3",
+      "article-title": "The junctional pore complex, a prokaryotic secretion organelle, is the molecular motor underlying gliding motility in cyanobacteria",
+      "volume": "8",
+      "author": "Hoiczyk",
+      "year": "1998",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB14",
+      "doi-asserted-by": "crossref",
+      "first-page": "98",
+      "DOI": "10.1038/35024105",
+      "article-title": "Pilus retraction powers bacterial twitching motility",
+      "volume": "407",
+      "author": "Merz",
+      "year": "2000",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB15",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1111/j.1574-6976.2001.tb00575.x",
+      "article-title": "The archaeal flagellum: a different kind of prokaryotic motility structure",
+      "volume": "25",
+      "author": "Thomas",
+      "year": "2001",
+      "journal-title": "FEMS Microbiol. Rev."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB16",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.1038/nsb0196-45",
+      "article-title": "Stabilization of proteins by glycosylation examined by NMR analyis of a fucosylated proteinase inhibitor",
+      "volume": "3",
+      "author": "Mer",
+      "year": "1996",
+      "journal-title": "Nature Struct. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB17",
+      "doi-asserted-by": "crossref",
+      "first-page": "9724",
+      "DOI": "10.1016/S0021-9258(18)47994-X",
+      "article-title": "The primary structure of a procaryotic glycoprotein. Cloning and sequencing of the cell surface glycoprotein gene of halobacteria",
+      "volume": "262",
+      "author": "Lechner",
+      "year": "1987",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB18",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1016/0304-4157(87)90005-0",
+      "article-title": "Halobacterial glycoprotein biosynthesis",
+      "volume": "906",
+      "author": "Sumper",
+      "year": "1987",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB19",
+      "doi-asserted-by": "crossref",
+      "first-page": "7111",
+      "DOI": "10.1128/jb.172.12.7111-7118.1990",
+      "article-title": "Primary structure and glycosylation of the S-layer protein of Haloferax volcanii",
+      "volume": "172",
+      "author": "Sumper",
+      "year": "1990",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB20",
+      "doi-asserted-by": "crossref",
+      "first-page": "110",
+      "DOI": "10.1016/0014-5793(80)81058-1",
+      "article-title": "Halobacterial glycoprotein saccharides contain covalently linked sulphate",
+      "volume": "120",
+      "author": "Wieland",
+      "year": "1980",
+      "journal-title": "FEBS Letters"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB21",
+      "doi-asserted-by": "crossref",
+      "first-page": "15180",
+      "DOI": "10.1016/S0021-9258(18)95719-4",
+      "article-title": "Halobacterial flagellins are sulfated glycoproteins",
+      "volume": "260",
+      "author": "Wieland",
+      "year": "1985",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB22",
+      "doi-asserted-by": "crossref",
+      "first-page": "459",
+      "DOI": "10.1016/0022-2836(84)90172-4",
+      "article-title": "Morphology, function and isolation of halobacterial flagella",
+      "volume": "176",
+      "author": "Alam",
+      "year": "1984",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB23",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1016/0022-2836(87)90677-2",
+      "article-title": "Purification, reconstitution and polymorphic transition of halobacterial flagella",
+      "volume": "194",
+      "author": "Alam",
+      "year": "1987",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1971",
+      "DOI": "10.1128/jb.173.6.1971-1977.1991",
+      "article-title": "Rotation and switching of the flagellar motor assembly in Halobacterium halobium",
+      "volume": "173",
+      "author": "Marwan",
+      "year": "1991",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB25",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1016/0022-2836(91)90382-G",
+      "article-title": "Point mutations that lock Salmonella typhimurium flagellar filaments in the straight right-handed and left-handed forms and their relation to filament superhelicity",
+      "volume": "220",
+      "author": "Hyman",
+      "year": "1991",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB26",
+      "doi-asserted-by": "crossref",
+      "first-page": "471",
+      "DOI": "10.1016/0022-2836(91)90187-B",
+      "article-title": "Amino acids responsible for flagellar shape are distributed in terminal regions of flagellin",
+      "volume": "219",
+      "author": "Kanto",
+      "year": "1991",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB27",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.1046/j.1365-2958.2001.02542.x",
+      "article-title": "The fla gene cluster is involved in the biogenesis of flagella in Halobacterium salinarum",
+      "volume": "41",
+      "author": "Patange",
+      "year": "2001",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB28",
+      "first-page": "370",
+      "article-title": "Further evidence to suggest that archaeal flagella are related to bacterial type IV pili",
+      "volume": "46",
+      "author": "Bayley",
+      "year": "1998",
+      "journal-title": "J. Mol. Evol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB29",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.1046/j.1365-2958.1999.01603.x",
+      "article-title": "Is the processing and translocation system used by flagellins also used by membrane-anchored secretory proteins in archaea?",
+      "volume": "34",
+      "author": "Jarrell",
+      "year": "1999",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB30",
+      "doi-asserted-by": "crossref",
+      "first-page": "258",
+      "DOI": "10.1128/jcm.4.3.258-265.1976",
+      "article-title": "Examination of bacterial flagellation by dark-field microscopy",
+      "volume": "4",
+      "author": "Macnab",
+      "year": "1976",
+      "journal-title": "J. Clin. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB31",
+      "doi-asserted-by": "crossref",
+      "first-page": "581",
+      "DOI": "10.1016/0022-2836(87)90184-7",
+      "article-title": "Three-dimensional structure of the frozen-hydrated flagellar filament. The left-handed filament of Salmonella typhimurium",
+      "volume": "197",
+      "author": "Trachtenberg",
+      "year": "1987",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB32",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1016/0014-5793(89)81179-2",
+      "article-title": "Halobacterial flagellins are encoded by a multigene family. Identification of all five gene products",
+      "volume": "244",
+      "author": "Gerl",
+      "year": "1989",
+      "journal-title": "FEBS Letters"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB33",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1083/jcb.123.2.337",
+      "article-title": "A 13Å map of the actin-scruin filament from the Limulus acrosomal process",
+      "volume": "123",
+      "author": "Owen",
+      "year": "1993",
+      "journal-title": "J. Cell Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB34",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1111/j.1432-1033.1978.tb20917.x",
+      "article-title": "Studies on the biosynthesis of bacterio-opsin. Demonstration of the existence of protein species structurally related to bacterio-opsin",
+      "volume": "89",
+      "author": "Sumper",
+      "year": "1978",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB35",
+      "doi-asserted-by": "crossref",
+      "first-page": "13246",
+      "DOI": "10.1016/S0021-9258(18)37697-X",
+      "article-title": "Halobacterial flagellins are encoded by a multigene family. Characterization of five flagellin genes",
+      "volume": "263",
+      "author": "Gerl",
+      "year": "1988",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1549",
+      "DOI": "10.1002/j.1460-2075.1988.tb02974.x",
+      "article-title": "Three-dimensional structure of the regular surface glycoprotein layer of Halobacterium volcanii from the Dead Sea",
+      "volume": "7",
+      "author": "Kessel",
+      "year": "1988",
+      "journal-title": "EMBO J."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB37",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.1006/jsbi.2000.4215",
+      "article-title": "The cell surface glycoprotein layer of the extreme halophile Halobacterium salinarum and its relation to Haloferax volcanii: cryo-electron-tomography of freeze-substituted cells and projection studies of negatively stained envelopes",
+      "volume": "130",
+      "author": "Trachtenberg",
+      "year": "2000",
+      "journal-title": "J. Struct. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB38",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1006/jsbi.1998.4001",
+      "article-title": "Helical perturbations of the flagellar filament: Rhizobium lupini H13-3 at 13Å resolution",
+      "volume": "122",
+      "author": "Cohen-Krausz",
+      "year": "1998",
+      "journal-title": "J. Struct. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB39",
+      "doi-asserted-by": "crossref",
+      "first-page": "759",
+      "DOI": "10.1006/jmbi.1997.1537",
+      "article-title": "Non-helical perturbations of the flagellar filament: Salmonella typhimurium SJW117 at 9.6Å resolution",
+      "volume": "276",
+      "author": "Trachtenberg",
+      "year": "1998",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB40",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1006/jmbi.1995.0281",
+      "article-title": "The structure of the R-type straight flagellar filament of Salmonella at 9Å resolution by electron cryomicroscopy",
+      "volume": "249",
+      "author": "Mimori",
+      "year": "1995",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB41",
+      "doi-asserted-by": "crossref",
+      "first-page": "88",
+      "DOI": "10.1006/jmbi.1995.0282",
+      "article-title": "Structure of bacterial flagellar filaments at 11Å resolution: packing of the α-helices",
+      "volume": "249",
+      "author": "Morgan",
+      "year": "1995",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB42",
+      "doi-asserted-by": "crossref",
+      "first-page": "787",
+      "DOI": "10.1016/0022-2836(88)90559-1",
+      "article-title": "Three-dimensional reconstruction of the flagellar filament of Caulobacter crescentus: a flagellin lacking the outer domain and its amino acid sequence lacking an internal segment",
+      "volume": "202",
+      "author": "Trachtenberg",
+      "year": "1988",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB43",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.1016/0022-2836(91)90381-F",
+      "article-title": "A molecular switch: subunit rotations involved in the right-to-left handed transitions of Salmonella typhimurium flagellar filaments",
+      "volume": "220",
+      "author": "Trachtenberg",
+      "year": "1991",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB44",
+      "doi-asserted-by": "crossref",
+      "first-page": "569",
+      "DOI": "10.1016/0022-2836(86)90242-1",
+      "article-title": "Pairwise perturbations of flagellin subunits: the structural basis for the differences between plain and complex bacterial flagellar filaments",
+      "volume": "190",
+      "author": "Trachtenberg",
+      "year": "1986",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB45",
+      "doi-asserted-by": "crossref",
+      "first-page": "603",
+      "DOI": "10.1016/0022-2836(87)90185-9",
+      "article-title": "Three-dimensional structure of the complex flagellar filament of Rhizobium lupini and its relation to the struture of the plain filament",
+      "volume": "195",
+      "author": "Trachtenberg",
+      "year": "1987",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB46",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1146/annurev.micro.55.1.49",
+      "article-title": "Bacterial gliding motility: multiple mechanisms for cell movement over surfaces",
+      "volume": "55",
+      "author": "McBride",
+      "year": "2001",
+      "journal-title": "Annu. Rev. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB47",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1046/j.1365-2958.1999.01339.x",
+      "article-title": "Type IV pili and cell motility",
+      "volume": "32",
+      "author": "Wall",
+      "year": "1999",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB48",
+      "doi-asserted-by": "crossref",
+      "first-page": "743",
+      "DOI": "10.1046/j.1365-2958.1999.01184.x",
+      "article-title": "Crystallographic structure reveals phosphorylated pilin from Neisseria: phosphoserine sites modify type IV pilus surface chemistry and fibre morphology",
+      "volume": "31",
+      "author": "Forest",
+      "year": "1999",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB49",
+      "doi-asserted-by": "crossref",
+      "first-page": "24186",
+      "DOI": "10.1074/jbc.M100659200",
+      "article-title": "Structure of a pilin monomer from Pseudomonas aeruginosa: implications for the assembly of pili",
+      "volume": "276",
+      "author": "Keiser",
+      "year": "2001",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB50",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1016/S0378-1119(96)00805-0",
+      "article-title": "Genes involved in the biogenesis and function of type-4 fimbriae in Pseudomonas aeruginosa",
+      "volume": "192",
+      "author": "Alm",
+      "year": "1997",
+      "journal-title": "Gene"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB51",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1016/S0378-1119(97)00018-8",
+      "article-title": "The pilus colonization factor of pathogenic Neisserial species: organelle biogenesis and structure/function relationships—a review",
+      "volume": "192",
+      "author": "Tonjum",
+      "year": "1997",
+      "journal-title": "Gene"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB52",
+      "doi-asserted-by": "crossref",
+      "first-page": "15108",
+      "DOI": "10.1073/pnas.93.26.15108",
+      "article-title": "Direct interaction of flagellin termini essential for polymorphic ability of flagellar filament",
+      "volume": "93",
+      "author": "Mimori-Kiyosue",
+      "year": "1996",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB53",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1006/jmbi.1997.1111",
+      "article-title": "Locations of terminal segments of flagellin in the filament structure and their roles in polymerization and polymorphism",
+      "volume": "270",
+      "author": "Mimori-Kiyosue",
+      "year": "1997",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB54",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.1016/0304-3991(82)90242-X",
+      "article-title": "A small computer system for micrograph analysis",
+      "volume": "8",
+      "author": "Hainfeld",
+      "year": "1982",
+      "journal-title": "Ultramicroscopy"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB55",
+      "doi-asserted-by": "crossref",
+      "first-page": "6363",
+      "DOI": "10.1073/pnas.81.20.6363",
+      "article-title": "Radial distributions of density within macromolecular complexes determined from dark-field electron micrographs",
+      "volume": "81",
+      "author": "Steven",
+      "year": "1984",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB56",
+      "doi-asserted-by": "crossref",
+      "first-page": "355",
+      "DOI": "10.1016/0022-2836(70)90036-7",
+      "article-title": "Reconstruction of three-dimensional images from electron micrographs of structures with helical symmetry",
+      "volume": "52",
+      "author": "DeRosier",
+      "year": "1970",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "10.1016/S0022-2836(02)00616-2_BIB57",
+      "doi-asserted-by": "crossref",
+      "first-page": "167",
+      "DOI": "10.1006/jsbi.1996.0027",
+      "article-title": "Image analysis of helical objects: the Brandeis helical package",
+      "volume": "116",
+      "author": "Owen",
+      "year": "1996",
+      "journal-title": "J. Struct. Biol."
+    }
+  ],
+  "container-title": [
+    "Journal of Molecular Biology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022283602006162?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022283602006162?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ],
+    "date-time": "2023-04-24T12:43:38Z",
+    "timestamp": 1682340218000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022283602006162"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2002,
+        8
+      ]
+    ]
+  },
+  "references-count": 57,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0022283602006162"
+  ],
+  "URL": "https://doi.org/10.1016/s0022-2836(02)00616-2",
+  "relation": {},
+  "ISSN": [
+    "0022-2836"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-2836",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2002,
+        8
+      ]
+    ]
+  }
+}

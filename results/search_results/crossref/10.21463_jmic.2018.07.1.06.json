@@ -1,0 +1,133 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2025-08-12T21:57:27Z",
+    "timestamp": 1755035847305
+  },
+  "reference-count": 0,
+  "publisher": "Shima Publishing",
+  "issue": "1",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JMIC"
+  ],
+  "DOI": "10.21463/jmic.2018.07.1.06",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        7,
+        3
+      ]
+    ],
+    "date-time": "2018-07-03T21:34:30Z",
+    "timestamp": 1530653670000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 10,
+  "title": [
+    "Dynamics of zonal halophyte communities in salt marshes in the world"
+  ],
+  "prefix": "10.21463",
+  "volume": "7",
+  "author": [
+    {
+      "given": "Jeom-Sook",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Jong-Wook",
+      "family": "Kim",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "8893",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        30
+      ]
+    ]
+  },
+  "container-title": [
+    "Journal of Marine and Island Cultures"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2018,
+        7,
+        3
+      ]
+    ],
+    "date-time": "2018-07-03T21:34:36Z",
+    "timestamp": 1530653676000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://jmic.online/issues/v7n1/6/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        30
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          30
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.21463/jmic.2018.07.1.06",
+  "relation": {},
+  "ISSN": [
+    "2212-6821"
+  ],
+  "issn-type": [
+    {
+      "value": "2212-6821",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        30
+      ]
+    ]
+  }
+}

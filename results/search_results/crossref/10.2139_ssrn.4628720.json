@@ -1,0 +1,1652 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        10
+      ]
+    ],
+    "date-time": "2023-11-10T05:14:07Z",
+    "timestamp": 1699593247106
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "group-title": "SSRN",
+  "reference-count": 140,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.2139/ssrn.4628720",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        9
+      ]
+    ],
+    "date-time": "2023-11-09T20:17:25Z",
+    "timestamp": 1699561045000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Ecophysiological Responses of the Potential Bioenergy Halophyte Typha Domingensis to the Effects of Salinity"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "given": "Rabab  Fatima",
+      "family": "Rizvi",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Saman",
+      "family": "Ehsen",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Bilquees",
+      "family": "Gul",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "ref1",
+      "author": "References"
+    },
+    {
+      "issue": "2",
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.4155/bfs.11.158",
+      "article-title": "The place of halophytes in Pakistan's biofuel industry",
+      "volume": "3",
+      "author": "Z Abideen",
+      "year": "2012",
+      "journal-title": "Biofuels"
+    },
+    {
+      "issue": "5",
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1818",
+      "DOI": "10.1016/j.biombioe.2011.01.023",
+      "article-title": "Halophytes: Potential source of ligno-cellulosic biomass for ethanol production",
+      "volume": "35",
+      "author": "Z Abideen",
+      "year": "2011",
+      "journal-title": "Biomass and Bioenergy"
+    },
+    {
+      "issue": "12",
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1057",
+      "DOI": "10.9755/ejfa.v26i12.19107",
+      "article-title": "Sustainable biofuel production from non-food sources -An overview",
+      "volume": "26",
+      "author": "Z Abideen",
+      "year": "2014",
+      "journal-title": "Emirates Journal of Food and Agriculture"
+    },
+    {
+      "issue": "3",
+      "key": "ref5",
+      "first-page": "213",
+      "article-title": "Antioxidant activity and polyphenolic content of phragmites karka under saline conditions",
+      "volume": "47",
+      "author": "Z Abideen",
+      "year": "2015",
+      "journal-title": "Pakistan Journal of Botany"
+    },
+    {
+      "issue": "9",
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "first-page": "860",
+      "DOI": "10.1071/FP12346",
+      "article-title": "The influence of genes regulating transmembrane transport of Na+ on the salt resistance of Aeluropus lagopoides",
+      "volume": "40",
+      "author": "M Z Ahmed",
+      "year": "2013",
+      "journal-title": "Functional Plant Biology"
+    },
+    {
+      "issue": "4",
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "first-page": "807",
+      "DOI": "10.17129/botsci.886",
+      "article-title": "Leaf anatomical and biochemical adaptations in Typha domingensis Pers. ecotypes for salinity tolerance",
+      "volume": "95",
+      "author": "N Akhtar",
+      "year": "2017",
+      "journal-title": "Botanical Sciences"
+    },
+    {
+      "issue": "4",
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "687",
+      "DOI": "10.1007/s12298-021-00963-x",
+      "article-title": "Physiological homeostasis for ecological success of Typha (Typha domingensis Pers.) populations in saline soils",
+      "volume": "27",
+      "author": "N Akhter",
+      "year": "2021",
+      "journal-title": "Physiology and Molecular Biology of Plants"
+    },
+    {
+      "issue": "3",
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1047",
+      "DOI": "10.1104/pp.123.3.1047",
+      "article-title": "Ionic and osmotic effects of NaCl-induced inactivation of photosystems I and II in Synechococcus sp",
+      "volume": "123",
+      "author": "S I Allakhverdiev",
+      "year": "2000",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "issue": "2",
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1007/s11099-013-0021-6",
+      "article-title": "Photosynthesis under stressful environments: An overview",
+      "volume": "51",
+      "author": "M Ashraf",
+      "year": "2013",
+      "journal-title": "Photosynthetica"
+    },
+    {
+      "issue": "33",
+      "key": "ref11",
+      "first-page": "7108",
+      "article-title": "A critical review on halophytes: Salt tolerant plants",
+      "volume": "5",
+      "author": "R Aslam",
+      "year": "2011",
+      "journal-title": "Journal of Medicinal Plant Research"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "first-page": "86",
+      "DOI": "10.1016/j.envexpbot.2016.12.008",
+      "article-title": "Salinity induced changes in light harvesting and carbon assimilating complexes of Desmostachya bipinnata",
+      "volume": "135",
+      "author": "H Asrar",
+      "year": "2017",
+      "journal-title": "L.) Staph. Environmental and Experimental Botany"
+    },
+    {
+      "issue": "1",
+      "key": "ref13",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1007/BF00018060",
+      "article-title": "Rapid determination of free proline for waterstress studies",
+      "volume": "39",
+      "author": "L S Bates",
+      "year": "1973",
+      "journal-title": "Plant and soil"
+    },
+    {
+      "issue": "5",
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "first-page": "393",
+      "DOI": "10.1111/j.1461-0248.2012.01751.x",
+      "article-title": "The determinants of leaf turgor loss point and prediction of drought tolerance of species and biomes: a global meta-analysis",
+      "volume": "15",
+      "author": "M K Bartlett",
+      "year": "2012",
+      "journal-title": "Ecology letters"
+    },
+    {
+      "issue": "3",
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "173",
+      "DOI": "10.1007/BF00033159",
+      "article-title": "Role of the xanthophyll cycle in photoprotection elucidated by measurements of light-induced absorbance changes, fluorescence and photosynthesis in leaves of Hedera canariensis",
+      "volume": "25",
+      "author": "W Bilger",
+      "year": "1990",
+      "journal-title": "Photosynthesis research"
+    },
+    {
+      "issue": "3",
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "first-page": "589",
+      "DOI": "10.1111/pce.12180",
+      "article-title": "Kinetics of xylem loading, membrane potential maintenance, and sensitivity of K+-permeable channels to reactive oxygen species: Physiological traits that differentiate salinity tolerance between pea and barley",
+      "volume": "37",
+      "author": "J Bose",
+      "year": "2014",
+      "journal-title": "Plant, Cell and Environment"
+    },
+    {
+      "key": "ref17",
+      "volume": "13",
+      "author": "N C Brady",
+      "year": "2008",
+      "journal-title": "The nature and properties of soils"
+    },
+    {
+      "issue": "2",
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "628",
+      "DOI": "10.1104/pp.95.2.628",
+      "article-title": "Effects of salinity on stomatal conductance, photosynthetic capacity, and carbon isotope discrimination of salt-tolerant (Gossypium hirsutum L.) and salt-sensitive (Phaseolus vulgaris L.) C3 non-halophytes",
+      "volume": "95",
+      "author": "E Brugnoli",
+      "year": "1991",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "issue": "2",
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "first-page": "676",
+      "DOI": "10.1104/pp.011445",
+      "article-title": "Single-cell measurements of the contributions of cytosolic Na+ and K+ to salt tolerance",
+      "volume": "131",
+      "author": "D E Carden",
+      "year": "2003",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "issue": "4",
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "first-page": "551",
+      "DOI": "10.1093/aob/mcn125",
+      "article-title": "Photosynthesis under drought and salt stress: regulation mechanisms from whole plant to cell",
+      "volume": "103",
+      "author": "M M Chaves",
+      "year": "2009",
+      "journal-title": "Annals of Botany"
+    },
+    {
+      "issue": "5",
+      "key": "ref21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1059",
+      "DOI": "10.1093/jxb/erj124",
+      "article-title": "Use of wild relatives to improve salt tolerance in wheat",
+      "volume": "57",
+      "author": "T D Colmer",
+      "year": "2006",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "11",
+      "key": "ref22",
+      "doi-asserted-by": "crossref",
+      "first-page": "850",
+      "DOI": "10.1038/nrm1746",
+      "article-title": "Growth of the plant cell wall",
+      "volume": "6",
+      "author": "D J Cosgrove",
+      "year": "2005",
+      "journal-title": "Nature Reviews Molecular Cell Biology"
+    },
+    {
+      "issue": "10",
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "first-page": "2697",
+      "DOI": "10.1093/jxb/ern128",
+      "article-title": "A root's ability to retain K+ correlates with salt tolerance in wheat",
+      "volume": "59",
+      "author": "T A Cuin",
+      "year": "2008",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "4",
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "first-page": "272",
+      "DOI": "10.1016/j.bbabio.2007.02.020",
+      "article-title": "Salt stress impact on the molecular structure and function of the photosynthetic apparatus-The protective role of polyamines",
+      "volume": "1767",
+      "author": "G Demetriou",
+      "year": "2007",
+      "journal-title": "Biochimica et Biophysica Acta -Bioenergetics"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.1016/j.scienta.2012.01.012",
+      "article-title": "Comparative effects of exogenous glycine betaine, kaolin clay particles and Ambiol on photosynthesis, leaf sclerophylly indexes and heat load of olive cv. Chondrolia Chalkidikis under drought",
+      "volume": "137",
+      "author": "N K Denaxa",
+      "year": "2012",
+      "journal-title": "Scientia horticulturae"
+    },
+    {
+      "issue": "1",
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.15835/nsb315627",
+      "article-title": "Effect of Salinity on Growth, Xylem Structure and Anatomical Characteristics of Soybean",
+      "volume": "3",
+      "author": "A Dolatabadian",
+      "year": "2011",
+      "journal-title": "Notulae Scientia Biologicae"
+    },
+    {
+      "key": "ref27",
+      "author": "B Duarte",
+      "year": "2013",
+      "journal-title": "Ecophysiological adaptations of two halophytes to salt stress: Photosynthesis, PS II photochemistry and anti-oxidant feedback 188"
+    },
+    {
+      "issue": "3",
+      "key": "ref28",
+      "article-title": "Salinity impact on yield, water use, mineral and essential oil content of fennel (Foeniculum vulgare Mill.)",
+      "volume": "18",
+      "author": "G Duygu Semiz",
+      "year": "2013",
+      "journal-title": "Tarim Bilimleri Dergisi"
+    },
+    {
+      "key": "ref29",
+      "author": "E Epstein",
+      "year": "1972",
+      "journal-title": "Mineral nutrition of plants: principles and perspectives"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fpls.2015.00978",
+      "article-title": "Breeding and domesticating crops adapted to drought and salinity: a new paradigm for increasing food production",
+      "volume": "6",
+      "author": "A Fita",
+      "year": "2015",
+      "journal-title": "Frontiers in Plant Science"
+    },
+    {
+      "issue": "4",
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "945",
+      "DOI": "10.1111/j.1469-8137.2008.02531.x",
+      "article-title": "Salinity tolerance in halophytes",
+      "volume": "179",
+      "author": "T J Flowers",
+      "year": "2008",
+      "journal-title": "New Phytologist"
+    },
+    {
+      "issue": "1",
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.1016/S0304-4165(89)80016-9",
+      "article-title": "The relationship between the quantum yield of photosynthetic electron transport and quenching of chlorophyll fluorescence",
+      "volume": "990",
+      "author": "B Genty",
+      "year": "1989",
+      "journal-title": "Biochimica et Biophysica Acta (BBA)-General Subjects"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1016/j.indcrop.2017.10.020",
+      "article-title": "Exogenous proline improves osmoregulation, physiological functions, essential oil, and seed yield of fennel",
+      "volume": "111",
+      "author": "A Gholami Zali",
+      "year": "2018",
+      "journal-title": "Industrial Crops and Products"
+    },
+    {
+      "issue": "1-2",
+      "key": "ref34",
+      "doi-asserted-by": "crossref",
+      "first-page": "75",
+      "DOI": "10.1016/0304-3770(95)00492-I",
+      "article-title": "Effects of salinity on growth and evapotranspiration of Typha domingensis Pers",
+      "volume": "52",
+      "author": "E Glenn",
+      "year": "1995",
+      "journal-title": "Aquatic Botany"
+    },
+    {
+      "issue": "7",
+      "key": "ref35",
+      "doi-asserted-by": "crossref",
+      "first-page": "462",
+      "DOI": "10.1016/j.flora.2009.12.021",
+      "article-title": "Combined effect of NaCl-salinity and hypoxia on growth, photosynthesis, water relations and solute accumulation in Phragmites australis plants",
+      "volume": "205",
+      "author": "M Gorai",
+      "year": "2010",
+      "journal-title": "Flora: Morphology, Distribution, Functional Ecology of Plants"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "crossref",
+      "first-page": "583",
+      "DOI": "10.1111/j.1399-3054.1996.tb00519.x",
+      "article-title": "Fluxes of Na + , K + and Cl -and osmotic adjustment in Lycopersicon pimpinellifolium and L. esculentum during short and long-term exposures to NaCl",
+      "volume": "97",
+      "author": "G Guerrier",
+      "year": "1996",
+      "journal-title": "Physiol. Plant"
+    },
+    {
+      "key": "ref37",
+      "article-title": "Mechanism of salinity tolerance in plants: physiological, biochemical, and molecular characterization",
+      "author": "B Gupta",
+      "year": "2014",
+      "journal-title": "International Journal of Genomics"
+    },
+    {
+      "key": "ref38",
+      "doi-asserted-by": "crossref",
+      "first-page": "455",
+      "DOI": "10.1016/j.envexpbot.2019.03.022",
+      "article-title": "Physiological and transcriptional variations inducing complex adaptive mechanisms in grapevine by salt stress",
+      "volume": "162",
+      "author": "M S Haider",
+      "year": "2019",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "issue": "4",
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1275",
+      "DOI": "10.1021/jf8030277",
+      "article-title": "Biomass characterization of Buddleja davidii: a potential feedstock for biofuel production",
+      "volume": "57",
+      "author": "B B Hallac",
+      "year": "2009",
+      "journal-title": "Journal of Agricultural and Food Chemistry"
+    },
+    {
+      "issue": "6",
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "first-page": "1315",
+      "DOI": "10.1093/jxb/ern040",
+      "article-title": "An inland and a coastal population of the Mediterranean xero-halophyte species Atriplex halimus L. differ in their ability to accumulate proline and glycinebetaine in response to salinity and water stress",
+      "volume": "59",
+      "author": "A Hassine",
+      "year": "2008",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "1",
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1016/0003-9861(68)90654-1",
+      "article-title": "Photoperoxidation in isolated chloroplasts: I. Kinetics and stoichiometry of fatty acid peroxidation",
+      "volume": "125",
+      "author": "R L Heath",
+      "year": "1968",
+      "journal-title": "Archives of Biochemistry and Biophysics"
+    },
+    {
+      "key": "ref42",
+      "first-page": "235",
+      "article-title": "Soil salinity: Historical and contemporary perspectives",
+      "author": "D Hillel",
+      "year": "2005",
+      "journal-title": "Proceedings of the International Salinity Forum"
+    },
+    {
+      "issue": "4",
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "first-page": "541",
+      "DOI": "10.1002/jpln.200420516",
+      "article-title": "Drought and salinity: A comparison of their effects on mineral nutrition of plants",
+      "volume": "168",
+      "author": "Y Hu",
+      "year": "2005",
+      "journal-title": "Journal of Plant Nutrition and Soil Science"
+    },
+    {
+      "key": "ref44",
+      "author": "E R R Iyengar",
+      "year": "1996",
+      "journal-title": "Photosynthesis in highly salt tolerant plants. Handbook of Photosynthesis. Marshal Dekar"
+    },
+    {
+      "issue": "3",
+      "key": "ref45",
+      "first-page": "245",
+      "article-title": "Antioxidative potentials as a protective mechanism in Catharanthus roseus (L.) G.Don. plants under salinity stress",
+      "volume": "31",
+      "author": "C A Jaleel",
+      "year": "2007",
+      "journal-title": "Turkish Journal of Botany"
+    },
+    {
+      "issue": "2",
+      "key": "ref46",
+      "first-page": "79",
+      "article-title": "Soil salinity alters growth, chlorophyll content, and secondary metabolite accumulation in Catharanthus roseus",
+      "volume": "32",
+      "author": "C A Jaleel",
+      "year": "2008",
+      "journal-title": "Turkish Journal of Biology"
+    },
+    {
+      "issue": "8",
+      "key": "ref47",
+      "doi-asserted-by": "crossref",
+      "first-page": "2937",
+      "DOI": "10.1093/jxb/err003",
+      "article-title": "Major genes for Na+ exclusion, Nax1 and Nax2 (wheat HKT1;4 and HKT1;5), decrease Na+ accumulation in bread wheat leaves under saline and waterlogged conditions",
+      "volume": "62",
+      "author": "R A James",
+      "year": "2011",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "7769",
+      "key": "ref48",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1038/s41586-019-1449-z",
+      "article-title": "Plant cell-surface GIPC sphingolipids sense salt to trigger Ca2+ influx",
+      "volume": "572",
+      "author": "Z Jiang",
+      "year": "2019",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "2",
+      "key": "ref49",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1002/jsfa.2740590206",
+      "article-title": "Lignification of switchgrass (Panicum virgatum) and big bluestem (Andropogon gerardii) plant parts during maturation and its effect on fibre degradability",
+      "volume": "59",
+      "author": "H G Jung",
+      "year": "1992",
+      "journal-title": "Journal of the Science of Food and Agriculture"
+    },
+    {
+      "issue": "1",
+      "key": "ref50",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.1016/j.envexpbot.2010.10.009",
+      "article-title": "Effects of salt stress on photosystem II efficiency and CO2 assimilation of two Syrian barley landraces",
+      "volume": "73",
+      "author": "H M Kalaji",
+      "year": "2011",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "issue": "2",
+      "key": "ref51",
+      "doi-asserted-by": "crossref",
+      "first-page": "483",
+      "DOI": "10.1104/pp.110.161240",
+      "article-title": "Plant cell walls",
+      "volume": "154",
+      "author": "K Keegstra",
+      "year": "2010",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "issue": "3",
+      "key": "ref52",
+      "article-title": "Effect of various pH and salinity levels of water on the germination and growth of Typha latifolia L",
+      "volume": "23",
+      "author": "I A Khan",
+      "year": "2017",
+      "journal-title": "Pakistan Journal of Weed Science Research"
+    },
+    {
+      "key": "ref53",
+      "article-title": "Salinity Effects on Growth, Electrolyte Leakage, Chlorophyll Content and Lipid Peroxidation in Cucumber",
+      "author": "M M Khan",
+      "year": "2013",
+      "journal-title": "2013 International Conference on Food and Agricultural Sciences"
+    },
+    {
+      "issue": "1",
+      "key": "ref54",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1016/0005-2728(75)90209-1",
+      "article-title": "Quenching of chlorophyll fluorescence and primary photochemistry in chloroplasts by dibromothymoquinone",
+      "volume": "376",
+      "author": "M B W L Kitajima",
+      "year": "1975",
+      "journal-title": "Biochimica et Biophysica Acta (BBA)-Bioenergetics"
+    },
+    {
+      "issue": "4",
+      "key": "ref55",
+      "doi-asserted-by": "crossref",
+      "first-page": "606",
+      "DOI": "10.1104/pp.60.4.606",
+      "article-title": "Measurement of ozone injury by determination of leaf chlorophyll concentration",
+      "volume": "60",
+      "author": "L L Knudson",
+      "year": "1977",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "issue": "1-2",
+      "key": "ref56",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/j.bioelechem.2003.09.020",
+      "article-title": "Evaluation of chlorophyll fluorescence and membrane injury in the leaves of barley cultivars under osmotic stress",
+      "volume": "63",
+      "author": "K Kocheva",
+      "year": "2004",
+      "journal-title": "Bioelectrochemistry"
+    },
+    {
+      "issue": "2",
+      "key": "ref57",
+      "doi-asserted-by": "crossref",
+      "first-page": "136",
+      "DOI": "10.1016/j.envexpbot.2005.02.001",
+      "article-title": "Effect of salinity on growth, photosynthesis, water relations and solute composition of the potential cash crop halophyte Plantago coronopus (L.)",
+      "volume": "56",
+      "author": "H W Koyro",
+      "year": "2006",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "key": "ref58",
+      "first-page": "5",
+      "author": "H.-W Koyro",
+      "year": "2003",
+      "journal-title": "Study of potential cash crop halophytes by a quick check system: Determination of the threshold of salinity tolerance and the ecophysiological demands"
+    },
+    {
+      "issue": "1",
+      "key": "ref59",
+      "doi-asserted-by": "crossref",
+      "first-page": "180",
+      "DOI": "10.1111/j.1399-3054.1992.tb01328.x",
+      "article-title": "Relationship between photosystem II activity and CO2 fixation in leaves",
+      "volume": "86",
+      "author": "J P Krall",
+      "year": "1992",
+      "journal-title": "Physiologia Plantarum"
+    },
+    {
+      "issue": "2",
+      "key": "ref60",
+      "first-page": "745",
+      "article-title": "Plant cell-wall hydrolyzing enzymes from indigenously isolated fungi grown on conventional and novel natural substrates",
+      "volume": "49",
+      "author": "D Kumari",
+      "year": "2017",
+      "journal-title": "Pakistan Journal of Botany"
+    },
+    {
+      "issue": "1",
+      "key": "ref61",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1007/s10142-008-0088-5",
+      "article-title": "Transcriptome map for seedling stage specific salinity stress response indicates a specific set of genes as candidate for saline tolerance in Oryza sativa",
+      "volume": "9",
+      "author": "S Kumari",
+      "year": "2009",
+      "journal-title": "L. Functional and Integrative Genomics"
+    },
+    {
+      "issue": "5",
+      "key": "ref62",
+      "doi-asserted-by": "crossref",
+      "first-page": "947",
+      "DOI": "10.1111/pce.12946",
+      "article-title": "Proteomics of contrasting rice genotypes: Identification of potential targets for raising crops for saline environment",
+      "volume": "41",
+      "author": "N Lakra",
+      "year": "2018",
+      "journal-title": "Plant Cell and Environment"
+    },
+    {
+      "issue": "5",
+      "key": "ref63",
+      "doi-asserted-by": "crossref",
+      "first-page": "460",
+      "DOI": "10.1016/j.bbabio.2012.02.002",
+      "article-title": "On the relationship between non-photochemical quenching and photoprotection of Photosystem II",
+      "volume": "1817",
+      "author": "P H Lambrev",
+      "year": "2012",
+      "journal-title": "Biochimica et Biophysica Acta -Bioenergetics"
+    },
+    {
+      "issue": "6",
+      "key": "ref64",
+      "doi-asserted-by": "crossref",
+      "first-page": "1417",
+      "DOI": "10.1016/j.plantsci.2003.12.029",
+      "article-title": "Photosynthetic responses to salinity stress of halophytic seashore paspalum ecotypes",
+      "volume": "166",
+      "author": "G Lee",
+      "year": "2004",
+      "journal-title": "Plant Science"
+    },
+    {
+      "key": "ref65",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1016/j.plaphy.2013.05.047",
+      "article-title": "Divergences in morphological changes and antioxidant responses in salt-tolerant and salt-sensitive rice seedlings after salt stress",
+      "volume": "70",
+      "author": "M H Lee",
+      "year": "2013",
+      "journal-title": "Plant Physiology and Biochemistry"
+    },
+    {
+      "issue": "3",
+      "key": "ref66",
+      "doi-asserted-by": "crossref",
+      "first-page": "423",
+      "DOI": "10.1111/j.1399-3054.2006.00680.x",
+      "article-title": "Interrelations among pressure-volume curve traits across species and water availability gradients",
+      "volume": "127",
+      "author": "T I Lenz",
+      "year": "2006",
+      "journal-title": "Physiologia Plantarum"
+    },
+    {
+      "key": "ref67",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1016/j.jplph.2018.07.005",
+      "article-title": "Growth, physiology, and transcriptional analysis of Two contrasting Carex rigescens genotypes under Salt stress reveals salt-tolerance mechanisms",
+      "volume": "229",
+      "author": "M Li",
+      "year": "2018",
+      "journal-title": "Journal of Plant Physiology"
+    },
+    {
+      "key": "ref68",
+      "doi-asserted-by": "crossref",
+      "first-page": "350",
+      "DOI": "10.1016/0076-6879(87)48036-1",
+      "article-title": "34] Chlorophylls and carotenoids: pigments of photosynthetic biomembranes",
+      "volume": "148",
+      "author": "H K Lichtenthaler",
+      "year": "1987",
+      "journal-title": "Methods in Enzymology"
+    },
+    {
+      "issue": "1",
+      "key": "ref69",
+      "first-page": "1",
+      "article-title": "QTLs for stomatal and photosynthetic traits related to salinity tolerance in barley",
+      "volume": "18",
+      "author": "X Liu",
+      "year": "2017",
+      "journal-title": "BMC Genomics"
+    },
+    {
+      "key": "ref70",
+      "first-page": "44",
+      "article-title": "The potential resource of halophytes for developing bio-energy in China coastal zone",
+      "volume": "1",
+      "author": "X Z Liu",
+      "year": "2012",
+      "journal-title": "Herald J Agric Food Sci Res"
+    },
+    {
+      "issue": "2",
+      "key": "ref71",
+      "doi-asserted-by": "crossref",
+      "first-page": "176",
+      "DOI": "10.1016/j.envexpbot.2007.08.002",
+      "article-title": "Relationship between salt tolerance and photosynthetic machinery performance in citrus",
+      "volume": "62",
+      "author": "M F L�pez-Climent",
+      "year": "2008",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "issue": "1",
+      "key": "ref72",
+      "doi-asserted-by": "crossref",
+      "first-page": "90",
+      "DOI": "10.1177/00220345560350012301",
+      "article-title": "The anthrone method for the determination of carbohydrates in foods and in oral rinsing",
+      "volume": "35",
+      "author": "T G Ludwig",
+      "year": "1956",
+      "journal-title": "Journal of Dental Research"
+    },
+    {
+      "issue": "3",
+      "key": "ref73",
+      "doi-asserted-by": "crossref",
+      "first-page": "478",
+      "DOI": "10.1111/j.1365-2435.2007.01266.x",
+      "article-title": "Response of emergent macrophytes to experimental nutrient and salinity additions 479 Macrophyte response to nutrients and salinity",
+      "volume": "21",
+      "author": "P Macek",
+      "year": "2007",
+      "journal-title": "Functional Ecology"
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fpls.2014.00178",
+      "article-title": "The role of the cell wall in plant immunity",
+      "volume": "5",
+      "author": "F G Malinovsky",
+      "year": "2014",
+      "journal-title": "Frontiers in Plant Science"
+    },
+    {
+      "issue": "3",
+      "key": "ref75",
+      "first-page": "338",
+      "article-title": "Salinity induced changes in photosynthetic pigments and polyphenols of Cymbopogon Nardus (L.) Rendle",
+      "volume": "2",
+      "author": "A V Mane",
+      "year": "2010",
+      "journal-title": "J. Chem. Pharm. Res"
+    },
+    {
+      "issue": "17",
+      "key": "ref76",
+      "doi-asserted-by": "crossref",
+      "first-page": "4215",
+      "DOI": "10.1093/jxb/ery201",
+      "article-title": "Calcium signaling during salt stress and in the regulation of ion homeostasis",
+      "volume": "69",
+      "author": "P Manishankar",
+      "year": "2018",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "4",
+      "key": "ref77",
+      "doi-asserted-by": "crossref",
+      "first-page": "1366",
+      "DOI": "10.1111/nph.13684",
+      "article-title": "Unlocking the potential of lignocellulosic biomass through plant science",
+      "volume": "209",
+      "author": "P E Marriott",
+      "year": "2016",
+      "journal-title": "New Phytologist"
+    },
+    {
+      "key": "ref78",
+      "doi-asserted-by": "crossref",
+      "first-page": "1255",
+      "DOI": "10.1093/jxb/47.Special_Issue.1255",
+      "article-title": "Effect of mineral nutritional status on shootroot partitioning of photoassimilates and cycling of mineral nutrients",
+      "author": "H Marschner",
+      "year": "1996",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "14",
+      "key": "ref79",
+      "doi-asserted-by": "crossref",
+      "first-page": "4109",
+      "DOI": "10.1093/jxb/erv267",
+      "article-title": "Biomass recalcitrance: A multi-scale, multi-factor, and conversion-specific property",
+      "volume": "66",
+      "author": "M C Mccann",
+      "year": "2015",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "6",
+      "key": "ref80",
+      "doi-asserted-by": "crossref",
+      "first-page": "720",
+      "DOI": "10.1002/jpln.200420410",
+      "article-title": "Limits imposed by salt to the growth of the halophyte Sesuvium portulacastrum",
+      "volume": "167",
+      "author": "D Messedi",
+      "year": "2004",
+      "journal-title": "Journal of Plant Nutrition and Soil Science"
+    },
+    {
+      "issue": "3",
+      "key": "ref81",
+      "article-title": "Morpho-physiological response of Acacia auriculiformis as influenced by seawater induced salinity stress",
+      "author": "M Mezanur-Rahman",
+      "year": "2016",
+      "journal-title": "Forest Systems"
+    },
+    {
+      "key": "ref82",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1016/j.plaphy.2012.02.003",
+      "article-title": "Differential response of salt stress on Brassica juncea: Photosynthetic performance, pigment, proline, D1 and antioxidant enzymes",
+      "volume": "54",
+      "author": "S Mittal",
+      "year": "2012",
+      "journal-title": "Plant Physiology and Biochemistry"
+    },
+    {
+      "key": "ref83",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fpls.2015.01055",
+      "article-title": "Hydrogen sulfide regulates salt tolerance in rice by maintaining Na+/K+ balance, mineral homeostasis and oxidative metabolism under excessive salt stress",
+      "volume": "6",
+      "author": "M G Mostofa",
+      "year": "2015",
+      "journal-title": "Frontiers in Plant Science"
+    },
+    {
+      "issue": "2",
+      "key": "ref84",
+      "doi-asserted-by": "crossref",
+      "first-page": "457",
+      "DOI": "10.1007/s10646-011-0598-0",
+      "article-title": "Adaptability of Typha domingensis to high pH and salinity",
+      "volume": "20",
+      "author": "M M Mufarrege",
+      "year": "2011",
+      "journal-title": "Ecotoxicology"
+    },
+    {
+      "key": "ref85",
+      "author": "A A Mukhtar",
+      "journal-title": "Typha Biomass Energy for Sustainable Management of Typha domingensis L. in Affected Communities of Northern Nigeria"
+    },
+    {
+      "issue": "1",
+      "key": "ref86",
+      "first-page": "1",
+      "article-title": "Development of halophytes as energy feedstock by applying genetic manipulations",
+      "volume": "13",
+      "author": "N Munir",
+      "year": "2020",
+      "journal-title": "Frontiers in Life Science"
+    },
+    {
+      "issue": "1",
+      "key": "ref87",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1111/j.1365-3040.1993.tb00840.x",
+      "article-title": "Physiological processes limiting plant growth in saline soils: some dogmas and hypotheses",
+      "volume": "16",
+      "author": "R Munns",
+      "year": "1993",
+      "journal-title": "Plant, Cell & Environment"
+    },
+    {
+      "issue": "1",
+      "key": "ref88",
+      "first-page": "143",
+      "article-title": "Whole-plant responses to salinity",
+      "volume": "13",
+      "author": "R Munns",
+      "year": "1986",
+      "journal-title": "Australian Journal of Plant Physiology"
+    },
+    {
+      "issue": "2",
+      "key": "ref89",
+      "first-page": "339",
+      "article-title": "Comparative physiology of salt and water stress",
+      "volume": "25",
+      "author": "Rana Munns",
+      "year": "2002",
+      "journal-title": "Plant, Cell and Environment"
+    },
+    {
+      "key": "ref90",
+      "doi-asserted-by": "crossref",
+      "first-page": "651",
+      "DOI": "10.1146/annurev.arplant.59.032607.092911",
+      "article-title": "Mechanisms of salinity tolerance",
+      "volume": "59",
+      "author": "Rana Munns",
+      "year": "2008",
+      "journal-title": "Annual Review of Plant Biology"
+    },
+    {
+      "key": "ref91",
+      "doi-asserted-by": "crossref",
+      "first-page": "60",
+      "DOI": "10.1016/j.aquabot.2014.01.001",
+      "article-title": "Anatomical and physiological adaptations in aquatic ecotypes of Cyperus alopecuroides Rottb. under saline and waterlogged conditions",
+      "volume": "116",
+      "author": "T Nawaz",
+      "year": "2014",
+      "journal-title": "Aquatic Botany"
+    },
+    {
+      "issue": "8",
+      "key": "ref92",
+      "doi-asserted-by": "crossref",
+      "first-page": "1576",
+      "DOI": "10.1111/pce.12962",
+      "article-title": "Leaf water storage increases with salinity and aridity in the mangrove Avicennia marina: integration of leaf structure, osmotic adjustment and access to multiple water sources",
+      "volume": "40",
+      "author": "H T Nguyen",
+      "year": "2017",
+      "journal-title": "Plant Cell and Environment"
+    },
+    {
+      "issue": "3",
+      "key": "ref93",
+      "doi-asserted-by": "crossref",
+      "first-page": "397",
+      "DOI": "10.1023/A:1007024019133",
+      "article-title": "Gas exchange and chlorophyll fluorescence of C3 and C4 saltmarsh species",
+      "volume": "36",
+      "author": "F J J Nieva",
+      "year": "1999",
+      "journal-title": "Photosynthetica"
+    },
+    {
+      "key": "ref94",
+      "article-title": "Methods of analysis of AOAC International",
+      "author": "A Official",
+      "year": "2003",
+      "journal-title": "AOAC INTERNATIONAL"
+    },
+    {
+      "issue": "2",
+      "key": "ref95",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1023/A:1005936823310",
+      "article-title": "Resolving chlorophyll a fluorescence images of photosynthetic efficiency into photochemical and non-photochemical componentscalculation of qP and Fv-/Fm-; without measuring Fo",
+      "volume": "54",
+      "author": "K Oxborough",
+      "year": "1997",
+      "journal-title": "Photosynthesis Research"
+    },
+    {
+      "issue": "7",
+      "key": "ref96",
+      "doi-asserted-by": "crossref",
+      "first-page": "575",
+      "DOI": "10.1071/FP15288",
+      "article-title": "Halophytes as a source of salt tolerance genes and mechanisms: A case study for the Salt Lake area",
+      "volume": "43",
+      "author": "C Ozfidan-Konakci",
+      "year": "2016",
+      "journal-title": "Turkey. Functional Plant Biology"
+    },
+    {
+      "issue": "398",
+      "key": "ref97",
+      "doi-asserted-by": "crossref",
+      "first-page": "939",
+      "DOI": "10.1093/jxb/erh071",
+      "article-title": "Alkali grass resists salt stress through high [K+] and an endodermis barrier to Na+",
+      "volume": "55",
+      "author": "Y H Peng",
+      "year": "2004",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "5",
+      "key": "ref98",
+      "doi-asserted-by": "crossref",
+      "first-page": "713",
+      "DOI": "10.1111/tpj.12420",
+      "article-title": "p-Coumaroyl-C o A: monolignol transferase (PMT) acts specifically in the lignin biosynthetic pathway in B rachypodium distachyon",
+      "volume": "77",
+      "author": "D L Petrik",
+      "year": "2014",
+      "journal-title": "The Plant Journal"
+    },
+    {
+      "issue": "3",
+      "key": "ref99",
+      "doi-asserted-by": "crossref",
+      "first-page": "869",
+      "DOI": "10.1093/jxb/erq340",
+      "article-title": "Photosynthesis and drought: Can we make metabolic connections from available data",
+      "volume": "62",
+      "author": "C Pinheiro",
+      "year": "2011",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "2",
+      "key": "ref100",
+      "doi-asserted-by": "crossref",
+      "first-page": "256",
+      "DOI": "10.1672/0277-5212(2001)021[0256:SGGAOA]2.0.CO;2",
+      "article-title": "Seed germination, growth, and osmotic adjustment in response to NaCl in a rare succulent halophyte from southeastern Spain",
+      "volume": "21",
+      "author": "J A Pujol",
+      "year": "2001",
+      "journal-title": "Wetlands"
+    },
+    {
+      "key": "ref101",
+      "first-page": "429",
+      "volume": "19",
+      "author": "M Qadir",
+      "year": "2008",
+      "journal-title": "Productivity enhancement of salt-affected environments through crop diversification"
+    },
+    {
+      "issue": "4",
+      "key": "ref102",
+      "doi-asserted-by": "crossref",
+      "first-page": "1415",
+      "DOI": "10.1105/tpc.106.042291",
+      "article-title": "SCABP8/CBL10, a putative calcium sensor, interacts with the protein kinase SOS2 to protect Arabidopsis shoots from salt stress",
+      "volume": "19",
+      "author": "R Quan",
+      "year": "2007",
+      "journal-title": "Plant Cell"
+    },
+    {
+      "key": "ref103",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1016/j.sajb.2011.11.007",
+      "article-title": "Photosynthetic responses to salinity in two obligate halophytes: Sesuvium portulacastrum and Tecticornia indica",
+      "volume": "79",
+      "author": "M Rabhi",
+      "year": "2012",
+      "journal-title": "South African Journal of Botany"
+    },
+    {
+      "issue": "3",
+      "key": "ref104",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1071/FP09148",
+      "article-title": "Stomatal conductance as a screen for osmotic stress tolerance in durum wheat growing in saline soil",
+      "volume": "37",
+      "author": "A Rahnama",
+      "year": "2010",
+      "journal-title": "Functional Plant Biology"
+    },
+    {
+      "issue": "5",
+      "key": "ref105",
+      "doi-asserted-by": "crossref",
+      "first-page": "1017",
+      "DOI": "10.1093/jxb/erj108",
+      "article-title": "World salinization with emphasis on Australia",
+      "volume": "57",
+      "author": "P Rengasamy",
+      "year": "2006",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "5907",
+      "key": "ref106",
+      "doi-asserted-by": "crossref",
+      "first-page": "1478",
+      "DOI": "10.1126/science.1168572",
+      "article-title": "Ecology: Crops for a salinized world",
+      "volume": "322",
+      "author": "J Rozema",
+      "year": "2008",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref107",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1016/j.envexpbot.2012.08.004",
+      "article-title": "Salt tolerance of halophytes, research questions reviewed in the perspective of saline agriculture",
+      "volume": "92",
+      "author": "J Rozema",
+      "year": "2013",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "issue": "6",
+      "key": "ref108",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1080/07352689.2010.524517",
+      "article-title": "Halophyte Improvement for a Salinized World",
+      "volume": "29",
+      "author": "C J Ruan",
+      "year": "2010",
+      "journal-title": "Critical Reviews in Plant Sciences"
+    },
+    {
+      "issue": "3",
+      "key": "ref109",
+      "doi-asserted-by": "crossref",
+      "first-page": "1097",
+      "DOI": "10.1111/nph.15852",
+      "article-title": "Doing 'business as usual' comes with a cost: evaluating energy cost of maintaining plant intracellular K+ homeostasis under saline conditions",
+      "volume": "225",
+      "author": "F Rubio",
+      "year": "2020",
+      "journal-title": "New Phytologist"
+    },
+    {
+      "issue": "6",
+      "key": "ref110",
+      "doi-asserted-by": "crossref",
+      "first-page": "548",
+      "DOI": "10.1080/07352689.2011.615706",
+      "article-title": "Cell wall modifying proteins mediate plant acclimatization to biotic and abiotic stresses",
+      "volume": "30",
+      "author": "R Sasidharan",
+      "year": "2011",
+      "journal-title": "Critical Reviews in Plant Sciences"
+    },
+    {
+      "issue": "3668",
+      "key": "ref111",
+      "doi-asserted-by": "crossref",
+      "first-page": "339",
+      "DOI": "10.1126/science.148.3668.339",
+      "article-title": "Sap pressure in vascular plants: negative hydrostatic pressure can be measured in plants",
+      "volume": "148",
+      "author": "P F Scholander",
+      "year": "1965",
+      "journal-title": "Science"
+    },
+    {
+      "issue": "7",
+      "key": "ref112",
+      "doi-asserted-by": "crossref",
+      "first-page": "1209",
+      "DOI": "10.1093/aob/mct205",
+      "article-title": "Learning from halophytes: Physiological basis and strategies to improve abiotic stress tolerance in crops",
+      "volume": "112",
+      "author": "S Shabala",
+      "year": "2013",
+      "journal-title": "Annals of Botany"
+    },
+    {
+      "issue": "15",
+      "key": "ref113",
+      "doi-asserted-by": "crossref",
+      "first-page": "4003",
+      "DOI": "10.1093/jxb/erx238",
+      "article-title": "Signalling by potassium: Another second messenger to add to the list",
+      "volume": "68",
+      "author": "S Shabala",
+      "year": "2017",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "1",
+      "key": "ref114",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1007/s00425-007-0606-z",
+      "article-title": "Expression of animal CED-9 antiapoptotic gene in tobacco modifies plasma membrane ion fluxes in response to salinity and oxidative stress",
+      "volume": "227",
+      "author": "S Shabala",
+      "year": "2007",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "ref115",
+      "doi-asserted-by": "crossref",
+      "first-page": "663",
+      "DOI": "10.1016/j.ecoleng.2017.02.050",
+      "article-title": "Germination of Atriplex halimus seeds under salinity and water stress",
+      "volume": "102",
+      "author": "M Shaygan",
+      "year": "2017",
+      "journal-title": "Ecological Engineering"
+    },
+    {
+      "issue": "3",
+      "key": "ref116",
+      "doi-asserted-by": "crossref",
+      "first-page": "144",
+      "DOI": "10.5344/ajev.1965.16.3.144",
+      "article-title": "Colorimetry of total phenolics with phosphomolybdicphosphotungstic acid reagents",
+      "volume": "16",
+      "author": "V L Singleton",
+      "year": "1965",
+      "journal-title": "American journal of Enology and Viticulture"
+    },
+    {
+      "issue": "6",
+      "key": "ref117",
+      "doi-asserted-by": "crossref",
+      "first-page": "442",
+      "DOI": "10.1016/j.crvi.2008.03.006",
+      "article-title": "Combined effects of long-term salinity and soil drying on growth, water relations, nutrient status and proline accumulation of Sesuvium portulacastrum",
+      "volume": "331",
+      "author": "I Slama",
+      "year": "2008",
+      "journal-title": "Comptes Rendus -Biologies"
+    },
+    {
+      "issue": "3",
+      "key": "ref118",
+      "doi-asserted-by": "crossref",
+      "first-page": "541",
+      "DOI": "10.1093/aob/mcu194",
+      "article-title": "Using euhalophytes to understand salt tolerance and to develop saline agriculture: Suaeda salsa As a promising model",
+      "volume": "115",
+      "author": "J Song",
+      "year": "2015",
+      "journal-title": "Annals of Botany"
+    },
+    {
+      "issue": "1",
+      "key": "ref119",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.1111/j.1399-3054.2005.00534.x",
+      "article-title": "Antioxidant defense in the leaves of C3 and C4 plants under salinity stress",
+      "volume": "125",
+      "author": "P Stepien",
+      "year": "2005",
+      "journal-title": "Physiologia Plantarum"
+    },
+    {
+      "issue": "1",
+      "key": "ref120",
+      "first-page": "212",
+      "article-title": "Hydrolysis of lignocellulosic materials for ethanol production: A review",
+      "volume": "83",
+      "author": "Y Sun",
+      "year": "2002",
+      "journal-title": "Bioresource Technology"
+    },
+    {
+      "key": "ref121",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1300/J144v07n01_09",
+      "article-title": "Soil salinity in South India: Problems and solutions",
+      "volume": "7",
+      "author": "G Swarajyalakshmi",
+      "year": "2003",
+      "journal-title": "Journal of Crop Production"
+    },
+    {
+      "key": "ref122",
+      "first-page": "60",
+      "volume": "49",
+      "author": "Y Tan",
+      "year": "2006",
+      "journal-title": "Effect of water deficits on the activity of anti-oxidative enzymes and osmoregulation among three different genotypes of Radix Astragali at seeding stage"
+    },
+    {
+      "issue": "4",
+      "key": "ref123",
+      "doi-asserted-by": "crossref",
+      "first-page": "1372",
+      "DOI": "10.1016/j.foodchem.2007.01.064",
+      "article-title": "Antioxidant activity and total phenolic content of selected Jordanian plant species",
+      "volume": "104",
+      "author": "K Tawaha",
+      "year": "2007",
+      "journal-title": "Food Chemistry"
+    },
+    {
+      "issue": "9",
+      "key": "ref124",
+      "first-page": "37",
+      "article-title": "Determination of nutritional value and lignocellulosic biomass of six halophytic plants grown under saline irrigation in South Sinai",
+      "volume": "8",
+      "author": "M M Tawfik",
+      "year": "2015",
+      "journal-title": "International Journal of ChemTech Research"
+    },
+    {
+      "key": "ref125",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1016/j.envexpbot.2012.09.006",
+      "article-title": "Differential tolerance to combined salinity and O2 deficiency in the halophytic grasses Puccinellia ciliata and Thinopyrum ponticum: The importance of K+ retention in roots",
+      "volume": "87",
+      "author": "N L Teakle",
+      "year": "2013",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "issue": "3",
+      "key": "ref126",
+      "doi-asserted-by": "crossref",
+      "first-page": "304",
+      "DOI": "10.1016/j.ecoleng.2005.04.009",
+      "article-title": "Ecological engineering, adaptive management, and restoration management in Delaware Bay salt marsh restoration",
+      "volume": "25",
+      "author": "J M Teal",
+      "year": "2005",
+      "journal-title": "Ecological Engineering"
+    },
+    {
+      "issue": "4",
+      "key": "ref127",
+      "doi-asserted-by": "crossref",
+      "first-page": "2854",
+      "DOI": "10.1104/pp.16.00408",
+      "article-title": "A NAP-family histone chaperone functions in abiotic stress response and adaptation",
+      "volume": "171",
+      "author": "A K Tripathi",
+      "year": "2016",
+      "journal-title": "Plant Physiology"
+    },
+    {
+      "issue": "1",
+      "key": "ref128",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1093/jxb/23.1.267",
+      "article-title": "The measurement of the turgor pressure and the water relations of plants by the pressure-bomb technique",
+      "volume": "23",
+      "author": "M T Tyree",
+      "year": "1972",
+      "journal-title": "Journal of experimental Botany"
+    },
+    {
+      "issue": "10",
+      "key": "ref129",
+      "doi-asserted-by": "crossref",
+      "first-page": "3583",
+      "DOI": "10.3168/jds.S0022-0302(91)78551-2",
+      "article-title": "Methods for dietary fiber, neutral detergent fiber, and nonstarch polysaccharides in relation to animal nutrition",
+      "volume": "74",
+      "author": "P J Van Soest",
+      "year": "1991",
+      "journal-title": "Journal of Dairy Science"
+    },
+    {
+      "issue": "1",
+      "key": "ref130",
+      "doi-asserted-by": "crossref",
+      "first-page": "59",
+      "DOI": "10.1016/S0168-9452(99)00197-1",
+      "article-title": "Oxidative stress and some antioxidant systems in acid rain-treated bean plants: protective role of exogenous polyamines",
+      "volume": "151",
+      "author": "V Velikova",
+      "year": "2000",
+      "journal-title": "Plant Science"
+    },
+    {
+      "issue": "3",
+      "key": "ref131",
+      "doi-asserted-by": "crossref",
+      "first-page": "529",
+      "DOI": "10.1093/aob/mcu173",
+      "article-title": "The development of halophyte-based agriculture: Past and present",
+      "volume": "115",
+      "author": "Y Ventura",
+      "year": "2015",
+      "journal-title": "Annals of Botany"
+    },
+    {
+      "issue": "1-3",
+      "key": "ref132",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.1007/s10661-007-9867-z",
+      "article-title": "Soil salinity evolution and its relationship with dynamics of groundwater in the oasis of inland river basins: Case study from the Fubei Region of Xinjiang Province",
+      "volume": "140",
+      "author": "Y Wang",
+      "year": "2008",
+      "journal-title": "Environmental Monitoring and Assessment"
+    },
+    {
+      "issue": "4",
+      "key": "ref133",
+      "doi-asserted-by": "crossref",
+      "first-page": "515",
+      "DOI": "10.1111/ppl.12056",
+      "article-title": "Ability of leaf mesophyll to retain potassium correlates with salinity tolerance in wheat and barley",
+      "volume": "149",
+      "author": "H Wu",
+      "year": "2013",
+      "journal-title": "Physiologia Plantarum"
+    },
+    {
+      "issue": "5",
+      "key": "ref134",
+      "doi-asserted-by": "crossref",
+      "first-page": "859",
+      "DOI": "10.1007/s00425-010-1347-y",
+      "article-title": "Differential salt tolerance in seedlings derived from dimorphic seeds of Atriplex centralasiatica: From physiology to molecular analysis",
+      "volume": "233",
+      "author": "J Xu",
+      "year": "2011",
+      "journal-title": "Planta"
+    },
+    {
+      "key": "ref135",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1186/1471-2229-12-188",
+      "article-title": "The SbSOS1 gene from the extreme halophyte Salicornia brachiata enhances Na+ loading in xylem and confers salt tolerance in transgenic tobacco",
+      "volume": "12",
+      "author": "N S Yadav",
+      "year": "2012",
+      "journal-title": "BMC Plant Biology"
+    },
+    {
+      "issue": "5",
+      "key": "ref136",
+      "article-title": "Causes of salinity and plant manifestations to salt stress: A review",
+      "volume": "32",
+      "author": "S Yadav",
+      "year": "2011",
+      "journal-title": "Journal of Environmental Biology"
+    },
+    {
+      "issue": "6",
+      "key": "ref137",
+      "doi-asserted-by": "crossref",
+      "first-page": "1801",
+      "DOI": "10.1093/jxb/erz549",
+      "article-title": "The protein kinase complex CBL10-CIPK8-SOS1 functions in Arabidopsis to regulate salt tolerance",
+      "volume": "71",
+      "author": "X Yin",
+      "year": "2020",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "issue": "2",
+      "key": "ref138",
+      "article-title": "The effect of NaCl on stomatal opening in Arabidopsis wild type and agb1 heterotrimeric G-protein mutant plants",
+      "volume": "11",
+      "author": "Y Yu",
+      "year": "2016",
+      "journal-title": "Plant Signaling and Behavior"
+    },
+    {
+      "issue": "12",
+      "key": "ref139",
+      "doi-asserted-by": "crossref",
+      "first-page": "1297",
+      "DOI": "10.1038/s41477-019-0565-y",
+      "article-title": "A HAK family Na+ transporter confers natural variation of salt tolerance in maize",
+      "volume": "5",
+      "author": "M Zhang",
+      "year": "2019",
+      "journal-title": "Nature Plants"
+    },
+    {
+      "issue": "5",
+      "key": "ref140",
+      "doi-asserted-by": "crossref",
+      "first-page": "441",
+      "DOI": "10.1016/S1369-5266(03)00085-2",
+      "article-title": "Regulation of ion homeostasis under salt stress",
+      "volume": "6",
+      "author": "J K Zhu",
+      "year": "2003",
+      "journal-title": "Current Opinion in Plant Biology"
+    }
+  ],
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        10
+      ]
+    ],
+    "date-time": "2023-11-10T01:20:15Z",
+    "timestamp": 1699579215000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=4628720"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "references-count": 140,
+  "URL": "https://doi.org/10.2139/ssrn.4628720",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

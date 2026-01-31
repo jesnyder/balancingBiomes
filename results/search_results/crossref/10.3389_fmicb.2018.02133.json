@@ -1,0 +1,980 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        1
+      ]
+    ],
+    "date-time": "2025-12-01T15:38:27Z",
+    "timestamp": 1764603507040,
+    "version": "3.41.2"
+  },
+  "reference-count": 73,
+  "publisher": "Frontiers Media SA",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            7
+          ]
+        ],
+        "date-time": "2018-09-07T00:00:00Z",
+        "timestamp": 1536278400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100003977",
+      "name": "Israel Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "109/16"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "109/16"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100003977",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "frontiersin.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Front. Microbiol."
+  ],
+  "DOI": "10.3389/fmicb.2018.02133",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        7
+      ]
+    ],
+    "date-time": "2018-09-07T04:21:55Z",
+    "timestamp": 1536294115000
+  },
+  "update-policy": "https://doi.org/10.3389/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 19,
+  "title": [
+    "Sialic Acid-Like Sugars in Archaea: Legionaminic Acid Biosynthesis in the Halophile Halorubrum sp. PV6"
+  ],
+  "prefix": "10.3389",
+  "volume": "9",
+  "author": [
+    {
+      "given": "Marianna",
+      "family": "Zaretsky",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Elina",
+      "family": "Roine",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Jerry",
+      "family": "Eichler",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "1965",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        7
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "B1",
+      "doi-asserted-by": "publisher",
+      "first-page": "607",
+      "DOI": "10.1111/j.1365-2958.2007.05806.x",
+      "article-title": "Neisseria gonorrhoeae O-linked pilin glycosylation: functional analyses define both the biosynthetic pathway and glycan structure.",
+      "volume": "65",
+      "author": "Aas",
+      "year": "2007",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "B2",
+      "doi-asserted-by": "publisher",
+      "first-page": "1164",
+      "DOI": "10.1111/mmi.12248",
+      "article-title": "Haloferax volcanii archaeosortase is required for motility, mating, and C-terminal processing of the S-layer glycoprotein.",
+      "volume": "88",
+      "author": "Abdul Halim",
+      "year": "2013",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "B3",
+      "doi-asserted-by": "publisher",
+      "first-page": "1224",
+      "DOI": "10.1016/j.jmb.2007.10.042",
+      "article-title": "Haloferax volcanii AglB and AglD are involved in N-glycosylation of the S-layer glycoprotein and proper assembly of the surface layer.",
+      "volume": "374",
+      "author": "Abu-Qarn",
+      "year": "2007",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "B4",
+      "doi-asserted-by": "publisher",
+      "first-page": "2430",
+      "DOI": "10.1016/j.bbamcr.2013.04.001",
+      "article-title": "N-linked protein glycosylation in the ER.",
+      "volume": "1833",
+      "author": "Aebi",
+      "year": "2013",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "B5",
+      "doi-asserted-by": "publisher",
+      "first-page": "439",
+      "DOI": "10.1021/cr000407m",
+      "article-title": "Chemical diversity in sthe sialic acids and related alpha-keto acids: an evolutionary perspective.",
+      "volume": "102",
+      "author": "Angata",
+      "year": "2002",
+      "journal-title": "Chem. Rev."
+    },
+    {
+      "key": "B6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/1471-2164-9-75",
+      "article-title": "The RAST server: rapid annotations using subsystems technology.",
+      "volume": "9",
+      "author": "Aziz",
+      "year": "2008",
+      "journal-title": "BMC Genomics"
+    },
+    {
+      "key": "B7",
+      "doi-asserted-by": "publisher",
+      "first-page": "1166",
+      "DOI": "10.1111/j.1365-2958.2011.07781.x",
+      "article-title": "Different routes to the same ending: comparing the N-glycosylation processes of Haloferax volcanii and Haloarcula marismortui, two halophilic archaea from the Dead Sea.",
+      "volume": "81",
+      "author": "Calo",
+      "year": "2011",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "B8",
+      "doi-asserted-by": "publisher",
+      "first-page": "163",
+      "DOI": "10.1021/cb900266r",
+      "article-title": "Advances in the biology and chemistry of sialic acids.",
+      "volume": "5",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "ACS Chem. Biol."
+    },
+    {
+      "key": "B9",
+      "doi-asserted-by": "publisher",
+      "first-page": "455",
+      "DOI": "10.1089/omi.2009.0148",
+      "article-title": "The sialome-far more than the sum of its parts.",
+      "volume": "14",
+      "author": "Cohen",
+      "year": "2010",
+      "journal-title": "OMICS"
+    },
+    {
+      "key": "B10",
+      "doi-asserted-by": "publisher",
+      "first-page": "486",
+      "DOI": "10.1128/AEM.03191-13",
+      "article-title": "Substrate promiscuity: AglB, the archaeal oligosaccharyltransferase, can process a variety of lipid-linked glycans.",
+      "volume": "80",
+      "author": "Cohen-Rosenzweig",
+      "year": "2014",
+      "journal-title": "Appl. Environ. Microbiol."
+    },
+    {
+      "key": "B11",
+      "doi-asserted-by": "publisher",
+      "first-page": "281",
+      "DOI": "10.1111/j.1574-6968.2000.tb09244.x",
+      "article-title": "NeuD plays a role in the synthesis of sialic acid in Escherichia coli K1.",
+      "volume": "189",
+      "author": "Daines",
+      "year": "2000",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "B12",
+      "doi-asserted-by": "publisher",
+      "first-page": "650",
+      "DOI": "10.1002/bip.22314",
+      "article-title": "Exploration of sialic acid diversity and biology using sialoglycan microarrays.",
+      "volume": "99",
+      "author": "Deng",
+      "year": "2013",
+      "journal-title": "Biopolymers"
+    },
+    {
+      "key": "B13",
+      "doi-asserted-by": "publisher",
+      "first-page": "151",
+      "DOI": "10.1038/nrmicro2957",
+      "article-title": "Extreme sweetness: protein glycosylation in Archaea.",
+      "volume": "11",
+      "author": "Eichler",
+      "year": "2013",
+      "journal-title": "Nat. Rev. Microbiol."
+    },
+    {
+      "key": "B14",
+      "doi-asserted-by": "publisher",
+      "first-page": "10",
+      "DOI": "10.1016/j.tibs.2017.10.008",
+      "article-title": "Stereochemical divergence of polyprenol phosphate glycosyltransferases.",
+      "volume": "43",
+      "author": "Eichler",
+      "year": "2018",
+      "journal-title": "Trends Biochem. Sci."
+    },
+    {
+      "key": "B15",
+      "doi-asserted-by": "publisher",
+      "first-page": "1621",
+      "DOI": "10.1007/s00253-010-2531-5",
+      "article-title": "Biosynthesis and production of polysialic acids in bacteria.",
+      "volume": "86",
+      "author": "Ferrero",
+      "year": "2010",
+      "journal-title": "Appl. Microbiol. Biotechnol."
+    },
+    {
+      "key": "B16",
+      "doi-asserted-by": "publisher",
+      "first-page": "3272",
+      "DOI": "10.1021/bi702364s",
+      "article-title": "Biosynthesis of CMP-N,N’-diacetyllegionaminic acid from UDP-N,N’-diacetylbacillosamine in Legionella pneumophila.",
+      "volume": "47",
+      "author": "Glaze",
+      "year": "2008",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "B17",
+      "doi-asserted-by": "publisher",
+      "first-page": "5343",
+      "DOI": "10.1021/bi0602056",
+      "article-title": "Direct biochemical evidence for the utilization of UDP-bacillosamine by PglC, an essential glycosyl-1-phosphatetransferase in the Campylobacter jejuni N-linked glycosylation pathway.",
+      "volume": "45",
+      "author": "Glover",
+      "year": "2006",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "B18",
+      "doi-asserted-by": "publisher",
+      "first-page": "7372",
+      "DOI": "10.1128/jb.176.23.7372-7374.1994",
+      "article-title": "Characterization of CMP-N-acetylneuraminic acid synthetase of group B streptococci.",
+      "volume": "176",
+      "author": "Haft",
+      "year": "1994",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "B19",
+      "doi-asserted-by": "publisher",
+      "first-page": "4936",
+      "DOI": "10.1021/bi2003372",
+      "article-title": "Biochemical characterization of the O-linked glycosylation pathway in Neisseria gonorrhoeae responsible for biosynthesis of protein glycans containing N,N′-diacetylbacillosamine.",
+      "volume": "50",
+      "author": "Hartley",
+      "year": "2011",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "B20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/1471-2105-11-119",
+      "article-title": "Prodigal: prokaryotic gene recognition and translation initiation site identification.",
+      "volume": "11",
+      "author": "Hyatt",
+      "year": "2010",
+      "journal-title": "BMC Bioinformatics"
+    },
+    {
+      "key": "B21",
+      "doi-asserted-by": "publisher",
+      "first-page": "12881",
+      "DOI": "10.1074/jbc.M210762200",
+      "article-title": "Post-translational secretion of fusion proteins in the halophilic archaea Haloferax volcanii.",
+      "volume": "278",
+      "author": "Irihimovitch",
+      "year": "2003",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B22",
+      "doi-asserted-by": "publisher",
+      "first-page": "304",
+      "DOI": "10.1128/MMBR.00052-13",
+      "article-title": "N-linked glycosylation in Archaea: a structural, functional, and genetic analysis.",
+      "volume": "78",
+      "author": "Jarrell",
+      "year": "2014",
+      "journal-title": "Microbiol. Mol. Biol. Rev."
+    },
+    {
+      "key": "B23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1155/2010/612948",
+      "article-title": "S-layer glycoproteins and flagellins: reporters of archaeal posttranslational modifications.",
+      "volume": "2010",
+      "author": "Jarrell",
+      "year": "2010",
+      "journal-title": "Archaea"
+    },
+    {
+      "key": "B24",
+      "doi-asserted-by": "publisher",
+      "first-page": "485",
+      "DOI": "10.1016/j.bbagen.2009.03.030",
+      "article-title": "Structure and synthesis of polyisoprenoids used in N-glycosylation across the three domains of life.",
+      "volume": "1790",
+      "author": "Jones",
+      "year": "2009",
+      "journal-title": "Biochim. Biophys Acta"
+    },
+    {
+      "key": "B25",
+      "doi-asserted-by": "publisher",
+      "first-page": "327",
+      "DOI": "10.1016/j.ympev.2013.03.024",
+      "article-title": "Phylogenetic- and genome-derived insight into the evolution of N-glycosylation in Archaea.",
+      "volume": "68",
+      "author": "Kaminski",
+      "year": "",
+      "journal-title": "Mol. Phylogenet. Evol."
+    },
+    {
+      "key": "B26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1128/mBio.00716-13",
+      "article-title": "Two distinct N-glycosylation pathways process the Haloferax volcanii S-layer glycoprotein upon changes in environmental salinity.",
+      "volume": "4",
+      "author": "Kaminski",
+      "year": "",
+      "journal-title": "mBio"
+    },
+    {
+      "key": "B27",
+      "doi-asserted-by": "publisher",
+      "first-page": "578",
+      "DOI": "10.1111/j.1365-2958.2012.08045.x",
+      "article-title": "Diversity in prokaryotic glycosylation: an archaeal-derived N-linked glycan contains legionaminic acid.",
+      "volume": "84",
+      "author": "Kandiba",
+      "year": "2012",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "B28",
+      "doi-asserted-by": "publisher",
+      "first-page": "110",
+      "DOI": "10.1111/1574-6968",
+      "article-title": "Analysis of genes involved in the biosynthesis of sialic acids and other nonulosonic acid sugars in Archaea reveals a complex evolutionary history.",
+      "volume": "345",
+      "author": "Kandiba",
+      "year": "2013",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "B29",
+      "doi-asserted-by": "publisher",
+      "first-page": "28",
+      "DOI": "10.1002/mbo3.215",
+      "article-title": "Deciphering a pathway of Halobacterium salinarum N-glycosylation.",
+      "volume": "4",
+      "author": "Kandiba",
+      "year": "2015",
+      "journal-title": "Microbiologyopen"
+    },
+    {
+      "key": "B30",
+      "doi-asserted-by": "publisher",
+      "first-page": "938",
+      "DOI": "10.1016/j.bbamem.2012.11.023",
+      "article-title": "Lipid modification gives rise to two distinct Haloferax volcanii S-layer glycoprotein populations.",
+      "volume": "1828",
+      "author": "Kandiba",
+      "year": "2013",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "B31",
+      "doi-asserted-by": "publisher",
+      "first-page": "745",
+      "DOI": "10.1093/glycob/cww014",
+      "article-title": "Structural characterization of the N-linked pentasaccharide decorating glycoproteins of the halophilic archaeon Haloferax volcanii.",
+      "volume": "26",
+      "author": "Kandiba",
+      "year": "2016",
+      "journal-title": "Glycobiology"
+    },
+    {
+      "key": "B32",
+      "doi-asserted-by": "publisher",
+      "first-page": "845",
+      "DOI": "10.1038/nprot.2015.053",
+      "article-title": "The phyre2 web portal for protein modeling, prediction and analysis.",
+      "volume": "10",
+      "author": "Kelley",
+      "year": "2015",
+      "journal-title": "Nat. Protoc."
+    },
+    {
+      "key": "B33",
+      "doi-asserted-by": "publisher",
+      "first-page": "137",
+      "DOI": "10.1016/S0074-7696(08)62127-0",
+      "article-title": "Sialic acids in molecular and cellular interactions.",
+      "volume": "175",
+      "author": "Kelm",
+      "year": "1997",
+      "journal-title": "Int. Rev. Cytol."
+    },
+    {
+      "key": "B34",
+      "doi-asserted-by": "publisher",
+      "first-page": "239",
+      "DOI": "10.1111/j.1432-1033.1994.tb18734.x",
+      "article-title": "The structure of the O-specific chain of Legionella pneumophila serogroup 1 lipopolysaccharide.",
+      "volume": "221",
+      "author": "Knirel",
+      "year": "1994",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "B35",
+      "doi-asserted-by": "publisher",
+      "first-page": "371",
+      "DOI": "10.1016/S0065-2318(03)58007-6",
+      "article-title": "5,7-diamino-3,5,7,9-tetradeoxynon-2-ulosonic acids in bacterial glycopolymers: chemistry and biochemistry.",
+      "volume": "58",
+      "author": "Knirel",
+      "year": "2003",
+      "journal-title": "Adv. Carbohydr. Chem. Biochem."
+    },
+    {
+      "key": "B36",
+      "doi-asserted-by": "publisher",
+      "first-page": "662",
+      "DOI": "10.1016/j.tim.2017.03.001",
+      "article-title": "Sweet new roles for protein glycosylation in prokaryotes.",
+      "volume": "25",
+      "author": "Koomey",
+      "year": "2017",
+      "journal-title": "Trends Microbiol."
+    },
+    {
+      "key": "B37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1544",
+      "DOI": "10.1093/bioinformatics/btu851",
+      "article-title": "PANNZER - High-throughput functional annotation of uncharacterized proteins in an error-prone environment.",
+      "volume": "31",
+      "author": "Koskinen",
+      "year": "2015",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "B38",
+      "doi-asserted-by": "publisher",
+      "first-page": "4411",
+      "DOI": "10.1038/nchembio.1249",
+      "article-title": "The expanding horizons of asparagine-linked glycosylation.",
+      "volume": "50",
+      "author": "Larkin",
+      "year": "2011",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "B39",
+      "doi-asserted-by": "publisher",
+      "first-page": "13552",
+      "DOI": "10.1073/pnas.0902431106",
+      "article-title": "Innovations in host and microbial sialic acid biosynthesis revealed by phylogenomic prediction of nonulosonic acid structure.",
+      "volume": "106",
+      "author": "Lewis",
+      "year": "2009",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "B40",
+      "doi-asserted-by": "publisher",
+      "first-page": "17738",
+      "DOI": "10.1074/jbc.M400143200",
+      "article-title": "CMP-N-acetylneuraminic acid synthetase from Escherichia coli K1 is a bifunctional enzyme: identification of minimal catalytic domain for synthetase activity and novel functional domain for platelet-activating factor acetylhydrolase activity.",
+      "volume": "279",
+      "author": "Liu",
+      "year": "2004",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B41",
+      "doi-asserted-by": "publisher",
+      "first-page": "122",
+      "DOI": "10.1111/j.1574-6968.2009.01775.x",
+      "article-title": "Glycosyltransferases and oligosaccharyltransferases in Archaea: putative components of the N-glycosylation pathway in the third domain of life.",
+      "volume": "300",
+      "author": "Magidovich",
+      "year": "2009",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "B42",
+      "doi-asserted-by": "publisher",
+      "first-page": "4941",
+      "DOI": "10.1074/jbc.M109.081752",
+      "article-title": "Comparative structural biology of eubacterial and archaeal oligosaccharyltransferases.",
+      "volume": "285",
+      "author": "Maita",
+      "year": "2010",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B43",
+      "doi-asserted-by": "publisher",
+      "first-page": "14463",
+      "DOI": "10.1074/jbc.M611027200",
+      "article-title": "Targeted metabolomics analysis of Campylobacter coli VC167 reveals legionaminic acid derivatives as novel flagellar glycans.",
+      "volume": "282",
+      "author": "McNally",
+      "year": "2007",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B44",
+      "doi-asserted-by": "crossref",
+      "first-page": "8182",
+      "DOI": "10.1016/S0021-9258(18)42424-6",
+      "article-title": "Drastic differences in glycosylation of related S-layer glycoproteins from moderate and extreme halophiles.",
+      "volume": "267",
+      "author": "Mengele",
+      "year": "1992",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B45",
+      "doi-asserted-by": "crossref",
+      "first-page": "461",
+      "DOI": "10.1128/JB.162.1.461-462.1985",
+      "article-title": "Genetic transfer in Halobacterium volcanii.",
+      "volume": "162",
+      "author": "Mevarech",
+      "year": "1985",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "B46",
+      "doi-asserted-by": "crossref",
+      "first-page": "227",
+      "DOI": "10.1128/AEM.43.1.227-232.1982",
+      "article-title": "Isolation of Methanobrevibacter smithii from human feces.",
+      "volume": "43",
+      "author": "Miller",
+      "year": "1982",
+      "journal-title": "Appl. Environ. Microbiol."
+    },
+    {
+      "key": "B47",
+      "doi-asserted-by": "crossref",
+      "first-page": "1980",
+      "DOI": "10.1128/AEM.61.5.1980-1986.1995",
+      "article-title": "Expression, purification, and characterization of the cellulose-binding domain of the scaffoldin subunit from the cellulosome of Clostridium thermocellum.",
+      "volume": "61",
+      "author": "Morag",
+      "year": "1995",
+      "journal-title": "Appl. Environ. Microbiol."
+    },
+    {
+      "key": "B48",
+      "doi-asserted-by": "publisher",
+      "first-page": "624",
+      "DOI": "10.1021/bi401546r",
+      "article-title": "The renaissance of bacillosamine and its derivatives: pathway characterization and implications in pathogenicity.",
+      "volume": "53",
+      "author": "Morrison",
+      "year": "2014",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "B49",
+      "doi-asserted-by": "publisher",
+      "first-page": "765",
+      "DOI": "10.1038/nrmicro2383",
+      "article-title": "Protein glycosylation in bacteria: sweeter than ever.",
+      "volume": "8",
+      "author": "Nothaft",
+      "year": "2010",
+      "journal-title": "Nat. Rev. Microbiol."
+    },
+    {
+      "key": "B50",
+      "doi-asserted-by": "publisher",
+      "first-page": "D206",
+      "DOI": "10.1093/nar/gkt1226",
+      "article-title": "The SEED and the rapid annotation of microbial genomes using subsystems technology (RAST).",
+      "volume": "42",
+      "author": "Overbeek",
+      "year": "2014",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "B51",
+      "doi-asserted-by": "publisher",
+      "first-page": "11304",
+      "DOI": "10.1074/jbc.M113.546531",
+      "article-title": "A rhomboid protease gene deletion affects a novel oligosaccharide N-linked to the S-layer glycoprotein of Haloferax volcanii.",
+      "volume": "289",
+      "author": "Parente",
+      "year": "2014",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B52",
+      "doi-asserted-by": "publisher",
+      "first-page": "111",
+      "DOI": "10.1093/glycob/cwv097",
+      "article-title": "Sialic acids in cancer biology and immunity.",
+      "volume": "26",
+      "author": "Pearce",
+      "year": "2016",
+      "journal-title": "Glycobiology"
+    },
+    {
+      "key": "B53",
+      "doi-asserted-by": "publisher",
+      "first-page": "788",
+      "DOI": "10.1128/JVI.01347-09",
+      "article-title": "The single-stranded DNA genome of novel archaeal virus halorubrum pleomorphic virus 1 is enclosed in the envelope decorated with glycoprotein spikes.",
+      "volume": "84",
+      "author": "Pietilä",
+      "year": "2010",
+      "journal-title": "J. Virol."
+    },
+    {
+      "key": "B54",
+      "doi-asserted-by": "publisher",
+      "first-page": "307",
+      "DOI": "10.1111/j.1365-2958.2009.06642.x",
+      "article-title": "An ssDNA virus infecting archaea: a new lineage of viruses with a membrane envelope.",
+      "volume": "72",
+      "author": "Pietilä",
+      "year": "2009",
+      "journal-title": "Mol. Microbiol."
+    },
+    {
+      "key": "B55",
+      "doi-asserted-by": "publisher",
+      "first-page": "10643",
+      "DOI": "10.1073/pnas.0704189104",
+      "article-title": "Genomic and metabolic adaptations of Methanobrevibacter smithii to the human gut.",
+      "volume": "104",
+      "author": "Samuel",
+      "year": "2007",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "B56",
+      "doi-asserted-by": "publisher",
+      "first-page": "131",
+      "DOI": "10.1016/S0065-2318(08)60109-2",
+      "article-title": "Chemistry, metabolism, and biological functions of sialic acids.",
+      "volume": "40",
+      "author": "Schauer",
+      "year": "1982",
+      "journal-title": "Adv. Carbohydr. Chem. Biochem."
+    },
+    {
+      "key": "B57",
+      "doi-asserted-by": "publisher",
+      "first-page": "461",
+      "DOI": "10.1152/physrev.00033.2013",
+      "article-title": "Sialic acids in the brain: gangliosides and polysialic acid in nervous system development, stability, disease, and regeneration.",
+      "volume": "94",
+      "author": "Schnaar",
+      "year": "2014",
+      "journal-title": "Physiol. Rev."
+    },
+    {
+      "key": "B58",
+      "doi-asserted-by": "publisher",
+      "first-page": "8C",
+      "DOI": "10.1093/glycob/cwl010",
+      "article-title": "Elucidation of the CMP-pseudaminic acid pathway in Helicobacter pylori: synthesis from UDP-N-acetylglucosamine by a single enzymatic reaction.",
+      "volume": "16",
+      "author": "Schoenhofen",
+      "year": "2006",
+      "journal-title": "Glycobiology"
+    },
+    {
+      "key": "B59",
+      "doi-asserted-by": "publisher",
+      "first-page": "715",
+      "DOI": "10.1093/glycob/cwp039",
+      "article-title": "The CMP-legionaminic acid pathway in campylobacter: biosynthesis involving novel GDP-linked precursors.",
+      "volume": "19",
+      "author": "Schoenhofen",
+      "year": "2009",
+      "journal-title": "Glycobiology"
+    },
+    {
+      "key": "B60",
+      "doi-asserted-by": "publisher",
+      "first-page": "576",
+      "DOI": "10.1016/j.sbi.2011.08.005",
+      "article-title": "Mechanisms and principles of N-linked protein glycosylation.",
+      "volume": "21",
+      "author": "Schwarz",
+      "year": "2011",
+      "journal-title": "Curr. Opin. Struct. Biol."
+    },
+    {
+      "key": "B61",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fmicb.2017.01253",
+      "article-title": "Cell surface glycosylation is required for efficient mating of Haloferax volcanii.",
+      "volume": "8",
+      "author": "Shalev",
+      "year": "2017",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "B62",
+      "doi-asserted-by": "publisher",
+      "first-page": "W244",
+      "DOI": "10.1093/nar/gki408",
+      "article-title": "The HHpred interactive server for protein homology detection and structure prediction.",
+      "volume": "33",
+      "author": "Söding",
+      "year": "2005",
+      "journal-title": "Nucleic. Acids Res."
+    },
+    {
+      "key": "B63",
+      "doi-asserted-by": "publisher",
+      "first-page": "739",
+      "DOI": "10.1038/nrmicro3346",
+      "article-title": "The sweet spot: defining virus-sialic acid interactions.",
+      "volume": "12",
+      "author": "Stencel-Baerenwald",
+      "year": "2014",
+      "journal-title": "Nat. Rev. Microbiol."
+    },
+    {
+      "key": "B64",
+      "doi-asserted-by": "publisher",
+      "first-page": "7111",
+      "DOI": "10.1128/JB.172.12.7111-7118.1990",
+      "article-title": "Primary structure and glycosylation of the S-layer protein of Haloferax volcanii.",
+      "volume": "172",
+      "author": "Sumper",
+      "year": "1990",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "B65",
+      "doi-asserted-by": "crossref",
+      "first-page": "17556",
+      "DOI": "10.1016/S0021-9258(18)45417-8",
+      "article-title": "Purification, properties, and genetic location of Escherichia coli cytidine 5′-monophosphate N-acetylneuraminic acid synthetase.",
+      "volume": "262",
+      "author": "Vann",
+      "year": "1987",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B66",
+      "doi-asserted-by": "publisher",
+      "first-page": "697",
+      "DOI": "10.1093/glycob/7.5.697",
+      "article-title": "Purification andcharacterization of the Escherichia coli K1 neuB gene product N-acetylneuraminic acid synthetase.",
+      "volume": "7",
+      "author": "Vann",
+      "year": "1997",
+      "journal-title": "Glycobiology"
+    },
+    {
+      "key": "B67",
+      "doi-asserted-by": "publisher",
+      "first-page": "1323",
+      "DOI": "10.1093/glycob/cwv091",
+      "article-title": "Symbol nomenclature for graphical representations of glycans.",
+      "volume": "25",
+      "author": "Varki",
+      "year": "2015",
+      "journal-title": "Glycobiology"
+    },
+    {
+      "key": "B68",
+      "doi-asserted-by": "publisher",
+      "first-page": "16",
+      "DOI": "10.1111/j.1749-6632.2012.06517.x",
+      "article-title": "Multifarious roles of sialic acids in immunity.",
+      "volume": "1253",
+      "author": "Varki",
+      "year": "2012",
+      "journal-title": "Ann. N. Y. Acad. Sci."
+    },
+    {
+      "key": "B69",
+      "first-page": "2015",
+      "article-title": "“Sialic acids and other nonulosonic acids,” in",
+      "author": "Varki",
+      "year": "2017",
+      "journal-title": "Essentials of Glycobiology [Internet]"
+    },
+    {
+      "key": "B70",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1155/2013/816713",
+      "article-title": "Unified theory of bacterial sialometabolism: how and why bacteria metabolize host sialic acids.",
+      "volume": "2013",
+      "author": "Vimr",
+      "year": "2013",
+      "journal-title": "ISRN Microbiol."
+    },
+    {
+      "key": "B71",
+      "doi-asserted-by": "publisher",
+      "first-page": "132",
+      "DOI": "10.1128/MMBR.68.1.132-153.2004",
+      "article-title": "Diversity of microbial sialic acid metabolism.",
+      "volume": "68",
+      "author": "Vimr",
+      "year": "2004",
+      "journal-title": "Microbiol. Mol. Biol. Rev."
+    },
+    {
+      "key": "B72",
+      "doi-asserted-by": "crossref",
+      "first-page": "1971",
+      "DOI": "10.1016/S0021-9258(18)69851-5",
+      "article-title": "The thiobarbituric acid assay of sialic acids.",
+      "volume": "234",
+      "author": "Warren",
+      "year": "1959",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "B73",
+      "doi-asserted-by": "publisher",
+      "first-page": "42530",
+      "DOI": "10.1074/jbc.M206114200",
+      "article-title": "Structure of the N-linked glycan present on multiple glycoproteins in the gram-negative bacterium, Campylobacter jejuni.",
+      "volume": "2277",
+      "author": "Young",
+      "year": "2002",
+      "journal-title": "J. Biol. Chem."
+    }
+  ],
+  "container-title": [
+    "Frontiers in Microbiology"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.frontiersin.org/article/10.3389/fmicb.2018.02133/full",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        4
+      ]
+    ],
+    "date-time": "2023-09-04T22:53:15Z",
+    "timestamp": 1693867995000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.frontiersin.org/article/10.3389/fmicb.2018.02133/full"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        7
+      ]
+    ]
+  },
+  "references-count": 73,
+  "alternative-id": [
+    "10.3389/fmicb.2018.02133"
+  ],
+  "URL": "https://doi.org/10.3389/fmicb.2018.02133",
+  "relation": {},
+  "ISSN": [
+    "1664-302X"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "1664-302X"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        7
+      ]
+    ]
+  },
+  "article-number": "2133"
+}

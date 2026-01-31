@@ -1,0 +1,175 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2025-03-26T04:05:40Z",
+    "timestamp": 1742961940233,
+    "version": "3.40.3"
+  },
+  "reference-count": 0,
+  "publisher": "Bishen Singh Mahendra Pal Singh",
+  "issue": "1/2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J. Non-Timber Forest Prod."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1997,
+        3,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p xml:lang=\"en\"/>",
+  "DOI": "10.54207/bsmps2000-1997-g37d68",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        25
+      ]
+    ],
+    "date-time": "2025-03-25T07:58:52Z",
+    "timestamp": 1742889532000
+  },
+  "page": "85-86",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Salicornia: A miracle halophyte"
+  ],
+  "prefix": "10.54207",
+  "volume": "4",
+  "author": [
+    {
+      "given": "M.",
+      "family": "Kukadia",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Navsari Agricultural University",
+          "place": [
+            "Navsari"
+          ],
+          "department": [
+            "Department of Forestry, ASPEE College of Horticulture and Forestry"
+          ]
+        }
+      ]
+    },
+    {
+      "given": "V.",
+      "family": "Patel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Horticulturist (Sanghi Ind.)",
+          "place": [
+            "Bhuj"
+          ],
+          "department": [
+            "Cement Div."
+          ]
+        }
+      ]
+    }
+  ],
+  "member": "32534",
+  "published-online": {
+    "date-parts": [
+      [
+        1997,
+        3,
+        1
+      ]
+    ]
+  },
+  "container-title": [
+    "Journal of Non-Timber Forest Products"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        25
+      ]
+    ],
+    "date-time": "2025-03-25T07:58:53Z",
+    "timestamp": 1742889533000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.bsmpsbooks.com//journal/2000/article/RzM3RDY4"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1997,
+        3,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1/2",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          3,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.54207/bsmps2000-1997-g37d68",
+  "relation": {},
+  "ISSN": [
+    "0971-9415"
+  ],
+  "issn-type": [
+    {
+      "value": "0971-9415",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1997,
+        3,
+        1
+      ]
+    ]
+  }
+}

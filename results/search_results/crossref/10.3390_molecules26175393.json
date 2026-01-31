@@ -1,0 +1,621 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2026-01-13T00:38:36Z",
+    "timestamp": 1768264716445,
+    "version": "3.49.0"
+  },
+  "reference-count": 47,
+  "publisher": "MDPI AG",
+  "issue": "17",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            5
+          ]
+        ],
+        "date-time": "2021-09-05T00:00:00Z",
+        "timestamp": 1630800000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Molecules"
+  ],
+  "abstract": "<jats:p>The salinity of European soil is increasing every year, causing severe economic damage (estimated 1–3 million hectares in the enlarged EU). This study uses the biomass of halophytes—tall fescue (grass) and hemp of the Białobrzeskie variety from saline soils—for bioenergy, second generation biofuels and designing new materials—fillers for polymer composites. In the bioethanol obtaining process, in the first stage, the grass and hemp biomass were pretreated with 1.5% NaOH. Before and after the treatment, the chemical composition was determined and the FTIR spectra and SEM pictures were taken. Then, the process of simultaneous saccharification and fermentation (SSF) was carried out. The concentration of ethanol for both the grass and hemp biomass was approx. 7 g·L−1 (14 g·100 g−1 of raw material). In addition, trials of obtaining green composites with halophyte biomass using polymers (PP) and biopolymers (PLA) as a matrix were performed. The mechanical properties of the composites (tensile and flexural tests) were determined. It was found that the addition of a compatibilizer improved the adhesion at the interface of PP composites with a hemp filler. In conclusion, the grass and hemp biomass were found to be an interesting and promising source to be used for bioethanol and biocomposites production. The use of annually renewable plant biomass from saline soils for biorefinering processes opens up opportunities for the development of a new value chains and new approaches to sustainable agriculture.</jats:p>",
+  "DOI": "10.3390/molecules26175393",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        6
+      ]
+    ],
+    "date-time": "2021-09-06T13:18:26Z",
+    "timestamp": 1630934306000
+  },
+  "page": "5393",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Effective Utilisation of Halophyte Biomass from Saline Soils for Biorefinering Processes"
+  ],
+  "prefix": "10.3390",
+  "volume": "26",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6113-2160",
+      "authenticated-orcid": false,
+      "given": "Jolanta",
+      "family": "Batog",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institute of Natural Fibres and Medicinal Plants—National Research Institute, Wojska Polskiego 71B, 60-630 Poznan, Poland"
+        }
+      ]
+    },
+    {
+      "given": "Krzysztof",
+      "family": "Bujnowicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Natural Fibres and Medicinal Plants—National Research Institute, Wojska Polskiego 71B, 60-630 Poznan, Poland"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6532-2110",
+      "authenticated-orcid": false,
+      "given": "Weronika",
+      "family": "Gieparda",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Natural Fibres and Medicinal Plants—National Research Institute, Wojska Polskiego 71B, 60-630 Poznan, Poland"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3773-0982",
+      "authenticated-orcid": false,
+      "given": "Aleksandra",
+      "family": "Wawro",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Natural Fibres and Medicinal Plants—National Research Institute, Wojska Polskiego 71B, 60-630 Poznan, Poland"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1974-0407",
+      "authenticated-orcid": false,
+      "given": "Szymon",
+      "family": "Rojewski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Natural Fibres and Medicinal Plants—National Research Institute, Wojska Polskiego 71B, 60-630 Poznan, Poland"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        5
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "unstructured": "Hendricks, R.C., and Bushnell, D.M. (2010, January 4–7). Atmospheric and soil carbon and halophytes. Proceedings of the 13th International Symposium on Transport Phenomena and Dynamics of Rotating Machinery (ISROMAC-13), Honolulu, HI, USA."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1016/j.sjbs.2014.12.001",
+      "article-title": "Soil salinity: A serious environmental issue and plant growth promoting bacteria as one of the tools for its alleviation",
+      "volume": "22",
+      "author": "Shrivastava",
+      "year": "2015",
+      "journal-title": "Saudi J. Biol. Sci."
+    },
+    {
+      "key": "ref_3",
+      "first-page": "40",
+      "article-title": "Halophytes: Biology and economic potentials",
+      "volume": "39",
+      "author": "Hameed",
+      "year": "2011",
+      "journal-title": "Karachi Univ. J. Sci."
+    },
+    {
+      "key": "ref_4",
+      "first-page": "114",
+      "article-title": "Possibility of industrial hemp cultivation in areas of high nature value",
+      "volume": "10",
+      "author": "Baranowska",
+      "year": "2017",
+      "journal-title": "Econ. Reg. Stud."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wawro, A., Batog, J., and Gieparda, W. (2019). Chemical and enzymatic treatment of hemp biomass for bioethanol production. Appl. Sci., 9.",
+      "DOI": "10.3390/app9245348"
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "254",
+      "DOI": "10.1016/j.indcrop.2018.06.089",
+      "article-title": "Seed germination of hemp (Cannabis sativa L.) cultivars responds differently to the stress of salt type and concentration",
+      "volume": "123",
+      "author": "Hu",
+      "year": "2018",
+      "journal-title": "Ind. Crop. Prod."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1007",
+      "DOI": "10.1016/j.rser.2017.05.026",
+      "article-title": "Application of pretreatment, fermentation and molecular techniques for enhancing bioethanol production from grass biomass—A review",
+      "volume": "78",
+      "author": "Mohapatra",
+      "year": "2017",
+      "journal-title": "Renew. Sustain. Energy Rev."
+    },
+    {
+      "key": "ref_8",
+      "unstructured": "(2021, April 08). Available online: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32009L0028."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1515/reveh-2018-0054",
+      "article-title": "Lignocellulosic biomass for bioethanol: An overview on pretreatment, hydrolysis and fermentation processes",
+      "volume": "34",
+      "author": "Abo",
+      "year": "2019",
+      "journal-title": "Rev. Environ. Health"
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "2017",
+      "DOI": "10.1039/D0RE00241K",
+      "article-title": "Pretreatment and fermentation of lignocellulosic biomass: Reaction mechanisms and process engineering",
+      "volume": "5",
+      "author": "Rahmati",
+      "year": "2020",
+      "journal-title": "React. Chem. Eng."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Vasić, K., Knez, Ž., and Leitgeb, M. (2021). Bioethanol production by enzymatic hydrolysis from different lignocellulosic sources. Molecules, 26.",
+      "DOI": "10.3390/molecules26030753"
+    },
+    {
+      "key": "ref_12",
+      "unstructured": "European Council (2021, February 01). Directive (EU) 2019/904 of the European Parliament and of the Council of 5 June 2019 on the Reduction of the Impact of Certain Plastic Products on the Environment. Available online: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0904&from=HU."
+    },
+    {
+      "key": "ref_13",
+      "unstructured": "Moore, C. (2021, June 18). Plastic Pollution. Encyclopedia Britannica. Available online: https://www.britannica.com/science/plastic-pollution."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "2116",
+      "DOI": "10.1016/j.matpr.2020.02.457",
+      "article-title": "A review: Bio-fiber’s as reinforcement in composites of polylactic acid (PLA)",
+      "volume": "26",
+      "author": "Getme",
+      "year": "2019",
+      "journal-title": "Mater. Today Proc."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "100182",
+      "DOI": "10.1016/j.clet.2021.100182",
+      "article-title": "Moving towards the era of bio fibre based polymer composites",
+      "volume": "4",
+      "author": "Das",
+      "year": "2021",
+      "journal-title": "Clean. Eng. Technol."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "577",
+      "DOI": "10.1016/j.matpr.2019.07.240",
+      "article-title": "Static and dynamic mechanical properties of PLA bio-composite with hybrid reinforcement of flax and jute",
+      "volume": "25",
+      "author": "Manral",
+      "year": "2020",
+      "journal-title": "Mater. Today Proc."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "116",
+      "DOI": "10.1016/j.indcrop.2014.10.028",
+      "article-title": "Value-added industrial products from bast fiber crops",
+      "volume": "68",
+      "author": "Papadopoulou",
+      "year": "2015",
+      "journal-title": "Ind. Crop. Prod."
+    },
+    {
+      "key": "ref_18",
+      "first-page": "336",
+      "article-title": "The influence of lignocellulosic filler modification with silicon compounds on flammability and adhesion with a composite polymer matrix",
+      "volume": "19",
+      "author": "Rojewski",
+      "year": "2013",
+      "journal-title": "Polym. Process."
+    },
+    {
+      "key": "ref_19",
+      "first-page": "231",
+      "article-title": "Halophyte biomass—A promising source of renewable energy",
+      "volume": "24",
+      "author": "Akinshina",
+      "year": "2014",
+      "journal-title": "J. Arid Land Stud."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Turcios, A.E., Cayenne, A., Uellendahl, H., and Papenbrock, J. (2021). Halophyte plants and their residues as feedstock for biogas production-chances and challenges. Appl. Sci., 11.",
+      "DOI": "10.3390/app11062746"
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1186/1754-6834-4-27",
+      "article-title": "Impact of pretreatment and downstream processing technologies on economics and energy in cellulosic ethanol production",
+      "volume": "4",
+      "author": "Kumar",
+      "year": "2011",
+      "journal-title": "Biotechnol. Biofuels"
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "8131",
+      "DOI": "10.3390/ma7128131",
+      "article-title": "Properties characterization of chemically modified hemp hurds",
+      "volume": "7",
+      "author": "Stevulova",
+      "year": "2014",
+      "journal-title": "Materials"
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "111785",
+      "DOI": "10.1016/j.indcrop.2019.111785",
+      "article-title": "Effect of combined dilute-alkaline and green pretreatments on corncob fractionation: Pretreated biomass characterization and regenerated cellulose film production",
+      "volume": "141",
+      "author": "Vilarinho",
+      "year": "2019",
+      "journal-title": "Ind. Crop. Prod."
+    },
+    {
+      "key": "ref_24",
+      "first-page": "13",
+      "article-title": "Amorphous cellulose—Structure and characterization",
+      "volume": "45",
+      "author": "Ciolacu",
+      "year": "2011",
+      "journal-title": "Cellul. Chem. Technol."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1016/j.carres.2004.10.022",
+      "article-title": "Characteristics of degraded cellulose obtained from steam-exploded wheat straw",
+      "volume": "340",
+      "author": "Sun",
+      "year": "2005",
+      "journal-title": "Carbohydr. Res."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "114964",
+      "DOI": "10.1016/j.carbpol.2019.06.003",
+      "article-title": "Simultaneous oxidation and esterification of cellulose for use in treatment of water containing Cu (II) ions",
+      "volume": "222",
+      "author": "Gupta",
+      "year": "2019",
+      "journal-title": "Carbohydr. Polym."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "21913",
+      "DOI": "10.1021/acsomega.0c03135",
+      "article-title": "High Ethanol concentration (77 g/L) of industrial hemp biomass achieved through optimizing the relationship between ethanol yield/concentration and solid loading",
+      "volume": "5",
+      "author": "Zhao",
+      "year": "2020",
+      "journal-title": "ACS Omega"
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "122826",
+      "DOI": "10.1016/j.biortech.2020.122826",
+      "article-title": "Integrating bran starch hydrolysates with alkaline pretreated soft wheat bran to boost sugar concentration",
+      "volume": "302",
+      "author": "Zhao",
+      "year": "2020",
+      "journal-title": "Bioresour. Technol."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "180",
+      "DOI": "10.1016/j.biombioe.2013.06.006",
+      "article-title": "Relationship to reducing sugar production and scanning electron microscope structure to pretreated hemp hurd biomass (Cannabis sativa)",
+      "volume": "58",
+      "author": "Abraham",
+      "year": "2013",
+      "journal-title": "Biomass Bioenerg."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.13031/2013.36314",
+      "article-title": "Pretreatments and enzymatic hydrolysis of grass straws for ethanol production in the Pacific Northwest U.S",
+      "volume": "3",
+      "author": "Kumar",
+      "year": "2011",
+      "journal-title": "Biol. Eng."
+    },
+    {
+      "key": "ref_31",
+      "first-page": "1731",
+      "article-title": "Efektywność enzymatycznej konwersji biomasy sorgo i konopi do glukozy",
+      "volume": "99",
+      "author": "Wawro",
+      "year": "2020",
+      "journal-title": "Przemysł Chem."
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "126534",
+      "DOI": "10.1016/j.micres.2020.126534",
+      "article-title": "Current state-of-the-art in ethanol production from lignocellulosic feedstocks",
+      "volume": "240",
+      "author": "Robak",
+      "year": "2020",
+      "journal-title": "Microbiol. Res."
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.5614/3bio.2020.2.2.3",
+      "article-title": "Production of Bioethanol and Crude Cellulase Enzyme Extract from Napier Grass (Pennisetum purpureum S.) through Simultaneous Saccharification and Fermentation",
+      "volume": "2",
+      "author": "Taufikurahman",
+      "year": "2020",
+      "journal-title": "Bio J. Biol. Sci. Technol. Man."
+    },
+    {
+      "key": "ref_34",
+      "first-page": "43",
+      "article-title": "Mild Alkaline Pretreatment on Sugarcane Bagasse: Effects of Pretreatment Time and Lime to Dry Bagasse Ratio",
+      "volume": "57",
+      "author": "Riadi",
+      "year": "2020",
+      "journal-title": "B Life Environ. Sci."
+    },
+    {
+      "key": "ref_35",
+      "first-page": "25",
+      "article-title": "Ethanol production from biomass by a moderate thermophile, Clostridium AK1",
+      "volume": "25",
+      "author": "Orlygsson",
+      "year": "2012",
+      "journal-title": "Icel. Agric. Sci."
+    },
+    {
+      "key": "ref_36",
+      "unstructured": "International Standards Organization (2014). PN-EN ISO 3167:2014, Plastics—Multipurpose Test Specimens, Polish Committee for Standardization."
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1016/j.compositesb.2012.09.027",
+      "article-title": "Reinforcement of polypropylene with hemp fibres",
+      "volume": "46",
+      "author": "Yan",
+      "year": "2013",
+      "journal-title": "Compos. Part B Eng."
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1016/j.compositesa.2014.05.008",
+      "article-title": "Study on short ramie fiber/poly(lactic acid) composites compatibilized by maleic anhydride",
+      "volume": "64",
+      "author": "Yu",
+      "year": "2014",
+      "journal-title": "Compos. Part A Appl. Sci. Manuf."
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Batog, J., and Wawro, A. (2021). Chemical and biological deconstruction in the conversion process of sorghum biomass for bioethanol. J. Nat. Fibers, 1–12.",
+      "DOI": "10.1080/15440478.2021.1889444"
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "first-page": "426",
+      "DOI": "10.1021/ac60147a030",
+      "article-title": "Use of dinitrosalicylic acid reagent for determination of reducing sugars",
+      "volume": "31",
+      "author": "Miller",
+      "year": "1959",
+      "journal-title": "Anal. Chem."
+    },
+    {
+      "key": "ref_41",
+      "first-page": "105",
+      "article-title": "Zagospodarowanie odpadowe pieczywa do produkcji bioetanolu",
+      "volume": "79",
+      "author": "Pietrzak",
+      "year": "2011",
+      "journal-title": "Żywność Nauka Technol. Jakość"
+    },
+    {
+      "key": "ref_42",
+      "unstructured": "(1955). TAPPI 17 m-55. Cellulose in Wood, TAPPI Press."
+    },
+    {
+      "key": "ref_43",
+      "unstructured": "(1998). TAPPI T9 m-54. Holocellulose in Wood, TAPPI Press."
+    },
+    {
+      "key": "ref_44",
+      "first-page": "11",
+      "article-title": "Determination of lignin non-wood plant fiber sources",
+      "volume": "54",
+      "author": "Bagby",
+      "year": "1971",
+      "journal-title": "TAPPI J."
+    },
+    {
+      "key": "ref_45",
+      "unstructured": "International Standards Organization (2020). PN-EN ISO 527-1:2020, Plastics—Determination of Tensile Properties—Part 1: General Principles, Polish Committee for Standardization."
+    },
+    {
+      "key": "ref_46",
+      "unstructured": "International Standards Organization (2012). PN-EN ISO 527-2:2012, Plastics—Determination of Tensile Properties—Part 2: Test Conditions for Moulding and Extrusion Plastics, Polish Committee for Standardization."
+    },
+    {
+      "key": "ref_47",
+      "unstructured": "International Standards Organization (2019). PN-EN ISO 178:2019, Plastics—Determination of Flexural Properties, Polish Committee for Standardization."
+    }
+  ],
+  "container-title": [
+    "Molecules"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/1420-3049/26/17/5393/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T06:56:40Z",
+    "timestamp": 1760165800000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/1420-3049/26/17/5393"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        5
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "17",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "molecules26175393"
+  ],
+  "URL": "https://doi.org/10.3390/molecules26175393",
+  "relation": {},
+  "ISSN": [
+    "1420-3049"
+  ],
+  "issn-type": [
+    {
+      "value": "1420-3049",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        5
+      ]
+    ]
+  }
+}

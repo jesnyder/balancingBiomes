@@ -1,0 +1,121 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        4
+      ]
+    ],
+    "date-time": "2022-04-04T06:31:09Z",
+    "timestamp": 1649053869116
+  },
+  "reference-count": 0,
+  "publisher": "\"Prof. Marin Drinov\" Publishing House of Bulgarian Academy of Sciences",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        25
+      ]
+    ]
+  },
+  "DOI": "10.7546/crabs.2020.09.17",
+  "type": "report",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        26
+      ]
+    ],
+    "date-time": "2020-09-26T07:23:02Z",
+    "timestamp": 1601104982000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "The Effect of Nickel on Membrane Integrity and Lipid Composition in Mesembryanthemum crystallinum (halophyte) and Brassica juncea"
+  ],
+  "prefix": "10.7546",
+  "author": [
+    {
+      "given": "Taoufik",
+      "family": "Amari",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Manel",
+      "family": "Taamalli",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Chedly",
+      "family": "Abdelly",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "4381",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        25
+      ]
+    ]
+  },
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        26
+      ]
+    ],
+    "date-time": "2020-09-26T07:23:02Z",
+    "timestamp": 1601104982000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.proceedings.bas.bg/DOI/doi2020_9_17.html"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        25
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.7546/crabs.2020.09.17",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        25
+      ]
+    ]
+  }
+}

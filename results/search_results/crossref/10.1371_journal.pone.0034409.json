@@ -1,0 +1,423 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        19
+      ]
+    ],
+    "date-time": "2023-01-19T16:26:53Z",
+    "timestamp": 1674145613605
+  },
+  "reference-count": 23,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            4,
+            13
+          ]
+        ],
+        "date-time": "2012-04-13T00:00:00Z",
+        "timestamp": 1334275200000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.plosone.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "PLoS ONE"
+  ],
+  "DOI": "10.1371/journal.pone.0034409",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2012-04-13T21:02:53Z",
+    "timestamp": 1334350973000
+  },
+  "page": "e34409",
+  "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Isolation of Two Strong Poly (U) Binding Proteins from Moderate Halophile Halomonas eurihalina and Their Identification as Cold Shock Proteins"
+  ],
+  "prefix": "10.1371",
+  "volume": "7",
+  "author": [
+    {
+      "given": "Usha kumari",
+      "family": "Garapati",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Tangirala",
+      "family": "Suryanarayana",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "340",
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        4,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "crossref",
+      "first-page": "286",
+      "DOI": "10.1016/S0968-0004(98)01255-9",
+      "article-title": "superfamily of proteins that contain the cold-shock domain.",
+      "volume": "23",
+      "author": "PL Graumann",
+      "year": "1998",
+      "journal-title": "Trends Biochem Sci"
+    },
+    {
+      "key": "ref2",
+      "first-page": "203",
+      "article-title": "Cold shock response in <italic>Bacillus subtilis</italic>.",
+      "volume": "1",
+      "author": "PL Graumann",
+      "year": "1999",
+      "journal-title": "J Mol Microbiol Biotechnol"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1002/(SICI)1521-1878(199801)20:1<49::AID-BIES8>3.0.CO;2-N",
+      "article-title": "Cold shock and adaptation.",
+      "volume": "20",
+      "author": "HA Thieringer",
+      "year": "1998",
+      "journal-title": "Bioassays"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "175",
+      "DOI": "10.1016/S1369-5274(99)80031-9",
+      "article-title": "Cold-shock response and cold-shock proteins.",
+      "volume": "2",
+      "author": "S Phadtare",
+      "year": "1999",
+      "journal-title": "Curr Opinion Microbiol"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1827",
+      "DOI": "10.1128/JB.181.6.1827-1830.1999",
+      "article-title": "CspA, CspB and CspG, major cold shock proteins of <italic>Escherichia coli</italic> are induced at low temperature under conditions that completely block protein synthesis.",
+      "volume": "181",
+      "author": "JP Etchegaray",
+      "year": "1999",
+      "journal-title": "J Bacteriol"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "first-page": "1653",
+      "DOI": "10.1093/emboj/18.6.1653",
+      "article-title": "Massive presence of the Escherichia coli ‘major cold-shock protein’ CspA under non-stress conditions.",
+      "volume": "18",
+      "author": "A Brandi",
+      "year": "1999",
+      "journal-title": "EMBO J"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1074/jbc.272.1.196",
+      "article-title": "CspA, the major cold-shock protein of <italic>Escherichia coli</italic>, is an RNA chaperone.",
+      "volume": "272",
+      "author": "W Jiang",
+      "year": "1997",
+      "journal-title": "J Biol Chem"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "7784",
+      "DOI": "10.1073/pnas.97.14.7784",
+      "article-title": "<italic>Escherichia coli</italic> CspA-family RNA chaperones are transcription antiterminators.",
+      "volume": "97",
+      "author": "W Bae",
+      "year": "2000",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "110",
+      "DOI": "10.1159/000226587",
+      "article-title": "Applications of nucleic acid chaperone activity of CspA and its homologues.",
+      "volume": "17",
+      "author": "S Phadtare",
+      "year": "2009",
+      "journal-title": "J Mol Microbiol Biotechnol"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "5738",
+      "DOI": "10.1128/JB.00395-07",
+      "article-title": "Structure and Function of Cold Shock Proteins in Archaea.",
+      "volume": "189",
+      "author": "L Giaquinto",
+      "year": "2007",
+      "journal-title": "J Bacteriol"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1902",
+      "DOI": "10.1007/PL00012513",
+      "article-title": "Bacterial cold-shock proteins.",
+      "volume": "59",
+      "author": "DN Ermolenkoa",
+      "year": "2002",
+      "journal-title": "Cell Mol Life Sci"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1457",
+      "DOI": "10.1007/s00018-007-6388-4",
+      "article-title": "Structure and function of bacterial cold shock proteins.",
+      "volume": "64",
+      "author": "G Horn",
+      "year": "2007",
+      "journal-title": "Cell Mol Life Sci"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "crossref",
+      "first-page": "788",
+      "DOI": "10.4161/rna.7.6.13482",
+      "article-title": "RNA remodeling and gene regulation by cold shock proteins.",
+      "volume": "7",
+      "author": "S Phadtare",
+      "year": "2010",
+      "journal-title": "RNA Biology"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "first-page": "6160",
+      "DOI": "10.1016/S0021-9258(19)41172-1",
+      "article-title": "Isolation of bacterial and phage proteins by homopolymer RNA cellulose chromatography.",
+      "volume": "250",
+      "author": "CG Carmichael",
+      "year": "1975",
+      "journal-title": "J Biol Chem"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "2715",
+      "DOI": "10.1021/bi00280a020",
+      "article-title": "An essential function of ribosomal protein S1 in messenger ribonucleic acid translation.",
+      "volume": "22",
+      "author": "T Suryanarayana",
+      "year": "1983",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "first-page": "271",
+      "DOI": "10.1111/j.1432-1033.1978.tb12020.x",
+      "article-title": "Metabolic stability of the two forms of initiation factor IF-3 in <italic>Escherichia coli</italic> during the growth cycle.",
+      "volume": "82",
+      "author": "MA Minks",
+      "year": "1978",
+      "journal-title": "Eur J Biochem"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "crossref",
+      "first-page": "2626",
+      "DOI": "10.1073/pnas.72.7.2626",
+      "article-title": "An octamer of histones in chromatin and free in solution.",
+      "volume": "72",
+      "author": "JO Thomas",
+      "year": "1975",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "174",
+      "DOI": "10.1016/0003-2697(79)90641-9",
+      "article-title": "A method to identify individual proteins in four different two dimensional gel electrophoresis systems: Application to <italic>E. coli</italic> ribosomal proteins.",
+      "volume": "92",
+      "author": "JJ Madjar",
+      "year": "1979",
+      "journal-title": "Anal Biochem"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "first-page": "200",
+      "DOI": "10.1016/0003-2697(74)90065-7",
+      "article-title": "Two-dimensional polyacrylamide gel electrophoresis: an improved method for ribosomal proteins.",
+      "volume": "57",
+      "author": "LJ Metz",
+      "year": "1974",
+      "journal-title": "Anal Biochem"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "first-page": "680",
+      "DOI": "10.1038/227680a0",
+      "article-title": "Cleavage of structural proteins during the assembly of the head of bacteriophage T4.",
+      "volume": "227",
+      "author": "UK Laemmli",
+      "year": "1970",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "crossref",
+      "first-page": "850",
+      "DOI": "10.1021/ac950914h",
+      "article-title": "Mass spectrometric sequencing of protein from silver-stained polyacrylamide gels,",
+      "volume": "68",
+      "author": "A Shevchenko",
+      "year": "1996",
+      "journal-title": "Anal Chem"
+    },
+    {
+      "key": "ref22",
+      "first-page": "290",
+      "article-title": "The Y-box factors: a family of nucleic acid binding proteins conserved from <italic>Escherichia coli</italic> to man.",
+      "volume": "4",
+      "author": "AP Wolffe",
+      "year": "1992",
+      "journal-title": "New Biol"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1007/s002030050690",
+      "article-title": "Cold shock proteins CspB and CspC are major stationary-phase-induced proteins in Bacillus subtilis.",
+      "volume": "171",
+      "author": "PL Graumann",
+      "year": "1999",
+      "journal-title": "Arch Microbiol"
+    }
+  ],
+  "container-title": [
+    "PLoS ONE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://dx.plos.org/10.1371/journal.pone.0034409",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        1,
+        12
+      ]
+    ],
+    "date-time": "2022-01-12T22:11:00Z",
+    "timestamp": 1642025460000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0034409"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "John R.",
+      "family": "Battista",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        4,
+        13
+      ]
+    ]
+  },
+  "references-count": 23,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          13
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1371/journal.pone.0034409",
+  "relation": {},
+  "ISSN": [
+    "1932-6203"
+  ],
+  "issn-type": [
+    {
+      "value": "1932-6203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        4,
+        13
+      ]
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2025-03-27T02:26:25Z",
+    "timestamp": 1743042385475,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 6,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783662441848"
+    },
+    {
+      "type": "electronic",
+      "value": "9783662441855"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2015-01-01T00:00:00Z",
+        "timestamp": 1420070400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2015-01-01T00:00:00Z",
+        "timestamp": 1420070400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-662-44185-5_694",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2016-02-25T17:17:22Z",
+    "timestamp": 1456420642000
+  },
+  "page": "1069-1071",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Halophile"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Josefa",
+      "family": "Anton",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        16
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "694_CR9150",
+      "volume-title": "Halophiles. Encyclopedia of life sciences",
+      "author": "S DasSarma",
+      "year": "2006",
+      "unstructured": "DasSarma S, Arora P (2006) Halophiles. Encyclopedia of life sciences. Wiley, London"
+    },
+    {
+      "key": "694_CR9151",
+      "volume-title": "Halophilic bacteria",
+      "author": "DJ Kushner",
+      "year": "1988",
+      "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodríguez-Valera F (ed) Halophilic bacteria. CRC, Boca Raton"
+    },
+    {
+      "key": "694_CR9152",
+      "doi-asserted-by": "publisher",
+      "first-page": "334",
+      "DOI": "10.1128/MMBR.63.2.334-348.1999",
+      "volume": "63",
+      "author": "A Oren",
+      "year": "1999",
+      "unstructured": "Oren A (1999) Bioenergetic aspects of halophilism. Microbiol Mol Biol Rev 63:334–348",
+      "journal-title": "Microbiol Mol Biol Rev"
+    },
+    {
+      "key": "694_CR9153",
+      "volume-title": "The prokaryotes: a handbook on the biology of bacteria",
+      "author": "A Oren",
+      "year": "2006",
+      "unstructured": "Oren A (2006) Life at high salt concentrations. In: Dworkin M (ed) The prokaryotes: a handbook on the biology of bacteria. Springer, New York"
+    },
+    {
+      "key": "694_CR9154",
+      "doi-asserted-by": "publisher",
+      "first-page": "2",
+      "DOI": "10.1186/1746-1448-4-2",
+      "volume": "4",
+      "author": "A Oren",
+      "year": "2008",
+      "unstructured": "Oren A (2008) Microbial salt at high salt concentrations: phylogenetic and metabolic diversity. Saline Syst 4:2",
+      "journal-title": "Saline Syst"
+    },
+    {
+      "key": "694_CR9155",
+      "volume-title": "SGM symposium 66: prokaryotic diversity-mechanisms and significance",
+      "author": "A Ventosa",
+      "year": "2006",
+      "unstructured": "Ventosa A (2006) Unusual micro-organisms from unusual habitats: hypersaline environments. In: Logan NA, Lappin-Scott HM, Oyston PCF (eds) SGM symposium 66: prokaryotic diversity-mechanisms and significance. Cambridge University Press, Cambridge"
+    }
+  ],
+  "container-title": [
+    "Encyclopedia of Astrobiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/978-3-662-44185-5_694",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        12,
+        14
+      ]
+    ],
+    "date-time": "2020-12-14T07:22:24Z",
+    "timestamp": 1607930544000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/978-3-662-44185-5_694"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783662441848",
+    "9783662441855"
+  ],
+  "references-count": 6,
+  "URL": "https://doi.org/10.1007/978-3-662-44185-5_694",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "16 October 2015",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    }
+  ]
+}

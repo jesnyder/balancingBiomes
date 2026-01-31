@@ -1,0 +1,663 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        4
+      ]
+    ],
+    "date-time": "2022-04-04T00:45:47Z",
+    "timestamp": 1649033147436
+  },
+  "reference-count": 39,
+  "publisher": "American Society for Microbiology",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1990,
+            6,
+            1
+          ]
+        ],
+        "date-time": "1990-06-01T00:00:00Z",
+        "timestamp": 644198400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.asm.org/non-commercial-tdm-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.asm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J Bacteriol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1990,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:p>In vitro protein synthesis was studied in extracts of the moderate halophile Vibrio costicola by using as mRNAs the endogenous mRNA of V. costicola and the RNA of the R17 bacteriophage of Escherichia coli. Protein synthesis (amino acid incorporation) was dependent on the messenger, ribosomes, soluble cytoplasmic factors, energy source, and tRNA(FMet) (in the R17 RNA system) and was inhibited by certain antibiotics. These properties indicated de novo protein synthesis. In the V. costicola system directed by R17 RNA, a protein of the same electrophoretic mobility as the major coat protein of the R17 phage was synthesized. Antibiotic action and the response to added tRNA(FMet) showed that protein synthesis in the R17 RNA system, but not in the endogenous messenger system, absolutely depended on initiation. Optimal activity of both systems was observed in 250 to 300 mM NH4+ (as glutamate). Higher salt concentrations, especially those with Cl- as anion, were generally inhibitory. The R17 RNA-directed system was more sensitive to Cl- ions than the endogenous system was. Glycine betaine stimulated both systems and partly overcame the toxic effects of Cl- ions. Both systems required Mg2+, but in lower concentrations than the polyuridylic acid-directed system previously studied. Initiation factors were removed from ribosomes by washing with 3.0 to 3.5 M NH4Cl, concentrations about three times as high as that needed to remove initiation factors from E. coli ribosomes. Washing with 4.0 M NH4Cl damaged V. costicola ribosomes, although the initiation factors still functioned. Cl- ions inhibited the attachment of initiation factors to tRNA(FMet) but had little effect on binding of initiation factors to R17 RNA.</jats:p>",
+  "DOI": "10.1128/jb.172.6.3462-3468.1990",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        11,
+        16
+      ]
+    ],
+    "date-time": "2016-11-16T23:07:33Z",
+    "timestamp": 1479337653000
+  },
+  "page": "3462-3468",
+  "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Use of natural mRNAs in the cell-free protein-synthesizing systems of the moderate halophile Vibrio costicola"
+  ],
+  "prefix": "10.1128",
+  "volume": "172",
+  "author": [
+    {
+      "given": "C G",
+      "family": "Choquet",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Biology, University of Ottawa, Ontario, Canada."
+        }
+      ]
+    },
+    {
+      "given": "D J",
+      "family": "Kushner",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biology, University of Ottawa, Ontario, Canada."
+        }
+      ]
+    }
+  ],
+  "member": "235",
+  "reference": [
+    {
+      "key": "p_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "504",
+      "DOI": "10.1016/0005-2787(69)90099-9",
+      "article-title": "Chain initiation during polypeptide synthesis in cell-free bacterial systems programmed with plant viral messengers. III. A comparison with the phage RNA-directed system",
+      "volume": "190",
+      "author": "Albrecht J.",
+      "year": "1969",
+      "unstructured": "Albrecht , J. , B. W. Hoogendam , W. Rozenboom , N. J. Verhoef , H. 0. Voorma , and L. Bosch . 1969 . Chain initiation during polypeptide synthesis in cell-free bacterial systems programmed with plant viral messengers. III. A comparison with the phage RNA-directed system . Biochim. Biophys. Acta 190 : 504 - 516 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "355",
+      "DOI": "10.1016/0005-2787(66)90316-9",
+      "article-title": "Some properties of viral ribonucleic acid-dependent amino acid incorporation",
+      "volume": "114",
+      "author": "Boedtker H.",
+      "year": "1966",
+      "unstructured": "Boedtker , H. , and S. Stumpp . 1966 . Some properties of viral ribonucleic acid-dependent amino acid incorporation . Biochim. Biophys. Acta 114 : 355 - 370 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "880",
+      "DOI": "10.1128/jb.171.2.880-886.1989",
+      "article-title": "In vitro protein synthesis by the moderate halophile Vibrio costicola: site of action of Cl- ions",
+      "volume": "171",
+      "author": "Choquet C. G.",
+      "year": "1989",
+      "unstructured": "Choquet , C. G. , M. Kamekura , and D. J. Kushner . 1989 . In vitro protein synthesis by the moderate halophile Vibrio costicola: site of action of Cl- ions . J. Bacteriol. 171 : 880 - 886 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1216",
+      "DOI": "10.1073/pnas.51.6.1216",
+      "article-title": "On the role of ammonium or potassium ion in amino acid polymerization",
+      "volume": "51",
+      "author": "Conway T. W.",
+      "year": "1964",
+      "unstructured": "Conway , T. W. 1964 . On the role of ammonium or potassium ion in amino acid polymerization . Proc. Natl. Acad. Sci. USA 51 : 1216 - 1220 .",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "p_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "7607",
+      "DOI": "10.1016/S0021-9258(17)42834-1",
+      "article-title": "Initial velocity kinetic analysis of 30 S initiation complex formation in an in vitro translation system derived from Escherichia coli",
+      "volume": "259",
+      "author": "Ellis S.",
+      "year": "1984",
+      "unstructured": "Ellis , S. , and T. W. Conway . 1984 . Initial velocity kinetic analysis of 30 S initiation complex formation in an in vitro translation system derived from Escherichia coli . J. Biol. Chem. 259 : 7607 - 7614 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "719",
+      "DOI": "10.1073/pnas.61.2.719",
+      "article-title": "Inhibition of the attachment of messenger ribonucleic acid to ribosomes",
+      "volume": "61",
+      "author": "Grolimann A. P.",
+      "year": "1968",
+      "unstructured": "Grolimann , A. P. , and M. L. Stewart . 1968 . Inhibition of the attachment of messenger ribonucleic acid to ribosomes . Proc. Natl. Acad. Sci. USA 61 : 719 - 725 .",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "p_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1016/S0076-6879(79)60032-0",
+      "article-title": "The binding site of IF-3 in MS2 RNA",
+      "volume": "60",
+      "author": "Johnson B.",
+      "year": "1979",
+      "unstructured": "Johnson , B. , and M. Szekely . 1979 . The binding site of IF-3 in MS2 RNA . Methods Enzymol. 60 : 343 - 350 .",
+      "journal-title": "Methods Enzymol."
+    },
+    {
+      "key": "p_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "332",
+      "DOI": "10.1016/S0076-6879(79)60031-9",
+      "article-title": "Binding of messenger RNA in initiation of prokaryotic translation",
+      "volume": "60",
+      "author": "Kaempfer R.",
+      "year": "1979",
+      "unstructured": "Kaempfer , R. , and G. Jay . 1979 . Binding of messenger RNA in initiation of prokaryotic translation . Methods Enzymol. 60 : 332 - 343 .",
+      "journal-title": "Methods Enzymol."
+    },
+    {
+      "key": "p_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "385",
+      "DOI": "10.1128/jb.160.1.385-390.1984",
+      "article-title": "Effect of chloride and glutamate ions on in vitro protein synthesis by the moderate halophile Vibrio costicola",
+      "volume": "160",
+      "author": "Kamekura M.",
+      "year": "1984",
+      "unstructured": "Kamekura , M. , and D. J. Kushner . 1984 . Effect of chloride and glutamate ions on in vitro protein synthesis by the moderate halophile Vibrio costicola . J. Bacteriol. 160 : 385 - 390 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "516",
+      "DOI": "10.1016/S0021-9258(18)51710-5",
+      "article-title": "Differences in chloramphenicol sensitivity of cell-free amino acid polymerization systems",
+      "volume": "239",
+      "author": "Kucan Z.",
+      "year": "1964",
+      "unstructured": "Kucan , Z. , and F. Lipmann . 1964 . Differences in chloramphenicol sensitivity of cell-free amino acid polymerization systems . J. Biol. Chem. 239 : 516 - 520 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_11",
+      "first-page": "482",
+      "article-title": "What is the \"true",
+      "volume": "34",
+      "author": "Kushner D. J.",
+      "year": "1988",
+      "unstructured": "Kushner , D. J. 1988 . What is the \"true \" internal environment of halophilic and other bacteria? Can. J. Microbiol. 34 : 482 - 486 .",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "p_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "680",
+      "DOI": "10.1038/227680a0",
+      "article-title": "Cleavage of structural proteins during the assembly of the head of bacteriophage T4",
+      "volume": "227",
+      "author": "Laemmli U. K.",
+      "year": "1970",
+      "unstructured": "Laemmli , U. K. 1970 . Cleavage of structural proteins during the assembly of the head of bacteriophage T4 . Nature (London) 227 : 680 - 685 .",
+      "journal-title": "Nature (London)"
+    },
+    {
+      "key": "p_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "689",
+      "DOI": "10.1016/0022-2836(70)90093-8",
+      "article-title": "Secondary structure of bacteriophage f2 ribonucleic acid and the initiation of in vitro protein biosynthesis",
+      "volume": "50",
+      "author": "Lodish H. F.",
+      "year": "1970",
+      "unstructured": "Lodish , H. F. 1970 . Secondary structure of bacteriophage f2 ribonucleic acid and the initiation of in vitro protein biosynthesis . J. Mol. Biol. 50 : 689 - 702 .",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "p_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "345",
+      "DOI": "10.1016/0926-6550(63)90350-5",
+      "article-title": "A priming reaction in protein synthesis",
+      "volume": "72",
+      "author": "Lubin M.",
+      "year": "1963",
+      "unstructured": "Lubin , M. 1963 . A priming reaction in protein synthesis . Biochim. Biophys. Acta 72 : 345 - 348 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "1050",
+      "DOI": "10.1073/pnas.57.4.1050",
+      "article-title": "Initiation of polyphenylalanine synthesis by N-acetylphenylalanyl-sRNA",
+      "volume": "57",
+      "author": "Lucas-Lenard J.",
+      "year": "1967",
+      "unstructured": "Lucas-Lenard , J. , and F. Lipmann . 1967 . Initiation of polyphenylalanine synthesis by N-acetylphenylalanyl-sRNA . Proc. Natl. Acad. Sci. USA 57 : 1050 - 1057 .",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "p_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "82",
+      "DOI": "10.1038/237082a0",
+      "article-title": "Nucleotide sequence of the gene coding for the bacteriophage MS2 coat protein",
+      "volume": "237",
+      "author": "Min Jou W.",
+      "year": "1972",
+      "unstructured": "Min Jou , W. , G. Haegeman , M. Ysebaert , and W. Fiers . 1972 . Nucleotide sequence of the gene coding for the bacteriophage MS2 coat protein . Nature (London) 237 : 82 - 88 .",
+      "journal-title": "Nature (London)"
+    },
+    {
+      "key": "p_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "1279",
+      "DOI": "10.1073/pnas.61.4.1279",
+      "article-title": "Rapid inhibition of polypeptide chain extension by streptomycin",
+      "volume": "61",
+      "author": "Modelell J.",
+      "year": "1968",
+      "unstructured": "Modelell , J. , and B. D. Davis . 1968 . Rapid inhibition of polypeptide chain extension by streptomycin . Proc. Natl. Acad. Sci. USA 61 : 1279 - 1286 .",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "p_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1016/S0006-291X(71)80106-7",
+      "article-title": "Inhibition by kasugamycin of initiation complex formation on 30S ribosomes",
+      "volume": "43",
+      "author": "Okuyama A.",
+      "year": "1971",
+      "unstructured": "Okuyama , A. , N. Machiyama , T. Kinoshita , and N. Tanaka . 1971 . Inhibition by kasugamycin of initiation complex formation on 30S ribosomes . Biochem. Biophys. Res. Commun. 43 : 196 - 199 .",
+      "journal-title": "Biochem. Biophys. Res. Commun."
+    },
+    {
+      "key": "p_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1111/j.1432-1033.1970.tb01134.x",
+      "article-title": "Large scale purification of A-protein from bacteriophage R17",
+      "volume": "17",
+      "author": "Osborn M.",
+      "year": "1970",
+      "unstructured": "Osborn , M. , A. M. Weiner , and K. Weber . 1970 . Large scale purification of A-protein from bacteriophage R17 . Eur. J. Biochem. 17 : 63 - 67 .",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "p_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "4669",
+      "DOI": "10.1016/S0021-9258(19)45039-4",
+      "article-title": "Studies on transfer ribonucleic acid-ribosome complexes",
+      "volume": "247",
+      "author": "Pestka S.",
+      "year": "1972",
+      "unstructured": "Pestka , S. 1972 . Studies on transfer ribonucleic acid-ribosome complexes . J. Biol. Chem. 247 : 4669 - 4678 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/S0015-3796(82)80082-6",
+      "article-title": "Inhibition of protein synthesis by Cl-: different sensitivity of pea and cereal initiation factors",
+      "volume": "177",
+      "author": "Peumans W. J.",
+      "year": "1982",
+      "unstructured": "Peumans , W. J. , A. R. Carlier , and B. Delaey . 1982 . Inhibition of protein synthesis by Cl-: different sensitivity of pea and cereal initiation factors . Biochem. Physiol. Pflanz. 177 : 1 - 8 .",
+      "journal-title": "Biochem. Physiol. Pflanz."
+    },
+    {
+      "key": "p_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "1269",
+      "DOI": "10.1038/2281269a0",
+      "article-title": "Purification and properties of initiation factor F3",
+      "volume": "26",
+      "author": "Sabol S.",
+      "year": "1970",
+      "unstructured": "Sabol , S. , M. A. G. Sfllero , K. Iwasaki , and S. Ochoa . 1970 . Purification and properties of initiation factor F3 . Nature (London) 26 : 1269 - 1273 .",
+      "journal-title": "Nature (London)"
+    },
+    {
+      "key": "p_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "8194",
+      "DOI": "10.1021/bi00421a031",
+      "article-title": "An NH4-dependent protein synthesis cell-free system for halobacteria",
+      "volume": "27",
+      "author": "Sanz J. L.",
+      "year": "1988",
+      "unstructured": "Sanz , J. L. , I. Marin , M. A. Balboa , D. Urena , and R. Amils . 1988 . An NH4-dependent protein synthesis cell-free system for halobacteria . Biochemistry 27 : 8194 - 8199 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "390",
+      "DOI": "10.1016/0014-5793(85)80817-6",
+      "article-title": "A highly efficient poly(U)-dependent poly(phe) synthesis system for the extreme halophile archaebacterium Halobacterium halobium",
+      "volume": "183",
+      "author": "Saruyama H.",
+      "year": "1985",
+      "unstructured": "Saruyama , H. , and K. H. Nierhaus . 1985 . A highly efficient poly(U)-dependent poly(phe) synthesis system for the extreme halophile archaebacterium Halobacterium halobium . FEBS Lett. 183 : 390 - 394 .",
+      "journal-title": "FEBS Lett."
+    },
+    {
+      "key": "p_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "698",
+      "DOI": "10.1128/jb.130.2.698-703.1977",
+      "article-title": "Cell-bound cations of the moderately halophilic bacterium Vibrio costicola",
+      "volume": "130",
+      "author": "Shindler D. B.",
+      "year": "1977",
+      "unstructured": "Shindler , D. B. , R. M. Wydro , and D. J. Kushner . 1977 . Cell-bound cations of the moderately halophilic bacterium Vibrio costicola . J. Bacteriol. 130 : 698 - 703 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1220",
+      "DOI": "10.1073/pnas.51.6.1220",
+      "article-title": "The effect of univalent cations on the binding of sRNA to the template-ribosome complex",
+      "volume": "51",
+      "author": "Spyrides G. J.",
+      "year": "1964",
+      "unstructured": "Spyrides , G. J. 1964 . The effect of univalent cations on the binding of sRNA to the template-ribosome complex . Proc. Natl. Acad. Sci. USA 51 : 1220 - 1226 .",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "p_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "311",
+      "DOI": "10.1016/S0076-6879(79)60029-0",
+      "article-title": "Prokaryotic ribosome binding sites",
+      "volume": "60",
+      "author": "Steitz J. A.",
+      "year": "1979",
+      "unstructured": "Steitz , J. A. 1979 . Prokaryotic ribosome binding sites . Methods Enzymol. 60 : 311 - 321 .",
+      "journal-title": "Methods Enzymol."
+    },
+    {
+      "key": "p_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "609",
+      "DOI": "10.1021/bi00728a007",
+      "article-title": "Properties of initiation-free polysomes of Escherichia coli",
+      "volume": "12",
+      "author": "Tai P.",
+      "year": "1973",
+      "unstructured": "Tai , P. , J. W. Wallace , E. L. Herzog , and B. D. Davis . 1973 . Properties of initiation-free polysomes of Escherichia coli . Biochemistry 12 : 609 - 615 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "215",
+      "DOI": "10.1016/S0076-6879(79)60018-6",
+      "article-title": "Formation of a preribosomal binary complex consisting of fmet-tRNA and IF-2 and its interaction with the ribosomes",
+      "volume": "60",
+      "author": "Van der Hofsdtad G. A. J. M.",
+      "year": "1979",
+      "unstructured": "Van der Hofsdtad , G. A. J. M. , H. 0. Voorma , and L. Bosch . 1979 . Formation of a preribosomal binary complex consisting of fmet-tRNA and IF-2 and its interaction with the ribosomes . Methods Enzymol. 60 : 215 - 224 .",
+      "journal-title": "Methods Enzymol."
+    },
+    {
+      "key": "p_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1111/j.1432-1033.1980.tb04394.x",
+      "article-title": "The role of the codon and the initiation factor IF-2 in the selection of N-blocked aminoacyltRNA for initiation",
+      "volume": "104",
+      "author": "Van der Laken K.",
+      "year": "1980",
+      "unstructured": "Van der Laken , K. , H. Bakker-Steeneveld , B. Berkhout , and P. H. van Knippenberg . 1980 . The role of the codon and the initiation factor IF-2 in the selection of N-blocked aminoacyltRNA for initiation . Eur. J. Biochem. 104 : 19 - 23 .",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "p_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "283",
+      "DOI": "10.1111/j.1432-1033.1973.tb03196.x",
+      "article-title": "Binding of the initiation factor IF-3 to Escherichia coli ribosomes and MS2-RNA",
+      "volume": "40",
+      "author": "Vermeer C.",
+      "year": "1973",
+      "unstructured": "Vermeer , C. , J. Boon , A. Talens , and L. Bosch . 1973 . Binding of the initiation factor IF-3 to Escherichia coli ribosomes and MS2-RNA . Eur. J. Biochem. 40 : 283 - 293 .",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "p_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "451",
+      "DOI": "10.1111/j.1432-1033.1971.tb01263.x",
+      "article-title": "Binding of aminoacyl-tRNA to ribosomes programmed with bacteriophage MS2-RNA",
+      "volume": "18",
+      "author": "Voorma H. O.",
+      "year": "1971",
+      "unstructured": "Voorma , H. O. , R. Benne , and T. J. A. den Hertog . 1971 . Binding of aminoacyl-tRNA to ribosomes programmed with bacteriophage MS2-RNA . Eur. J. Biochem. 18 : 451 - 462 .",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "p_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.1101/SQB.1969.034.01.035",
+      "article-title": "Initiation of protein synthesis in Escherichia coli. II. Role of the initiation factors in polypeptide synthesis",
+      "volume": "34",
+      "author": "Wabba A. J.",
+      "year": "1969",
+      "unstructured": "Wabba , A. J. , K. Iwasaki , M. J. Miller , S. Sabol , M. A. G. Sillero , and C. Vasquez . 1969 . Initiation of protein synthesis in Escherichia coli. II. Role of the initiation factors in polypeptide synthesis . Cold Spring Harbor Symp. Quant. Biol. 34 : 291 - 299 .",
+      "journal-title": "Cold Spring Harbor Symp. Quant. Biol."
+    },
+    {
+      "key": "p_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "4007",
+      "DOI": "10.1016/S0021-9258(17)40350-4",
+      "article-title": "Inhibition of protein synthesis by C1-",
+      "volume": "252",
+      "author": "Weber L. A.",
+      "year": "1977",
+      "unstructured": "Weber , L. A. , E. D. Hickey , P. A. Moroney , and C. Baglioni . 1977 . Inhibition of protein synthesis by C1- . J. Biol. Chem. 252 : 4007 - 4010 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1016/0022-2836(67)90179-9",
+      "article-title": "Amber mutants and chain termination in vitro",
+      "volume": "29",
+      "author": "Webster R. E.",
+      "year": "1967",
+      "unstructured": "Webster , R. E. , D. L. Engelhardt , and N. D. Zinder . 1967 . Amber mutants and chain termination in vitro . J. Mol. Biol. 29 : 27 - 43 .",
+      "journal-title": "J. Mol. Biol."
+    },
+    {
+      "key": "p_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1215",
+      "DOI": "10.1016/S0021-9258(19)68177-9",
+      "article-title": "The binding of fluoresceinlabeled protein synthesis initiation factor 2 to Escherichia coli 30 S ribosomal subunits determined by fluorescence polarization",
+      "volume": "257",
+      "author": "Weiel J.",
+      "year": "1982",
+      "unstructured": "Weiel , J. , and W. B. Hershey . 1982 . The binding of fluoresceinlabeled protein synthesis initiation factor 2 to Escherichia coli 30 S ribosomal subunits determined by fluorescence polarization . J. Biol. Chem. 257 : 1215 - 1220 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_37",
+      "doi-asserted-by": "crossref",
+      "first-page": "210",
+      "DOI": "10.1016/0014-5793(75)80453-4",
+      "article-title": "Salt response of ribosomes of a moderately halophilic bacterium",
+      "volume": "60",
+      "author": "Wydro R. M.",
+      "year": "1975",
+      "unstructured": "Wydro , R. M. , M. Kogut , and D. J. Kushner . 1975 . Salt response of ribosomes of a moderately halophilic bacterium . FEBS Lett. 60 : 210 - 215 .",
+      "journal-title": "FEBS Lett."
+    },
+    {
+      "key": "p_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "824",
+      "DOI": "10.1038/269824a0",
+      "article-title": "Salt-sensitive in vitro protein synthesis by a moderately halophilic bacterium",
+      "volume": "269",
+      "author": "Wydro R. M.",
+      "year": "1977",
+      "unstructured": "Wydro , R. M. , W. Madira , T. Hiramatsu , M. Kogut , and D. J. Kushner . 1977 . Salt-sensitive in vitro protein synthesis by a moderately halophilic bacterium . Nature (London) 269 : 824 - 825 .",
+      "journal-title": "Nature (London)"
+    },
+    {
+      "key": "p_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "734",
+      "DOI": "10.1016/0042-6822(70)90218-7",
+      "article-title": "Rapid bacteriophage sedimentation in the presence of polyethylene glycol and its application to large-scale virus purification",
+      "volume": "40",
+      "author": "Yamamoto K. R.",
+      "year": "1970",
+      "unstructured": "Yamamoto , K. R. , B. M. Alberts , R. Benzinger , L. Lawhorne , and G. Treiber . 1970 . Rapid bacteriophage sedimentation in the presence of polyethylene glycol and its application to large-scale virus purification . Virology 40 : 734 - 744 .",
+      "journal-title": "Virology"
+    }
+  ],
+  "container-title": [
+    "Journal of Bacteriology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.172.6.3462-3468.1990",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.172.6.3462-3468.1990",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        7,
+        29
+      ]
+    ],
+    "date-time": "2021-07-29T17:48:30Z",
+    "timestamp": 1627580910000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.asm.org/doi/10.1128/jb.172.6.3462-3468.1990"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1990,
+        6
+      ]
+    ]
+  },
+  "references-count": 39,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          1990,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1128/jb.172.6.3462-3468.1990"
+  ],
+  "URL": "https://doi.org/10.1128/jb.172.6.3462-3468.1990",
+  "relation": {},
+  "ISSN": [
+    "0021-9193",
+    "1098-5530"
+  ],
+  "issn-type": [
+    {
+      "value": "0021-9193",
+      "type": "print"
+    },
+    {
+      "value": "1098-5530",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1990,
+        6
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-02-02",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

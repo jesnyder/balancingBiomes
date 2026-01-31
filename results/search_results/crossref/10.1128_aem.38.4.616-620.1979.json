@@ -1,0 +1,195 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        5
+      ]
+    ],
+    "date-time": "2026-01-05T15:08:29Z",
+    "timestamp": 1767625709145
+  },
+  "reference-count": 0,
+  "publisher": "American Society for Microbiology",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1979,
+            10,
+            1
+          ]
+        ],
+        "date-time": "1979-10-01T00:00:00Z",
+        "timestamp": 307584000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.asm.org/non-commercial-tdm-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.asm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Appl Environ Microbiol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1979,
+        10
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n            A moderate halophile,\n            <jats:italic>Micrococcus halobius</jats:italic>\n            ATCC 21727, produced an extracellular dextrinogenic amylase when cultivated in media containing 1 to 3 M NaCl. The amylase was purified from the culture filtrate to an electrophoretically homogenous state by glycogen-complex formation, diethylaminoethyl-cellulose chromatography, and Bio-Gel P-200 gel filtration. The enzyme had maximal activity at pH 6 to 7 in 0.25 M NaCl or 0.75 M KCl at 50 to 55°C. The activity was lost by dialysis against distilled water. Molecular weight was estimated to be 89,000 by sodium dodecyl sulfate-gel electrophoresis. The action pattern on amylose, soluble starch, and glycogen showed that the products were maltose, maltotriose, and maltotetraose, with lesser amount of glucose.\n          </jats:p>",
+  "DOI": "10.1128/aem.38.4.616-620.1979",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        1
+      ]
+    ],
+    "date-time": "2020-01-01T02:57:52Z",
+    "timestamp": 1577847472000
+  },
+  "page": "616-620",
+  "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 43,
+  "title": [
+    "Purification and Some Properties of an Extracellular Amylase from a Moderate Halophile,\n            <i>Micrococcus halobius</i>"
+  ],
+  "prefix": "10.1128",
+  "volume": "38",
+  "author": [
+    {
+      "given": "Hiroshi",
+      "family": "Onishi",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Agricultural Chemistry, Kagoshima University, Korimoto, Kagoshima-shi, Japan 890"
+        }
+      ]
+    },
+    {
+      "given": "Koji",
+      "family": "Sonoda",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Agricultural Chemistry, Kagoshima University, Korimoto, Kagoshima-shi, Japan 890"
+        }
+      ]
+    }
+  ],
+  "member": "235",
+  "container-title": [
+    "Applied and Environmental Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/aem.38.4.616-620.1979",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/aem.38.4.616-620.1979",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        23
+      ]
+    ],
+    "date-time": "2022-02-23T20:24:42Z",
+    "timestamp": 1645647882000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.asm.org/doi/10.1128/aem.38.4.616-620.1979"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1979,
+        10
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          1979,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1128/aem.38.4.616-620.1979"
+  ],
+  "URL": "https://doi.org/10.1128/aem.38.4.616-620.1979",
+  "relation": {},
+  "ISSN": [
+    "0099-2240",
+    "1098-5336"
+  ],
+  "issn-type": [
+    {
+      "value": "0099-2240",
+      "type": "print"
+    },
+    {
+      "value": "1098-5336",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1979,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "1979-10-01",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

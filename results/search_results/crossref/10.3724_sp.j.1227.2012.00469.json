@@ -1,0 +1,359 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        3
+      ]
+    ],
+    "date-time": "2025-10-03T08:57:02Z",
+    "timestamp": 1759481822288
+  },
+  "reference-count": 35,
+  "publisher": "China Science Publishing & Media Ltd.",
+  "issue": "4",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Arid Land"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2012,
+        9,
+        27
+      ]
+    ]
+  },
+  "DOI": "10.3724/sp.j.1227.2012.00469",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        9,
+        27
+      ]
+    ],
+    "date-time": "2012-09-27T16:10:46Z",
+    "timestamp": 1348762246000
+  },
+  "page": "469-478",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "title": [
+    "Water adaptive traits of deep-rooted C&lt;SUB&gt;3&lt;/SUB&gt; halophyte (&lt;I&gt;Karelinia caspica&lt;/I&gt; (Pall.) Less.) and shallow-rooted C&lt;SUB&gt;4&lt;/SUB&gt; halophyte (&lt;I&gt;Atriplex tatarica&lt;/I&gt; L.) in an arid region, Northwest China"
+  ],
+  "prefix": "10.3724",
+  "volume": "4",
+  "author": [
+    {
+      "given": "Yuan",
+      "family": "FAN",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "PinFang",
+      "family": "LI",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "ZhenAn",
+      "family": "HOU",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "TuSheng",
+      "family": "REN",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "ChunLian",
+      "family": "XIONG",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Biao",
+      "family": "ZHANG",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "2026",
+  "reference": [
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-1",
+      "doi-asserted-by": "publisher",
+      "author": "Sanchez-Diaz M F",
+      "DOI": "10.1104/pp.48.5.613"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-2",
+      "doi-asserted-by": "publisher",
+      "author": "Xu H",
+      "DOI": "10.1007/s11104-005-5108-9"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-3",
+      "author": "Dong X J"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-4",
+      "doi-asserted-by": "publisher",
+      "author": "Schwinning S",
+      "DOI": "10.1046/j.1365-2745.2001.00576.x"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-5",
+      "doi-asserted-by": "publisher",
+      "author": "Hernández E I",
+      "DOI": "10.1007/s11258-009-9668-2"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-6",
+      "doi-asserted-by": "publisher",
+      "author": "Leffler A J",
+      "DOI": "10.1016/S0098-8472(03)00041-8"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-7",
+      "doi-asserted-by": "publisher",
+      "author": "Biran I",
+      "DOI": "10.2134/agronj1981.00021962007300010020x"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-8",
+      "doi-asserted-by": "publisher",
+      "author": "Vertovec M",
+      "DOI": "10.1051/forest:2001111"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-9",
+      "doi-asserted-by": "publisher",
+      "author": "Brown K",
+      "DOI": "10.1111/j.1399-3054.1976.tb01863.x"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-10",
+      "doi-asserted-by": "publisher",
+      "author": "Ghannoum O",
+      "DOI": "10.1093/aob/mcn093"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-11",
+      "doi-asserted-by": "publisher",
+      "author": "Neves J",
+      "DOI": "10.1007/s11738-007-0094-6"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-12",
+      "doi-asserted-by": "publisher",
+      "author": "Jongdee B",
+      "DOI": "10.1016/S0378-4290(02)00036-9"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-13",
+      "doi-asserted-by": "publisher",
+      "author": "Hsiao T C",
+      "DOI": "10.1146/annurev.pp.24.060173.002511"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-14",
+      "doi-asserted-by": "publisher",
+      "author": "Chen H",
+      "DOI": "10.1139/A10-014"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-15",
+      "doi-asserted-by": "publisher",
+      "author": "Mishio M",
+      "DOI": "10.1093/jxb/42.4.541"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-16"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-17",
+      "doi-asserted-by": "publisher",
+      "author": "Farquhar G D",
+      "DOI": "10.1146/annurev.pp.33.060182.001533"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-18",
+      "doi-asserted-by": "publisher",
+      "author": "Zeng F",
+      "DOI": "10.1007/s11104-005-0498-2"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-19",
+      "doi-asserted-by": "publisher",
+      "author": "Li Y Y",
+      "DOI": "10.1007/s11703-008-0028-0"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-20"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-21",
+      "doi-asserted-by": "publisher",
+      "author": "Yu G R",
+      "DOI": "10.1007/s11258-006-9163-y"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-22",
+      "doi-asserted-by": "publisher",
+      "author": "O'Toole J C",
+      "DOI": "10.1104/pp.65.3.428"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-23"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-24",
+      "doi-asserted-by": "publisher",
+      "author": "Cui Y L",
+      "DOI": "10.1111/j.1745-6584.2005.0063.x"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-25",
+      "doi-asserted-by": "publisher",
+      "author": "Wang R",
+      "DOI": "10.1007/s11099-007-0028-y"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-26"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-27",
+      "doi-asserted-by": "publisher",
+      "author": "Kalapos T",
+      "DOI": "10.1007/BF02257570"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-28",
+      "doi-asserted-by": "publisher",
+      "author": "Taylor H",
+      "DOI": "10.1111/j.1469-8137.2009.03102.x"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-29",
+      "author": "Noy-Meir I"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-30",
+      "doi-asserted-by": "publisher",
+      "author": "Boyer J",
+      "DOI": "10.1098/rstb.1976.0027"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-31",
+      "doi-asserted-by": "publisher",
+      "author": "Taylor S",
+      "DOI": "10.1111/j.1365-3040.2010.02226.x"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-32",
+      "doi-asserted-by": "publisher",
+      "author": "Wu D X",
+      "DOI": "10.1016/j.agee.2004.01.018"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-33",
+      "doi-asserted-by": "publisher",
+      "author": "Jarvis P",
+      "DOI": "10.1098/rstb.1976.0035"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-34"
+    },
+    {
+      "key": "10.3724/SP.J.1227.2012.00469-35"
+    }
+  ],
+  "container-title": [
+    "Journal of Arid Land"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://task.scichina.com/u/cms/www/pdf/1674-6767/2012/4/27946.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2022-03-04T01:00:23Z",
+    "timestamp": 1646355623000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://pub.chinasciencejournal.com/article/getArticleRedirect.action?doiCode=10.3724/SP.J.1227.2012.00469"
+    }
+  },
+  "subtitle": [
+    "Water adaptive traits of deep-rooted C&lt;SUB&gt;3&lt;/SUB&gt; halophyte (&lt;I&gt;Karelinia caspica&lt;/I&gt; (Pall.) Less.) and shallow-rooted C&lt;SUB&gt;4&lt;/SUB&gt; halophyte (&lt;I&gt;Atriplex tatarica&lt;/I&gt; L.) in an arid region, Northwest China"
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        9,
+        27
+      ]
+    ]
+  },
+  "references-count": 35,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          12,
+          20
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.3724/sp.j.1227.2012.00469",
+  "relation": {},
+  "ISSN": [
+    "1674-6767"
+  ],
+  "issn-type": [
+    {
+      "value": "1674-6767",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        9,
+        27
+      ]
+    ]
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        4
+      ]
+    ],
+    "date-time": "2025-12-04T14:35:59Z",
+    "timestamp": 1764858959549
+  },
+  "reference-count": 43,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2017-10-01T00:00:00Z",
+        "timestamp": 1506816000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100004543",
+      "name": "China Scholarship Council",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100004543",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100009044",
+      "name": "University of Kaiserslautern",
+      "doi-asserted-by": "crossref",
+      "id": [
+        {
+          "id": "10.13039/100009044",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "European Journal of Protistology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2017,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.ejop.2017.07.004",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        7,
+        25
+      ]
+    ],
+    "date-time": "2017-07-25T02:00:17Z",
+    "timestamp": 1500948017000
+  },
+  "page": "20-28",
+  "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "special_numbering": "PA",
+  "title": [
+    "Redescription of the halophile ciliate, Blepharisma halophilum Ruinen, 1938 (Ciliophora, Heterotrichea, Heterotrichida) shows that the genus Blepharisma is non-monophyletic"
+  ],
+  "prefix": "10.1016",
+  "volume": "61",
+  "author": [
+    {
+      "given": "Hongbo",
+      "family": "Pan",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Thorsten",
+      "family": "Stoeck",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0005",
+      "first-page": "71",
+      "article-title": "Divisional morphogenesis in Blepharisma americanum, B. undulans, and B. hyalinum (Ciliophora: Heterotrichida)",
+      "volume": "37",
+      "author": "Aescht",
+      "year": "1998",
+      "journal-title": "Acta Protozool."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0010",
+      "first-page": "127",
+      "article-title": "Records of marine interstitial Heterotrichida (Ciliata) from the Saudi Arabian Jubail Marine Wildlife Sanctuary in the Arabian Gulf",
+      "volume": "17",
+      "author": "Al-Rasheid",
+      "year": "1999",
+      "journal-title": "Arab Gulf J. Sci. Res."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0015",
+      "first-page": "63",
+      "article-title": "Blepharisma intermedium Padmavathi, 1959 (Ciliophora: Heterotrichida) from Al-Hassa inland hypersaline oasis in Saudi Arabia",
+      "volume": "40",
+      "author": "Al-Rasheid",
+      "year": "2001",
+      "journal-title": "Acta Protozool."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0020",
+      "first-page": "465",
+      "article-title": "Morphology and ecology of the benthic ciliate protozoa of Alligator Harbour, Florida",
+      "volume": "106",
+      "author": "Borror",
+      "year": "1963",
+      "journal-title": "Arch. Protistenkd."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/j.protis.2010.06.003",
+      "article-title": "Expanding character sampling for ciliate phylogenetic inference using mitochondrial SSU-rDNA as a molecular marker",
+      "volume": "162",
+      "author": "Dunthorn",
+      "year": "2011",
+      "journal-title": "Protist"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "1792",
+      "DOI": "10.1093/nar/gkh340",
+      "article-title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+      "volume": "32",
+      "author": "Edgar",
+      "year": "2004",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "623",
+      "DOI": "10.1016/j.ejop.2013.04.003",
+      "article-title": "Morphology and 18S rDNA gene sequence of Blepharisma sinuosum Sawaya, 1940 (Ciliophora: Heterotrichea) from Brazil",
+      "volume": "49",
+      "author": "Fernandes",
+      "year": "2013",
+      "journal-title": "Eur. J. Protistol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1016/j.ympev.2015.10.030",
+      "article-title": "Expanded phylogenetic analyses of the class Heterotrichea (Ciliophora, Postciliodesmatophora) using five molecular markers and morphological data",
+      "volume": "95",
+      "author": "Fernandes",
+      "year": "2016",
+      "journal-title": "Mol. Phylogenet. Evol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0045",
+      "first-page": "71",
+      "article-title": "Taxonomische Studien über die Ciliaten des Grossglocknergebietes (Hohe Tauern, Österreich) IX. Ordnungen Heterotrichida und Hypotrichida",
+      "volume": "5",
+      "author": "Foissner",
+      "year": "1980",
+      "journal-title": "Ber. Nat. Med. Ver. Salzburg."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0050",
+      "first-page": "173",
+      "article-title": "Morphologie und Infraciliature einiger neuer und wenig bekannter terrestrischer und limnischer Ciliaten",
+      "volume": "196",
+      "author": "Foissner",
+      "year": "1989",
+      "journal-title": "Sber. Akad. Wiss. Wien."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1111/jeu.12087",
+      "article-title": "Schmidingerothrix salinarum nov. spec. is the molecular sister of the large oxytrichid clade (Ciliophora, Hypotricha)",
+      "volume": "61",
+      "author": "Foissner",
+      "year": "2014",
+      "journal-title": "J. Eukaryot. Microbiol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0060",
+      "series-title": "Blepharsima: The Biology of a Light Sensitive Protozoan",
+      "author": "Giese",
+      "year": "1973"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0065",
+      "first-page": "95",
+      "article-title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+      "volume": "41",
+      "author": "Hall",
+      "year": "1999",
+      "journal-title": "Nucleic Acids Symp. Ser."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.3389/fmicb.2013.00115",
+      "article-title": "Characterization of eukaryotic microbial diversity in hypersaline Lake Tyrrell, Australia",
+      "volume": "4",
+      "author": "Heidelberg",
+      "year": "2013",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "130",
+      "DOI": "10.1111/j.1550-7408.1965.tb01826.x",
+      "article-title": "A proposed organization of the genus Blepharisma Perty and description of four new species",
+      "volume": "12",
+      "author": "Hirshfield",
+      "year": "1965",
+      "journal-title": "J. Protozool."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0080",
+      "series-title": "International Code of Zoological Nomenclature",
+      "article-title": "4th ed.",
+      "author": "ICZN (International Commission on Zoological Nomenclature)",
+      "year": "1999"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "615",
+      "DOI": "10.1111/j.1550-7408.1965.tb03264.x",
+      "article-title": "Blepharisma seculum, sp. nov., a member of the subgenus (Compactum)",
+      "volume": "12",
+      "author": "Isquith",
+      "year": "1965",
+      "journal-title": "J. Protozool."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0090",
+      "first-page": "399",
+      "article-title": "Urtiere oder protozoa. I Wimpertiere oder Ciliata (Infusoria), 3. Spirotricha",
+      "volume": "25",
+      "author": "Kahl",
+      "year": "1932",
+      "journal-title": "Tierwelt Dtl."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0095",
+      "series-title": "Die Tierwelt der Nord- und Ostsee",
+      "first-page": "147",
+      "article-title": "Ciliata libera et ectocommensalia",
+      "author": "Kahl",
+      "year": "1933"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "90",
+      "DOI": "10.1111/j.1550-7408.1983.tb01039.x",
+      "article-title": "Is Blepharisma hyalinum truly unpigmented?",
+      "volume": "30",
+      "author": "Larsen",
+      "year": "1983",
+      "journal-title": "J. Protozool."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "452",
+      "DOI": "10.1080/14772000.2016.1162872",
+      "article-title": "Taxonomy and molecular systematics of three oligotrich (s.l.) ciliates including descriptions of two new species, Strombidium guangdongense sp. nov. and Strombidinopsis sinicum sp. nov. (Protozoa, Ciliophora)",
+      "volume": "14",
+      "author": "Liu",
+      "year": "2016",
+      "journal-title": "Syst. Biodivers."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "603",
+      "DOI": "10.1038/35054537",
+      "article-title": "Unexpected diversity of small eukaryotes in deep-sea Antarctic plankton",
+      "volume": "409",
+      "author": "Lopez-Garcia",
+      "year": "2001",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0115",
+      "series-title": "The Ciliated Protozoa, Characterization, Classification, and Guide to the Literature",
+      "author": "Lynn",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0120",
+      "series-title": "An Illustrated Guide to the Protozoa",
+      "first-page": "371",
+      "article-title": "Phylum Ciliophora, Doflein, 1901",
+      "author": "Lynn",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0125",
+      "series-title": "Proceedings of the Gateway Computing Environments Workshop (GCE)",
+      "first-page": "1",
+      "article-title": "Creating the CIPRES science gateway for inference of large phylogenetic trees",
+      "author": "Miller",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "310",
+      "DOI": "10.1016/S0932-4739(11)80122-7",
+      "article-title": "Defensive function of pigment granules in Blepharisma japonicum",
+      "volume": "25",
+      "author": "Miyake",
+      "year": "1990",
+      "journal-title": "Eur. J. Protistol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0135",
+      "series-title": "MrModeltest v2",
+      "author": "Nylander",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0140",
+      "first-page": "193",
+      "article-title": "Studies on the cytology of an Indian species of Blepharisma (Protozoa, Ciliata)",
+      "volume": "23",
+      "author": "Padmavathi",
+      "year": "1959",
+      "journal-title": "Vĕst. Čsl. Zool. Spol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "609",
+      "DOI": "10.1111/jeu.12067",
+      "article-title": "Protargol synthesis: an inhouse protocol",
+      "volume": "60",
+      "author": "Pan",
+      "year": "2013",
+      "journal-title": "J. Eukaryot. Microbiol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1007/BF00025180",
+      "article-title": "The protozoa of a Western Australian hypersaline lagoon",
+      "volume": "105",
+      "author": "Post",
+      "year": "1983",
+      "journal-title": "Hydrobiologia"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.2307/3226096",
+      "article-title": "A numerical taxonomic study of the heterotrich ciliate genus Blepharisma",
+      "volume": "96",
+      "author": "Repak",
+      "year": "1977",
+      "journal-title": "Trans. Am. Micros. Soc."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "1572",
+      "DOI": "10.1093/bioinformatics/btg180",
+      "article-title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+      "volume": "19",
+      "author": "Ronquist",
+      "year": "2003",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0165",
+      "first-page": "243",
+      "article-title": "Notizen über Ciliaten aus konzentrierten Salzgewässern",
+      "volume": "20",
+      "author": "Ruinen",
+      "year": "1938",
+      "journal-title": "Zool. Meded."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "3016",
+      "DOI": "10.1099/ijs.0.062281-0",
+      "article-title": "Morphology and phylogenetic analysis of two oxytrichid soil ciliates from China, Oxytricha paragranulifera n. sp. and Oxytricha granulifera Foissner and Adam, 1983 (Protista, Ciliophora, Hypotrichia)",
+      "volume": "64",
+      "author": "Shao",
+      "year": "2014",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "118",
+      "DOI": "10.1016/j.ympev.2014.05.012",
+      "article-title": "Phylogenetic relationships of the ciliate class Heterotrichea (Protista, Ciliophora, Postciliodesmatophora) inferred from multiple molecular markers and multifaceted analysis strategy",
+      "volume": "78",
+      "author": "Shazib",
+      "year": "2014",
+      "journal-title": "Mol. Phylogen. Evol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "3556",
+      "DOI": "10.1128/JCM.37.11.3556-3563.1999",
+      "article-title": "Evaluation of protein A gene polymorphic region DNA sequencing for typing of Staphylococcus aureus strains",
+      "volume": "37",
+      "author": "Shopsin",
+      "year": "1999",
+      "journal-title": "J. Clin. Microbiol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "1312",
+      "DOI": "10.1093/bioinformatics/btu033",
+      "article-title": "RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies",
+      "volume": "30",
+      "author": "Stamatakis",
+      "year": "2014",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1016/j.protis.2011.06.005",
+      "article-title": "Vorticella Linnaeus, 1767 (Ciliophora, Oligohymenophora, Peritrichia) is a grade not a clade: redefinition of Vorticella and the families Vorticellidae and Astylozoidae using molecular characters derived from the gene coding for small subunit ribosomal RNA",
+      "volume": "163",
+      "author": "Sun",
+      "year": "2012",
+      "journal-title": "Protist"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "93",
+      "DOI": "10.1016/j.protis.2013.11.001",
+      "article-title": "The chaos prevails: molecular phylogeny of the Haptoria (Ciliophora, Litostomatea)",
+      "volume": "165",
+      "author": "Vďačný",
+      "year": "2014",
+      "journal-title": "Protist"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0200",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1111/jeu.12391",
+      "article-title": "Beyond the “code”: a guide to the description and documentation of biodiversity in ciliated protists (Alveolata, Ciliophora)",
+      "author": "Warren",
+      "year": "2017",
+      "journal-title": "J. Eukaryot. Microbiol."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0205",
+      "first-page": "171",
+      "article-title": "Eine verbesserte Technik der Protargolimprägnation für Ciliaten",
+      "volume": "64",
+      "author": "Wilbert",
+      "year": "1975",
+      "journal-title": "Mikrokosmos"
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "320",
+      "DOI": "10.1111/zoj.12369",
+      "article-title": "Taxonomy and phylogeny of three heterotrich ciliates (Protozoa Ciliophora), with description of a new Blepharisma species",
+      "volume": "177",
+      "author": "Yan",
+      "year": "2016",
+      "journal-title": "Zool. J. Linn. Soc."
+    },
+    {
+      "key": "10.1016/j.ejop.2017.07.004_bib0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "238",
+      "DOI": "10.1016/j.ympev.2015.05.021",
+      "article-title": "Phylogenetic framework of the systematically confused Anteholosticha-Holosticha complex (Ciliophora, Hypotrichia) based on multigene analysis",
+      "volume": "91",
+      "author": "Zhao",
+      "year": "2015",
+      "journal-title": "Mol. Phylogen. Evol."
+    }
+  ],
+  "container-title": [
+    "European Journal of Protistology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0932473917300809?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0932473917300809?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        13
+      ]
+    ],
+    "date-time": "2020-10-13T08:29:14Z",
+    "timestamp": 1602577754000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0932473917300809"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        10
+      ]
+    ]
+  },
+  "references-count": 43,
+  "alternative-id": [
+    "S0932473917300809"
+  ],
+  "URL": "https://doi.org/10.1016/j.ejop.2017.07.004",
+  "relation": {},
+  "ISSN": [
+    "0932-4739"
+  ],
+  "issn-type": [
+    {
+      "value": "0932-4739",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Redescription of the halophile ciliate, Blepharisma halophilum Ruinen, 1938 (Ciliophora, Heterotrichea, Heterotrichida) shows that the genus Blepharisma is non-monophyletic",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "European Journal of Protistology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.ejop.2017.07.004",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2017 Elsevier GmbH. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

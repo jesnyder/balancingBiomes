@@ -1,0 +1,196 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        29
+      ]
+    ],
+    "date-time": "2025-10-29T05:28:58Z",
+    "timestamp": 1761715738436,
+    "version": "build-2065373602"
+  },
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "issue": "S1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2013-04-01T00:00:00Z",
+        "timestamp": 1364774400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100000011",
+      "name": "Howard Hughes Medical Institute",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/100000011",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "faseb.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "The FASEB Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n                    <jats:italic>Vibrio parahaemolyticus</jats:italic>\n                    is a Gram‐negative, rod‐shaped halophile bacterium present in marine environments worldwide. The bacterium has an absolute requirement for NaCl and can grow in up to 10% NaCl in complex media.\n                    <jats:italic>Vibrio parahaemolyticus</jats:italic>\n                    is also a pathogen of humans that causes gastroenteritis usually through the consumption of raw oysters. The\n                    <jats:italic>V. parahaemolyticus</jats:italic>\n                    genome contains a large number of compatible solute synthesis and transporter systems that allows it to grow in high NaCl concentrations. How these multiple systems and osmotic tolerance in general are regulated is unknown. In this study, we investigated the regulation of osmotic tolerance by examining the homologue of the EnvZ/OmpR two‐component signal transduction system,\n                    <jats:italic>vp0155 and vp0154</jats:italic>\n                    . In\n                    <jats:italic>Escherichia coli</jats:italic>\n                    EnvZ/OmpR regulates more than 100 genes, and significantly influences cell growth, metabolism, and motility. For example, in response to osmotic stress the EnvZ/OmpR system has been shown to regulate expression of outer membrane proteins (OMPs). We examine its role in\n                    <jats:italic>V. parahaemolyticus</jats:italic>\n                    by deleting a portion of\n                    <jats:italic>vp0155</jats:italic>\n                    , an\n                    <jats:italic>envZ</jats:italic>\n                    homologue and\n                    <jats:italic>vp0154</jats:italic>\n                    , the ompR homologue. Through splicing by overlap extension (SOE) PCR and homologous recombination, a deletion was created in both\n                    <jats:italic>envZ and ompR</jats:italic>\n                    . Through homologous recombination and selection, mutants harboring in‐frame deletions in the\n                    <jats:italic>envZ</jats:italic>\n                    and\n                    <jats:italic>ompR</jats:italic>\n                    genes were created, and confirmed by PCR and sequencing. We describe the effects of our knockout mutations in\n                    <jats:italic>envZ/ompR</jats:italic>\n                    in response to NaCl, acid, and alkaline stresses as well as swimming and swarming motility and OMPs and type VI secretion system expression.\n                  </jats:p>\n                  <jats:p>Research supported by a grant from the Howard Hughes Medical Institute.</jats:p>",
+  "DOI": "10.1096/fasebj.27.1_supplement.647.5",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        16
+      ]
+    ],
+    "date-time": "2021-06-16T06:13:04Z",
+    "timestamp": 1623823984000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Regulation of the Osmotic Tolerance Response in the Halophile Vibrio parahaemolyticus"
+  ],
+  "prefix": "10.1096",
+  "volume": "27",
+  "author": [
+    {
+      "given": "Laura Amanda",
+      "family": "Powell",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Biological Sciences University of Delaware Newark DE"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        4
+      ]
+    ]
+  },
+  "container-title": [
+    "The FASEB Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        28
+      ]
+    ],
+    "date-time": "2025-10-28T23:59:37Z",
+    "timestamp": 1761695977000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.27.1_supplement.647.5"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        4
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "S1",
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1096/fasebj.27.1_supplement.647.5"
+  ],
+  "URL": "https://doi.org/10.1096/fasebj.27.1_supplement.647.5",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0892-6638",
+    "1530-6860"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0892-6638"
+    },
+    {
+      "type": "electronic",
+      "value": "1530-6860"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2013-04-01",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

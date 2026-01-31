@@ -1,0 +1,105 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        2
+      ]
+    ],
+    "date-time": "2024-03-02T03:18:38Z",
+    "timestamp": 1709349518101
+  },
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "content-domain": {
+    "domain": []
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        27
+      ]
+    ]
+  },
+  "DOI": "10.1111/1365-2745.13758/v1/review1",
+  "type": "peer-review",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        9
+      ]
+    ],
+    "date-time": "2021-08-09T17:34:34Z",
+    "timestamp": 1628530474000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Review for \"Variation in salinity tolerance and water use strategies in an introduced woody halophyte ( Tamarix spp.)\""
+  ],
+  "prefix": "10.1111",
+  "member": "311",
+  "container-title": [],
+  "review": {
+    "type": "referee-report",
+    "running-number": "PR1V1",
+    "revision-round": "1",
+    "stage": "pre-publication"
+  },
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        9
+      ]
+    ],
+    "date-time": "2021-08-09T17:34:44Z",
+    "timestamp": 1628530484000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://publons.com/publon/48947385"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        27
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.1111/1365-2745.13758/v1/review1",
+  "relation": {
+    "is-review-of": [
+      {
+        "id-type": "doi",
+        "id": "10.1111/1365-2745.13758",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        27
+      ]
+    ]
+  }
+}

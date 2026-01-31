@@ -1,0 +1,579 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        5
+      ]
+    ],
+    "date-time": "2023-04-05T04:34:28Z",
+    "timestamp": 1680669268759
+  },
+  "reference-count": 49,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "SSRN Journal"
+  ],
+  "DOI": "10.2139/ssrn.4090278",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        23
+      ]
+    ],
+    "date-time": "2022-04-23T03:06:59Z",
+    "timestamp": 1650683219000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Biosynthesis and Biodegradation of Polyhydroxybutyrate from Mangrove Halophyte Priestia Flexa"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "given": "Nayana",
+      "family": "Chathalingath",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Joshua Stephen",
+      "family": "Kingsly",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Anbarasi",
+      "family": "Gunasekar",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "ref1",
+      "article-title": "Plastics -the Facts 2020 An analysis of European plastics production, demand and waste data, (2020) 1-64. Plastics the facts-WEB-2020_version Jun21 final",
+      "journal-title": "Plastics Europe"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1016/j.jglr.2014.12.020",
+      "article-title": "Plastic debris in the Laurentian Great Lakes: A review",
+      "volume": "41",
+      "author": "A G J Driedger",
+      "year": "2015",
+      "journal-title": "Journal of Great Lakes Research"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1973",
+      "DOI": "10.1098/rstb.2009.0054",
+      "article-title": "Our plastic age",
+      "volume": "364",
+      "author": "R C Thompson",
+      "year": "2009",
+      "journal-title": "Philosophical Transactions of the Royal Society B: Biological Sciences"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "361",
+      "DOI": "10.1016/j.biortech.2019.03.037",
+      "article-title": "Bioplastic recovery from wastewater: A new protocol for polyhydroxyalkanoates (PHA) extraction from mixed microbial cultures",
+      "volume": "282",
+      "author": "G Mannina",
+      "year": "2019",
+      "journal-title": "Bioresource Technology"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "first-page": "154",
+      "DOI": "10.1089/ind.2015.28999.fae",
+      "article-title": "Biobased building blocks and polymers in the world: Capacities, production, and applications-status quo and trends towards",
+      "volume": "11",
+      "author": "F Aeschelmann",
+      "year": "2015",
+      "journal-title": "Industrial Biotechnology"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1080/009083190965820",
+      "volume": "29",
+      "author": "A Demirbas",
+      "year": "2007",
+      "journal-title": "Biodegradable plastics from renewable resources, Energy Sources, Part A: Recovery, Utilization and Environmental Effects"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1016/j.cis.2016.03.002",
+      "article-title": "Natural emulsifiers -Biosurfactants, phospholipids, biopolymers, and colloidal particles: Molecular and physicochemical basis of functional performance",
+      "volume": "234",
+      "author": "D J Mcclements",
+      "year": "2016",
+      "journal-title": "Advances in Colloid and Interface Science"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "2434",
+      "DOI": "10.1039/b812677c",
+      "article-title": "A microbial polyhydroxyalkanoates (PHA) based bio-and materials industry",
+      "volume": "38",
+      "author": "G Q Chen",
+      "year": "2009",
+      "journal-title": "Chemical Society Reviews"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "578",
+      "DOI": "10.1038/nrmicro2354",
+      "article-title": "Bacterial polymers: Biosynthesis, modifications and applications",
+      "volume": "8",
+      "author": "B H A Rehm",
+      "year": "2010",
+      "journal-title": "Nature Reviews Microbiology"
+    },
+    {
+      "key": "ref10",
+      "author": "A Steinb�chel",
+      "year": "2001",
+      "journal-title": "Perspectives for Biotechnological Production and Utilization of Biopolymers: Metabolic Engineering of Polyhydroxyalkanoate Biosynthesis Pathways as a Successful Example"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "536",
+      "DOI": "10.1016/j.ijbiomac.2019.03.099",
+      "article-title": "Microalgae as source of polyhydroxyalkanoates (PHAs) -A review",
+      "volume": "131",
+      "author": "S S Costa",
+      "year": "2019",
+      "journal-title": "International Journal of Biological Macromolecules"
+    },
+    {
+      "key": "ref12",
+      "first-page": "1",
+      "volume": "4",
+      "author": "C Kourmentza",
+      "year": "2017",
+      "journal-title": "Recent Advances and Challenges towards Sustainable Polyhydroxyalkanoate ( PHA ) Production, Bioengineering Review"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1186/s40064-016-2480-2",
+      "article-title": "Biodegradation of different formulations of polyhydroxybutyrate films in soil",
+      "volume": "5",
+      "author": "N Altaee",
+      "year": "2016",
+      "journal-title": "Springerplus"
+    },
+    {
+      "key": "ref14",
+      "author": "K F Doi",
+      "year": "1994",
+      "journal-title": "Biodegradable plastics and polymers: proceedings of the third international workshop on biodegradable plastics and polymers"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "5129",
+      "DOI": "10.1128/JB.187.15.5129-5135.2005",
+      "article-title": "Novel intracellular 3-hydroxybutyrate-oligomer hydrolase in Wautersia eutropha H16",
+      "volume": "187",
+      "author": "T Kobayashi",
+      "year": "2005",
+      "journal-title": "Journal of Bacteriology"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.polymdegradstab.2020.109408",
+      "article-title": "Factors affecting polyhydroxyalkanoates biodegradation in soil",
+      "volume": "182",
+      "author": "M Fernandes",
+      "year": "2020",
+      "journal-title": "Polymer Degradation and Stability"
+    },
+    {
+      "key": "ref17",
+      "first-page": "395",
+      "author": "D Van-Thuoc",
+      "year": "2012",
+      "journal-title": "Polyester production by halophilic and halotolerant bacterial strains obtained from mangrove soil samples located in Northern Vietnam, Microbiologyopen"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "271",
+      "DOI": "10.1016/j.micres.2016.07.010",
+      "article-title": "Bacterial polyhydroxyalkanoates: Still fabulous?",
+      "volume": "192",
+      "author": "J Mo?ejko-Ciesielska",
+      "year": "2016",
+      "journal-title": "Microbiological Research"
+    },
+    {
+      "key": "ref19",
+      "first-page": "706",
+      "volume": "6",
+      "author": "G Y A Tan",
+      "year": "2014",
+      "journal-title": "Start a research on biopolymer polyhydroxyalkanoate (PHA): A review"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1016/j.biortech.2017.02.061",
+      "article-title": "Microbial biodiesel production from oil palm biomass hydrolysate using marine Rhodococcus sp. YHY01",
+      "volume": "233",
+      "author": "S K Bhatia",
+      "year": "2017",
+      "journal-title": "Bioresource Technology"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "crossref",
+      "first-page": "450",
+      "DOI": "10.1007/s12257-017-0113-4",
+      "article-title": "Hydrolytic activities of hydrolase enzymes from halophilic microorganisms",
+      "volume": "22",
+      "author": "J Johnson",
+      "year": "2017",
+      "journal-title": "Biotechnology and Bioprocess Engineering"
+    },
+    {
+      "key": "ref22",
+      "article-title": "Pseudomonas sp. as a source of medium chain length polyhydroxyalkanoates for controlled drug delivery: Perspective",
+      "author": "S Kabilan",
+      "year": "2012",
+      "journal-title": "International Journal of Microbiology"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.1016/j.biortech.2019.02.066",
+      "article-title": "Occurrence of nontoxic bioemulsifiers during polyhydroxyalkanoate production by Pseudomonas strains valorizing crude glycerol by-product",
+      "volume": "281",
+      "author": "C Kourmentza",
+      "year": "2019",
+      "journal-title": "Bioresource Technology"
+    },
+    {
+      "key": "ref24",
+      "article-title": "Novel stability indicating UHPLC method development and validation for simultaneous quantification of hydrocortisone acetate, pramoxine hydrochloride, potassium sorbate and sorbic acid in topical cream formulation",
+      "volume": "1",
+      "author": "L N R Katakam",
+      "year": "2020",
+      "journal-title": "Talanta Open"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "crossref",
+      "first-page": "929",
+      "DOI": "10.1016/j.ijbiomac.2020.03.129",
+      "article-title": "Fructose based hyper production of poly-3-hydroxybutyrate from Halomonas sp. YLGW01 and impact of carbon sources on bacteria morphologies",
+      "volume": "154",
+      "author": "Y L Park",
+      "year": "2020",
+      "journal-title": "International Journal of Biological Macromolecules"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "first-page": "177",
+      "DOI": "10.1016/j.biortech.2013.12.101",
+      "article-title": "Potential halophilic cellulases for in situ enzymatic saccharification of ionic liquids pretreated lignocelluloses",
+      "volume": "155",
+      "author": "A A N Gunny",
+      "year": "2014",
+      "journal-title": "Bioresource Technology"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "DOI": "10.1016/j.ijbiomac.2017.01.053",
+      "article-title": "Production and characterization of medium-chain-length polyhydroxyalkanoate copolymer from Arctic psychrotrophic bacterium Pseudomonas sp",
+      "volume": "28620",
+      "author": "G Sathiyanarayanan",
+      "year": "2017",
+      "journal-title": "International Journal of Biological Macromolecules"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "603",
+      "DOI": "10.1007/s00449-018-02066-6",
+      "article-title": "Polyhydroxybutyrate production in halophilic marine bacteria Vibrio proteolyticus isolated from the Korean peninsula",
+      "volume": "42",
+      "author": "J W Hong",
+      "year": "2019",
+      "journal-title": "Bioprocess and Biosystems Engineering"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1186/1746-1448-4-2",
+      "article-title": "Microbial life at high salt concentrations: Phylogenetic and metabolic diversity",
+      "volume": "4",
+      "author": "A Oren",
+      "year": "2008",
+      "journal-title": "Saline Systems"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.3354/meps056133",
+      "article-title": "Effect of exported mangrove litter on bacterial productivity and dissolved organic carbon fluxes in adjacent tropical nearshore sediments",
+      "volume": "56",
+      "author": "D Alongi",
+      "year": "1989",
+      "journal-title": "Marine Ecology Progress Series"
+    },
+    {
+      "key": "ref31",
+      "author": "V Th??c",
+      "year": "2016",
+      "journal-title": "Isolation of Halophilic Bacterial Strains from Mangrove Soil Samples for Polyhydroxyalkanoate Production"
+    },
+    {
+      "key": "ref32",
+      "article-title": "A simple and rapid HPLC method for determination of parabens and their degradation products in pharmaceutical dosage forms",
+      "volume": "35",
+      "author": "L N R Katakam",
+      "year": "2021",
+      "journal-title": "Biomedical Chromatography"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "252",
+      "DOI": "10.3390/ijms12010252",
+      "article-title": "Screening and evaluation of polyhydroxybutyrate-producing strains from indigenous isolate Cupriavidus taiwanensis strains",
+      "volume": "12",
+      "author": "Y H Wei",
+      "year": "2011",
+      "journal-title": "International Journal of Molecular Sciences"
+    },
+    {
+      "key": "ref34",
+      "author": "T Rawte",
+      "year": "2002",
+      "journal-title": "A rapid hypochlorite method for extraction of polyhydroxy alkanoates from bacterial cells"
+    },
+    {
+      "key": "ref35",
+      "author": "K Nehra",
+      "year": "2015",
+      "journal-title": "Production of Poly-?-Hydroxybutyrate (PHB) by bacteria isolated from rhizospheric soils"
+    },
+    {
+      "key": "ref36",
+      "author": "J",
+      "year": "1989",
+      "journal-title": "Molecular Cloning: A Laboratory Manual"
+    },
+    {
+      "key": "ref37",
+      "doi-asserted-by": "crossref",
+      "first-page": "2931",
+      "DOI": "10.1016/j.polymdegradstab.2006.08.027",
+      "article-title": "Degradation of commercially important polyhydroxyalkanoates in tropical mangrove ecosystem",
+      "volume": "91",
+      "author": "N Sridewi",
+      "year": "2006",
+      "journal-title": "Polymer Degradation and Stability"
+    },
+    {
+      "key": "ref38",
+      "article-title": "Development and validation of LC-MS method for the determination of heptaethylene glycol monomethyl ether in benzonatate bulk drugs",
+      "volume": "35",
+      "author": "L N R Katakam",
+      "year": "2021",
+      "journal-title": "Biomedical Chromatography"
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1800",
+      "DOI": "10.1016/j.polymdegradstab.2005.11.011",
+      "article-title": "Photocatalytic activity and biodegradation of polyhydroxybutyrate films containing titanium dioxide",
+      "volume": "91",
+      "author": "S P Yew",
+      "year": "2006",
+      "journal-title": "Polymer Degradation and Stability"
+    },
+    {
+      "key": "ref40",
+      "volume": "8",
+      "author": "J Juengert",
+      "year": "2018",
+      "journal-title": "Determination of Polyhydroxybutyrate (PHB) Content in Ralstonia eutropha Using Gas Chromatography and Nile Red Staining"
+    },
+    {
+      "key": "ref41",
+      "article-title": "Production and characterization of bioplastic by polyhydroxybutyrate accumulating Erythrobacter aquimaris isolated from mangrove rhizosphere",
+      "author": "Y S Mostafa",
+      "year": "2020",
+      "journal-title": "Molecules"
+    },
+    {
+      "key": "ref42",
+      "author": "M Narayanan",
+      "year": "2020",
+      "journal-title": "Screening of polyhydroxybutyrate producing indigenous bacteria from polluted lake soil"
+    },
+    {
+      "issue": "11",
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "first-page": "1273",
+      "DOI": "10.13005/bbra/1516",
+      "article-title": "Polyhydroxybutyrate (PHB) production and mutagenesis of halophile isolates from the east african rift salt lake",
+      "author": "S M Bashir",
+      "year": "2014",
+      "journal-title": "Biosciences Biotechnology Research Asia"
+    },
+    {
+      "key": "ref44",
+      "author": "A K Mohanty",
+      "year": "2000",
+      "journal-title": "Biofibres, biodegradable polymers and biocomposites: An overview Summary of contents 1. Introduction 2. Reinforcing biofibres 2.1 Chemical constituents and structural aspects 2.2 Properties of biofibres 2.3 Degradation properties of biofibres 2.4 Cost aspects, availability and sustainable development of biofibres"
+    },
+    {
+      "key": "ref45",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fmolb.2020.613393",
+      "article-title": "In vitro Dissolution Profile at Different Biological pH Conditions of Hydroxychloroquine Sulfate Tablets Is Available for the Treatment of COVID-19",
+      "volume": "7",
+      "author": "T Dongala",
+      "year": "2021",
+      "journal-title": "Frontiers in Molecular Biosciences"
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "crossref",
+      "first-page": "633",
+      "DOI": "10.1016/j.biortech.2006.02.022",
+      "article-title": "Characterization of poly(3-hydroxybutyrate) produced by Cupriavidus necator in solid-state fermentation",
+      "volume": "98",
+      "author": "F C Oliveira",
+      "year": "2007",
+      "journal-title": "Bioresource Technology"
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "crossref",
+      "first-page": "237",
+      "DOI": "10.1099/ijsem.0.001604",
+      "article-title": "Alteromonas lipolytica sp. Nov., a poly-beta-hydroxybutyrateproducing bacterium isolated from surface seawater",
+      "volume": "67",
+      "author": "X L Shi",
+      "year": "2017",
+      "journal-title": "International Journal of Systematic and Evolutionary Microbiology"
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "crossref",
+      "first-page": "979",
+      "DOI": "10.14233/ajchem.2015.17839",
+      "article-title": "Preparation and characterization of Poly(3-hydroxybutyric acid)/Poly(vinyl acetate) blend films",
+      "volume": "27",
+      "author": "O Sharhan",
+      "year": "2015",
+      "journal-title": "Asian Journal of Chemistry"
+    },
+    {
+      "key": "ref49",
+      "doi-asserted-by": "crossref",
+      "first-page": "90",
+      "DOI": "10.1016/j.polymdegradstab.2015.08.010",
+      "article-title": "Aliphatic poly(ester amide)s from sebacic acid and aminoalcohols of different chain length: Synthesis, characterization and soil burial degradation",
+      "volume": "121",
+      "author": "P Rizzarelli",
+      "year": "2015",
+      "journal-title": "Polymer Degradation and Stability"
+    }
+  ],
+  "container-title": [
+    "SSRN Electronic Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        4
+      ]
+    ],
+    "date-time": "2023-04-04T18:25:36Z",
+    "timestamp": 1680632736000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=4090278"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "references-count": 49,
+  "URL": "https://doi.org/10.2139/ssrn.4090278",
+  "relation": {},
+  "ISSN": [
+    "1556-5068"
+  ],
+  "issn-type": [
+    {
+      "value": "1556-5068",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published-other": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "published": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  }
+}

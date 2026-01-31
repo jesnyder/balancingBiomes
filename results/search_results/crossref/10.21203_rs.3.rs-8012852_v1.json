@@ -1,0 +1,354 @@
+{
+  "institution": [
+    {
+      "name": "Research Square"
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ],
+    "date-time": "2025-11-24T15:48:34Z",
+    "timestamp": 1763999314728,
+    "version": "3.45.0"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ]
+  },
+  "group-title": "In Review",
+  "reference-count": 17,
+  "publisher": "Springer Science and Business Media LLC",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            24
+          ]
+        ],
+        "date-time": "2025-11-24T00:00:00Z",
+        "timestamp": 1763942400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "accepted": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        2
+      ]
+    ]
+  },
+  "abstract": "<title>Abstract</title>\n                <p>\n                  Although current classification systems for halophilic and halotolerant microorganisms have contributed significantly to the field, there remain opportunities to enhance their theoretical foundation and broader adoption. In this study, we introduce a new classification system grounded in the Statistical Rarity definition of extremophiles. To support this proposal, a comprehensive bibliographic survey of 1,298 species described as 'halophile', 'halophilic', or 'halotolerant' from 1967 to 2021 was conducted. Of these, 1,196 species with complete optimal NaCl growth data were analyzed using the Counting Method to determine species frequency across NaCl concentrations. Quartile metrics were applied to define new subclasses: halotolerant (&lt; 0.6 mol·L\n                  <sup>− 1</sup>\n                  NaCl), slight halophile (0.6–1.2 mol·L\n                  <sup>− 1</sup>\n                  ), moderate halophile (1.2–2.2 mol·L\n                  <sup>− 1</sup>\n                  ), and extreme halophile (&gt; 2.2 mol·L\n                  <sup>− 1</sup>\n                  ). The proposed system reclassifies a significant portion of species and emphasizes biological relevance by correlating rarity of optimal growth conditions with extremity. This paradigm shift addresses inconsistencies in halophile classification and standardizes the definition of halophilic and halotolerant microorganisms, providing theoretical meaning to those terms.\n                </p>",
+  "DOI": "10.21203/rs.3.rs-8012852/v1",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ],
+    "date-time": "2025-11-24T15:44:27Z",
+    "timestamp": 1763999067000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Proposal for new halophile classification system based on Statistical Rarity definition of extremophiles"
+  ],
+  "prefix": "10.21203",
+  "author": [
+    {
+      "given": "Ana Paula Muche",
+      "family": "Schiavo",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Universidade de São Paulo"
+        }
+      ]
+    },
+    {
+      "given": "Roberta Almeida",
+      "family": "Vincenzi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidade de São Paulo"
+        }
+      ]
+    },
+    {
+      "given": "Fabio",
+      "family": "Rodrigues",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidade de São Paulo"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "reference": [
+    {
+      "key": "ref1",
+      "volume-title": "The Stanford Encyclopedia of Philosophy, Spring 2024",
+      "author": "Bird A",
+      "year": "2024",
+      "unstructured": "Bird A, Tobin E (2024) Natural Kinds. In: Zalta EN, Nodelman U (eds) The Stanford Encyclopedia of Philosophy, Spring 2024. Methaphysics Research Lab, Stanford University"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "first-page": "289",
+      "DOI": "10.1128/jb.98.1.289-297.1969",
+      "article-title": "Thermus aquaticus gen. n. and sp. n., a nonsporulating extreme thermophile",
+      "volume": "98",
+      "author": "Brock TD",
+      "year": "1969",
+      "unstructured": "Brock TD, Freeze H (1969) Thermus aquaticus gen. n. and sp. n., a nonsporulating extreme thermophile. J Bacteriol 98:289–297. https://doi.org/10.1128/jb.98.1.289-297.1969",
+      "journal-title": "J Bacteriol"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "first-page": "281",
+      "DOI": "10.1089/153110702762027862",
+      "article-title": "Extremophiles and the Search for Extraterrestrial Life",
+      "volume": "2",
+      "author": "Cavicchioli R",
+      "year": "2002",
+      "unstructured": "Cavicchioli R (2002) Extremophiles and the Search for Extraterrestrial Life. Astrobiology 2:281–292. https://doi.org/10.1089/153110702762027862",
+      "journal-title": "Astrobiology"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "first-page": "793",
+      "DOI": "10.1038/ismej.2015.160",
+      "article-title": "On the concept of a psychrophile",
+      "volume": "10",
+      "author": "Cavicchioli R",
+      "year": "2016",
+      "unstructured": "Cavicchioli R (2016) On the concept of a psychrophile. ISME J 10:793–795. https://doi.org/10.1038/ismej.2015.160",
+      "journal-title": "ISME J"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1103185",
+      "author": "Daly MJ",
+      "year": "2004",
+      "unstructured": "Daly MJ, Gaidamakova EK, Matrosova VY et al (2004) Accumulation of Mn(II) in Deinicoccus radiodurans facilitates gamma-radiation resistance. Science (1979) 306:1025–1028. https://doi.org/10.1126/science.1103185"
+    },
+    {
+      "key": "ref6",
+      "author": "DasSarma S",
+      "year": "2012",
+      "unstructured": "DasSarma S, DasSarma P (2012) Halophiles. In: Encyclopedia of Life Sciences"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envres.2023.116547",
+      "article-title": "Temperature – A critical abiotic paradigm that governs bacterial heterogeneity in natural ecological system",
+      "volume": "234",
+      "author": "Kumar S",
+      "year": "2023",
+      "unstructured": "Kumar S, Najar IN, Sharma P et al (2023) Temperature – A critical abiotic paradigm that governs bacterial heterogeneity in natural ecological system. Environ Res 234. https://doi.org/10.1016/j.envres.2023.116547",
+      "journal-title": "Environ Res"
+    },
+    {
+      "key": "ref8",
+      "first-page": "109",
+      "volume-title": "Halophilic Bacteria",
+      "author": "Kushner DJ",
+      "year": "1988",
+      "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodriguez-Valera F (ed) Halophilic Bacteria. CRC, Boca Raton, pp 109–140"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1111/j.1574-6968.1986.tb01835.x",
+      "article-title": "Halophilic and halotolerant microorganisms-an overview and historical perspective",
+      "volume": "2",
+      "author": "Larsen H",
+      "year": "1986",
+      "unstructured": "Larsen H (1986) Halophilic and halotolerant microorganisms-an overview and historical perspective. FEMS Microbiol Lett 2:3–7. https://doi.org/10.1111/j.1574-6968.1986.tb01835.x",
+      "journal-title": "FEMS Microbiol Lett"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1093/oso/9780190915650.003.0010",
+      "volume-title": "Social and Conceptual Issues in Astrobiology",
+      "author": "Mariscal C",
+      "year": "2020",
+      "unstructured": "Mariscal C, Brunet TDP (2020) What are extremophiles? In: Smith KC, Mariscal C (eds) Social and Conceptual Issues in Astrobiology. Oxford University Press, New York, pp 157–175"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "publisher",
+      "first-page": "1937",
+      "DOI": "10.1099/ijs.0.035782-0",
+      "article-title": "Planococcus halocryophilus sp. nov., an extreme sub-zero species from high arctic permafrost",
+      "volume": "62",
+      "author": "Mykytczuk NCS",
+      "year": "2012",
+      "unstructured": "Mykytczuk NCS, Wilhelm RC, Whyte LG (2012) Planococcus halocryophilus sp. nov., an extreme sub-zero species from high arctic permafrost. Int J Syst Evol Microbiol 62:1937–1944. https://doi.org/10.1099/ijs.0.035782-0",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "first-page": "5607",
+      "DOI": "10.1099/ijsem.0.004332",
+      "article-title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+      "volume": "70",
+      "author": "Parte AC",
+      "year": "2020",
+      "unstructured": "Parte AC, Sardà Carbasse J, Meier-Kolthoff JP et al (2020) List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ. Int J Syst Evol Microbiol 70:5607–5612. https://doi.org/10.1099/ijsem.0.004332",
+      "journal-title": "Int J Syst Evol Microbiol"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "first-page": "926",
+      "DOI": "10.30574/wjarr.2023.17.1.0117",
+      "article-title": "Halophilic microbiome: Distribution, diversity and applications",
+      "volume": "17",
+      "author": "Rathod MG",
+      "year": "2023",
+      "unstructured": "Rathod MG, Kamble GT, Dhawale PI et al (2023) Halophilic microbiome: Distribution, diversity and applications. World J Adv Res Reviews 17:926–933. https://doi.org/10.30574/wjarr.2023.17.1.0117",
+      "journal-title": "World J Adv Res Reviews"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "first-page": "1092",
+      "DOI": "10.1038/35059215",
+      "article-title": "Life in extreme environments",
+      "volume": "409",
+      "author": "Rothschild LJ",
+      "year": "2001",
+      "unstructured": "Rothschild LJ, Mancinelli RL (2001) Life in extreme environments. Nature 409:1092–1101. https://doi.org/10.1038/35059215",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "first-page": "341",
+      "DOI": "10.1080/1040841X.2023.2197491",
+      "article-title": "Exploring halophilic environments as a source of new antibiotics",
+      "volume": "50",
+      "author": "Thompson TP",
+      "year": "2024",
+      "unstructured": "Thompson TP, Gilmore BF (2024) Exploring halophilic environments as a source of new antibiotics. Crit Rev Microbiol 50:341–370. https://doi.org/10.1080/1040841X.2023.2197491",
+      "journal-title": "Crit Rev Microbiol"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-662-07656-9",
+      "volume-title": "Halophilic Microorganisms",
+      "author": "Ventosa A",
+      "year": "2004",
+      "unstructured": "Ventosa A, Kates M, Grant WD et al (2004) Halophilic Microorganisms. Springer Berlin Heidelberg, New York"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.biotechadv.2023.108302",
+      "article-title": "Utilization of gene manipulation system for advancing the biotechnological potential of halophiles: A review",
+      "volume": "70",
+      "author": "Xu T",
+      "year": "2024",
+      "unstructured": "Xu T, Mitra R, Tan D et al (2024) Utilization of gene manipulation system for advancing the biotechnological potential of halophiles: A review. Biotechnol Adv 70. https://doi.org/10.1016/j.biotechadv.2023.108302",
+      "journal-title": "Biotechnol Adv"
+    }
+  ],
+  "container-title": [],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.researchsquare.com/article/rs-8012852/v1",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.researchsquare.com/article/rs-8012852/v1.html",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ],
+    "date-time": "2025-11-24T15:44:28Z",
+    "timestamp": 1763999068000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.researchsquare.com/article/rs-8012852/v1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ]
+  },
+  "references-count": 17,
+  "URL": "https://doi.org/10.21203/rs.3.rs-8012852/v1",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

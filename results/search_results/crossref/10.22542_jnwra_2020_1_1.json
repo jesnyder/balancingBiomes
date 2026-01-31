@@ -1,0 +1,115 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        16
+      ]
+    ],
+    "date-time": "2024-09-16T13:48:21Z",
+    "timestamp": 1726494501175
+  },
+  "reference-count": 0,
+  "publisher": "Nevada Water Resources Association",
+  "issue": "2020",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "jnwra"
+  ],
+  "abstract": "<jats:p>Salinization of soil and water can pose a serious threat for irrigated agricultural lands in arid and semi-arid regions because high concentrations of salt can negatively impact crop production, and consequently, the agricultural economy. Halophytes are highly salt-tolerant plants that may provide a viable option for cultivation in saline areas, enabling economic production from previously unproductive land. Many halophytes can be used for human consumption, forage for livestock, or biofuel production. These plants may also remediate saline soils by taking up salt from the soil, thereby improving conditions for conventional crop production. This project looked at growth of two halophytic crops, AC Saltlander green wheatgrass (Elymus hoffmannii) and Rainbow quinoa (Chenopodium quinoa var. rainbow) under different salt stresses in a greenhouse experiment. We cultivated the crops in a greenhouse with crossed saline soil (2, 4, 6, 8, and 12 dS/m) and irrigation (1, 2, 4, and 6 dS/m) treatments. We measured plant height approximately bi-weekly until harvest. A subset of harvested biomass, roots and soil subsamples were analyzed for nutrient and salt content. Quinoa and AC Saltlander aboveground biomass were larger for soil salinities greater than 2 dS/m, with maximum measured biomass after harvest of more than 5 g for quinoa, and more than 12 g for AC Saltlander. Quinoa height was greatest on most dates for soil salinity of 4 dS/m. There was a significant relationship between increased soil salinity and Cl content of quinoa plant tissues, roots, and soil at harvest, but irrigation salinity had no significant effects on analyzed quinoa variables. AC Saltlander root biomass decreased with increasing soil salinity, but had greatest root biomass at the 2 and 6 dS/m irrigation salinities (the smallest and greatest irrigation salinity treatments). AC Saltlander aboveground biomass chemistry (i.e., Ca, Na, and Cl) responded significantly to differences in soil chemistry. Similarly, AC Saltlander aboveground biomass Ca, Na, S, and Cl was significantly affected by irrigation salinity. Overall, both halophytes germinated, grew, and produced seeds in the greenhouse experiment on saline Nevada soils, so they may be options for alternative crops on marginal lands in Nevada with moderately saline irrigation water.</jats:p>",
+  "DOI": "10.22542/jnwra/2020/1/1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        22
+      ]
+    ],
+    "date-time": "2020-11-22T18:32:53Z",
+    "timestamp": 1606069973000
+  },
+  "page": "5-28",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Experimental Halophyte Growth in Saline Environments"
+  ],
+  "prefix": "10.22542",
+  "volume": "1",
+  "member": "9835",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        22
+      ]
+    ]
+  },
+  "container-title": [
+    "Journal of the Nevada Water Resources Association"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        22
+      ]
+    ],
+    "date-time": "2020-11-22T18:32:55Z",
+    "timestamp": 1606069975000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://1drv.ms/b/s!AiRmzuCwPboWy17qZXwIR5PnKtYh"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        22
+      ]
+    ]
+  },
+  "references-count": 0,
+  "issue-title": [
+    "Journal of the Nevada Water Resources Association Winter 2020"
+  ],
+  "journal-issue": {
+    "issue": "2020",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.22542/jnwra/2020/1/1",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        22
+      ]
+    ]
+  }
+}

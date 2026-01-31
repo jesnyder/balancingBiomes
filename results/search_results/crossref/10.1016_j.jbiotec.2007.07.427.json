@@ -1,0 +1,241 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        3
+      ]
+    ],
+    "date-time": "2024-07-03T06:10:39Z",
+    "timestamp": 1719987039587
+  },
+  "reference-count": 6,
+  "publisher": "Elsevier BV",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2007,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2007-09-01T00:00:00Z",
+        "timestamp": 1188604800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Biotechnology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2007,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jbiotec.2007.07.427",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2007,
+        8,
+        3
+      ]
+    ],
+    "date-time": "2007-08-03T11:17:56Z",
+    "timestamp": 1186139876000
+  },
+  "page": "S234-S235",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "special_numbering": "S",
+  "title": [
+    "Purification and characterization of a catalase-peroxidase from the alkalitolerant halophile Oceanobacillus oncorhynchi"
+  ],
+  "prefix": "10.1016",
+  "volume": "131",
+  "author": [
+    {
+      "given": "Licia",
+      "family": "Lama",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Ida",
+      "family": "Romano",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Valeria",
+      "family": "Calandrelli",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Agata",
+      "family": "Gambacorta",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.jbiotec.2007.07.427_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "192",
+      "DOI": "10.1007/s00018-003-3206-5",
+      "article-title": "CMLS",
+      "volume": "61",
+      "author": "Chelikani",
+      "year": "2004",
+      "journal-title": "Cell. Mol. Life Sci."
+    },
+    {
+      "key": "10.1016/j.jbiotec.2007.07.427_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "4245",
+      "DOI": "10.1016/S0021-9258(18)50722-5",
+      "volume": "254",
+      "author": "Claiborne",
+      "year": "1979",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/j.jbiotec.2007.07.427_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "438",
+      "DOI": "10.1006/abbi.1995.0065",
+      "volume": "323",
+      "author": "Hilar",
+      "year": "1995",
+      "journal-title": "Arch. Biochem. Biophys."
+    },
+    {
+      "key": "10.1016/j.jbiotec.2007.07.427_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "152",
+      "DOI": "10.1042/bst023152s",
+      "volume": "23",
+      "author": "Nagy",
+      "year": "1995",
+      "journal-title": "Biochem. Soc. Trans."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jbiotec.2007.07.427_bib5",
+      "first-page": "16",
+      "volume": "18",
+      "author": "Potera",
+      "year": "1998",
+      "journal-title": "Gen. Eng. News"
+    },
+    {
+      "key": "10.1016/j.jbiotec.2007.07.427_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/S0079-6107(98)00058-3",
+      "volume": "72",
+      "author": "Zamocky",
+      "year": "1999",
+      "journal-title": "Prog. Biophys. Mol. Biol."
+    }
+  ],
+  "container-title": [
+    "Journal of Biotechnology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0168165607008875?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0168165607008875?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2021-08-21T05:00:22Z",
+    "timestamp": 1629522022000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0168165607008875"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2007,
+        9
+      ]
+    ]
+  },
+  "references-count": 6,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0168165607008875"
+  ],
+  "URL": "https://doi.org/10.1016/j.jbiotec.2007.07.427",
+  "relation": {},
+  "ISSN": [
+    "0168-1656"
+  ],
+  "issn-type": [
+    {
+      "value": "0168-1656",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2007,
+        9
+      ]
+    ]
+  }
+}

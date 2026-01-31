@@ -1,0 +1,187 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2025-10-19T16:06:24Z",
+    "timestamp": 1760889984760
+  },
+  "reference-count": 0,
+  "publisher": "American Society for Microbiology",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1978,
+            1,
+            1
+          ]
+        ],
+        "date-time": "1978-01-01T00:00:00Z",
+        "timestamp": 252460800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.asm.org/non-commercial-tdm-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.asm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J Bacteriol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1978,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p>The halophilic nuclease of Micrococcus varians ATCC 21971 hydrolyzed thymidine 5'-monophospho-p-nitrophenyl ester at a rate that increased with the NaCl concentration up to saturation. The nuclease attacked RNA and DNA exonucleolytically and processively, producing 5'-mononucleotides. The molecular weight of the enzyme as determined by sodium dodecyl sulfate-polyacrylamide gel electrophoresis was 99,000, approximately the same as that previously determined for the native enzyme. Examination of amino acid composition showed that acidic amino acids were in high excess over basic amino acids.</jats:p>",
+  "DOI": "10.1128/jb.133.1.59-65.1978",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        3
+      ]
+    ],
+    "date-time": "2020-01-03T16:19:53Z",
+    "timestamp": 1578068393000
+  },
+  "page": "59-65",
+  "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 21,
+  "title": [
+    "Properties of the halophilic nuclease of a moderate halophile, Micrococcus varians subsp. halophilus"
+  ],
+  "prefix": "10.1128",
+  "volume": "133",
+  "author": [
+    {
+      "given": "M",
+      "family": "Kamekura",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "H",
+      "family": "Onishi",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "235",
+  "container-title": [
+    "Journal of Bacteriology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.133.1.59-65.1978",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.133.1.59-65.1978",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        7,
+        29
+      ]
+    ],
+    "date-time": "2021-07-29T17:27:46Z",
+    "timestamp": 1627579666000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.asm.org/doi/10.1128/jb.133.1.59-65.1978"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1978,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1128/jb.133.1.59-65.1978"
+  ],
+  "URL": "https://doi.org/10.1128/jb.133.1.59-65.1978",
+  "relation": {},
+  "ISSN": [
+    "0021-9193",
+    "1098-5530"
+  ],
+  "issn-type": [
+    {
+      "value": "0021-9193",
+      "type": "print"
+    },
+    {
+      "value": "1098-5530",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1978,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-02-02",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

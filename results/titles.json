@@ -1,0 +1,3022 @@
+{
+  "count": 754,
+  "count_articles": 2122,
+  "titles": [
+    {
+      "title": "International Journal Of Systematic And Evolutionary Microbiology",
+      "count": 59
+    },
+    {
+      "title": "Frontiers In Plant Science",
+      "count": 53
+    },
+    {
+      "title": "Tasks For Vegetation Science",
+      "count": 44
+    },
+    {
+      "title": "Plants",
+      "count": 41
+    },
+    {
+      "title": "Environmental And Experimental Botany",
+      "count": 38
+    },
+    {
+      "title": "Plant Physiology And Biochemistry",
+      "count": 33
+    },
+    {
+      "title": "Plant And Soil",
+      "count": 33
+    },
+    {
+      "title": "Physiologia Plantarum",
+      "count": 32
+    },
+    {
+      "title": "Plant Physiology",
+      "count": 22
+    },
+    {
+      "title": "Journal Of Experimental Botany",
+      "count": 22
+    },
+    {
+      "title": "Acta Physiologiae Plantarum",
+      "count": 22
+    },
+    {
+      "title": "Annals Of Botany",
+      "count": 21
+    },
+    {
+      "title": "Journal Of Plant Physiology",
+      "count": 21
+    },
+    {
+      "title": "Russian Journal Of Plant Physiology",
+      "count": 21
+    },
+    {
+      "title": "Plant, Cell &Amp; Environment",
+      "count": 20
+    },
+    {
+      "title": "Scientific Reports",
+      "count": 17
+    },
+    {
+      "title": "Plant Science",
+      "count": 17
+    },
+    {
+      "title": "Plos One",
+      "count": 17
+    },
+    {
+      "title": "Canadian Journal Of Microbiology",
+      "count": 17
+    },
+    {
+      "title": "Plant Growth Regulation",
+      "count": 16
+    },
+    {
+      "title": "Handbook Of Halophytes",
+      "count": 16
+    },
+    {
+      "title": "Functional Plant Biology",
+      "count": 15
+    },
+    {
+      "title": "Journal Of Plant Growth Regulation",
+      "count": 14
+    },
+    {
+      "title": "South African Journal Of Botany",
+      "count": 14
+    },
+    {
+      "title": "Environmental Science And Pollution Research",
+      "count": 14
+    },
+    {
+      "title": "Fems Microbiology Letters",
+      "count": 14
+    },
+    {
+      "title": "Plant Cell Reports",
+      "count": 13
+    },
+    {
+      "title": "Ecotoxicology And Environmental Safety",
+      "count": 12
+    },
+    {
+      "title": "Frontiers In Microbiology",
+      "count": 12
+    },
+    {
+      "title": "Journal Of Bacteriology",
+      "count": 12
+    },
+    {
+      "title": "Extremophiles",
+      "count": 12
+    },
+    {
+      "title": "Bmc Plant Biology",
+      "count": 11
+    },
+    {
+      "title": "Planta",
+      "count": 11
+    },
+    {
+      "title": "Planta Medica",
+      "count": 11
+    },
+    {
+      "title": "Food Chemistry",
+      "count": 10
+    },
+    {
+      "title": "Molecules",
+      "count": 10
+    },
+    {
+      "title": "Plant Cell, Tissue And Organ Culture (Pctoc)",
+      "count": 10
+    },
+    {
+      "title": "Marine Pollution Bulletin",
+      "count": 10
+    },
+    {
+      "title": "Current Microbiology",
+      "count": 9
+    },
+    {
+      "title": "International Journal Of Phytoremediation",
+      "count": 9
+    },
+    {
+      "title": "Science Of The Total Environment",
+      "count": 9
+    },
+    {
+      "title": "International Journal Of Biological Macromolecules",
+      "count": 9
+    },
+    {
+      "title": "Applied Sciences",
+      "count": 9
+    },
+    {
+      "title": "Plant Molecular Biology",
+      "count": 8
+    },
+    {
+      "title": "Bioresource Technology",
+      "count": 8
+    },
+    {
+      "title": "Journal Of Plant Research",
+      "count": 8
+    },
+    {
+      "title": "Journal Of Biological Chemistry",
+      "count": 8
+    },
+    {
+      "title": "Plant And Cell Physiology",
+      "count": 8
+    },
+    {
+      "title": "Natural Product Research",
+      "count": 8
+    },
+    {
+      "title": "Plant Biosystems - An International Journal Dealing With All Aspects Of Plant Biology",
+      "count": 8
+    },
+    {
+      "title": "New Phytologist",
+      "count": 7
+    },
+    {
+      "title": "Applied And Environmental Microbiology",
+      "count": 7
+    },
+    {
+      "title": "International Journal Of Molecular Sciences",
+      "count": 7
+    },
+    {
+      "title": "Flora",
+      "count": 7
+    },
+    {
+      "title": "Chemosphere",
+      "count": 7
+    },
+    {
+      "title": "Microbiological Research",
+      "count": 7
+    },
+    {
+      "title": "Journal Of Integrative Plant Biology",
+      "count": 7
+    },
+    {
+      "title": "African Journal Of Biotechnology",
+      "count": 7
+    },
+    {
+      "title": "Applied Microbiology And Biotechnology",
+      "count": 6
+    },
+    {
+      "title": "Aob Plants",
+      "count": 6
+    },
+    {
+      "title": "Environmental Pollution",
+      "count": 6
+    },
+    {
+      "title": "Communications In Soil Science And Plant Analysis",
+      "count": 6
+    },
+    {
+      "title": "Gene",
+      "count": 6
+    },
+    {
+      "title": "Photosynthetica",
+      "count": 6
+    },
+    {
+      "title": "Marine Drugs",
+      "count": 6
+    },
+    {
+      "title": "Applied Soil Ecology",
+      "count": 6
+    },
+    {
+      "title": "Industrial Crops And Products",
+      "count": 6
+    },
+    {
+      "title": "Plant Molecular Biology Reporter",
+      "count": 6
+    },
+    {
+      "title": "Ecological Engineering",
+      "count": 6
+    },
+    {
+      "title": "Febs Letters",
+      "count": 6
+    },
+    {
+      "title": "Ecological Indicators",
+      "count": 6
+    },
+    {
+      "title": "Aquatic Botany",
+      "count": 6
+    },
+    {
+      "title": "Oecologia",
+      "count": 6
+    },
+    {
+      "title": "Sustainability",
+      "count": 6
+    },
+    {
+      "title": "Biologia Plantarum",
+      "count": 6
+    },
+    {
+      "title": "Journal Of Biotechnology",
+      "count": 6
+    },
+    {
+      "title": "Estuarine, Coastal And Shelf Science",
+      "count": 6
+    },
+    {
+      "title": "Biologia",
+      "count": 6
+    },
+    {
+      "title": "Archives Of Microbiology",
+      "count": 6
+    },
+    {
+      "title": "Mitochondrial Dna Part B",
+      "count": 6
+    },
+    {
+      "title": "Iop Conference Series: Earth And Environmental Science",
+      "count": 6
+    },
+    {
+      "title": "The Faseb Journal",
+      "count": 6
+    },
+    {
+      "title": "Journal Of Arid Environments",
+      "count": 5
+    },
+    {
+      "title": "Fems Microbiology Ecology",
+      "count": 5
+    },
+    {
+      "title": "Plant Production Science",
+      "count": 5
+    },
+    {
+      "title": "Microorganisms",
+      "count": 5
+    },
+    {
+      "title": "Australian Journal Of Botany",
+      "count": 5
+    },
+    {
+      "title": "Molecular Biology Reports",
+      "count": 5
+    },
+    {
+      "title": "Life",
+      "count": 5
+    },
+    {
+      "title": "Rsc Advances",
+      "count": 5
+    },
+    {
+      "title": "Acta Ecologica Sinica",
+      "count": 5
+    },
+    {
+      "title": "Antonie Van Leeuwenhoek",
+      "count": 5
+    },
+    {
+      "title": "Plant Stress",
+      "count": 5
+    },
+    {
+      "title": "Sustainable Development And Biodiversity",
+      "count": 5
+    },
+    {
+      "title": "Halophyte Plant Diversity And Public Health",
+      "count": 5
+    },
+    {
+      "title": "Food And Chemical Toxicology",
+      "count": 4
+    },
+    {
+      "title": "Science",
+      "count": 4
+    },
+    {
+      "title": "Plant Biology",
+      "count": 4
+    },
+    {
+      "title": "Phytochemistry",
+      "count": 4
+    },
+    {
+      "title": "Enzyme And Microbial Technology",
+      "count": 4
+    },
+    {
+      "title": "Flora - Morphology, Distribution, Functional Ecology Of Plants",
+      "count": 4
+    },
+    {
+      "title": "Environmental Science &Amp; Technology",
+      "count": 4
+    },
+    {
+      "title": "Bmc Genomics",
+      "count": 4
+    },
+    {
+      "title": "Journal Of Proteomics",
+      "count": 4
+    },
+    {
+      "title": "Journal Of Hazardous Materials",
+      "count": 4
+    },
+    {
+      "title": "Clean \u2013 Soil, Air, Water",
+      "count": 4
+    },
+    {
+      "title": "Canadian Journal Of Botany",
+      "count": 4
+    },
+    {
+      "title": "Water, Air, &Amp; Soil Pollution",
+      "count": 4
+    },
+    {
+      "title": "Food Bioscience",
+      "count": 4
+    },
+    {
+      "title": "Biosaline Agriculture And High Salinity Tolerance",
+      "count": 4
+    },
+    {
+      "title": "Physiology And Molecular Biology Of Plants",
+      "count": 4
+    },
+    {
+      "title": "Journal Of Soil Science And Plant Nutrition",
+      "count": 4
+    },
+    {
+      "title": "Ecophysiology, Abiotic Stress Responses And Utilization Of Halophytes",
+      "count": 4
+    },
+    {
+      "title": "Plant Biotechnology Reports",
+      "count": 4
+    },
+    {
+      "title": "Ecological Questions",
+      "count": 4
+    },
+    {
+      "title": "Journal Of Ecology And Environment",
+      "count": 4
+    },
+    {
+      "title": "Turkish Journal Of Botany",
+      "count": 4
+    },
+    {
+      "title": "Agronomy",
+      "count": 4
+    },
+    {
+      "title": "Ksbb Journal",
+      "count": 4
+    },
+    {
+      "title": "Encyclopedia Of Astrobiology",
+      "count": 4
+    },
+    {
+      "title": "Faculty Opinions \u2013 Post-Publication Peer Review Of The Biomedical Literature",
+      "count": 4
+    },
+    {
+      "title": "Physiology Of Halophytes",
+      "count": 4
+    },
+    {
+      "title": "Plant, Cell And Environment",
+      "count": 4
+    },
+    {
+      "title": "The Plant Journal",
+      "count": 3
+    },
+    {
+      "title": "Plant Biotechnology Journal",
+      "count": 3
+    },
+    {
+      "title": "Biology And Fertility Of Soils",
+      "count": 3
+    },
+    {
+      "title": "Marine Biotechnology",
+      "count": 3
+    },
+    {
+      "title": "American Journal Of Botany",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Plant Nutrition And Soil Science",
+      "count": 3
+    },
+    {
+      "title": "Ecotoxicology",
+      "count": 3
+    },
+    {
+      "title": "Protoplasma",
+      "count": 3
+    },
+    {
+      "title": "The Journal Of Ecology",
+      "count": 3
+    },
+    {
+      "title": "Applied Biochemistry And Biotechnology",
+      "count": 3
+    },
+    {
+      "title": "Microbiology",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Environmental Management",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Arid Land",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Plant Nutrition",
+      "count": 3
+    },
+    {
+      "title": "Biochimica Et Biophysica Acta (Bba) - Biomembranes",
+      "count": 3
+    },
+    {
+      "title": "Plant Species Biology",
+      "count": 3
+    },
+    {
+      "title": "Minerals",
+      "count": 3
+    },
+    {
+      "title": "Australian Journal Of Plant Physiology",
+      "count": 3
+    },
+    {
+      "title": "Antioxidants",
+      "count": 3
+    },
+    {
+      "title": "Botany",
+      "count": 3
+    },
+    {
+      "title": "Communications Biology",
+      "count": 3
+    },
+    {
+      "title": "Pedosphere",
+      "count": 3
+    },
+    {
+      "title": "Agriculture",
+      "count": 3
+    },
+    {
+      "title": "Applied Ecology And Environmental Research",
+      "count": 3
+    },
+    {
+      "title": "Annals Of Microbiology",
+      "count": 3
+    },
+    {
+      "title": "International Journal Of Environmental Science And Technology",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Ecology",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Eukaryotic Microbiology",
+      "count": 3
+    },
+    {
+      "title": "International Journal Of Plant Sciences",
+      "count": 3
+    },
+    {
+      "title": "Evidence-Based Complementary And Alternative Medicine",
+      "count": 3
+    },
+    {
+      "title": "Biochemical Journal",
+      "count": 3
+    },
+    {
+      "title": "Land Degradation &Amp; Development",
+      "count": 3
+    },
+    {
+      "title": "Notulae Scientia Biologicae",
+      "count": 3
+    },
+    {
+      "title": "Biochemistry",
+      "count": 3
+    },
+    {
+      "title": "Food Control",
+      "count": 3
+    },
+    {
+      "title": "Molecular Ecology",
+      "count": 3
+    },
+    {
+      "title": "Acta Crystallographica Section D Biological Crystallography",
+      "count": 3
+    },
+    {
+      "title": "Genome Announcements",
+      "count": 3
+    },
+    {
+      "title": "Acta Horticulturae",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Life Science",
+      "count": 3
+    },
+    {
+      "title": "Plant Ecology",
+      "count": 3
+    },
+    {
+      "title": "Seed Science And Technology",
+      "count": 3
+    },
+    {
+      "title": "Journal Of Applied Research On Medicinal And Aromatic Plants",
+      "count": 3
+    },
+    {
+      "title": "Microbiology Resource Announcements",
+      "count": 3
+    },
+    {
+      "title": "Notulae Botanicae Horti Agrobotanici Cluj-Napoca",
+      "count": 3
+    },
+    {
+      "title": "Halophytic And Salt-Tolerant Feedstuffs",
+      "count": 3
+    },
+    {
+      "title": "Pakistan Journal Of Botany",
+      "count": 3
+    },
+    {
+      "title": "Journal Of The Korean Society For Applied Biological Chemistry",
+      "count": 3
+    },
+    {
+      "title": "Bulletin De La Soci\u00e9t\u00e9 Botanique De France",
+      "count": 3
+    },
+    {
+      "title": "Comparative Biochemistry And Physiology Part A: Molecular &Amp; Integrative Physiology",
+      "count": 3
+    },
+    {
+      "title": "International Journal Of Agriculture And Biology",
+      "count": 3
+    },
+    {
+      "title": "The Botanical Review",
+      "count": 2
+    },
+    {
+      "title": "Systematic And Applied Microbiology",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Proteome Research",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Microbiological Methods",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Applied Microbiology",
+      "count": 2
+    },
+    {
+      "title": "Marine Biology Research",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Agronomy And Crop Science",
+      "count": 2
+    },
+    {
+      "title": "African Journal Of Microbiology Research",
+      "count": 2
+    },
+    {
+      "title": "Genetic Resources And Crop Evolution",
+      "count": 2
+    },
+    {
+      "title": "Environmental Microbiology",
+      "count": 2
+    },
+    {
+      "title": "Agricultural Water Management",
+      "count": 2
+    },
+    {
+      "title": "American Midland Naturalist",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Molecular Biology",
+      "count": 2
+    },
+    {
+      "title": "Annals Of Applied Biology",
+      "count": 2
+    },
+    {
+      "title": "Genes &Amp; Genetic Systems",
+      "count": 2
+    },
+    {
+      "title": "Biotechnology And Bioengineering",
+      "count": 2
+    },
+    {
+      "title": "Environmental Toxicology And Chemistry",
+      "count": 2
+    },
+    {
+      "title": "Animal Feed Science And Technology",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Photochemistry And Photobiology B: Biology",
+      "count": 2
+    },
+    {
+      "title": "Nature Communications",
+      "count": 2
+    },
+    {
+      "title": "Biotechnology Reports",
+      "count": 2
+    },
+    {
+      "title": "Sustainable Energy &Amp; Fuels",
+      "count": 2
+    },
+    {
+      "title": "Seed Science Research",
+      "count": 2
+    },
+    {
+      "title": "Aquaculture International",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Fermentation And Bioengineering",
+      "count": 2
+    },
+    {
+      "title": "Turkish Journal Of Agriculture And Forestry",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Agricultural And Food Chemistry",
+      "count": 2
+    },
+    {
+      "title": "Renewable Energy",
+      "count": 2
+    },
+    {
+      "title": "The Journal Of Antibiotics",
+      "count": 2
+    },
+    {
+      "title": "Frontiers In Bioengineering And Biotechnology",
+      "count": 2
+    },
+    {
+      "title": "Scientia Horticulturae",
+      "count": 2
+    },
+    {
+      "title": "Botanical Gazette",
+      "count": 2
+    },
+    {
+      "title": "Plant, Soil And Environment",
+      "count": 2
+    },
+    {
+      "title": "Biochimica Et Biophysica Acta (Bba) - Protein Structure",
+      "count": 2
+    },
+    {
+      "title": "Landscape And Urban Planning",
+      "count": 2
+    },
+    {
+      "title": "Gigascience",
+      "count": 2
+    },
+    {
+      "title": "Desalination",
+      "count": 2
+    },
+    {
+      "title": "Arid Land Research And Management",
+      "count": 2
+    },
+    {
+      "title": "European Journal Of Biochemistry",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Soils And Sediments",
+      "count": 2
+    },
+    {
+      "title": "In Vitro Cellular &Amp; Developmental Biology - Plant",
+      "count": 2
+    },
+    {
+      "title": "Biochimica Et Biophysica Acta (Bba) - Nucleic Acids And Protein Synthesis",
+      "count": 2
+    },
+    {
+      "title": "Foods",
+      "count": 2
+    },
+    {
+      "title": "Botanical Studies",
+      "count": 2
+    },
+    {
+      "title": "Canadian Journal Of Biochemistry",
+      "count": 2
+    },
+    {
+      "title": "Marine Ecology Progress Series",
+      "count": 2
+    },
+    {
+      "title": "Asian Pacific Journal Of Tropical Medicine",
+      "count": 2
+    },
+    {
+      "title": "Database",
+      "count": 2
+    },
+    {
+      "title": "The Journal Of Organic Chemistry",
+      "count": 2
+    },
+    {
+      "title": "Bmc Research Notes",
+      "count": 2
+    },
+    {
+      "title": "Soil Science And Plant Nutrition",
+      "count": 2
+    },
+    {
+      "title": "Ecological Research",
+      "count": 2
+    },
+    {
+      "title": "Dna Sequence",
+      "count": 2
+    },
+    {
+      "title": "Biomolecules",
+      "count": 2
+    },
+    {
+      "title": "Aquaculture",
+      "count": 2
+    },
+    {
+      "title": "The Isme Journal",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Microbiology",
+      "count": 2
+    },
+    {
+      "title": "Acs Omega",
+      "count": 2
+    },
+    {
+      "title": "Horticulturae",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Natural Products",
+      "count": 2
+    },
+    {
+      "title": "Environmental Entomology",
+      "count": 2
+    },
+    {
+      "title": "Plant Systematics And Evolution",
+      "count": 2
+    },
+    {
+      "title": "Vegetatio",
+      "count": 2
+    },
+    {
+      "title": "Environmental Microbiology Reports",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Phycology",
+      "count": 2
+    },
+    {
+      "title": "Biotechnology Letters",
+      "count": 2
+    },
+    {
+      "title": "Israel Journal Of Plant Sciences",
+      "count": 2
+    },
+    {
+      "title": "Biomass And Bioenergy",
+      "count": 2
+    },
+    {
+      "title": "Standards In Genomic Sciences",
+      "count": 2
+    },
+    {
+      "title": "Plant Signaling &Amp; Behavior",
+      "count": 2
+    },
+    {
+      "title": "Biology",
+      "count": 2
+    },
+    {
+      "title": "Protein Expression And Purification",
+      "count": 2
+    },
+    {
+      "title": "Genes",
+      "count": 2
+    },
+    {
+      "title": "Grass And Forage Science",
+      "count": 2
+    },
+    {
+      "title": "Naturwissenschaften",
+      "count": 2
+    },
+    {
+      "title": "Wetlands Ecology And Management",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Biomolecular Structure And Dynamics",
+      "count": 2
+    },
+    {
+      "title": "Genes &Amp; Genomics",
+      "count": 2
+    },
+    {
+      "title": "Water",
+      "count": 2
+    },
+    {
+      "title": "Emirates Journal Of Food And Agriculture",
+      "count": 2
+    },
+    {
+      "title": "Journal Of The Korean Chemical Society",
+      "count": 2
+    },
+    {
+      "title": "Chemical Engineering Journal",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Genetic Engineering And Biotechnology",
+      "count": 2
+    },
+    {
+      "title": "The Journal Of Phytopharmacology",
+      "count": 2
+    },
+    {
+      "title": "Frontiers In Genetics",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Plant Biotechnology",
+      "count": 2
+    },
+    {
+      "title": "Rhizosphere",
+      "count": 2
+    },
+    {
+      "title": "Botany Letters",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Crop Improvement",
+      "count": 2
+    },
+    {
+      "title": "Environment Control In Biology",
+      "count": 2
+    },
+    {
+      "title": "Fermentation",
+      "count": 2
+    },
+    {
+      "title": "Biomass Conversion And Biorefinery",
+      "count": 2
+    },
+    {
+      "title": "Bulletin De La Soci\u00e9t\u00e9 Botanique De France. Actualit\u00e9s Botaniques",
+      "count": 2
+    },
+    {
+      "title": "Soil Systems",
+      "count": 2
+    },
+    {
+      "title": "Nature",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Bioremediation &Amp; Biodegradation",
+      "count": 2
+    },
+    {
+      "title": "International Journal Of Applied Earth Observation And Geoinformation",
+      "count": 2
+    },
+    {
+      "title": "Vegetation Between Land And Sea",
+      "count": 2
+    },
+    {
+      "title": "Environmental Monitoring And Assessment",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Basic &Amp; Applied Sciences",
+      "count": 2
+    },
+    {
+      "title": "Natural Product Communications",
+      "count": 2
+    },
+    {
+      "title": "Natural Product Sciences",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Environmental Science International",
+      "count": 2
+    },
+    {
+      "title": "Food Science &Amp; Nutrition",
+      "count": 2
+    },
+    {
+      "title": "The Rangeland Journal",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Japanese Society For Extremophiles",
+      "count": 2
+    },
+    {
+      "title": "Eurasian Journal Of Soil Science (Ejss)",
+      "count": 2
+    },
+    {
+      "title": "Energies",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Crop Breeding",
+      "count": 2
+    },
+    {
+      "title": "Doklady Biological Sciences",
+      "count": 2
+    },
+    {
+      "title": "Journal Of Plant Biochemistry And Biotechnology",
+      "count": 2
+    },
+    {
+      "title": "Grasas Y Aceites",
+      "count": 2
+    },
+    {
+      "title": "Aip Conference Proceedings",
+      "count": 2
+    },
+    {
+      "title": "Frontiers In Forests And Global Change",
+      "count": 2
+    },
+    {
+      "title": "Chinese Journal Of Eco-Agriculture",
+      "count": 2
+    },
+    {
+      "title": "Aspb Plant Biology 2020",
+      "count": 2
+    },
+    {
+      "title": "Datasets De Idus",
+      "count": 2
+    },
+    {
+      "title": "Research Journal Of Pharmacy And Technology",
+      "count": 2
+    },
+    {
+      "title": "Ssrn Electronic Journal",
+      "count": 2
+    },
+    {
+      "title": "Journal Of The Japanese Society Of Revegetation Technology",
+      "count": 2
+    },
+    {
+      "title": "\u0424\u0438\u0437\u0438\u043e\u043b\u043e\u0433\u0438\u044f \u0420\u0430\u0441\u0442\u0435\u043d\u0438\u0439",
+      "count": 2
+    },
+    {
+      "title": "Vegetos- An International Journal Of Plant Research",
+      "count": 2
+    },
+    {
+      "title": "\u0423\u0441\u043f\u0435\u0445\u0438 \u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0415\u0441\u0442\u0435\u0441\u0442\u0432\u043e\u0437\u043d\u0430\u043d\u0438\u044f (Advances In Current Natural Sciences)",
+      "count": 2
+    },
+    {
+      "title": "Book Of Proceedings Of The All-Russian Scientific Conference With International Participation And Schools Of Young Scientists\n        \"Mechanisms Of Resistance Of Plants And Microorganisms To Unfavorable Environmental\" (Parts I, Ii)",
+      "count": 2
+    },
+    {
+      "title": "The Embo Journal",
+      "count": 1
+    },
+    {
+      "title": "Critical Reviews In Plant Sciences",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Environmental Quality",
+      "count": 1
+    },
+    {
+      "title": "Molecular &Amp; Cellular Proteomics",
+      "count": 1
+    },
+    {
+      "title": "Dna Research",
+      "count": 1
+    },
+    {
+      "title": "Proceedings Of The National Academy Of Sciences",
+      "count": 1
+    },
+    {
+      "title": "Saline Systems",
+      "count": 1
+    },
+    {
+      "title": "Fisheries And Aquatic Sciences",
+      "count": 1
+    },
+    {
+      "title": "Water Research",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Marine Biological Association Of The United Kingdom",
+      "count": 1
+    },
+    {
+      "title": "Theoretical And Applied Genetics",
+      "count": 1
+    },
+    {
+      "title": "Biochimie",
+      "count": 1
+    },
+    {
+      "title": "Functional &Amp; Integrative Genomics",
+      "count": 1
+    },
+    {
+      "title": "World Journal Of Microbiology And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Agricultural And Forest Meteorology",
+      "count": 1
+    },
+    {
+      "title": "Plos Biology",
+      "count": 1
+    },
+    {
+      "title": "Critical Reviews In Environmental Science And Technology",
+      "count": 1
+    },
+    {
+      "title": "Agronomy Journal",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Science Of Food And Agriculture",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Lipid Research",
+      "count": 1
+    },
+    {
+      "title": "Frontiers In Environmental Science",
+      "count": 1
+    },
+    {
+      "title": "Process Biochemistry",
+      "count": 1
+    },
+    {
+      "title": "Archives Of Pharmacal Research",
+      "count": 1
+    },
+    {
+      "title": "Astrobiology",
+      "count": 1
+    },
+    {
+      "title": "Cells",
+      "count": 1
+    },
+    {
+      "title": "Open Life Sciences",
+      "count": 1
+    },
+    {
+      "title": "Symbiosis",
+      "count": 1
+    },
+    {
+      "title": "Bioorganic &Amp; Medicinal Chemistry Letters",
+      "count": 1
+    },
+    {
+      "title": "International Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Ecology",
+      "count": 1
+    },
+    {
+      "title": "Revista Brasileira De Engenharia Agr\u00edcola E Ambiental",
+      "count": 1
+    },
+    {
+      "title": "Computers And Electronics In Agriculture",
+      "count": 1
+    },
+    {
+      "title": "Mycorrhiza",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Chemical Technology &Amp; Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Estuaries",
+      "count": 1
+    },
+    {
+      "title": "Plos Computational Biology",
+      "count": 1
+    },
+    {
+      "title": "Carbohydrate Polymers",
+      "count": 1
+    },
+    {
+      "title": "Nitric Oxide",
+      "count": 1
+    },
+    {
+      "title": "Proteomics",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Systematic Bacteriology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Pharmaceutical And Biomedical Analysis",
+      "count": 1
+    },
+    {
+      "title": "Aquacultural Engineering",
+      "count": 1
+    },
+    {
+      "title": "Polish Journal Of Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Structural Biology",
+      "count": 1
+    },
+    {
+      "title": "Wetlands",
+      "count": 1
+    },
+    {
+      "title": "Archives Of Agronomy And Soil Science",
+      "count": 1
+    },
+    {
+      "title": "Transgenic Research",
+      "count": 1
+    },
+    {
+      "title": "Saudi Journal Of Biological Sciences",
+      "count": 1
+    },
+    {
+      "title": "Australian Journal Of Crop Science",
+      "count": 1
+    },
+    {
+      "title": "Advances In Agronomy",
+      "count": 1
+    },
+    {
+      "title": "Biotechnology And Bioprocess Engineering",
+      "count": 1
+    },
+    {
+      "title": "Science China Life Sciences",
+      "count": 1
+    },
+    {
+      "title": "Environmental Geochemistry And Health",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Genomics",
+      "count": 1
+    },
+    {
+      "title": "Proteome Science",
+      "count": 1
+    },
+    {
+      "title": "Ion Transport In Plants",
+      "count": 1
+    },
+    {
+      "title": "Biochimica Et Biophysica Acta (Bba) - Gene Structure And Expression",
+      "count": 1
+    },
+    {
+      "title": "American Journal Of Plant Sciences",
+      "count": 1
+    },
+    {
+      "title": "3 Biotech",
+      "count": 1
+    },
+    {
+      "title": "Soil Use And Management",
+      "count": 1
+    },
+    {
+      "title": "Philosophical Transactions Of The Royal Society Of London. B, Biological Sciences",
+      "count": 1
+    },
+    {
+      "title": "Meat Science",
+      "count": 1
+    },
+    {
+      "title": "Peerj",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Food Science",
+      "count": 1
+    },
+    {
+      "title": "Fuel",
+      "count": 1
+    },
+    {
+      "title": "Biochar",
+      "count": 1
+    },
+    {
+      "title": "Microbial Cell Factories",
+      "count": 1
+    },
+    {
+      "title": "Spanish Journal Of Agricultural Research",
+      "count": 1
+    },
+    {
+      "title": "The Journal Of Agricultural Science",
+      "count": 1
+    },
+    {
+      "title": "Crystals",
+      "count": 1
+    },
+    {
+      "title": "Zeitschrift F\u00fcr Pflanzenphysiologie",
+      "count": 1
+    },
+    {
+      "title": "Frontiers In Nutrition",
+      "count": 1
+    },
+    {
+      "title": "Mycotaxon",
+      "count": 1
+    },
+    {
+      "title": "Zeitschrift F\u00fcr Naturforschung C",
+      "count": 1
+    },
+    {
+      "title": "Comptes Rendus. Biologies",
+      "count": 1
+    },
+    {
+      "title": "Preslia",
+      "count": 1
+    },
+    {
+      "title": "Signaling And Communication In Plants",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Food Biochemistry",
+      "count": 1
+    },
+    {
+      "title": "Microbes And Environments",
+      "count": 1
+    },
+    {
+      "title": "Protein Science",
+      "count": 1
+    },
+    {
+      "title": "Agriculture, Ecosystems &Amp; Environment",
+      "count": 1
+    },
+    {
+      "title": "Biological &Amp; Pharmaceutical Bulletin",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Bioscience And Bioengineering",
+      "count": 1
+    },
+    {
+      "title": "Energy &Amp; Fuels",
+      "count": 1
+    },
+    {
+      "title": "Acta Biologica Hungarica",
+      "count": 1
+    },
+    {
+      "title": "Metabolites",
+      "count": 1
+    },
+    {
+      "title": "Acta Botanica Malacitana",
+      "count": 1
+    },
+    {
+      "title": "Biochemistry (Moscow)",
+      "count": 1
+    },
+    {
+      "title": "Vegetation Of Russia",
+      "count": 1
+    },
+    {
+      "title": "Botanica Helvetica",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Genomics",
+      "count": 1
+    },
+    {
+      "title": "Pharmaceutics",
+      "count": 1
+    },
+    {
+      "title": "Biochimica Et Biophysica Acta (Bba) - Bioenergetics",
+      "count": 1
+    },
+    {
+      "title": "Carbohydrate Research",
+      "count": 1
+    },
+    {
+      "title": "Plant Cell, Tissue And Organ Culture",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Applied Animal Research",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Asian Natural Products Research",
+      "count": 1
+    },
+    {
+      "title": "Anais Da Academia Brasileira De Ci\u00eancias",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Medicinal Food",
+      "count": 1
+    },
+    {
+      "title": "Bulletin Of Environmental Contamination And Toxicology",
+      "count": 1
+    },
+    {
+      "title": "Nucleic Acids Research",
+      "count": 1
+    },
+    {
+      "title": "Biophysical Chemistry",
+      "count": 1
+    },
+    {
+      "title": "\u00c9coscience",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Genetics And Genomics",
+      "count": 1
+    },
+    {
+      "title": "Chinese Journal Of Oceanology And Limnology",
+      "count": 1
+    },
+    {
+      "title": "Isrn Agronomy",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Bioresources And Bioproducts",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Applied Sciences And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "International Biodeterioration &Amp; Biodegradation",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Advanced Research",
+      "count": 1
+    },
+    {
+      "title": "Hortscience",
+      "count": 1
+    },
+    {
+      "title": "Biochemistry And Cell Biology",
+      "count": 1
+    },
+    {
+      "title": "European Journal Of Protistology",
+      "count": 1
+    },
+    {
+      "title": "Biochemical And Biophysical Research Communications",
+      "count": 1
+    },
+    {
+      "title": "Biological Procedures Online",
+      "count": 1
+    },
+    {
+      "title": "Genetica",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Plant Biology",
+      "count": 1
+    },
+    {
+      "title": "Molecular Breeding",
+      "count": 1
+    },
+    {
+      "title": "Physics And Chemistry Of The Earth, Parts A/B/C",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Applied Bacteriology",
+      "count": 1
+    },
+    {
+      "title": "Fitoterapia",
+      "count": 1
+    },
+    {
+      "title": "The Indian Journal Of Agricultural Sciences",
+      "count": 1
+    },
+    {
+      "title": "Cereal Research Communications",
+      "count": 1
+    },
+    {
+      "title": "Bioengineered",
+      "count": 1
+    },
+    {
+      "title": "Njas: Wageningen Journal Of Life Sciences",
+      "count": 1
+    },
+    {
+      "title": "Gcb Bioenergy",
+      "count": 1
+    },
+    {
+      "title": "The Plant Genome",
+      "count": 1
+    },
+    {
+      "title": "Comptes Rendus. Chimie",
+      "count": 1
+    },
+    {
+      "title": "Bioprocess And Biosystems Engineering",
+      "count": 1
+    },
+    {
+      "title": "Microbiologyopen",
+      "count": 1
+    },
+    {
+      "title": "Folia Geobotanica",
+      "count": 1
+    },
+    {
+      "title": "Livestock Science",
+      "count": 1
+    },
+    {
+      "title": "Polish Journal Of Environmental Studies",
+      "count": 1
+    },
+    {
+      "title": "Waste Management",
+      "count": 1
+    },
+    {
+      "title": "Cogent Chemistry",
+      "count": 1
+    },
+    {
+      "title": "European Food Research And Technology",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Environmental Research And Public Health",
+      "count": 1
+    },
+    {
+      "title": "Bulletin Of The Torrey Botanical Club",
+      "count": 1
+    },
+    {
+      "title": "Marine Chemistry",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Chemistry",
+      "count": 1
+    },
+    {
+      "title": "Science In China Series D: Earth Sciences",
+      "count": 1
+    },
+    {
+      "title": "Bmc Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Dna And Cell Biology",
+      "count": 1
+    },
+    {
+      "title": "Plant Gene",
+      "count": 1
+    },
+    {
+      "title": "Mycological Progress",
+      "count": 1
+    },
+    {
+      "title": "Combinatorial Chemistry &Amp; High Throughput Screening",
+      "count": 1
+    },
+    {
+      "title": "Mitochondrial Dna Part A",
+      "count": 1
+    },
+    {
+      "title": "Cabi Reviews",
+      "count": 1
+    },
+    {
+      "title": "Folia Microbiologica",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Molecular Catalysis B: Enzymatic",
+      "count": 1
+    },
+    {
+      "title": "Biotechnologia",
+      "count": 1
+    },
+    {
+      "title": "Aquatic Biology",
+      "count": 1
+    },
+    {
+      "title": "Environmental Technology &Amp; Innovation",
+      "count": 1
+    },
+    {
+      "title": "Saudi Pharmaceutical Journal",
+      "count": 1
+    },
+    {
+      "title": "Chemical And Biological Technologies In Agriculture",
+      "count": 1
+    },
+    {
+      "title": "Frontiers In Ecology And Evolution",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Marine And Island Cultures",
+      "count": 1
+    },
+    {
+      "title": "The Quarterly Review Of Biology",
+      "count": 1
+    },
+    {
+      "title": "Pharmacognosy Magazine",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Microscopy",
+      "count": 1
+    },
+    {
+      "title": "Chemistry And Ecology",
+      "count": 1
+    },
+    {
+      "title": "Marine Genomics",
+      "count": 1
+    },
+    {
+      "title": "Crop Science",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Coastal Conservation",
+      "count": 1
+    },
+    {
+      "title": "Doklady Biochemistry And Biophysics",
+      "count": 1
+    },
+    {
+      "title": "Forests",
+      "count": 1
+    },
+    {
+      "title": "Phenomics",
+      "count": 1
+    },
+    {
+      "title": "Seeds",
+      "count": 1
+    },
+    {
+      "title": "Molecular And General Genetics Mgg",
+      "count": 1
+    },
+    {
+      "title": "Amb Express",
+      "count": 1
+    },
+    {
+      "title": "Springerplus",
+      "count": 1
+    },
+    {
+      "title": "Russian Journal Of Genetics",
+      "count": 1
+    },
+    {
+      "title": "Phytopathologia Mediterranea",
+      "count": 1
+    },
+    {
+      "title": "Environmental Modeling &Amp; Assessment",
+      "count": 1
+    },
+    {
+      "title": "Botm",
+      "count": 1
+    },
+    {
+      "title": "The Journal Of General And Applied Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Algal Research",
+      "count": 1
+    },
+    {
+      "title": "Biorefinery",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Environmental Health Science And Engineering",
+      "count": 1
+    },
+    {
+      "title": "Trace Elements As Contaminants And Nutrients",
+      "count": 1
+    },
+    {
+      "title": "Weed Science",
+      "count": 1
+    },
+    {
+      "title": "Asian-Australasian Journal Of Animal Sciences",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Ocean University Of China",
+      "count": 1
+    },
+    {
+      "title": "Botanica Serbica",
+      "count": 1
+    },
+    {
+      "title": "Oxygen",
+      "count": 1
+    },
+    {
+      "title": "Biosciences Biotechnology Research Asia",
+      "count": 1
+    },
+    {
+      "title": "Biopolymers",
+      "count": 1
+    },
+    {
+      "title": "Bioremediation Of Salt Affected Soils: An Indian Perspective",
+      "count": 1
+    },
+    {
+      "title": "Archives Of Biochemistry And Biophysics",
+      "count": 1
+    },
+    {
+      "title": "Harran Tarim Ve Gida Bilimleri Dergisi",
+      "count": 1
+    },
+    {
+      "title": "Trees",
+      "count": 1
+    },
+    {
+      "title": "Biosaline Agriculture And Salinity Tolerance In Plants",
+      "count": 1
+    },
+    {
+      "title": "American Journal Of Biochemistry And Molecular Biology",
+      "count": 1
+    },
+    {
+      "title": "Brazilian Journal Of Botany",
+      "count": 1
+    },
+    {
+      "title": "Remote Sensing",
+      "count": 1
+    },
+    {
+      "title": "Experientia",
+      "count": 1
+    },
+    {
+      "title": "Ecology Of Halophytes",
+      "count": 1
+    },
+    {
+      "title": "Halophytes For Food Security In Dry Lands",
+      "count": 1
+    },
+    {
+      "title": "Rna",
+      "count": 1
+    },
+    {
+      "title": "Acta Societatis Botanicorum Poloniae",
+      "count": 1
+    },
+    {
+      "title": "Russian Journal Of Ecology",
+      "count": 1
+    },
+    {
+      "title": "Acta Botanica Neerlandica",
+      "count": 1
+    },
+    {
+      "title": "Biomedicine &Amp; Pharmacotherapy",
+      "count": 1
+    },
+    {
+      "title": "Advances In Agriculture",
+      "count": 1
+    },
+    {
+      "title": "Experimental And Therapeutic Medicine",
+      "count": 1
+    },
+    {
+      "title": "Food &Amp; Function",
+      "count": 1
+    },
+    {
+      "title": "Plant Omics",
+      "count": 1
+    },
+    {
+      "title": "Arid Zone Research",
+      "count": 1
+    },
+    {
+      "title": "Asian Journal Of Agriculture And Biology",
+      "count": 1
+    },
+    {
+      "title": "Improving Stress Resilience In Plants",
+      "count": 1
+    },
+    {
+      "title": "Chemico-Biological Interactions",
+      "count": 1
+    },
+    {
+      "title": "Chinese Journal Of Plant Ecology",
+      "count": 1
+    },
+    {
+      "title": "Frontiers In Bioscience-Landmark",
+      "count": 1
+    },
+    {
+      "title": "Sil Proceedings, 1922-2010",
+      "count": 1
+    },
+    {
+      "title": "Toxins",
+      "count": 1
+    },
+    {
+      "title": "Crop Production For Agricultural Improvement",
+      "count": 1
+    },
+    {
+      "title": "Hacquetia",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Microbiology, Biotechnology And Food Sciences",
+      "count": 1
+    },
+    {
+      "title": "Proceedings Of The International Plant Sulfur Workshop",
+      "count": 1
+    },
+    {
+      "title": "E3S Web Of Conferences",
+      "count": 1
+    },
+    {
+      "title": "Molecular Ecology Resources",
+      "count": 1
+    },
+    {
+      "title": "Bioscience Journal",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The World Aquaculture Society",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Biomedical Research",
+      "count": 1
+    },
+    {
+      "title": "Bulletin Du Mus\u00e9um National D'Histoire Naturelle",
+      "count": 1
+    },
+    {
+      "title": "Acta Mycologica",
+      "count": 1
+    },
+    {
+      "title": "Zoosystema",
+      "count": 1
+    },
+    {
+      "title": "African Journal Of Agricultural Research",
+      "count": 1
+    },
+    {
+      "title": "M\u00e9decine Et Maladies Infectieuses",
+      "count": 1
+    },
+    {
+      "title": "Water, Air, And Soil Pollution",
+      "count": 1
+    },
+    {
+      "title": "Biology Bulletin",
+      "count": 1
+    },
+    {
+      "title": "2021 Ieee International Geoscience And Remote Sensing Symposium Igarss",
+      "count": 1
+    },
+    {
+      "title": "Horticulture, Environment, And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Molecular Biology And Physiology Of Water And Solute Transport",
+      "count": 1
+    },
+    {
+      "title": "Ekoloji",
+      "count": 1
+    },
+    {
+      "title": "Ocean And Polar Research",
+      "count": 1
+    },
+    {
+      "title": "Biochemical And Cellular Mechanisms Of Stress Tolerance In Plants",
+      "count": 1
+    },
+    {
+      "title": "Soil Research",
+      "count": 1
+    },
+    {
+      "title": "Revista Brasileira De Zootecnia",
+      "count": 1
+    },
+    {
+      "title": "Resources",
+      "count": 1
+    },
+    {
+      "title": "Biological Trace Element Research",
+      "count": 1
+    },
+    {
+      "title": "Environmental Toxicology",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Environmental Research",
+      "count": 1
+    },
+    {
+      "title": "Indian Journal Of Plant Physiology",
+      "count": 1
+    },
+    {
+      "title": "Euro-Mediterranean Journal For Environmental Integration",
+      "count": 1
+    },
+    {
+      "title": "Biocatalysis And Biotransformation",
+      "count": 1
+    },
+    {
+      "title": "Soil Biology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Entomology",
+      "count": 1
+    },
+    {
+      "title": "Bunseki Kagaku",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Biometeorology",
+      "count": 1
+    },
+    {
+      "title": "Plant Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Bioresources",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Cave And Karst Studies",
+      "count": 1
+    },
+    {
+      "title": "Biodiversity Research And Conservation",
+      "count": 1
+    },
+    {
+      "title": "Egyptian Journal Of Microbiology",
+      "count": 1
+    },
+    {
+      "title": "European Journal Of Integrative Medicine",
+      "count": 1
+    },
+    {
+      "title": "Cabi Agriculture And Bioscience",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Faculty Of Agriculture, Kyushu University",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Theoretical And Applied Research",
+      "count": 1
+    },
+    {
+      "title": "Plant Direct",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Korean Society For Marine Environment &Amp; Energy",
+      "count": 1
+    },
+    {
+      "title": "Tree Physiology",
+      "count": 1
+    },
+    {
+      "title": "\u00d6sterreichische Botanische Zeitschrift",
+      "count": 1
+    },
+    {
+      "title": "Desalination And Water Treatment",
+      "count": 1
+    },
+    {
+      "title": "Bioresource Technology Reports",
+      "count": 1
+    },
+    {
+      "title": "Farmacia",
+      "count": 1
+    },
+    {
+      "title": "Tropical Journal Of Natural Product Research",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Biosciences (Ijb)",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Biology",
+      "count": 1
+    },
+    {
+      "title": "Agrochimica",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Public Health Asia Pacific",
+      "count": 1
+    },
+    {
+      "title": "Genetics And Molecular Research",
+      "count": 1
+    },
+    {
+      "title": "Halophilic Microorganisms",
+      "count": 1
+    },
+    {
+      "title": "Stresses",
+      "count": 1
+    },
+    {
+      "title": "Conservation Genetics",
+      "count": 1
+    },
+    {
+      "title": "Ukrainian Journal Of Ecology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Astm International",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Applied Biology &Amp; Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Environmental Management And Tourism",
+      "count": 1
+    },
+    {
+      "title": "Petroleum Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Iasted Technology Conferences / 696:Ms / 697:Ca / 698: Wc / 699: Eme / 700: Soe",
+      "count": 1
+    },
+    {
+      "title": "Korean Journal Of Plant Resources",
+      "count": 1
+    },
+    {
+      "title": "Microbiology And Biotechnology Letters",
+      "count": 1
+    },
+    {
+      "title": "Brazilian Journal Of Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Trends In Food Science &Amp; Technology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Systematics And Evolution",
+      "count": 1
+    },
+    {
+      "title": "Phytokeys",
+      "count": 1
+    },
+    {
+      "title": "Proceedings Of The National Academy Of Sciences, India Section B: Biological Sciences",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Korean Oil Chemists' Society",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Saudi Society Of Agricultural Sciences",
+      "count": 1
+    },
+    {
+      "title": "Hydrological Processes",
+      "count": 1
+    },
+    {
+      "title": "Discover Life",
+      "count": 1
+    },
+    {
+      "title": "Sustainable Materials And Technologies",
+      "count": 1
+    },
+    {
+      "title": "Food Technology And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Aquaculture Journal",
+      "count": 1
+    },
+    {
+      "title": "Trends In Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Revue Fran\u00e7aise Des Laboratoires",
+      "count": 1
+    },
+    {
+      "title": "Origin Of Life",
+      "count": 1
+    },
+    {
+      "title": "Applied Mechanics And Materials",
+      "count": 1
+    },
+    {
+      "title": "Bulletin De La Soci\u00e9t\u00e9 Entomologique De France",
+      "count": 1
+    },
+    {
+      "title": "American Journal Of Agriculture And Horticulture Innovations",
+      "count": 1
+    },
+    {
+      "title": "Soil Science",
+      "count": 1
+    },
+    {
+      "title": "Halophytes: An Integrative Anatomical Study",
+      "count": 1
+    },
+    {
+      "title": "Agriculture And Natural Resources",
+      "count": 1
+    },
+    {
+      "title": "Engineering Practices For Management Of Soil Salinity",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Lake Sciences",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Nevada Water Resources Association",
+      "count": 1
+    },
+    {
+      "title": "Phytotaxa",
+      "count": 1
+    },
+    {
+      "title": "Vegetos",
+      "count": 1
+    },
+    {
+      "title": "Anais Do Ii Inovagri International Meeting - 2014",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Life Sciences",
+      "count": 1
+    },
+    {
+      "title": "European Journal Of Biology And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Future Of Sustainable Agriculture In Saline Environments",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Pharmacy And Bioallied Sciences",
+      "count": 1
+    },
+    {
+      "title": "Egyptian Journal Of Nutrition And Feeds",
+      "count": 1
+    },
+    {
+      "title": "Aims Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Czech Polar Reports",
+      "count": 1
+    },
+    {
+      "title": "Plant Cell Biotechnology And Molecular Biology",
+      "count": 1
+    },
+    {
+      "title": "All Life",
+      "count": 1
+    },
+    {
+      "title": "Community Ecology",
+      "count": 1
+    },
+    {
+      "title": "2011 5Th International Conference On Bioinformatics And Biomedical Engineering",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Soil Salinity And Water Quality",
+      "count": 1
+    },
+    {
+      "title": "Grass Research",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Innovative Science And Research Technology (Ijisrt)",
+      "count": 1
+    },
+    {
+      "title": "Heliyon",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Bioinformatics And Proteomics Review",
+      "count": 1
+    },
+    {
+      "title": "Arabian Journal Of Geosciences",
+      "count": 1
+    },
+    {
+      "title": "Forestry Research",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Fungi",
+      "count": 1
+    },
+    {
+      "title": "Ecohydrology &Amp; Hydrobiology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Sustainability Science And Management",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Applied Entomology",
+      "count": 1
+    },
+    {
+      "title": "Korean Journal Of Ecology And Environment",
+      "count": 1
+    },
+    {
+      "title": "Archives Of Phytopathology And Plant Protection",
+      "count": 1
+    },
+    {
+      "title": "Microbiology Research",
+      "count": 1
+    },
+    {
+      "title": "Advanced Materials Research",
+      "count": 1
+    },
+    {
+      "title": "Indian Drugs",
+      "count": 1
+    },
+    {
+      "title": "Photochemical &Amp; Photobiological Sciences",
+      "count": 1
+    },
+    {
+      "title": "Annales De La Soci\u00e9t\u00e9 Entomologique De France (N.S.)",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Korean Society For Environmental Technology",
+      "count": 1
+    },
+    {
+      "title": "Indian Journal Of Animal Research",
+      "count": 1
+    },
+    {
+      "title": "The Journal Of Horticultural Science And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Environmental Chemical Engineering",
+      "count": 1
+    },
+    {
+      "title": "The Korean Journal Of Crop Science",
+      "count": 1
+    },
+    {
+      "title": "Japanese Journal Of Crop Science",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Water Process Engineering",
+      "count": 1
+    },
+    {
+      "title": "Jundishapur Journal Of Natural Pharmaceutical Products",
+      "count": 1
+    },
+    {
+      "title": "Tropical Plants",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Food Composition And Analysis",
+      "count": 1
+    },
+    {
+      "title": "Izvestia Ufimskogo Nauchnogo Tsentra Ran",
+      "count": 1
+    },
+    {
+      "title": "Springerreference",
+      "count": 1
+    },
+    {
+      "title": "Oxford English Dictionary",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedic Dictionary Of Polymers",
+      "count": 1
+    },
+    {
+      "title": "Extremophile Mikroorganismen",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedia Of Environmental Change",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedia Of Genetics, Genomics, Proteomics And Informatics",
+      "count": 1
+    },
+    {
+      "title": "Corrosion 2021",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedic Dictionary Of Genetics, Genomics And Proteomics",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedic Dictionary Of Landscape And Urban Planning",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedia Of Life Sciences",
+      "count": 1
+    },
+    {
+      "title": "Die Naturwissenschaften",
+      "count": 1
+    },
+    {
+      "title": "Encyclopedia Of The Un Sustainable Development Goals",
+      "count": 1
+    },
+    {
+      "title": "Biological Conservation",
+      "count": 1
+    },
+    {
+      "title": "New Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Mediterr\u00e1nea. Serie De Estudios Biol\u00f3gicos",
+      "count": 1
+    },
+    {
+      "title": "Malaysian Journal Of Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Biologie In Unserer Zeit",
+      "count": 1
+    },
+    {
+      "title": "Universum:Chemistry &Amp; Biology",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Zoological Investigations",
+      "count": 1
+    },
+    {
+      "title": "Bmc Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Research In Microbiology",
+      "count": 1
+    },
+    {
+      "title": "Biomedical Journal Of Scientific &Amp; Technical Research",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Microbiology &Amp; Experimentation",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Non-Timber Forest Products",
+      "count": 1
+    },
+    {
+      "title": "Biofuel And Biorefinery Technologies",
+      "count": 1
+    },
+    {
+      "title": "Global Ecology And Biogeography Letters",
+      "count": 1
+    },
+    {
+      "title": "Mangrove Ecosystems Of Asia",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Geoscience And Environment Protection",
+      "count": 1
+    },
+    {
+      "title": "Anadolu University Journal Of Science And Technology \u2013C Life Sciences And Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Harnessing Sesuvium Portulacastrum For Biosaline Agriculture",
+      "count": 1
+    },
+    {
+      "title": "Environmental Research And Technology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Environmental Monitoring And Restoration",
+      "count": 1
+    },
+    {
+      "title": "Annals Of Arid Zone",
+      "count": 1
+    },
+    {
+      "title": "Italus Hortus",
+      "count": 1
+    },
+    {
+      "title": "Biotechnology In Agriculture And Forestry",
+      "count": 1
+    },
+    {
+      "title": "Eurasian Journal Of Ecology",
+      "count": 1
+    },
+    {
+      "title": "Biofuels",
+      "count": 1
+    },
+    {
+      "title": "Aapg Bulletin",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Scientific And Research Publications",
+      "count": 1
+    },
+    {
+      "title": "Case Studies In Chemical And Environmental Engineering",
+      "count": 1
+    },
+    {
+      "title": "Sabrao Journal Of Breeding And Genetics",
+      "count": 1
+    },
+    {
+      "title": "Egyptian Journal Of Sheep And Goat Sciences",
+      "count": 1
+    },
+    {
+      "title": "Annales Des Sciences Foresti\u00e8res",
+      "count": 1
+    },
+    {
+      "title": "International Institute Of Chemical, Biological &Amp; Environmental Engineering June 5-6, 2015 Istanbul (Turkey)",
+      "count": 1
+    },
+    {
+      "title": "The University Of Danang - Journal Of Science And Technology",
+      "count": 1
+    },
+    {
+      "title": "Biodiversitas Journal Of Biological Diversity",
+      "count": 1
+    },
+    {
+      "title": "Research Journal Of Biological Sciences",
+      "count": 1
+    },
+    {
+      "title": "Agronom\u00eda Colombiana",
+      "count": 1
+    },
+    {
+      "title": "Afyon Kocatepe University Journal Of Sciences And Engineering",
+      "count": 1
+    },
+    {
+      "title": "Mansoura Journal Of Biology",
+      "count": 1
+    },
+    {
+      "title": "Arab Universities Journal Of Agricultural Sciences",
+      "count": 1
+    },
+    {
+      "title": "Plant Science Today",
+      "count": 1
+    },
+    {
+      "title": "Sustainability Sciences In Asia And Africa",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Oasis Agriculture And Sustainable Development",
+      "count": 1
+    },
+    {
+      "title": "Contemporary Problems Of Ecology",
+      "count": 1
+    },
+    {
+      "title": "Egyptian Journal Of Aquatic Biology And Fisheries",
+      "count": 1
+    },
+    {
+      "title": "Eph - International Journal Of Agriculture And Environmental Research",
+      "count": 1
+    },
+    {
+      "title": "Comprehensive Research And Reviews In Science And Technology",
+      "count": 1
+    },
+    {
+      "title": "Delta Journal Of Science",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Plant Studies",
+      "count": 1
+    },
+    {
+      "title": "Fisheries &Amp; Aquatic Life",
+      "count": 1
+    },
+    {
+      "title": "Environmental Microbiome",
+      "count": 1
+    },
+    {
+      "title": "Comprehensive Research And Reviews In Chemistry And Pharmacy",
+      "count": 1
+    },
+    {
+      "title": "Halophytes And Climate Change: Adaptive Mechanisms And Potential Uses",
+      "count": 1
+    },
+    {
+      "title": "Current Opinion In Biotechnology",
+      "count": 1
+    },
+    {
+      "title": "Natural Resources Conservation And Research",
+      "count": 1
+    },
+    {
+      "title": "Proceedings, Annual Meeting, Electron Microscopy Society Of America",
+      "count": 1
+    },
+    {
+      "title": "Pharmacognosy Journal",
+      "count": 1
+    },
+    {
+      "title": "The Protein Journal",
+      "count": 1
+    },
+    {
+      "title": "Food Security And Nutrition",
+      "count": 1
+    },
+    {
+      "title": "Povolzhskiy Journal Of Ecology",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Tropical Resources And Sustainable Science (Jtrss)",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Plant Biology",
+      "count": 1
+    },
+    {
+      "title": "Actual Problems Of The Modern Palynology. \u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b Xv \u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u041f\u0430\u043b\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0438, \u041f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0439 \u041f\u0430\u043c\u044f\u0442\u0438 \u0414\u043e\u043a\u0442\u043e\u0440\u0430 \u0413\u0435\u043e\u043b\u043e\u0433\u043e-\u041c\u0438\u043d\u0435\u0440\u0430\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u041d\u0430\u0443\u043a \u0412.\u0421. \u0412\u043e\u043b\u043a\u043e\u0432\u043e\u0439 \u0418 \u0414\u043e\u043a\u0442\u043e\u0440\u0430 \u0413\u0435\u043e\u043b\u043e\u0433\u043e-\u041c\u0438\u043d\u0435\u0440\u0430\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u041d\u0430\u0443\u043a \u041c.\u0412. \u041e\u0448\u0443\u0440\u043a\u043e\u0432\u043e\u0439",
+      "count": 1
+    },
+    {
+      "title": "Proceedings Of The Voronezh State University Of Engineering Technologies",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Ecology And Field Biology",
+      "count": 1
+    },
+    {
+      "title": "Sustainability &Amp; Circularity Now",
+      "count": 1
+    },
+    {
+      "title": "International Journal Of Endorsing Health Science Research",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Korean Medicine For Obesity Research",
+      "count": 1
+    },
+    {
+      "title": "Geo Data",
+      "count": 1
+    },
+    {
+      "title": "Sel'Skokhozyaistvennaya Biologiya",
+      "count": 1
+    },
+    {
+      "title": "Computers In Biology And Medicine",
+      "count": 1
+    },
+    {
+      "title": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0416\u0443\u0440\u043d\u0430\u043b",
+      "count": 1
+    },
+    {
+      "title": "Sustainable Landscape Planning And Natural Resources Management",
+      "count": 1
+    },
+    {
+      "title": "Archives Of Physiology And Biochemistry",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Applied Biological Chemistry",
+      "count": 1
+    },
+    {
+      "title": "Chemistry &Amp; Biodiversity",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Applied And Natural Science",
+      "count": 1
+    },
+    {
+      "title": "Plant Methods",
+      "count": 1
+    },
+    {
+      "title": "New Zealand Journal Of Geology And Geophysics",
+      "count": 1
+    },
+    {
+      "title": "Korean Journal Of Fisheries And Aquatic Sciences",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Ecological Engineering",
+      "count": 1
+    },
+    {
+      "title": "Separation And Purification Technology",
+      "count": 1
+    },
+    {
+      "title": "Dalat University Journal Of Science",
+      "count": 1
+    },
+    {
+      "title": "Madras Agricultural Journal",
+      "count": 1
+    },
+    {
+      "title": "Frontiers In Sustainable Food Systems",
+      "count": 1
+    },
+    {
+      "title": "Journal Of The Korean Society Of Marine Environment And Safety",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Japan Society Of Civil Engineers, Ser. B3 (Ocean Engineering)",
+      "count": 1
+    },
+    {
+      "title": "Landscape Research Japan Online",
+      "count": 1
+    },
+    {
+      "title": "Advances In Science, Technology &Amp; Innovation",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Water And Soil Science",
+      "count": 1
+    },
+    {
+      "title": "\u0414\u043e\u043a\u043b\u0430\u0434\u044b \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u041d\u0430\u0443\u043a",
+      "count": 1
+    },
+    {
+      "title": "Kuwait Journal Of Science",
+      "count": 1
+    },
+    {
+      "title": "Journal Of Agriculture And Food Research",
+      "count": 1
+    },
+    {
+      "title": "Bioinformation",
+      "count": 1
+    },
+    {
+      "title": "Ix Congress Of Society Physiologists Of Plants Of Russia \"Plant Physiology Is The Basis For Creating Plants Of The Future\"",
+      "count": 1
+    }
+  ]
+}

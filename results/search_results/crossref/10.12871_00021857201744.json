@@ -1,0 +1,123 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        18
+      ]
+    ],
+    "date-time": "2025-12-18T09:25:19Z",
+    "timestamp": 1766049919157
+  },
+  "reference-count": 0,
+  "publisher": "Pisa University Press",
+  "issue": "4",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "DOI": "10.12871/00021857201744",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        22
+      ]
+    ],
+    "date-time": "2022-02-22T17:43:40Z",
+    "timestamp": 1645551820000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Optimal soil salinity levels for the highest phytodesalination parameters in the obligate halophyte Sesuvium portulacastrum L."
+  ],
+  "prefix": "10.12871",
+  "author": [
+    {
+      "family": "Sassi, H.",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "family": "Farhat, N.",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "family": "Jendoubi, R.",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "11170",
+  "container-title": [
+    "Agrochimica"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        22
+      ]
+    ],
+    "date-time": "2022-02-22T17:45:04Z",
+    "timestamp": 1645551904000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://digital.casalini.it/10.12871/00021857201744"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "4"
+  },
+  "URL": "https://doi.org/10.12871/00021857201744",
+  "relation": {},
+  "ISSN": [
+    "0002-1857",
+    "2283-5431"
+  ],
+  "issn-type": [
+    {
+      "value": "0002-1857",
+      "type": "print"
+    },
+    {
+      "value": "2283-5431",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  }
+}

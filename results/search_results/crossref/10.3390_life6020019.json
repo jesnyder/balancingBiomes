@@ -1,0 +1,675 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T19:40:55Z",
+    "timestamp": 1760211655268,
+    "version": "build-2065373602"
+  },
+  "reference-count": 52,
+  "publisher": "MDPI AG",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            12
+          ]
+        ],
+        "date-time": "2016-05-12T00:00:00Z",
+        "timestamp": 1463011200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Life"
+  ],
+  "abstract": "<jats:p>Prof. Hans Georg Trüper, one of the most important scientists in the field of halophile research, passed away on 9 March 2016 at the age of 79. I here present a brief obituary with special emphasis on Prof. Trüper’s contributions to our understanding of the halophilic prokaryotes and their adaptations to life in hypersaline environments. He has pioneered the study of the halophilic anoxygenic phototrophic sulfur bacteria of the Ectothiorhodospira—Halorhodospira group. Some of the species he and his group isolated from hypersaline and haloalkaline environments have become model organisms for the study of the mechanisms of haloadaptation: the functions of three major organic compounds – glycine betaine, ectoine, and trehalose – known to serve as “compatible solutes” in halophilic members of the Bacteria domain, were discovered during studies of these anoxygenic phototrophs. Prof. Trüper’s studies of hypersaline alkaline environments in Egypt also led to the isolation of the first known extremely halophilic archaeon (Natronomonas pharaonis). The guest editors dedicate this special volume of Life to the memory of Prof. Hans Georg Trüper.</jats:p>",
+  "DOI": "10.3390/life6020019",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        12
+      ]
+    ],
+    "date-time": "2016-05-12T10:18:45Z",
+    "timestamp": 1463048325000
+  },
+  "page": "19",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Hans Georg Trüper (1936–2016) and His Contributions to Halophile Research"
+  ],
+  "prefix": "10.3390",
+  "volume": "6",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-5828-0995",
+      "authenticated-orcid": false,
+      "given": "Aharon",
+      "family": "Oren",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Plant and Environmental Sciences, The Alexander Silberman Institute of Life Sciences, The Hebrew University of Jerusalem, Edmond J. Safra Campus, Jerusalem 91904, Israel"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "unstructured": "Oren, A. (2016). Hans Georg Trüper—1936–2016. Int. J. Syst. Evol. Microbiol., in press."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Schink, B. (2016). Hans Georg Trüper—1936–2016. FEMS Microbiol. Lett.",
+      "DOI": "10.1093/femsle/fnw085"
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Trüper, H.G. (1964). CO2-Fixierung und Intermediärstoffwechsel bei Chromatium okenii Perty. [Ph.D. Thesis, University of Göttingen].",
+      "DOI": "10.1007/BF00510539"
+    },
+    {
+      "key": "ref_4",
+      "unstructured": "Trüper, H.G. (1971). Adenylylsulfat-Reduktase in phototrophen Bakterien. [Habilitation Thesis, University of Göttingen]."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Seckbach, J., Oren, A., and Stan-Lotter, H. (2013). Polyextremophiles—Organisms Living under Multiple Forms of Stress, Springer.",
+      "DOI": "10.1007/978-94-007-6488-0"
+    },
+    {
+      "key": "ref_6",
+      "first-page": "425",
+      "article-title": "Die bakterielle Rotfärbung der Salzseen des Wadi Natrun (Ägypten)",
+      "volume": "5",
+      "author": "Jannasch",
+      "year": "1957",
+      "journal-title": "Arch. Hydrobiol."
+    },
+    {
+      "key": "ref_7",
+      "first-page": "381",
+      "article-title": "Isolation of extremely halophilic phototrophic bacteria from the alkaline Wadi Natrun, Egypt",
+      "volume": "84",
+      "author": "Imhoff",
+      "year": "1978",
+      "journal-title": "Arch. Hydrobiol."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.1080/01490457909377733",
+      "article-title": "The Wadi Natrun: Chemical composition and microbial mass developments in alkaline brines of eutrophic desert lakes",
+      "volume": "1",
+      "author": "Imhoff",
+      "year": "1979",
+      "journal-title": "Geomicrobiol. J."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "238",
+      "DOI": "10.1007/BF00459526",
+      "article-title": "Ectothiorhodospira vacuolata sp. nov., a new phototrophic bacterium from soda lakes",
+      "volume": "130",
+      "author": "Imhoff",
+      "year": "1981",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_10",
+      "first-page": "228",
+      "article-title": "Ectothiorhodospira abdelmalekii sp. nov., a new halophilic and alkaliphilic phototrophic bacterium",
+      "volume": "2",
+      "author": "Imhoff",
+      "year": "1981",
+      "journal-title": "Zentralblatt Bakteriol. Mikrobiol. Hyg. Erste Abt. Orginale C"
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "106",
+      "DOI": "10.1007/s002030050304",
+      "article-title": "The phylogenetic relationship among Ectothiorhodospiraceae: A reevaluation of their taxonomy on the basis of 16S rDNA analyses",
+      "volume": "165",
+      "author": "Imhoff",
+      "year": "1996",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1007/BF00410772",
+      "article-title": "Ectothiorhodospira halochloris sp. nov., a new extremely halophilic phototrophic bacterium containing bacteriochlorophyll b",
+      "volume": "114",
+      "author": "Imhoff",
+      "year": "1977",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1016/S0723-2020(85)80003-5",
+      "article-title": "Osmoregulation in a new haloalkaliphilic Bacillus from the Wadi Natrun (Egypt)",
+      "volume": "6",
+      "author": "Weisser",
+      "year": "1985",
+      "journal-title": "Syst. Appl. Microbiol."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "98",
+      "DOI": "10.1099/00207713-46-1-98",
+      "article-title": "Bacillus haloalkaliphilus sp. nov.",
+      "volume": "46",
+      "author": "Fritze",
+      "year": "1996",
+      "journal-title": "Int. J. Syst. Bacteriol."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "1891",
+      "DOI": "10.1099/ijs.0.63456-0",
+      "article-title": "Reclassification of Bacillus haloalkaliphilus Fritze 1996 as Alkalibacillus haloalkaliphilus gen. nov., comb. nov. and the description of Alkalibacillus salilacus sp. nov., a novel halophilic bacterium isolated from a salt lake in China",
+      "volume": "55",
+      "author": "Jeon",
+      "year": "2005",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "ref_16",
+      "first-page": "318",
+      "article-title": "Halobacterium pharaonis sp. nov., a new, extremely haloalkaliphilic archaebacterium with low magnesium requirement",
+      "volume": "3",
+      "author": "Soliman",
+      "year": "1982",
+      "journal-title": "Zentralblatt Bakteriol. Mikrobiol. Hyg. Erste Abt. Orginale C"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "853",
+      "DOI": "10.1099/00207713-47-3-853",
+      "article-title": "Diversity of alkaliphilic halobacteria: Proposals for transfer of Natronobacterium vacuolatum, Natronobacterium magadii, and Natronobacterium pharaonis to Halorubrum, Natrialba, and Natronomonas gen. nov., respectively, as Halorubrum vacuolatum comb. nov., Natrialba magadii comb. nov., and Natronomonas pharaonis comb. nov., respectively",
+      "volume": "47",
+      "author": "Kamekura",
+      "year": "1997",
+      "journal-title": "Int. J. Syst. Bacteriol."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "357",
+      "DOI": "10.1111/j.1574-6968.1982.tb08287.x",
+      "article-title": "Betaine, a compatible solute in the extremely halophilic phototrophic bacterium Ectothiorhodospira halochloris",
+      "volume": "13",
+      "author": "Galinski",
+      "year": "1982",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1993",
+      "DOI": "10.1099/00221287-138-10-1993",
+      "article-title": "Transport of glycine betaine in the extremely haloalkaliphilic sulphur bacterium Ectothiorhodospira halochloris",
+      "volume": "138",
+      "author": "Peters",
+      "year": "1992",
+      "journal-title": "J. Gen. Microbiol."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1111/j.1432-1033.1985.tb08903.x",
+      "article-title": "1,4,5,6-tetrahydro-2-methyl-4-pyrimidinecarboxylic acid. A novel cyclic amino acid from halophilic phototrophic bacteria of the genus Ectothiorhodospira",
+      "volume": "149",
+      "author": "Galinski",
+      "year": "1985",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1111/j.1574-6968.1990.tb03815.x",
+      "article-title": "The biosynthesis of ectoine",
+      "volume": "71",
+      "author": "Peters",
+      "year": "1990",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1016/0167-7012(93)90006-4",
+      "article-title": "A modified FMOC-method for the determination of amino acid-type osmolytes and tetrahydropyrimidines (ectoines)",
+      "volume": "17",
+      "author": "Kunte",
+      "year": "1993",
+      "journal-title": "J. Microbiol. Meth."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1007/BF00871735",
+      "article-title": "Biosynthesis and function of trehalose in Ectothiorhodospira halochloris",
+      "volume": "63",
+      "author": "Lippert",
+      "year": "1993",
+      "journal-title": "Antonie Leeuwenhoek"
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "600",
+      "DOI": "10.1007/BF00245272",
+      "article-title": "Degradation of the compatible solute trehalose in Ectothiorhodospira halochloris: Isolation and characterization of trehalase",
+      "volume": "153",
+      "author": "Herzog",
+      "year": "1990",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "181",
+      "DOI": "10.1111/j.1574-6968.1990.tb03939.x",
+      "article-title": "Fate of compatible solutes during dilution stress in Ectothiorhodospira halochloris",
+      "volume": "73",
+      "author": "Tschichholz",
+      "year": "1990",
+      "journal-title": "FEMS Microbiol. Ecol."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "684",
+      "DOI": "10.1007/BF00167285",
+      "article-title": "Survival of Escherichia coli during drying and storage in the presence of compatible solutes",
+      "volume": "41",
+      "author": "Louis",
+      "year": "1994",
+      "journal-title": "Appl. Microbiol. Biotechnol."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.1111/j.1574-6968.1990.tb04098.x",
+      "article-title": "Biosynthesis and fate of compatible solutes in extremely halophilic phototrophic eubacteria",
+      "volume": "75",
+      "author": "Galinski",
+      "year": "1990",
+      "journal-title": "FEMS Microbiol. Rev."
+    },
+    {
+      "key": "ref_28",
+      "unstructured": "Cohen, Y., and Rosenberg, E. (1989). Microbial Mats. Physiological Ecology of Benthic Microbial Communities, American Society for Microbiology."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "254",
+      "DOI": "10.1007/BF00413477",
+      "article-title": "Sulfide oxidation in Ectothiorhodospira abdelmalekii. Evidence for the catalytic role of cytochrome c-551",
+      "volume": "135",
+      "author": "Then",
+      "year": "1983",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Degens, E.T., and Ross, D.A. (1969). Hot Brines and Recent Heavy Metal Deposits in the Red Sea, Springer-Verlag.",
+      "DOI": "10.1007/978-3-662-28603-6"
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1016/0005-2760(82)90091-1",
+      "article-title": "Lipid composition of six species of the phototrophic bacterial genus Ectothiorhodospira",
+      "volume": "712",
+      "author": "Asselineau",
+      "year": "1982",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "ref_32",
+      "first-page": "38",
+      "article-title": "Carotenoid composition in the genus Ectothiorhodospira Pelsh",
+      "volume": "80",
+      "author": "Schmidt",
+      "year": "1971",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1111/j.1574-6968.1990.tb03772.x",
+      "article-title": "Anaerobic growth of halophilic archaeobacteria by reduction of dimethylsulfoxide and trimethylamine N-oxide",
+      "volume": "70",
+      "author": "Oren",
+      "year": "1990",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "1182",
+      "DOI": "10.1007/BF01946388",
+      "article-title": "Concentrated brines as habitats for microorganisms",
+      "volume": "42",
+      "author": "Galinski",
+      "year": "1986",
+      "journal-title": "Experientia"
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "202",
+      "DOI": "10.1016/S0723-2020(86)80007-8",
+      "article-title": "Ecophysiology of the aerobic halophilic archaebacteria",
+      "volume": "7",
+      "author": "Tindall",
+      "year": "1986",
+      "journal-title": "Syst. Appl. Microbiol."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1111/j.1574-6976.1994.tb00128.x",
+      "article-title": "Microbial behaviour in salt-stressed ecosystems",
+      "volume": "15",
+      "author": "Galinski",
+      "year": "1994",
+      "journal-title": "FEMS Microbiol. Rev."
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rodriguez-Valera, F. (1991). General and Applied Aspects of Halophilic Microorganisms, Plenum Press.",
+      "DOI": "10.1007/978-1-4615-3730-4"
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1186/1746-1448-4-2",
+      "article-title": "Microbial life at high salt concentrations: Phylogenetic and metabolic diversity",
+      "volume": "4",
+      "author": "Oren",
+      "year": "2008",
+      "journal-title": "Saline Syst."
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.3389/fmicb.2013.00315",
+      "article-title": "Life at high salt concentrations, intracellular KCl concentrations, and acidic proteomes",
+      "volume": "4",
+      "author": "Oren",
+      "year": "2013",
+      "journal-title": "Front. Microbiol."
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "first-page": "581",
+      "DOI": "10.1074/jbc.M112.420505",
+      "article-title": "An extremely halophilic proteobacterium combines a highly acidic proteome with a low cytoplasmic potassium content",
+      "volume": "288",
+      "author": "Deole",
+      "year": "2013",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "ref_41",
+      "doi-asserted-by": "crossref",
+      "first-page": "492",
+      "DOI": "10.1099/00207713-46-2-492",
+      "article-title": "Halobacillus gen. nov., with descriptions of Halobacillus litoralis sp. nov. and Halobacillus trueperi sp. nov., and transfer of Sporosarcina halophila to Halobacillus halophilus comb. nov.",
+      "volume": "46",
+      "author": "Spring",
+      "year": "1996",
+      "journal-title": "Int. J. Syst. Bacteriol."
+    },
+    {
+      "key": "ref_42",
+      "doi-asserted-by": "crossref",
+      "first-page": "2042",
+      "DOI": "10.1099/ijs.0.008151-0",
+      "article-title": "Natronovirga wadinatrunensis gen. nov., sp. nov. and Natranaerobius trueperi sp. nov., halophilic alkalithermophilic micro-organisms from soda lakes of the Wadi An Natrun, Egypt",
+      "volume": "59",
+      "author": "Mesbah",
+      "year": "2009",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "ref_43",
+      "first-page": "231",
+      "article-title": "How to name a prokaryote? Etymological considerations, proposals and practical advice in prokaryote nomenclature",
+      "volume": "23",
+      "year": "1999",
+      "journal-title": "FEMS Microbiol. Rev."
+    },
+    {
+      "key": "ref_44",
+      "doi-asserted-by": "crossref",
+      "first-page": "2107",
+      "DOI": "10.1099/ijs.0.016741-0",
+      "article-title": "International code of nomenclature of prokaryotes. Appendix 9: Orthography",
+      "volume": "59",
+      "year": "2009",
+      "journal-title": "Int. J. Syst. Bacteriol."
+    },
+    {
+      "key": "ref_45",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1016/j.femsle.2005.05.002",
+      "article-title": "Truepera radiovictrix gen. nov., sp. nov., a new radiation resistant species and the proposal of Trueperaceae fam. nov.",
+      "volume": "247",
+      "author": "Albuquerque",
+      "year": "2005",
+      "journal-title": "FEMS Microbiol. Lett."
+    },
+    {
+      "key": "ref_46",
+      "doi-asserted-by": "crossref",
+      "first-page": "1265",
+      "DOI": "10.1099/ijs.0.020032-0",
+      "article-title": "Comparative chemotaxonomic and phylogenetic studies on the genus Arcanobacterium Collins et al. 1982 emend. Lehnen et al. 2006: Proposal for Trueperella gen. nov. and emended description of the genus Arcanobacterium",
+      "volume": "61",
+      "author": "Yassin",
+      "year": "2011",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "ref_47",
+      "doi-asserted-by": "crossref",
+      "first-page": "336",
+      "DOI": "10.1099/ijs.0.066852-0",
+      "article-title": "Hanstruepera neustonica gen. nov., sp. nov., a zeaxanthin-producing member of the family Flavobacteriaceae isolated from estuarine water, and emendation of Sediminibacter furfurosus Khan et al. 2007 emend. Kwon et al. 2014, Mangrovimonas yunxiaonensis Li et al. 2013, Antarcticimonas flava Yang et al. 2009 and Hoppeia youngheungensis Kwonm et al. 2014",
+      "volume": "65",
+      "author": "Hameed",
+      "year": "2015",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "ref_48",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1007/s002030050467",
+      "article-title": "Rhodospira trueperi gen. nov., sp. nov., a new phototrophic proteobacterium of the alpha group",
+      "volume": "168",
+      "author": "Pfennig",
+      "year": "1997",
+      "journal-title": "Arch. Microbiol."
+    },
+    {
+      "key": "ref_49",
+      "doi-asserted-by": "crossref",
+      "first-page": "671",
+      "DOI": "10.1099/00207713-52-2-671",
+      "article-title": "Thiobaca trueperi gen. nov., sp. nov., a phototrophic purple sulfur bacterium isolated from freshwater lake sediment",
+      "volume": "52",
+      "author": "Rees",
+      "year": "2002",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    },
+    {
+      "key": "ref_50",
+      "doi-asserted-by": "crossref",
+      "first-page": "577",
+      "DOI": "10.1099/00207713-47-2-577",
+      "article-title": "Classification of “Pseudomonas azotocolligans” Anderson 1955, 132, in the genus Sphingomonas as Sphingomonas trueperi sp. nov.",
+      "volume": "47",
+      "author": "Denner",
+      "year": "1997",
+      "journal-title": "Int. J. Syst. Bacteriol."
+    },
+    {
+      "key": "ref_51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ventosa, A. (2004). Halophilic Microorganisms, Springer-Verlag.",
+      "DOI": "10.1007/978-3-662-07656-9"
+    },
+    {
+      "key": "ref_52",
+      "doi-asserted-by": "crossref",
+      "first-page": "647",
+      "DOI": "10.1099/ijs.0.012740-0",
+      "article-title": "Hans Georg Trüper, life member of the ICSP—An appreciation",
+      "volume": "59",
+      "author": "Tindall",
+      "year": "2009",
+      "journal-title": "Int. J. Syst. Evol. Microbiol."
+    }
+  ],
+  "container-title": [
+    "Life"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2075-1729/6/2/19/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T19:23:43Z",
+    "timestamp": 1760210623000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2075-1729/6/2/19"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        12
+      ]
+    ]
+  },
+  "references-count": 52,
+  "journal-issue": {
+    "issue": "2",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "life6020019"
+  ],
+  "URL": "https://doi.org/10.3390/life6020019",
+  "relation": {},
+  "ISSN": [
+    "2075-1729"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2075-1729"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        12
+      ]
+    ]
+  }
+}

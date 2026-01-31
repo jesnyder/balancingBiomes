@@ -1,0 +1,165 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        20
+      ]
+    ],
+    "date-time": "2024-02-20T23:44:38Z",
+    "timestamp": 1708472678728
+  },
+  "reference-count": 0,
+  "publisher": "Oriental Scientific Publishing Company",
+  "issue": "3",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Biosci., Biotechnol. Res. Asia"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        30
+      ]
+    ]
+  },
+  "DOI": "10.13005/bbra/1516",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2015-03-04T07:04:36Z",
+    "timestamp": 1425452676000
+  },
+  "page": "1273-1282",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Polyhydroxybutyrate (PHB) Production and Mutagenesis of Halophile isolates from the East African Rift Salt Lake"
+  ],
+  "prefix": "10.13005",
+  "volume": "11",
+  "author": [
+    {
+      "given": "Saidu M",
+      "family": "Bashir",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Madhuri",
+      "family": "Girdhar",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Hasibur",
+      "family": "Rehman",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Anand",
+      "family": "Mohan",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "5186",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        30
+      ]
+    ]
+  },
+  "container-title": [
+    "Biosciences Biotechnology Research Asia"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2015-03-04T07:05:04Z",
+    "timestamp": 1425452704000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.biotech-asia.org/absdoic.php?snoid=1516"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        30
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          30
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          30
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.13005/bbra/1516",
+  "relation": {},
+  "ISSN": [
+    "0973-1245"
+  ],
+  "issn-type": [
+    {
+      "value": "0973-1245",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        30
+      ]
+    ]
+  }
+}

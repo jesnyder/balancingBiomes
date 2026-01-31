@@ -1,0 +1,283 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        25
+      ]
+    ],
+    "date-time": "2025-03-25T14:44:42Z",
+    "timestamp": 1742913882943,
+    "version": "3.40.3"
+  },
+  "publisher-location": "New York, NY",
+  "reference-count": 21,
+  "publisher": "Springer New York",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9781461485810"
+    },
+    {
+      "type": "electronic",
+      "value": "9781461485827"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2013-11-02T00:00:00Z",
+        "timestamp": 1383350400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2013-11-02T00:00:00Z",
+        "timestamp": 1383350400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-1-4614-8582-7_16",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2013-11-01T16:52:04Z",
+    "timestamp": 1383324724000
+  },
+  "page": "343-371",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Economic Sustainability for Halophyte Cash Farms in Urban Environments"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Paul",
+      "family": "Bierman-Lytle",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        11,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "16_CR1",
+      "unstructured": "Baumgartner S, Quaas MF (2009) What is sustainability economics? University of Luneburg, Working Paper Series in Economics 138"
+    },
+    {
+      "key": "16_CR2",
+      "unstructured": "Bierman-Lytle PW (2012) Site evaluation and selection for UNESCO cash farm prototype. Powerpoint presented to Abu Dhabi Tourism Authority, Abu Dhabi"
+    },
+    {
+      "key": "16_CR3",
+      "unstructured": "Bierman-Lytle PW (2012) Al Qurm Eco Campsites for Abu Dhabi, feasibility and site assessment. Presented to Abu Dhabi Tourism Authority, Abu Dhabi"
+    },
+    {
+      "key": "16_CR4",
+      "unstructured": "Bierman-Lytle PW (2012) Pangaeon Parks ‘ASEEL’ Eco Sports Park, feasibility and site assessment. Presented to Abu Dhabi Tourism Authority, Abu Dhabi"
+    },
+    {
+      "key": "16_CR5",
+      "unstructured": "Bierman-Lytle PW (2012) Abratour solar-powered ferry network, feasibility and route assessment. Presented to Abu Dhabi Tourism Authority, Abu Dhabi"
+    },
+    {
+      "key": "16_CR6",
+      "unstructured": "Böer B, Al Abdessalaam TZ, Khan A, Koyro H-W, Marcum K (2012) UNESCO proposal. Environmentally friendly farm for cash crop halophytes and biodiversity conservation. UNESCO draft proposal, pp 6, 9–10, 29–30,"
+    },
+    {
+      "key": "16_CR7",
+      "unstructured": "Bokaie M (2012) President, BORM Technologies, Conversations and discussions relative to solid waste conversion technology. Dubai"
+    },
+    {
+      "key": "16_CR8",
+      "unstructured": "Brown L (ed) (1993) Dictionary, definition of ‘halophile’ (halophyte). The New Shorter Oxford English Dictionary, Clarendon Press, Oxford, p 1178"
+    },
+    {
+      "key": "16_CR9",
+      "first-page": "3",
+      "volume-title": "Halophytes and biosaline agriculture",
+      "year": "1996",
+      "unstructured": "Choukr-Allah R, Malcolm CV, Hamdy A (eds) (1996) Halophytes and biosaline agriculture. Marcel Dekker, Inc., New York, pp 3–17"
+    },
+    {
+      "key": "16_CR10",
+      "unstructured": "Daly HE (1999) Ecological economics and the ecology of economics; essays in criticism. Edward Elgar Publishers"
+    },
+    {
+      "key": "16_CR11",
+      "unstructured": "Hawken P, Lovins A, Lovins LH (1999) Natural capitalism: creating the next industrial revolution. Little Brown & Company, New York"
+    },
+    {
+      "key": "16_CR12",
+      "unstructured": "Neomar (2012) Integrated marine aquaculture with halophytes. DBU Project AZ 27708: Biological wastewater treatment in land-based marine circulation systems through the integrated culture of halophytes. Neomar, Denmark"
+    },
+    {
+      "key": "16_CR13",
+      "unstructured": "Neuschafer P (2012) Founder/director, TerraSave, Conversations and discussions relative to TerraSave ecological wastewater treatment technology. Dubai"
+    },
+    {
+      "key": "16_CR14",
+      "unstructured": "Sahara Forest Project (2012a) Greening the Desert, projects in Jordan and Qatar. http://saharaforestproject.com/. Accessed 31 July 2013"
+    },
+    {
+      "key": "16_CR15",
+      "unstructured": "Sahara Forest Project (2012b) Qatar Folder, An information folder about The Sahara Forest Project Pilot Facility in Qatar. http://saharaforestproject.com/. Accessed 31 July 2013"
+    },
+    {
+      "key": "16_CR16",
+      "unstructured": "Sahara Forest Project (2012c) Jordan Folder, An information folder about The Sahara Forest Project in Jordan, http://saharaforestproject.com/. Accessed 31 July 2013"
+    },
+    {
+      "key": "16_CR17",
+      "unstructured": "Salvadore S (2012) Conversations and discussions relative to Green Precast advantages and disadvantages. MENA region director. Abu Dhabi, UAE"
+    },
+    {
+      "key": "16_CR18",
+      "volume-title": "Ecological economics",
+      "author": "P Soerbaum",
+      "year": "2000",
+      "unstructured": "Soerbaum P (2000) Ecological economics. Earthscan Publications Ltd, UK"
+    },
+    {
+      "key": "16_CR19",
+      "unstructured": "Sustainable Bioenergy Research Project (2012) Biofuels for Aerospace Industry, Masdar Institute of Science & Technology, Abu Dhabi, UAE"
+    },
+    {
+      "key": "16_CR20",
+      "unstructured": "United States Green Building Council (2012) Advocacy: Resiliency section of USGBC. www.usgbc.org/advocacy. Accessed 31 July 2013"
+    },
+    {
+      "key": "16_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "81",
+      "DOI": "10.1016/S0921-8009(02)00048-4",
+      "volume": "42",
+      "author": "GR Walter",
+      "year": "2002",
+      "unstructured": "Walter GR (2002) Economics, ecology-based communities, and sustainability. Ecol Econ 42:81–87",
+      "journal-title": "Ecol Econ"
+    }
+  ],
+  "container-title": [
+    "Mangrove Ecosystems of Asia"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-1-4614-8582-7_16",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        24
+      ]
+    ],
+    "date-time": "2023-01-24T03:23:36Z",
+    "timestamp": 1674530616000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-1-4614-8582-7_16"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        11,
+        2
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781461485810",
+    "9781461485827"
+  ],
+  "references-count": 21,
+  "URL": "https://doi.org/10.1007/978-1-4614-8582-7_16",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        11,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2 November 2013",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    }
+  ]
+}

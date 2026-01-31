@@ -1,0 +1,146 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        11
+      ]
+    ],
+    "date-time": "2024-02-11T11:59:00Z",
+    "timestamp": 1707652740104
+  },
+  "publisher": "Fundacao para a Ciencia e a Tecnologia (unidadeFCCN)",
+  "award-start": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        1
+      ]
+    ]
+  },
+  "award": "2021.06747.BD",
+  "DOI": "10.54499/2021.06747.bd",
+  "type": "grant",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2024-02-09T09:16:54Z",
+    "timestamp": 1707470214000
+  },
+  "source": "Crossref",
+  "prefix": "10.54499",
+  "member": "31773",
+  "project": [
+    {
+      "project-title": [
+        {
+          "title": "Exploring the phylogenetic and functional diversity of the halophyte mycobiome",
+          "language": "en"
+        },
+        {
+          "title": "Exploring the phylogenetic and functional diversity of the halophyte mycobiome",
+          "language": "pt"
+        }
+      ],
+      "investigator": [
+        {
+          "given": "Cristina",
+          "family": "Sofia Fernandes Torcato",
+          "alternate-name": [
+            "Cristina Sofia Fernandes Torcato"
+          ],
+          "affiliation": []
+        }
+      ],
+      "lead-investigator": [
+        {
+          "given": "Cristina",
+          "family": "Sofia Fernandes Torcato",
+          "alternate-name": [
+            "Cristina Sofia Fernandes Torcato"
+          ],
+          "affiliation": []
+        }
+      ],
+      "award-amount": {
+        "amount": 40540.28,
+        "currency": "EUR"
+      },
+      "award-start": {
+        "date-parts": [
+          [
+            2021,
+            11,
+            1
+          ]
+        ]
+      },
+      "award-end": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            31
+          ]
+        ]
+      },
+      "funding": [
+        {
+          "type": "grant",
+          "scheme": "FCT",
+          "award-amount": {
+            "amount": 40540.28,
+            "currency": "EUR",
+            "percentage": null
+          },
+          "funder": {
+            "id": [
+              {
+                "id": "10.13039/501100001871",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Fundação para a Ciência e a Tecnologia"
+          }
+        }
+      ]
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2024-02-09T09:16:54Z",
+    "timestamp": 1707470214000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://sciproj.ptcris.pt/80979DFA"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        1
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.54499/2021.06747.bd",
+  "relation": {},
+  "subject": []
+}

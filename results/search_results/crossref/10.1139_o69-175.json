@@ -1,0 +1,171 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        29
+      ]
+    ],
+    "date-time": "2025-10-29T18:35:12Z",
+    "timestamp": 1761762912883
+  },
+  "reference-count": 0,
+  "publisher": "Canadian Science Publishing",
+  "issue": "12",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1969,
+            12,
+            1
+          ]
+        ],
+        "date-time": "1969-12-01T00:00:00Z",
+        "timestamp": -2678400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Can. J. Biochem."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1969,
+        12,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p> A method of assay and a partial purification of the aspartate transcarbamylase of the extreme halophile Halobacterium cutirubrum have been presented. Activity was dependent on high salt concentration, optimal activity requiring 3–4 M NaCl or KCl. The enzyme was highly sensitive to retroinhibition by cytidine triphosphate; inhibition was also dependent on high salt concentration, but was independent of temperature of assay. The regulatory site was more resistant to heat inactivation than was the activity, unlike other bacterial and fungal aspartate transcarbamylases. Kinetics were Michaelian with respect to the substrates and to the inhibitor; there was no evidence of cooperative interactions. </jats:p>",
+  "DOI": "10.1139/o69-175",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2009,
+        12,
+        17
+      ]
+    ],
+    "date-time": "2009-12-17T22:11:38Z",
+    "timestamp": 1261087898000
+  },
+  "page": "1095-1097",
+  "source": "Crossref",
+  "is-referenced-by-count": 25,
+  "title": [
+    "Regulation of a salt-dependent enzyme: the aspartate transcarbamylase of an extreme halophile"
+  ],
+  "prefix": "10.1139",
+  "volume": "47",
+  "author": [
+    {
+      "given": "V.",
+      "family": "Liebl",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "J. G.",
+      "family": "Kaplan",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "D. J.",
+      "family": "Kushner",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "155",
+  "container-title": [
+    "Canadian Journal of Biochemistry"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/o69-175",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        6
+      ]
+    ],
+    "date-time": "2020-01-06T00:07:30Z",
+    "timestamp": 1578269250000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.nrcresearchpress.com/doi/10.1139/o69-175"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1969,
+        12,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "12",
+    "published-print": {
+      "date-parts": [
+        [
+          1969,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1139/o69-175"
+  ],
+  "URL": "https://doi.org/10.1139/o69-175",
+  "relation": {},
+  "ISSN": [
+    "0008-4018"
+  ],
+  "issn-type": [
+    {
+      "value": "0008-4018",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1969,
+        12,
+        1
+      ]
+    ]
+  }
+}

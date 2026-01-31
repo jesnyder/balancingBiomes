@@ -1,0 +1,372 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        27
+      ]
+    ],
+    "date-time": "2025-09-27T22:12:28Z",
+    "timestamp": 1759011148922
+  },
+  "reference-count": 31,
+  "publisher": "Microbiology Society",
+  "issue": "11",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1099/ijsem.0.003025",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        20
+      ]
+    ],
+    "date-time": "2018-09-20T08:12:42Z",
+    "timestamp": 1537431162000
+  },
+  "page": "3534-3539",
+  "source": "Crossref",
+  "is-referenced-by-count": 13,
+  "title": [
+    "Marinobacter bohaiensis sp. nov., a moderate halophile isolated from benthic sediment of the Bohai Sea"
+  ],
+  "prefix": "10.1099",
+  "volume": "68",
+  "author": [
+    {
+      "given": "Shanshan",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "1​Key Laboratory of Marine Drugs, Ministry of Education, School of Medicine and Pharmacy, Ocean University of China, Qingdao 266003, PR China"
+        }
+      ]
+    },
+    {
+      "given": "Dandan",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "1​Key Laboratory of Marine Drugs, Ministry of Education, School of Medicine and Pharmacy, Ocean University of China, Qingdao 266003, PR China"
+        },
+        {
+          "name": "2​Life Science College, Qingdao University, Qingdao 266071, PR China"
+        }
+      ]
+    },
+    {
+      "given": "Yuxi",
+      "family": "Wei",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "2​Life Science College, Qingdao University, Qingdao 266071, PR China"
+        }
+      ]
+    },
+    {
+      "given": "Qiu",
+      "family": "Cui",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "3​Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Science, Qingdao 266101, PR China"
+        }
+      ]
+    },
+    {
+      "given": "Wenli",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "1​Key Laboratory of Marine Drugs, Ministry of Education, School of Medicine and Pharmacy, Ocean University of China, Qingdao 266003, PR China"
+        },
+        {
+          "name": "4​Laboratory for Marine Drugs and Bioproducts of Qingdao National Laboratory for Marine Science and Technology, Qingdao 266237, PR China"
+        }
+      ]
+    }
+  ],
+  "member": "345",
+  "reference": [
+    {
+      "key": "R1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/00207713-42-4-568"
+    },
+    {
+      "key": "R2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijsem.0.000722"
+    },
+    {
+      "key": "R3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijs.0.000218"
+    },
+    {
+      "key": "R4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijsem.0.000659"
+    },
+    {
+      "key": "R5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/00207713-49-2-367"
+    },
+    {
+      "key": "R6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijs.0.008896-0"
+    },
+    {
+      "key": "R7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijsem.0.001984"
+    },
+    {
+      "key": "R8",
+      "first-page": "19",
+      "article-title": "Sampling and staining for light microscopy",
+      "volume-title": "Methods for General and Molecular Microbiology",
+      "author": "Beveridge",
+      "year": "2007"
+    },
+    {
+      "key": "R9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijs.0.000071"
+    },
+    {
+      "key": "R10",
+      "first-page": "330",
+      "article-title": "Phenotypic characterization and the principles of comparative systematics",
+      "volume-title": "Methods for General and Molecular Microbiology",
+      "author": "Tindall",
+      "year": "2007"
+    },
+    {
+      "key": "R11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0195-6701(93)90067-A"
+    },
+    {
+      "key": "R12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/S0580-9517(08)70407-0",
+      "article-title": "Classical and rapid identification methods for medically important bacteria",
+      "volume": "19",
+      "author": "Lanyi",
+      "year": "1988",
+      "journal-title": "Method Microbiol"
+    },
+    {
+      "key": "R13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijs.0.63478-0"
+    },
+    {
+      "key": "R14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijs.0.65030-0"
+    },
+    {
+      "key": "R15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1099/ijsem.0.001755"
+    },
+    {
+      "key": "R16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/25.24.4876"
+    },
+    {
+      "key": "R17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/oxfordjournals.molbev.a040454"
+    },
+    {
+      "key": "R18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/sysbio/20.4.406"
+    },
+    {
+      "key": "R19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/mst197"
+    },
+    {
+      "key": "R20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+    },
+    {
+      "key": "R21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.097261.109"
+    },
+    {
+      "key": "R22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/bioinformatics/btn025"
+    },
+    {
+      "key": "R23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10482-017-0844-4"
+    },
+    {
+      "key": "R24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/1471-2105-14-60"
+    },
+    {
+      "key": "R25",
+      "volume-title": "Identification of Bacteria by Gas Chromatography of Cellular Fatty Acids",
+      "author": "Sasser",
+      "year": "1990"
+    },
+    {
+      "key": "R26",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1016/S0580-9517(08)70410-0",
+      "article-title": "4 Lipid and cell-wall analysis in bacterial systematics",
+      "volume": "19",
+      "author": "Komagata",
+      "year": "1988",
+      "journal-title": "Method Microbiol"
+    },
+    {
+      "key": "R27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0167-7012(84)90018-6"
+    },
+    {
+      "key": "R28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00414552"
+    },
+    {
+      "key": "R29",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1016/S0580-9517(08)70410-0",
+      "article-title": "4 Lipid and cell-wall analysis in bacterial systematics",
+      "volume": "19",
+      "author": "Komagata",
+      "year": "1987",
+      "journal-title": "Method Microbiol"
+    },
+    {
+      "key": "R30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1574-6968.1984.tb01388.x"
+    },
+    {
+      "key": "R31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/29.12.2607"
+    }
+  ],
+  "container-title": [
+    "International Journal of Systematic and Evolutionary Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003025?crawler=true",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2019-08-12T17:12:56Z",
+    "timestamp": 1565629976000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003025"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        1
+      ]
+    ]
+  },
+  "references-count": 31,
+  "journal-issue": {
+    "issue": "11",
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1099/ijsem.0.003025",
+  "relation": {},
+  "ISSN": [
+    "1466-5026",
+    "1466-5034"
+  ],
+  "issn-type": [
+    {
+      "value": "1466-5026",
+      "type": "print"
+    },
+    {
+      "value": "1466-5034",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        1
+      ]
+    ]
+  }
+}

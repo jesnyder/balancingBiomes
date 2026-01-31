@@ -1,0 +1,170 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        31
+      ]
+    ],
+    "date-time": "2022-03-31T22:36:34Z",
+    "timestamp": 1648766194474
+  },
+  "reference-count": 0,
+  "publisher": "Canadian Science Publishing",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1978,
+            6,
+            1
+          ]
+        ],
+        "date-time": "1978-06-01T00:00:00Z",
+        "timestamp": 265507200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Can. J. Microbiol."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1978,
+        6,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p> Flocculation of a moderate halophile, Micrococcus varians ATCC 21971, occurred during growth in complex medium containing 3 M NaCl and a concentration of MgSO<jats:sub>4</jats:sub> and KH<jats:sub>2</jats:sub>PO<jats:sub>4</jats:sub> greater than 40 and 14 mM, respectively. Extracellular nuclease activity was absent in the flocculated cultures. Repeated washing of flocs by Mg<jats:sup>2+</jats:sup>-free Tris buffer containing 3 M NaCl, lowering of pH value of floc suspension below 6.3, or addition of ethylenediaminetetraacetic acid resulted in complete dissociation of the flocs and release of Mg<jats:sup>2+</jats:sup> ions as well as nuclease and amylase. Inhibition of extracellular enzyme production accompanied by flocculation appeared to be the result of adsorption of enzyme proteins to surfaces of the flocs, but not of inhibition of biosynthesis. Floc formation could also occur in media containing 18 mM CaCl<jats:sub>2</jats:sub> and 3.0 mM KH<jats:sub>2</jats:sub>PO<jats:sub>4</jats:sub>, but the Ca flocs were not deflocculated by washing with Ca<jats:sup>2+</jats:sup>-free buffer, suggesting that the affinity of Ca<jats:sup>2+</jats:sup> for cell envelopes was stronger than that of Mg<jats:sup>2+</jats:sup>. It was also observed that most halophilic Planococcus and Micrococcus flocculated in the presence of MgSO<jats:sub>4</jats:sub> and phosphate but halophilic Pseudomonas, Acinetobacter, and Bacillus did not. </jats:p>",
+  "DOI": "10.1139/m78-118",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2010,
+        4,
+        30
+      ]
+    ],
+    "date-time": "2010-04-30T15:17:28Z",
+    "timestamp": 1272640648000
+  },
+  "page": "703-709",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Flocculation and adsorption of enzymes during growth of a moderate halophile, <i>Micrococcus varians</i> var. <i>Halophilus</i>"
+  ],
+  "prefix": "10.1139",
+  "volume": "24",
+  "author": [
+    {
+      "given": "Masahiro",
+      "family": "Kamekura",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Hiroshi",
+      "family": "Onishi",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "155",
+  "container-title": [
+    "Canadian Journal of Microbiology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/m78-118",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        6
+      ]
+    ],
+    "date-time": "2020-01-06T00:07:23Z",
+    "timestamp": 1578269243000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.nrcresearchpress.com/doi/10.1139/m78-118"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1978,
+        6,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1139/m78-118"
+  ],
+  "URL": "https://doi.org/10.1139/m78-118",
+  "relation": {},
+  "ISSN": [
+    "0008-4166",
+    "1480-3275"
+  ],
+  "issn-type": [
+    {
+      "value": "0008-4166",
+      "type": "print"
+    },
+    {
+      "value": "1480-3275",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1978,
+        6,
+        1
+      ]
+    ]
+  }
+}

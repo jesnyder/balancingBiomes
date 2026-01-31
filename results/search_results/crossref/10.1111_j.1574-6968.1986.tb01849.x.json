@@ -1,0 +1,229 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        29
+      ]
+    ],
+    "date-time": "2022-03-29T19:39:56Z",
+    "timestamp": 1648582796466
+  },
+  "reference-count": 7,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "1-2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        1986,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1111/j.1574-6968.1986.tb01849.x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2006-03-27T18:46:14Z",
+    "timestamp": 1143485174000
+  },
+  "page": "103-107",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "title": [
+    "Cell envelope phospholipid changes in a moderate halophile during phenotypic adaptation to altered salinity and osmotic stress"
+  ],
+  "prefix": "10.1093",
+  "volume": "39",
+  "author": [
+    {
+      "given": "N.J.",
+      "family": "Russell",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "R.",
+      "family": "Adams",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "J.",
+      "family": "Bygraves",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "M.",
+      "family": "Kogut",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "286",
+  "reference": [
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB1",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1139/m70-047",
+      "article-title": "Nutrition and distribution of salt response in populations of moderately halophilic bacteria",
+      "volume": "16",
+      "author": "Forsyth",
+      "year": "1970",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB2",
+      "first-page": "345",
+      "article-title": "Haloadaptation: salt sensing and cell-envelope changes",
+      "volume": "2",
+      "author": "Russell",
+      "year": "1985",
+      "journal-title": "Microbiol. Sci."
+    },
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB3",
+      "doi-asserted-by": "crossref",
+      "first-page": "669",
+      "DOI": "10.1139/m84-100",
+      "article-title": "The effect of salt concentration on the phospholipid and fatty acid composition of the moderate halophile Vibrio costicola",
+      "volume": "30",
+      "author": "Hanna",
+      "year": "1984",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB4",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1111/j.1574-6968.1986.tb01848.x",
+      "article-title": "Influence of salt concentration on membrane lipids of halophilic bacteria",
+      "volume": "39",
+      "author": "Kates",
+      "year": "1986",
+      "journal-title": "FEMS Microbiol. Rev."
+    },
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB5",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1007/BF01575766",
+      "article-title": "The growth and phospholipid composition of a moderately halophilic bacterium during adaptation to changes in salinity",
+      "volume": "10",
+      "author": "Kogut",
+      "year": "1984",
+      "journal-title": "Curr. Microbiol."
+    },
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB6",
+      "first-page": "781",
+      "article-title": "Phospholipid synthesis in the moderately halophilic bacterium Vibrio costicola during adaptation to changing salt concentrations",
+      "volume": "131",
+      "author": "Russell",
+      "year": "1985",
+      "journal-title": "J. Gen. Microbiol."
+    },
+    {
+      "key": "10.1111/j.1574-6968.1986.tb01849.x-BIB7",
+      "doi-asserted-by": "crossref",
+      "first-page": "614",
+      "DOI": "10.1128/MMBR.42.3.614-659.1978",
+      "article-title": "Enzymology, genetics and regulation of membrane phospholipid synthesis in Escherichia coli",
+      "volume": "42",
+      "author": "Raetz",
+      "year": "1978",
+      "journal-title": "Microbiol. Rev."
+    }
+  ],
+  "container-title": [
+    "FEMS Microbiology Letters"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://academic.oup.com/femsre/article-pdf/2/1-2/103/18129525/2-1-2-103.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2020-04-13T11:04:04Z",
+    "timestamp": 1586775844000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/femsre/article-lookup/doi/10.1111/j.1574-6968.1986.tb01849.x"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1986,
+        7
+      ]
+    ]
+  },
+  "references-count": 7,
+  "journal-issue": {
+    "issue": "1-2",
+    "published-print": {
+      "date-parts": [
+        [
+          1986,
+          7
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1111/j.1574-6968.1986.tb01849.x",
+  "relation": {},
+  "ISSN": [
+    "0378-1097",
+    "1574-6968"
+  ],
+  "issn-type": [
+    {
+      "value": "0378-1097",
+      "type": "print"
+    },
+    {
+      "value": "1574-6968",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1986,
+        7
+      ]
+    ]
+  }
+}

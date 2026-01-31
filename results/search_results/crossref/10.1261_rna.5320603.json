@@ -1,0 +1,340 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        13
+      ]
+    ],
+    "date-time": "2023-09-13T16:11:23Z",
+    "timestamp": 1694621483141
+  },
+  "reference-count": 31,
+  "publisher": "Cold Spring Harbor Laboratory",
+  "issue": "7",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "RNA"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2003,
+        7
+      ]
+    ]
+  },
+  "abstract": "<jats:p>The extreme halophile <jats:italic>Halobacterium species NRC-1</jats:italic> overcomes external near-saturating salt concentrations by accumulating intracellular salts comparable to those of the medium. This raises the fundamental question of how halophiles can maintain the specificity of protein–nucleic acid interactions that are particularly sensitive to high salts in mesophiles. Here we address the specificity of the essential aminoacylation reaction of the halophile, by focusing on molecular recognition of tRNA<jats:sup>Cys</jats:sup> by the cognate cysteinyl-tRNA synthetase. Despite the high salt environments of the aminoacylation reaction, and despite an unusual structure of the tRNA with an exceptionally large dihydrouridine loop, we show that aminoacylation of the tRNA proceeds with a catalytic efficiency similar to that of its mesophilic counterparts. This is manifested by an essentially identical <jats:italic>K</jats:italic><jats:sub>m</jats:sub> for tRNA to those of the mesophiles, and by recognition of the same nucleotide determinants that are conserved in evolution. Interestingly, aminoacylation of the halophile tRNA<jats:sup>Cys</jats:sup> is more closely related to that of bacteria than eukarya by placing a strong emphasis on features of the tRNA tertiary core. This suggests an adaptation to the highly negatively charged tRNA sugar-phosphate backbone groups that are the key elements of the tertiary core.</jats:p>",
+  "DOI": "10.1261/rna.5320603",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2003,
+        6,
+        16
+      ]
+    ],
+    "date-time": "2003-06-16T19:39:13Z",
+    "timestamp": 1055792353000
+  },
+  "page": "794-801",
+  "source": "Crossref",
+  "is-referenced-by-count": 6,
+  "title": [
+    "Aminoacylation of an unusual tRNA<sup>Cys</sup> from an extreme halophile"
+  ],
+  "prefix": "10.1261",
+  "volume": "9",
+  "author": [
+    {
+      "given": "CARYN",
+      "family": "EVILIA",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "XIAOTIAN",
+      "family": "MING",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "SHILADITYA",
+      "family": "DASSARMA",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "YA-MING",
+      "family": "HOU",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "246",
+  "published-online": {
+    "date-parts": [
+      [
+        2003,
+        7,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2021112105333694000_9.7.794.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "151",
+      "DOI": "10.3109/10408417809090622",
+      "volume": "6",
+      "year": "1978",
+      "journal-title": "CRC Crit. Rev. Microbiol."
+    },
+    {
+      "key": "2021112105333694000_9.7.794.2",
+      "doi-asserted-by": "crossref",
+      "first-page": "629",
+      "DOI": "10.1016/S0969-2126(02)00749-9",
+      "volume": "10",
+      "year": "2002",
+      "journal-title": "Structure"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jmbi.2000.4169"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi00805a005"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.5",
+      "first-page": "399",
+      "volume": "382",
+      "year": "2001",
+      "journal-title": "Biol. Chem."
+    },
+    {
+      "key": "2021112105333694000_9.7.794.6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi00672a001"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/26.22.5017"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.8",
+      "doi-asserted-by": "crossref",
+      "first-page": "9461",
+      "DOI": "10.1016/S0021-9258(17)42723-2",
+      "volume": "259",
+      "year": "1984",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "2021112105333694000_9.7.794.9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0022-2836(92)90504-D"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi00019a034"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi970517w"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jmbi.1999.3353"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.90.14.6776"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/27.24.4743"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.biochem.69.1.617"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.190201"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi00080a014"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0076-6879(87)54085-X"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.95.23.13495"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/bi9527606"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S1369-5274(99)80046-0"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0301-4622(00)00126-5"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022-2836(02)00232-2"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/emboj/21.11.2778"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.190337797"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0969-2126(99)80021-5"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-2958.2000.01739.x"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jmbi.2000.3749"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/26.1.148"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/prep.1999.1110"
+    },
+    {
+      "key": "2021112105333694000_9.7.794.31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022-2836(02)00916-6"
+    }
+  ],
+  "container-title": [
+    "RNA"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://syndication.highwire.org/content/doi/10.1261/rna.5320603",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        21
+      ]
+    ],
+    "date-time": "2021-11-21T13:35:03Z",
+    "timestamp": 1637501703000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://rnajournal.cshlp.org/lookup/doi/10.1261/rna.5320603"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2003,
+        7
+      ]
+    ]
+  },
+  "references-count": 31,
+  "journal-issue": {
+    "issue": "7",
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1261/rna.5320603"
+  ],
+  "URL": "https://doi.org/10.1261/rna.5320603",
+  "relation": {},
+  "ISSN": [
+    "1355-8382",
+    "1469-9001"
+  ],
+  "issn-type": [
+    {
+      "value": "1355-8382",
+      "type": "print"
+    },
+    {
+      "value": "1469-9001",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2003,
+        7
+      ]
+    ]
+  }
+}

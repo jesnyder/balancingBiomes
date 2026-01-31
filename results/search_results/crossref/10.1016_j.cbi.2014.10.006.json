@@ -1,0 +1,1042 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        31
+      ]
+    ],
+    "date-time": "2025-10-31T22:00:12Z",
+    "timestamp": 1761948012247,
+    "version": "3.44.0"
+  },
+  "reference-count": 76,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2015-01-01T00:00:00Z",
+        "timestamp": 1420070400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2015-01-01T00:00:00Z",
+        "timestamp": 1420070400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100015617",
+      "name": "Research Center for Pharmaceutical Nanotechnology",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100015617",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Chemico-Biological Interactions"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.cbi.2014.10.006",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        10,
+        16
+      ]
+    ],
+    "date-time": "2014-10-16T21:18:43Z",
+    "timestamp": 1413494323000
+  },
+  "page": "80-89",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "special_numbering": "C",
+  "title": [
+    "Quaternary ammonium salt containing soybean oil: An efficient nanosize gene delivery carrier for halophile green microalgal transformation"
+  ],
+  "prefix": "10.1016",
+  "volume": "225",
+  "author": [
+    {
+      "given": "Fariba",
+      "family": "Akbari",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Ahmad",
+      "family": "Yari Khosroushahi",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Hamid",
+      "family": "Yeganeh",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "629",
+      "DOI": "10.1007/s00299-005-0004-6",
+      "article-title": "Microalgae as bioreactors",
+      "volume": "24",
+      "author": "Walker",
+      "year": "2005",
+      "journal-title": "Plant Cell Rep."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "3427",
+      "DOI": "10.1007/s11033-009-9933-4",
+      "article-title": "Dunaliella as an attractive candidate for molecular farming",
+      "volume": "37",
+      "author": "Barzegari",
+      "year": "2010",
+      "journal-title": "Mol. Biol. Rep."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "1163",
+      "DOI": "10.1007/s00253-007-0844-9",
+      "article-title": "Outdoor cultivation of microalgae for carotenoid production: current state and perspectives",
+      "volume": "74",
+      "author": "Del Campo",
+      "year": "2007",
+      "journal-title": "Appl. Microbiol. Biotechnol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "625",
+      "DOI": "10.3390/md9040625",
+      "article-title": "Microalgae as sources of carotenoids",
+      "volume": "9",
+      "author": "Guedes",
+      "year": "2011",
+      "journal-title": "Mar. Drugs"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "910",
+      "DOI": "10.1016/j.biotechadv.2010.08.006",
+      "article-title": "Strategies for high-level recombinant protein expression in transgenic microalgae: a review",
+      "volume": "28",
+      "author": "Potvin",
+      "year": "2010",
+      "journal-title": "Biotechnol. Adv."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "554",
+      "DOI": "10.1016/j.tplants.2010.06.003",
+      "article-title": "Future prospects of microalgal biofuel production systems",
+      "volume": "15",
+      "author": "Stephens",
+      "year": "2010",
+      "journal-title": "Trends Plant Sci."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "1867",
+      "DOI": "10.1110/ps.072957907",
+      "article-title": "Patterns of protein protein interactions in salt solutions and implications for protein crystallization",
+      "volume": "16",
+      "author": "Dumetz",
+      "year": "2007",
+      "journal-title": "Protein Sci."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/978-0-387-75532-8_1",
+      "article-title": "Nuclear transformation of eukaryotic microalgae: historical overview, achievements and problems",
+      "volume": "616",
+      "author": "Leon",
+      "year": "2007",
+      "journal-title": "Adv. Exp. Med. Biol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0045",
+      "first-page": "361",
+      "article-title": "Establishment of a micro-particle bombardment transformation system for Dunaliella salina",
+      "volume": "43",
+      "author": "Tan",
+      "year": "2005",
+      "journal-title": "J. Microbiol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "316",
+      "DOI": "10.1016/j.fsi.2008.07.004",
+      "article-title": "Transgenic microalgae as a non-antibiotic bactericide producer to defend against bacterial pathogen infection in the fish digestive tract",
+      "volume": "26",
+      "author": "Li",
+      "year": "2009",
+      "journal-title": "Fish Shellfish Immunol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0055",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.4238/2011.October.21.1",
+      "article-title": "A new inducible expression system in a transformed green alga, Chlorella vulgaris",
+      "volume": "10",
+      "author": "Niu",
+      "year": "2011",
+      "journal-title": "Genet. Mol. Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "1433",
+      "DOI": "10.1007/s11033-008-9333-1",
+      "article-title": "Improvement of efficiency of genetic transformation for Dunaliella salina by glass beads method",
+      "volume": "36",
+      "author": "Feng",
+      "year": "2009",
+      "journal-title": "Mol. Biol. Rep."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0065",
+      "first-page": "503",
+      "article-title": "Transformation of microalgae using silicon carbide whiskers",
+      "volume": "62",
+      "author": "Dunahay",
+      "year": "1997",
+      "journal-title": "Methods Mol. Biol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "36",
+      "DOI": "10.1080/09670262.2010.550386",
+      "article-title": "Establishment of Agrobacterium tumefaciens-mediated genetic transformation in Dunaliella bardawil",
+      "volume": "46",
+      "author": "Anila",
+      "year": "2011",
+      "journal-title": "Eur. J. Phycol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "430",
+      "DOI": "10.1016/j.mimet.2011.01.005",
+      "article-title": "Cinnamic acid, coumarin and vanillin: alternative phenolic compounds for efficient Agrobacterium-mediated transformation of the unicellular green alga, Nannochloropsis sp",
+      "volume": "84",
+      "author": "Cha",
+      "year": "2011",
+      "journal-title": "J. Microbiol. Methods"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0080",
+      "article-title": "Agrobacterium tumefaciens mediated transformation of marine microalgae Schizochytrium",
+      "author": "Cheng",
+      "year": "2011",
+      "journal-title": "Microbiol. Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0085",
+      "article-title": "Interaction of gold nanoglycodendrimers with algal cells (Chlamydomonas reinhardtii) and their effect on physiological processes",
+      "author": "Perreault",
+      "year": "2011",
+      "journal-title": "Nanotoxicology"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "E92",
+      "DOI": "10.1208/aapsj0901009",
+      "article-title": "Nonviral gene delivery: what we know and what is next",
+      "volume": "9",
+      "author": "Gao",
+      "year": "2007",
+      "journal-title": "AAPS J."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "4151",
+      "DOI": "10.1039/c0cc00103a",
+      "article-title": "A functionalized gold nanoparticles-assisted universal carrier for antisense DNA",
+      "volume": "46",
+      "author": "Kim",
+      "year": "2010",
+      "journal-title": "Chem. Commun. (Camb.)"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1016/j.jconrel.2010.09.009",
+      "article-title": "Controlled synthesis of PEI-coated gold nanoparticles using reductive catechol chemistry for siRNA delivery",
+      "volume": "155",
+      "author": "Lee",
+      "year": "2011",
+      "journal-title": "J. Control. Release"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "1307",
+      "DOI": "10.1016/j.addr.2008.03.016",
+      "article-title": "Gold nanoparticles in delivery applications",
+      "volume": "60",
+      "author": "Ghosh",
+      "year": "2008",
+      "journal-title": "Adv. Drug Deliv. Rev."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "5505",
+      "DOI": "10.1021/nn101638u",
+      "article-title": "Enhanced gene delivery and siRNA silencing by gold nanoparticles coated with charge-reversal polyelectrolyte",
+      "volume": "4",
+      "author": "Guo",
+      "year": "2010",
+      "journal-title": "ACS Nano"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "3025",
+      "DOI": "10.1016/j.biomaterials.2011.12.045",
+      "article-title": "Gene delivery using dendrimer-entrapped gold nanoparticles as nonviral vectors",
+      "volume": "33",
+      "author": "Shan",
+      "year": "2012",
+      "journal-title": "Biomaterials"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "3312",
+      "DOI": "10.1016/j.biomaterials.2010.12.064",
+      "article-title": "Double-shell gold nanoparticle-based DNA-carriers with poly-l-lysine binding surface",
+      "volume": "32",
+      "author": "Stobiecka",
+      "year": "2011",
+      "journal-title": "Biomaterials"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "34",
+      "DOI": "10.1016/j.canlet.2010.06.001",
+      "article-title": "Generation 4 polyamidoamine dendrimers is a novel candidate of nano-carrier for gene delivery agents in breast cancer treatment",
+      "volume": "298",
+      "author": "Wang",
+      "year": "2010",
+      "journal-title": "Cancer Lett."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "1940",
+      "DOI": "10.1021/bm100589g",
+      "article-title": "PEGylated polyamidoamine dendrimers with bis-aryl hydrazone linkages for enhanced gene delivery",
+      "volume": "11",
+      "author": "Yuan",
+      "year": "2010",
+      "journal-title": "Biomacromolecules"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "2068",
+      "DOI": "10.1021/bc070116l",
+      "article-title": "Conjugation of polyamidoamine dendrimers on biodegradable microparticles for nonviral gene delivery",
+      "volume": "18",
+      "author": "Zhang",
+      "year": "2007",
+      "journal-title": "Bioconjug. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.1007/978-1-59745-237-3_10",
+      "article-title": "Non-viral gene delivery with cationic liposome-DNA complexes",
+      "volume": "433",
+      "author": "Ewert",
+      "year": "2008",
+      "journal-title": "Methods Mol. Biol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "191",
+      "DOI": "10.1007/128_2010_70",
+      "article-title": "Cationic liposome-nucleic acid complexes for gene delivery and silencing: pathways and mechanisms for plasmid DNA and siRNA",
+      "volume": "296",
+      "author": "Ewert",
+      "year": "2010",
+      "journal-title": "Top. Curr. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1517/17425247.2011.630387",
+      "article-title": "Peptide-based cationic liposome-mediated gene delivery",
+      "volume": "9",
+      "author": "Zhao",
+      "year": "2012",
+      "journal-title": "Expert Opin. Drug Deliv."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.1016/j.ijpharm.2008.09.019",
+      "article-title": "Preparation and characterization of magnetic cationic liposome in gene delivery",
+      "volume": "366",
+      "author": "Zheng",
+      "year": "2009",
+      "journal-title": "Int. J. Pharm."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1016/j.ejpb.2005.08.006",
+      "article-title": "Chitosan microparticles containing plasmid DNA as potential oral gene delivery system",
+      "volume": "62",
+      "author": "Guliyeva",
+      "year": "2006",
+      "journal-title": "Eur. J. Pharm. Biopharm."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "691",
+      "DOI": "10.1016/j.jss.2010.05.039",
+      "article-title": "In utero gene delivery using chitosan-DNA nanoparticles in mice",
+      "volume": "171",
+      "author": "Yang",
+      "year": "2011",
+      "journal-title": "J. Surg. Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "1095",
+      "DOI": "10.2147/IJN.S14358",
+      "article-title": "Local gene delivery via endovascular stents coated with dodecylated chitosan-plasmid DNA nanoparticles",
+      "volume": "5",
+      "author": "Zhu",
+      "year": "2010",
+      "journal-title": "Int. J. Nanomed."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "839",
+      "DOI": "10.2174/138920111795470985",
+      "article-title": "Blending of polyethylenimine with a cationic polyurethane greatly enhances both DNA delivery efficacy and reduces the overall cytotoxicity",
+      "volume": "12",
+      "author": "Cherng",
+      "year": "2011",
+      "journal-title": "Curr. Pharm. Biotechnol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "736",
+      "DOI": "10.1002/jbm.a.30605",
+      "article-title": "Effect of molecular weight on the transfection efficiency of novel polyurethane as a biodegradable gene vector",
+      "volume": "77",
+      "author": "Shau",
+      "year": "2006",
+      "journal-title": "J. Biomed. Mater. Res. A"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "1375",
+      "DOI": "10.1021/bc050005r",
+      "article-title": "Structural characterization and buffering capacity in relation to the transfection efficiency of biodegradable polyurethane",
+      "volume": "16",
+      "author": "Tseng",
+      "year": "2005",
+      "journal-title": "Bioconjug. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "1926",
+      "DOI": "10.1021/bm049763v",
+      "article-title": "Synthesis of novel biodegradable cationic polymer: N,N-diethylethylenediamine polyurethane as a gene carrier",
+      "volume": "5",
+      "author": "Yang",
+      "year": "2004",
+      "journal-title": "Biomacromolecules"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "375",
+      "DOI": "10.2174/1381612053382133",
+      "article-title": "The design of cationic lipids for gene delivery",
+      "volume": "11",
+      "author": "Martin",
+      "year": "2005",
+      "journal-title": "Curr. Pharm. Des."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "1496",
+      "DOI": "10.1021/jm900897a",
+      "article-title": "A novel cationic lipophosphoramide with diunsaturated lipid chains: synthesis, physicochemical properties, and transfection activities",
+      "volume": "53",
+      "author": "Le",
+      "year": "2010",
+      "journal-title": "J. Med. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "3872",
+      "DOI": "10.1021/jm0601755",
+      "article-title": "Lipophilic pyrylium salts in the synthesis of efficient pyridinium-based cationic lipids, gemini surfactants, and lipophilic oligomers for gene delivery",
+      "volume": "49",
+      "author": "Ilies",
+      "year": "2006",
+      "journal-title": "J. Med. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.1016/j.abb.2004.12.010",
+      "article-title": "Pyridinium cationic lipids in gene delivery: an in vitro and in vivo comparison of transfection efficiency versus a tetraalkylammonium congener",
+      "volume": "435",
+      "author": "Ilies",
+      "year": "2005",
+      "journal-title": "Arch. Biochem. Biophys."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "3744",
+      "DOI": "10.1021/jm0499763",
+      "article-title": "Pyridinium cationic lipids in gene delivery: a structure-activity correlation study",
+      "volume": "47",
+      "author": "Ilies",
+      "year": "2004",
+      "journal-title": "J. Med. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "739",
+      "DOI": "10.1002/jgm.717",
+      "article-title": "New multivalent cationic lipids reveal bell curve for transfection efficiency versus membrane charge density: lipid-DNA complexes for gene delivery",
+      "volume": "7",
+      "author": "Ahmad",
+      "year": "2005",
+      "journal-title": "J. Gene Med."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "1530",
+      "DOI": "10.1021/bc0601020",
+      "article-title": "Synthesis and in vitro evaluation of glutamide-containing cationic lipids for gene delivery",
+      "volume": "17",
+      "author": "Gopal",
+      "year": "2006",
+      "journal-title": "Bioconjug. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/S0009-3084(03)00033-1",
+      "article-title": "In vitro lipofection with novel series of symmetric 1,3-dialkoylamidopropane-based cationic surfactants containing single primary and tertiary amine polar head groups",
+      "volume": "124",
+      "author": "Sheikh",
+      "year": "2003",
+      "journal-title": "Chem. Phys. Lipids"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1016/j.colsurfb.2005.03.008",
+      "article-title": "Correlation of the physicochemical properties of symmetric 1,3-dialkoylamidopropane-based cationic lipids containing single primary and tertiary amine polar head groups with in vitro transfection activity",
+      "volume": "43",
+      "author": "Savva",
+      "year": "2005",
+      "journal-title": "Colloids Surf. B Biointerfaces"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1016/j.chemphyslip.2004.09.017",
+      "article-title": "Synthesis, in vitro transfection activity and physicochemical characterization of novel N,N′-diacyl-1,2-diaminopropyl-3-carbamoyl-(dimethylaminoethane) amphiphilic derivatives",
+      "volume": "133",
+      "author": "Aljaberi",
+      "year": "2005",
+      "journal-title": "Chem. Phys. Lipids"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "4176",
+      "DOI": "10.1021/jm000466s",
+      "article-title": "Design, synthesis, and transfection biology of novel cationic glycolipids for use in liposomal gene delivery",
+      "volume": "44",
+      "author": "Banerjee",
+      "year": "2001",
+      "journal-title": "J. Med. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "2207",
+      "DOI": "10.1021/jm950802i",
+      "article-title": "Synthesis and characterization of long chain alkyl acyl carnitine esters. Potentially biodegradable cationic lipids for use in gene delivery",
+      "volume": "41",
+      "author": "Wang",
+      "year": "1998",
+      "journal-title": "J. Med. Chem."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/j.chemphyslip.2008.01.006",
+      "article-title": "Synthesis of novel cationic bolaamphiphiles from vernonia oil and their aggregated structures",
+      "volume": "153",
+      "author": "Grinberg",
+      "year": "2008",
+      "journal-title": "Chem. Phys. Lipids"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0260",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.3109/08982100903218900",
+      "article-title": "Cationic vesicles from novel bolaamphiphilic compounds",
+      "volume": "20",
+      "author": "Popov",
+      "year": "2010",
+      "journal-title": "J. Liposome Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0265",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/j.jbiotec.2007.01.040",
+      "article-title": "Novel cationic vesicle platform derived from vernonia oil for efficient delivery of DNA through plant cuticle membranes",
+      "volume": "130",
+      "author": "Wiesman",
+      "year": "2007",
+      "journal-title": "J. Biotechnol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0270",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.1016/j.msec.2012.08.023",
+      "article-title": "Synthesis and characterization of antibacterial polyurethane coatings from quaternary ammonium salts functionalized soybean oil based polyols",
+      "volume": "33",
+      "author": "Bakhshia",
+      "year": "2013",
+      "journal-title": "Mater. Sci. Eng. C"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0275",
+      "doi-asserted-by": "crossref",
+      "first-page": "e1003130",
+      "DOI": "10.1371/journal.pcbi.1003130",
+      "article-title": "Hierarchical modeling for rare event detection and cell subset alignment across flow cytometry samples",
+      "volume": "9",
+      "author": "Cron",
+      "year": "2013",
+      "journal-title": "PLoS Comput. Biol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0280",
+      "doi-asserted-by": "crossref",
+      "first-page": "119",
+      "DOI": "10.1016/S0048-9697(99)00483-0",
+      "article-title": "Potential use of flow cytometry in toxicity studies with microalgae",
+      "volume": "247",
+      "author": "Franqueira",
+      "year": "2000",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0285",
+      "doi-asserted-by": "crossref",
+      "first-page": "141",
+      "DOI": "10.1016/S0167-7799(01)01924-2",
+      "article-title": "Applications of flow cytometry to ecotoxicity testing using microalgae",
+      "volume": "20",
+      "author": "Stauber",
+      "year": "2002",
+      "journal-title": "Trends Biotechnol."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0290",
+      "doi-asserted-by": "crossref",
+      "first-page": "1599",
+      "DOI": "10.1002/jbm.a.34461",
+      "article-title": "Synthesis and evaluation of antibacterial polyurethane coatings made from soybean oil functionalized with dimethylphenylammonium iodide and hydroxyl groups",
+      "volume": "101",
+      "author": "Bakhshi",
+      "year": "2013",
+      "journal-title": "J. Biomed. Mater. Res. A"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0295",
+      "doi-asserted-by": "crossref",
+      "first-page": "3106",
+      "DOI": "10.1021/ie901969x",
+      "article-title": "Synthesis of ß-amino alcohols from methyl epoxy stearate",
+      "volume": "49",
+      "author": "Singh",
+      "year": "2010",
+      "journal-title": "Ind. Eng. Chem. Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0300",
+      "first-page": "383",
+      "article-title": "Epoxidized soybean oil ring opening reaction under MW irradiation",
+      "volume": "3",
+      "author": "Nikje",
+      "year": "2011",
+      "journal-title": "Arch. Appl. Sci. Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0305",
+      "doi-asserted-by": "crossref",
+      "first-page": "1651",
+      "DOI": "10.1007/s11051-013-1651-0",
+      "article-title": "The novel albumin–chitosan core–shell nanoparticles for gene delivery: preparation, optimization and cell uptake investigation",
+      "volume": "15",
+      "author": "Karimi",
+      "year": "2013",
+      "journal-title": "J. Nanopart. Res."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0310",
+      "doi-asserted-by": "crossref",
+      "first-page": "65",
+      "DOI": "10.1263/jbb.105.65",
+      "article-title": "Combination of poly(ethylenimine) and chitosan induces high gene transfection efficiency and low cytotoxicity",
+      "volume": "105",
+      "author": "Zhao",
+      "year": "2008",
+      "journal-title": "J. Biosci. Bioeng."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0315",
+      "doi-asserted-by": "crossref",
+      "first-page": "706",
+      "DOI": "10.1248/bpb.32.706",
+      "article-title": "N/P ratio significantly influences the transfection efficiency and cytotoxicity of a polyethylenimine/chitosan/DNA complex",
+      "volume": "32",
+      "author": "Zhao",
+      "year": "2009",
+      "journal-title": "Biol. Pharm. Bull."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0320",
+      "doi-asserted-by": "crossref",
+      "first-page": "075501",
+      "DOI": "10.1103/PhysRevLett.91.075501",
+      "article-title": "Structural polymorphism of DNA-dendrimer complexes",
+      "volume": "91",
+      "author": "Evans",
+      "year": "2003",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0325",
+      "doi-asserted-by": "crossref",
+      "first-page": "831",
+      "DOI": "10.1002/mabi.200900046",
+      "article-title": "A hybrid DNA aptamer–dendrimer nanomaterial for targeted cell labeling",
+      "volume": "9",
+      "author": "Zhou",
+      "year": "2009",
+      "journal-title": "Macromol. Biosci."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0330",
+      "first-page": "498",
+      "article-title": "Self-assembling of DNA and PAMAM dendrimer",
+      "volume": "1",
+      "author": "Zhou",
+      "year": "2005",
+      "journal-title": "Conf. Proc. IEEE. Eng. Med. Biol. Soc."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0335",
+      "doi-asserted-by": "crossref",
+      "first-page": "3571",
+      "DOI": "10.1021/bm101033g",
+      "article-title": "Molecular characterization of the interaction between siRNA and PAMAM G7 dendrimers by SAXS, ITC, and molecular dynamics simulations",
+      "volume": "11",
+      "author": "Jensen",
+      "year": "2010",
+      "journal-title": "Biomacromolecules"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0340",
+      "doi-asserted-by": "crossref",
+      "first-page": "410",
+      "DOI": "10.1016/j.ijpharm.2011.03.015",
+      "article-title": "Elucidating the molecular mechanism of PAMAM-siRNA dendriplex self-assembly: effect of dendrimer charge density",
+      "volume": "416",
+      "author": "Jensen",
+      "year": "2011",
+      "journal-title": "Int. J. Pharm."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0345",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1006/bbrc.2001.4690",
+      "article-title": "Substituted beta-cyclodextrins interact with PAMAM dendrimer-DNA complexes and modify transfection efficiency",
+      "volume": "283",
+      "author": "Roessler",
+      "year": "2001",
+      "journal-title": "Biochem. Biophys. Res. Commun."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0350",
+      "doi-asserted-by": "crossref",
+      "first-page": "184",
+      "DOI": "10.1016/j.jconrel.2007.08.022",
+      "article-title": "Lipoplex morphologies and their influences on transfection efficiency in gene delivery",
+      "volume": "123",
+      "author": "Ma",
+      "year": "2007",
+      "journal-title": "J. Control. Release"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0355",
+      "article-title": "Lipoplex and LPD nanoparticles for in vivo gene delivery",
+      "volume": "2006",
+      "author": "Shyh-Dar",
+      "year": "2006",
+      "journal-title": "CSH Protoc."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0360",
+      "doi-asserted-by": "crossref",
+      "first-page": "1272",
+      "DOI": "10.1038/sj.gt.3300707",
+      "article-title": "Stable and monodisperse lipoplex formulations for gene delivery",
+      "volume": "5",
+      "author": "Zelphati",
+      "year": "1998",
+      "journal-title": "Gene Ther."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0365",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1038/mt.2012.185",
+      "article-title": "The possible “proton sponge “effect of polyethylenimine (PEI) does not include change in lysosomal pH",
+      "volume": "21",
+      "author": "Benjaminsen",
+      "year": "2013",
+      "journal-title": "Mol. Ther."
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0370",
+      "doi-asserted-by": "crossref",
+      "first-page": "1732",
+      "DOI": "10.1021/bm4000713",
+      "article-title": "Ionization behavior of chitosan and chitosan-DNA polyplexes indicate that chitosan has a similar capability to induce a proton-sponge effect as PEI",
+      "volume": "14",
+      "author": "Richard",
+      "year": "2013",
+      "journal-title": "Biomacromolecules"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0375",
+      "article-title": "Intracellular microenvironment responsive polymers: a multiple-stage transport platform for high-performance gene delivery",
+      "author": "Shi",
+      "year": "2013",
+      "journal-title": "Small"
+    },
+    {
+      "key": "10.1016/j.cbi.2014.10.006_b0380",
+      "doi-asserted-by": "crossref",
+      "first-page": "188",
+      "DOI": "10.1016/j.crci.2008.05.018",
+      "article-title": "A structure–activity investigation of hemifluorinated bifunctional bolaamphiphiles designed for gene delivery",
+      "volume": "12",
+      "author": "Brunelle",
+      "year": "2009",
+      "journal-title": "C. R. Chim."
+    }
+  ],
+  "container-title": [
+    "Chemico-Biological Interactions"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0009279714002944?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0009279714002944?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        14
+      ]
+    ],
+    "date-time": "2025-09-14T13:34:08Z",
+    "timestamp": 1757856848000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0009279714002944"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        1
+      ]
+    ]
+  },
+  "references-count": 76,
+  "alternative-id": [
+    "S0009279714002944"
+  ],
+  "URL": "https://doi.org/10.1016/j.cbi.2014.10.006",
+  "relation": {},
+  "ISSN": [
+    "0009-2797"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0009-2797"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Quaternary ammonium salt containing soybean oil: An efficient nanosize gene delivery carrier for halophile green microalgal transformation",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Chemico-Biological Interactions",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.cbi.2014.10.006",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2025-03-26T11:10:32Z",
+    "timestamp": 1742987432814,
+    "version": "3.40.3"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "group-title": "SSRN",
+  "reference-count": 0,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.2139/ssrn.5194333",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2025-03-26T10:44:55Z",
+    "timestamp": 1742985895000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Assessing the Growth, Biochemical and Phytoremediation Potential of Suaeda Maritima (L.) Dumort. – a Salt Marsh Halophyte in Salt Affected Farmland"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "given": "Mohandoss",
+      "family": "Durairaj",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Killivalavan",
+      "family": "Narayanan",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Aamir  Sultan",
+      "family": "Lone",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2025-03-26T10:44:55Z",
+    "timestamp": 1742985895000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=5194333"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.2139/ssrn.5194333",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

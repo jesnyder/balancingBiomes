@@ -1,0 +1,416 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        1
+      ]
+    ],
+    "date-time": "2025-10-01T16:17:34Z",
+    "timestamp": 1759335454437,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Cham",
+  "reference-count": 29,
+  "publisher": "Springer International Publishing",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783319482569"
+    },
+    {
+      "type": "electronic",
+      "value": "9783319482576"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2017-01-01T00:00:00Z",
+        "timestamp": 1483228800000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2017
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-319-48257-6_4",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        3,
+        31
+      ]
+    ],
+    "date-time": "2017-03-31T08:20:12Z",
+    "timestamp": 1490948412000
+  },
+  "page": "71-85",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Bio-amelioration of Salt-Affected Soils Through Halophyte Plant Species"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Sanjay",
+      "family": "Arora",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "G. Gururaja",
+      "family": "Rao",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        4,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "4_CR1",
+      "first-page": "252",
+      "volume": "12",
+      "author": "S Arora",
+      "year": "2013",
+      "unstructured": "Arora, S., Bhuva, C., Solanki, R. B., & Rao, G. G. (2013). Halophytes for bio-saline agro-forestry and phyto-remediation of coastal saline lands. Journal of the Soil and Water Conservation, 12, 252–259.",
+      "journal-title": "Journal of the Soil and Water Conservation"
+    },
+    {
+      "key": "4_CR2",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Böer, B. (2006). Halophyte research and development: what needs to be done next? In M.A. Khan, & D.J. Weber (Eds.), Ecophysiology of high salinity tolerant plants (pp. 397–399). Berlin: Springer Verlag.",
+      "DOI": "10.1007/1-4020-4018-0_24"
+    },
+    {
+      "key": "4_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "952",
+      "DOI": "10.1071/FP12342",
+      "volume": "40",
+      "author": "A Buhmann",
+      "year": "2013",
+      "unstructured": "Buhmann, A., & Papenbrock, J. (2013). An economic point of view of secondary compounds in halophytes. Functional Plant Biology, 40, 952–967.",
+      "journal-title": "Functional Plant Biology"
+    },
+    {
+      "key": "4_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "665",
+      "DOI": "10.1071/FP09144",
+      "volume": "36",
+      "author": "TD Colmer",
+      "year": "2009",
+      "unstructured": "Colmer, T. D., & Voesenek, L. (2009). Flooding tolerance: suites of plant traits in variable environments. Functional Plant Biology, 36, 665–681.",
+      "journal-title": "Functional Plant Biology"
+    },
+    {
+      "key": "4_CR6",
+      "first-page": "81",
+      "volume": "15",
+      "author": "JC Dagar",
+      "year": "2005",
+      "unstructured": "Dagar, J. C. (2005). Ecology, management and utilization of halophytes. Bulletin of the National Institute of Ecology, 15, 81–97.",
+      "journal-title": "Bulletin of the National Institute of Ecology"
+    },
+    {
+      "key": "4_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "945",
+      "DOI": "10.1111/j.1469-8137.2008.02531.x",
+      "volume": "179",
+      "author": "TJ Flowers",
+      "year": "2008",
+      "unstructured": "Flowers, T. J., & Colmer, T. D. (2008). Salinity tolerance in halophytes. New Phytologist, 179, 945–963.",
+      "journal-title": "New Phytologist"
+    },
+    {
+      "key": "4_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.1086/415032",
+      "volume": "61",
+      "author": "TJ Flowers",
+      "year": "1986",
+      "unstructured": "Flowers, T. J., Hajibagheri, M. A., & Clipson, N. J. W. (1986). Halophytes. The Quarterly Review of Biology, 61, 313–337.",
+      "journal-title": "The Quarterly Review of Biology"
+    },
+    {
+      "key": "4_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "875",
+      "DOI": "10.1071/PP9950875",
+      "volume": "22",
+      "author": "TJ Flowers",
+      "year": "1995",
+      "unstructured": "Flowers, T. J., & Yeo, A. R. (1995). Breeding for salinity resistance in crop plants: where next. Australian Journal of Plant Physiology, 22, 875–884.",
+      "journal-title": "Australian Journal of Plant Physiology"
+    },
+    {
+      "key": "4_CR10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Glenn, E.P., & O’Leary, J. (1984). Relationship between salt accumulation and water content of dicotyledonous halophytes. Plant Cell Environment, 7, 253–261.",
+      "DOI": "10.1111/1365-3040.ep11589448"
+    },
+    {
+      "key": "4_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "463",
+      "DOI": "10.1146/annurev.arplant.51.1.463",
+      "volume": "51",
+      "author": "PM Hasegawa",
+      "year": "2000",
+      "unstructured": "Hasegawa, P. M., Bressan, R. A., Zhu, J. K., & Bohnert, H. J. (2000). Plant cellular and molecular responses to high salinity. Annual Review of Plant Physiology and Plant Molecular Biology, 51, 463–499.",
+      "journal-title": "Annual Review of Plant Physiology and Plant Molecular Biology"
+    },
+    {
+      "key": "4_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "651",
+      "DOI": "10.1146/annurev.arplant.59.032607.092911",
+      "volume": "59",
+      "author": "R Munns",
+      "year": "2008",
+      "unstructured": "Munns, R., & Tester, M. (2008). Mechanisms of salinity tolerance. Annual Review of Plant Biology, 59, 651–681.",
+      "journal-title": "Annual Review of Plant Biology"
+    },
+    {
+      "key": "4_CR04",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Pandya, J. B., Gohil, R. H., Patolia, J. S., Shah, M. T., & Parmar, D. R. (2006). A study on Salicornia (S. brachiata Roxb.) in salinity ingressed soils of India. International Journal of Agricultural Research, 1, 91–99.",
+      "DOI": "10.3923/ijar.2006.91.99"
+    },
+    {
+      "key": "4_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.17221/2774-PSE",
+      "volume": "54",
+      "author": "A Parvaiz",
+      "year": "2008",
+      "unstructured": "Parvaiz, A., & Satyawati, S. (2008). Salt stress and phyto-biochemical response of plants – a review. Plant, Soil and Environment, 54, 89–99.",
+      "journal-title": "Plant, Soil and Environment"
+    },
+    {
+      "key": "4_CR05",
+      "unstructured": "Pitman, M. G. (1975). Whole plant. In D. A. Baker & J. L. Hall (Eds.), Ion transport in plant cells and tissues (pp. 267–308). Amsterdam/Oxford: North-Holland."
+    },
+    {
+      "key": "4_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "429",
+      "DOI": "10.1002/ldr.853",
+      "volume": "19",
+      "author": "M Qadir",
+      "year": "2008",
+      "unstructured": "Qadir, M., Tubeileh, A., Akhtar, J., Larbi, A., Minhas, P. S., & Khan, M. A. (2008). Productivity enhancement of salt-affected environments through crop diversification. Land Degradation & Development, 19, 429–453.",
+      "journal-title": "Land Degradation & Development"
+    },
+    {
+      "issue": "1",
+      "key": "4_CR11",
+      "first-page": "41",
+      "volume": "3",
+      "author": "GG Rao",
+      "year": "2011",
+      "unstructured": "Rao, G. G., Chinchmalatpure, A. R., Meena, R. L., & Khandelwal, M. K. (2011). Saline agriculture in saline vertisols with halophytic forage grasses. Journal of Soil Salinity and Water Quality, 3(1), 41–48.",
+      "journal-title": "Journal of Soil Salinity and Water Quality"
+    },
+    {
+      "key": "4_CR12",
+      "first-page": "102",
+      "volume": "4",
+      "author": "GG Rao",
+      "year": "2012",
+      "unstructured": "Rao, G. G., Khandelwal, M. K., Arora, S., & Sharma, D. K. (2012). Salinity ingress in coastal Gujarat: Appraisal of control measures. Journal of Soil Salinity and Water Quality, 4, 102–113.",
+      "journal-title": "Journal of Soil Salinity and Water Quality"
+    },
+    {
+      "issue": "1",
+      "key": "4_CR13",
+      "first-page": "59",
+      "volume": "31",
+      "author": "GG Rao",
+      "year": "2004",
+      "unstructured": "Rao, G. G., Nayak, A. K., Chinchmalatpure, A. R., Mandal, S., & Tyagi, N. K. (2004). Salt tolerance mechanism of Salvadora persica grown on highly saline black soil. Journal of Plant Biology, 31(1), 59–65.",
+      "journal-title": "Journal of Plant Biology"
+    },
+    {
+      "key": "4_CR14",
+      "unstructured": "Rao, G. G., Nayak, A.K., & Chinchmalatpure, A.R. (2003). Salvadora persica: A life support species for salt affected black soils (Tech. l Bull. 1/2003, p. 54). Bharuch, Gujarat: Central Soil Salinity Research Institute, Regional Research Station."
+    },
+    {
+      "issue": "3",
+      "key": "4_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "273",
+      "DOI": "10.1016/j.indcrop.2008.03.001",
+      "volume": "28",
+      "author": "MP Reddy",
+      "year": "2008",
+      "unstructured": "Reddy, M. P., Mukesh, T., Shah, J., & Patolia, S. (2008). Salvadora persica, a potential species for industrial oil production in semiarid saline and alkali soils. Industrial Crops and Products, 28(3), 273–278.",
+      "journal-title": "Industrial Crops and Products"
+    },
+    {
+      "key": "4_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1478",
+      "DOI": "10.1126/science.1168572",
+      "volume": "322",
+      "author": "J Rozema",
+      "year": "2008",
+      "unstructured": "Rozema, J., & Flowers, T. (2008). Crops for a salinized world. Science, 322, 1478–1480.",
+      "journal-title": "Science"
+    },
+    {
+      "key": "4_CR01",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Singh, Y.P., Mishra, V.K., Sharma, D.K., Singh, G., Arora, Sanjay, Dixit, H., & Cerda, A. (2016). Harnessing productivity potential and rehabilitation of degraded sodic lands through Jatropha based intercropping systems. Agriculture Ecosystem and Environment 233, 121–129.",
+      "DOI": "10.1016/j.agee.2016.08.034"
+    },
+    {
+      "key": "4_CR02",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Singh, Y.P., Singh, G., & Sharma, D.K. (2011). Ameliorative effect of multipurpose tree species grown on sodic soils of Indo-Gangetic alluvial plains of India. Arid Land Research and Management 25, 55–74.",
+      "DOI": "10.1080/15324982.2010.528150"
+    },
+    {
+      "key": "4_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "27",
+      "DOI": "10.1111/j.1095-8339.2006.00549.x",
+      "volume": "152",
+      "author": "J Tardio",
+      "year": "2006",
+      "unstructured": "Tardio, J., Pardo de Santayana, M., & Morales, R. (2006). Ethnobotanical review of wild edible plants in Spain. Botanical Journal of the Linnean Society, 152, 27–71.",
+      "journal-title": "Botanical Journal of the Linnean Society"
+    },
+    {
+      "key": "4_CR22",
+      "unstructured": "Thomson, W., Faraday, C., & Oross, J. (1988). Salt glands. In D. Baker, & J, Hall (Eds.), Solute transport in plant cells and tissues (pp. 498–537). Longman: Harlow, UK."
+    },
+    {
+      "key": "4_CR03",
+      "unstructured": "USEPA. (2000). Government Report: Introduction to phytoremediation. Washington, DC: The U.S. Environmental Protection Agency."
+    },
+    {
+      "key": "4_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "144",
+      "DOI": "10.1016/j.envexpbot.2012.07.010",
+      "volume": "92",
+      "author": "Y Ventura",
+      "year": "2013",
+      "unstructured": "Ventura, Y., & Sagi, M. (2013). Halophyte crop cultivation: the case for Salicornia and Sarcocornia. Environmental and Experimental Botany, 92, 144–153.",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "key": "4_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "685",
+      "DOI": "10.1016/j.envint.2003.11.002",
+      "volume": "30",
+      "author": "JS Weis",
+      "year": "2004",
+      "unstructured": "Weis, J. S., & Weis, P. (2004). Metal uptake, transport and release by wetland plants: implications for phytoremediation and restoration. Environment International, 30, 685–700.",
+      "journal-title": "Environment International"
+    },
+    {
+      "key": "4_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "214",
+      "DOI": "10.1111/j.1399-3054.1983.tb04172.x",
+      "volume": "58",
+      "author": "A Yeo",
+      "year": "1983",
+      "unstructured": "Yeo, A. (1983). Salinity tolerance: Physiologies and prices. Phsiologia Plantarum, 58, 214–222.",
+      "journal-title": "Phsiologia Plantarum"
+    }
+  ],
+  "container-title": [
+    "Bioremediation of Salt Affected Soils: An Indian Perspective"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-48257-6_4",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        23
+      ]
+    ],
+    "date-time": "2024-06-23T10:50:55Z",
+    "timestamp": 1719139855000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/978-3-319-48257-6_4"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783319482569",
+    "9783319482576"
+  ],
+  "references-count": 29,
+  "URL": "https://doi.org/10.1007/978-3-319-48257-6_4",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017
+      ]
+    ]
+  }
+}

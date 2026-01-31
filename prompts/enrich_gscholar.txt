@@ -1,0 +1,122 @@
+
+
+Write python code to accomplish the following tasks
+Take your time, accuracy is more important than speed
+
+Add a comment to the header with the following:
+> Date prepared
+> Objective of the code
+> Tasks - list of actions the code takes in order. Include details of packages or libraries with sufficient details so if pasted as another prompt, another AI would prepare the same code
+> Input - what files were retrieved or databses quieried
+> Output - what files were made by the code
+
+Comment the code with robust, clear descriptions of how and why code is used for people to read and understand
+Print statements to the terminal with progress.
+
+Place all the code in a main function called
+"enrich_gscholar"
+
+Accomplish the tasks designated with a ">"
+
+> Compile all Google Scholar Results
+Results are saved as json files in
+INPUT_DIR = "results/search_results/gscholar/pages"
+
+Read in all the json files in the above directory.
+Some json is formatted as:
+
+a list of articles, each artcile is a dictionary
+[ {  1 article metadata}, {2 article metadata}, ... ]
+
+other json is formatted as json / dictionary. an example being:
+Retrieve list of artciles from the "results" key
+{
+  "page_number": 46,
+  "results_count": 10,
+  "results": [
+    { 1 artcle metadata } , { 2 artcile metadata}, .... ]
+}
+
+combine all artciles found.
+
+> Clean and Sort the List
+remove all "doi" and "doi_url" keys from article
+deduplicate the list
+remove html tags from the title or snippet fields
+remove test like "[PDF]" or "[BOOK]" from title field
+
+
+
+> Add DOI number
+
+For each artcile in the deduplicated list
+add two keys:
+"doi":
+"doi_url":
+
+initialize as set equal to blank
+
+Search for the doi number in the "pub_url" field using these rules
+Use the example to help create rules
+these example are lifted from the dataset
+
+A DOI (Digital Object Identifier) is a permanent, standardized identifier used to uniquely identify scholarly works such as journal articles, datasets, and reports. It consists of two main parts separated by a slash: a prefix and a suffix. The prefix always begins with 10, which designates the DOI system, followed by a number that identifies the publisher or registrant (for example, 10.1016 for Elsevier or 10.1038 for Nature). The suffix is assigned by the publisher and uniquely identifies the specific item; it often encodes information such as the journal name, year of publication, and article number, but its structure is not standardized. When combined, the prefix and suffix form a globally unique identifier that can be resolved through https://doi.org/, ensuring persistent access to the referenced work even if its web location changes.
+
+The doi can be at the end of middle of a url.
+
+Examples:
+"pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470015902.a0000394.pub3",
+the doi is in the url
+"doi": "10.1002/9780470015902.a0000394.pub3",
+"doi_url": "https://doi.org/10.1002/9780470015902.a0000394.pub3"
+
+another example
+"pub_url": "https://link.springer.com/content/pdf/10.1007/1-4020-4018-0.pdf#page=372",
+the doi is in the url
+"doi": "10.1007/1-4020-4018-0",
+"doi_url": "https://doi.org/10.1007/1-4020-4018-0"
+
+another example
+pub_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.00148/full",
+the doi is in the url
+"doi": "10.3389/fmicb.2018.00148",
+"doi_url": "https://doi.org/10.3389/fmicb.2018.00148"
+
+another example
+"pub_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-66480-4.pdf",
+the doi is in the url
+"doi": "10.1007/978-3-319-66480-4",
+"doi_url": "https://doi.org/10.1007/978-3-319-66480-4"
+
+another example
+"pub_url": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001914",
+the doi is in the url
+    "doi": "10.1099/ijsem.0.001914",
+    "doi_url": "https://doi.org/10.1099/ijsem.0.001914"
+
+if the doi is found, set the "doi" key equal to the found doi
+use the doi to build the "doi_url" value, which is "https://doi.org/" + doi as a string
+
+Once all artcile have been searched for a doi and the doi has been added to the metadata information, move on to the next step
+
+> Secondary List Cleaning of Artcile List
+Deduplicate again using the doi
+Order the list so most cited artcile appear at the top
+
+
+> Save the list as json
+Save the json as
+"search_results/enriched/enriched_gscholar.json"
+
+Use this structure
+
+Structure the json files as:
+{
+database: "gscholar",
+count: integer, number of results,
+count_abstract: integer, number of results with an abstract,
+count_doi: integer, number of results with a doi,
+count_2: integer, number of results with at least 2 citations,
+keys: [list of keys in article, not all keys are in all articles],
+articles: [list of artciles retrieved (sorted by citation, most cited at the top],
+}

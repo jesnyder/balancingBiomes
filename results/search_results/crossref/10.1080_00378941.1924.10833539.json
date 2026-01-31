@@ -1,0 +1,214 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        31
+      ]
+    ],
+    "date-time": "2022-03-31T20:19:34Z",
+    "timestamp": 1648757974175
+  },
+  "reference-count": 14,
+  "publisher": "Informa UK Limited",
+  "issue": "1",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Bulletin de la Société Botanique de France"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1924,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1080/00378941.1924.10833539",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        7,
+        9
+      ]
+    ],
+    "date-time": "2014-07-09T00:44:48Z",
+    "timestamp": 1404866688000
+  },
+  "page": "93-117",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Etude sur la zone halophile en Provence. Végétation des côtes basses"
+  ],
+  "prefix": "10.1080",
+  "volume": "71",
+  "author": [
+    {
+      "given": "J.",
+      "family": "Arènes",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        7,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "CIT0001",
+      "unstructured": "ALBERT (A.) et JAHANDIEZ (E.),Catalogue des Plantes du Var. Paris, 1908."
+    },
+    {
+      "key": "CIT0002",
+      "unstructured": "ALBERT (A.) et REYNIER (A.),Coup d'œil sur la flore de Toulon et d'Hyères. Draguignan, 1891 (Extr. du Bull, de la Soc. d'Et. sc. de Draguignan)."
+    },
+    {
+      "key": "CIT0003",
+      "unstructured": "ALLORGE (P.),Les associations végétales du Vexin français(Revue générale de Botanique, 1921–1922)."
+    },
+    {
+      "key": "CIT0004",
+      "unstructured": "ARÈNES (J.),Etude sur la zone halophile de Provence(Bull. Soc. bot. Fr., LXX, 1923)."
+    },
+    {
+      "key": "CIT0005",
+      "unstructured": "BRAUN-BLANQUET (J.),Eine Pflanzengeographische Exkursion durch Unterengadin und in den schweizerischen Nationalpark(Beitr. zur geobot. Landesaufnahme, IV, Zurich, 1918)."
+    },
+    {
+      "key": "CIT0006",
+      "unstructured": "COSTE (H.),Flore descriptive et illustrée de la France. Paris, 1901–1906."
+    },
+    {
+      "key": "CIT0007",
+      "unstructured": "FLAHAULT (Ch.),Rapports sur les excursions de la Soc. bot. de France. Sess. extraord. à Hyères (Var) (Bull. Soc. bot. Fr., XLVI, 1899)."
+    },
+    {
+      "key": "CIT0008",
+      "doi-asserted-by": "crossref",
+      "unstructured": "FLAHAULT (Ch.) et COMBRES (P.),Sur la flore de la Camargue et des alluvions du Rhône(Bull. Soc. bot. Fr., XLI, 1894).",
+      "DOI": "10.1080/00378941.1894.10831566"
+    },
+    {
+      "key": "CIT0009",
+      "unstructured": "HUET (A.) et SHUTTLEWORTH (R. J.),Catalogue des Plantes de Provence. Pamiers, 1889."
+    },
+    {
+      "key": "CIT0010",
+      "unstructured": "JAHANDIEZ (E.),Note sur la végétation littorale de la presqu'île de Giens(Ann. Soc. Hist. nat. de Toulon, 1910)."
+    },
+    {
+      "key": "CIT0011",
+      "unstructured": "RAUNKIÆR (C.),Planterigets Livsformer og deret Betydning for Geografer. Kobenhavn og Kristiania, 1907."
+    },
+    {
+      "key": "CIT0012",
+      "unstructured": "ROBERT,Plantes phanérogames qui croissent naturellement aux environs de Toulon. Brignoles, 1838."
+    },
+    {
+      "key": "CIT0013",
+      "unstructured": "Roux (H.),Catalogue des Plantes de Provence(Soc. d'horticult. et de bot. des Bouches-du-Rhône. Marseille, 1891)."
+    },
+    {
+      "key": "CIT0014",
+      "unstructured": "THOLIN (A.),Végét. de la presqu'île des Sablettes(Feuille des Jeunes Naturalistes, no172)."
+    }
+  ],
+  "container-title": [
+    "Bulletin de la Société Botanique de France"
+  ],
+  "original-title": [],
+  "language": "fr",
+  "link": [
+    {
+      "URL": "http://www.tandfonline.com/doi/pdf/10.1080/00378941.1924.10833539",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2019-08-12T15:16:55Z",
+    "timestamp": 1565623015000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.tandfonline.com/doi/abs/10.1080/00378941.1924.10833539"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1924,
+        1
+      ]
+    ]
+  },
+  "references-count": 14,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1924,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/00378941.1924.10833539"
+  ],
+  "URL": "https://doi.org/10.1080/00378941.1924.10833539",
+  "relation": {},
+  "ISSN": [
+    "0037-8941"
+  ],
+  "issn-type": [
+    {
+      "value": "0037-8941",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1924,
+        1
+      ]
+    ]
+  }
+}

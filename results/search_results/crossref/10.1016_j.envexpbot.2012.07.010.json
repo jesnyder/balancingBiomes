@@ -1,0 +1,1022 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2026-01-13T04:22:07Z",
+    "timestamp": 1768278127574,
+    "version": "3.49.0"
+  },
+  "reference-count": 85,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2013-08-01T00:00:00Z",
+        "timestamp": 1375315200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Environmental and Experimental Botany"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.envexpbot.2012.07.010",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        9,
+        15
+      ]
+    ],
+    "date-time": "2012-09-15T08:04:13Z",
+    "timestamp": 1347696253000
+  },
+  "page": "144-153",
+  "source": "Crossref",
+  "is-referenced-by-count": 274,
+  "special_numbering": "C",
+  "title": [
+    "Halophyte crop cultivation: The case for Salicornia and Sarcocornia"
+  ],
+  "prefix": "10.1016",
+  "volume": "92",
+  "author": [
+    {
+      "given": "Yvonne",
+      "family": "Ventura",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Moshe",
+      "family": "Sagi",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0005",
+      "first-page": "1033",
+      "article-title": "Salicornia production in Kuwait",
+      "volume": "6",
+      "author": "Abdal",
+      "year": "2009",
+      "journal-title": "World Applied Sciences Journal"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "1957",
+      "DOI": "10.1093/jxb/erm057",
+      "article-title": "Salt tolerance, salt accumulation, and ionic homeostasis in an epidermal bladder-cell-less mutant of the common ice plant Mesembryanthemum crystallinum",
+      "volume": "58",
+      "author": "Agarie",
+      "year": "2007",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "5862",
+      "DOI": "10.1073/pnas.96.10.5862",
+      "article-title": "Genetic engineering of the unsaturation of fatty acids in membrane lipids alters the tolerance of Synechocystis to salt stress",
+      "volume": "96",
+      "author": "Allakhverdiev",
+      "year": "1999",
+      "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "889",
+      "DOI": "10.1016/j.plantsci.2004.11.002",
+      "article-title": "Physiological and antioxidant responses of the perennial halophyte Crithmum maritimum to salinity",
+      "volume": "168",
+      "author": "Ben Amor",
+      "year": "2005",
+      "journal-title": "Plant Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0025",
+      "first-page": "151",
+      "article-title": "Salt response of Crithmum maritimum, an oleagineous halophyte",
+      "volume": "45",
+      "author": "Ben Hamed",
+      "year": "2004",
+      "journal-title": "Tropical Ecology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/S0044-8486(99)00084-8",
+      "article-title": "Halophytes for the treatment of saline aquaculture effluent",
+      "volume": "175",
+      "author": "Brown",
+      "year": "1999",
+      "journal-title": "Aquaculture"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "496",
+      "DOI": "10.1111/j.1365-313X.2008.03440.x",
+      "article-title": "A critical role for ureides in dark and senescence-induced purine remobilization is unmasked in the Atxdh1 Arabidopis mutant",
+      "volume": "54",
+      "author": "Brychkova",
+      "year": "2008",
+      "journal-title": "Plant Journal"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "2077",
+      "DOI": "10.1002/jsfa.2227",
+      "article-title": "Evaluation of saltgrass as a fodder crop for saline environments",
+      "volume": "85",
+      "author": "Bustan",
+      "year": "2005",
+      "journal-title": "Journal of the Science of Food and Agriculture"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1007/BF01091298",
+      "article-title": "Atriplex hortensis L. as a leafy vegetable, and as a leaf protein concentrate plant",
+      "volume": "33",
+      "author": "Carlson",
+      "year": "1983",
+      "journal-title": "Qualitas Plantarum Plant Foods for Human Nutrition"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "681",
+      "DOI": "10.1046/j.0022-0477.2001.00607.x",
+      "article-title": "Salicornia L. (Salicornia pusilla J. Woods, S. ramosissima J. Woods, S. europaea l., S. Obscura P. W. Ball & Tutin, S. nitens P. W. Ball & Tutin, S. fragilis P. W. Ball & Tutin, P. W. Ball & Tutin and S. dolichostachya Moss)",
+      "volume": "89",
+      "author": "Davy",
+      "year": "2001",
+      "journal-title": "Journal of Ecology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "1035",
+      "DOI": "10.1111/j.1365-2745.2006.01156.x",
+      "article-title": "Biological flora of the British Isles: Sarcocornia perennis (Miller) A.J. Scott",
+      "volume": "94",
+      "author": "Davy",
+      "year": "2006",
+      "journal-title": "Journal of Ecology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.1002/jpln.200900222",
+      "article-title": "Responses of Batis maritima plants challenged with up to two-fold seawater NaCl salinity",
+      "volume": "173",
+      "author": "Debez",
+      "year": "2010",
+      "journal-title": "Journal of Plant Nutrition and Soil Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "925",
+      "DOI": "10.1093/aob/mcq072",
+      "article-title": "Ecophysiological response of Crambe maritima to airborne and soil-borne salinity",
+      "volume": "105",
+      "author": "de Vos",
+      "year": "2010",
+      "journal-title": "Annals of Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0070",
+      "unstructured": "de Vos, A.C., 2011. Sustainable exploitation of saline resources: ecology, ecophysiology and cultivation of potential halophyte crops. PhD Dissertation."
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.18461/ijfsd.v1i2.123",
+      "article-title": "The role of consumer acceptance in the food innovation process: young consumer perception of functional foods in Italy",
+      "volume": "2",
+      "author": "Del Giudice",
+      "year": "2010",
+      "journal-title": "International Journal on Food System Dynamics"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "177",
+      "DOI": "10.1016/j.indcrop.2005.05.007",
+      "article-title": "Oil analysis in seeds of Salicornia brachiata",
+      "volume": "23",
+      "author": "Eganathan",
+      "year": "2006",
+      "journal-title": "Industrial Crops and Products"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1016/j.smallrumres.2010.01.010",
+      "article-title": "Halophytes and salt-tolerant plants as potential forage for ruminants in the Near East region",
+      "volume": "91",
+      "author": "El Shaer",
+      "year": "2010",
+      "journal-title": "Small Ruminant Research"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "399",
+      "DOI": "10.1126/science.210.4468.399",
+      "article-title": "Saline culture of crops: a genetic approach",
+      "volume": "210",
+      "author": "Epstein",
+      "year": "1980",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1093/jxb/erh003",
+      "article-title": "Improving crop salt tolerance",
+      "volume": "55",
+      "author": "Flowers",
+      "year": "2004",
+      "journal-title": "Journal of Experimental Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "945",
+      "DOI": "10.1111/j.1469-8137.2008.02531.x",
+      "article-title": "Salinity tolerance of halophytes",
+      "volume": "179",
+      "author": "Flowers",
+      "year": "2008",
+      "journal-title": "New Phytologists"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "604",
+      "DOI": "10.1071/FP09269",
+      "article-title": "Evolution of halophytes: multiple origins of salt tolerance in land plants",
+      "volume": "37",
+      "author": "Flowers",
+      "year": "2010",
+      "journal-title": "Functional Plant Biology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "313",
+      "DOI": "10.1086/415032",
+      "article-title": "Halophytes",
+      "volume": "61",
+      "author": "Flowers",
+      "year": "1986",
+      "journal-title": "The Quarterly Review of Biology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "875",
+      "DOI": "10.1071/PP9950875",
+      "article-title": "Breeding for salinity resistance in crop plants: where next?",
+      "volume": "22",
+      "author": "Flowers",
+      "year": "1995",
+      "journal-title": "Australian Journal of Plant Physiology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1007/BF02858711",
+      "article-title": "Vitamin C in sea fennel (Crithmum maritimum) an edible wild plant",
+      "volume": "36",
+      "author": "Franke",
+      "year": "1982",
+      "journal-title": "Economic Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0125",
+      "first-page": "474",
+      "article-title": "Effect of photoperiod on flowering of Salicornia bigelovii Torr",
+      "volume": "29",
+      "author": "Fu",
+      "year": "2003",
+      "journal-title": "Journal of Plant Physiology and Molecular Biology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.1007/BF02182251",
+      "article-title": "Halophytic crops for cultivation at seawater salinity",
+      "volume": "89",
+      "author": "Gallagher",
+      "year": "1985",
+      "journal-title": "Plant and Soil"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "220",
+      "DOI": "10.1016/j.envexpbot.2008.11.001",
+      "article-title": "Interactive effects of NaCl salinity and elevated atmospheric CO2 concentration on growth, photosynthesis, water relations and chemical composition of the potential cash crop halophyte Aster tripolium L.",
+      "volume": "65",
+      "author": "Geissler",
+      "year": "2009",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "1065",
+      "DOI": "10.1126/science.251.4997.1065",
+      "article-title": "Salicornia bigelovii Torr—an oilseed halophyte for seawater irrigation",
+      "volume": "251",
+      "author": "Glenn",
+      "year": "1991",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "227",
+      "DOI": "10.1016/S0735-2689(99)00388-3",
+      "article-title": "Salt tolerance and crop potential of halophytes",
+      "volume": "18",
+      "author": "Glenn",
+      "year": "1999",
+      "journal-title": "Critical Reviews in Plant Sciences"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "76",
+      "DOI": "10.1038/scientificamerican0898-76",
+      "article-title": "Irrigating crops with seawater",
+      "volume": "279",
+      "author": "Glenn",
+      "year": "1998",
+      "journal-title": "Scientific American"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1016/0377-8401(92)90109-J",
+      "article-title": "Salicornia bigelovii Torr.: a seawater-irrigated forage for goats",
+      "volume": "40",
+      "author": "Glenn",
+      "year": "1992",
+      "journal-title": "Animal Feed Science and Technology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "S-149",
+      "DOI": "10.2134/jeq2007.0450",
+      "article-title": "Feasibility of irrigating pickleweed (Salicornia bigelovii Torr.) with hyper-saline drainage water",
+      "volume": "37",
+      "author": "Grattan",
+      "year": "2008",
+      "journal-title": "Journal of Environment Quality"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1016/S0304-4238(98)00192-7",
+      "article-title": "Salinity-mineral nutrient relations in horticultural crops",
+      "volume": "78",
+      "author": "Grattan",
+      "year": "1999",
+      "journal-title": "Scientia Horticulturae"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1300/J068v07n01_06",
+      "article-title": "Mineral nutrition of leafy vegetable crops irrigated with saline drainage water",
+      "volume": "7",
+      "author": "Grieve",
+      "year": "2001",
+      "journal-title": "Journal of Vegetable Crop Production"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1186/1746-4269-2-1",
+      "article-title": "Food, flavouring and feed plant traditions in the Tyrrhenian sector of Basilicata, Italy",
+      "volume": "2",
+      "author": "Guarrera",
+      "year": "2006",
+      "journal-title": "Journal of Ethnobiology and Ethnomedicine"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "313",
+      "DOI": "10.1007/s002170050501",
+      "article-title": "Lipids classes, fatty acids and carotenes of the leaves of six edible wild plants",
+      "volume": "209",
+      "author": "Guil-Guerrero",
+      "year": "1999",
+      "journal-title": "European Food Research and Technology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0185",
+      "first-page": "47",
+      "article-title": "Effects of saline irrigation on growth, physiology and quality of Mesembryanthemum crystallinum L., a rare vegetable crop",
+      "volume": "82",
+      "author": "Herppich",
+      "year": "2008",
+      "journal-title": "Journal of Applied Botany and Food Quality"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.1126/science.229.4714.653",
+      "article-title": "Molybdenum availability, nitrogen limitation, and phytoplankton growth in natural waters",
+      "volume": "229",
+      "author": "Howarth",
+      "year": "1985",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "993",
+      "DOI": "10.1016/j.foodchem.2009.11.038",
+      "article-title": "Antioxidant activity and profiles of common vegetables in Singapore",
+      "volume": "120",
+      "author": "Isabelle",
+      "year": "2010",
+      "journal-title": "Food Chemistry"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "1143",
+      "DOI": "10.2307/25065909",
+      "article-title": "A taxonomic nightmare comes true: phylogeny and biogeography of glassworts (Salicornia L. Chenopodiaceae)",
+      "volume": "56",
+      "author": "Kadereit",
+      "year": "2007",
+      "journal-title": "Taxon"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "617",
+      "DOI": "10.2307/25065639",
+      "article-title": "Phylogeny of Salicornioideae (Chenopodiaceae): diversification, biogeography, and evolutionary trends in leaf and flower morphology",
+      "volume": "55",
+      "author": "Kadereit",
+      "year": "2006",
+      "journal-title": "Taxon"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0210",
+      "series-title": "Ecophysiology of High Salinity Tolerant Plants",
+      "first-page": "11",
+      "article-title": "Halophyte seed germination",
+      "author": "Khan",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1006/jare.2000.0640",
+      "article-title": "Germination responses of Salicornia rubra to temperature and salinity",
+      "volume": "45",
+      "author": "Khan",
+      "year": "2000",
+      "journal-title": "Journal of Arid Environments"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "136",
+      "DOI": "10.1016/j.envexpbot.2005.02.001",
+      "article-title": "Effect of salinity on growth, photosynthesis, water relations and solute composition of the potential cash crop halophyte Plantago coronopus (L.)",
+      "volume": "56",
+      "author": "Koyro",
+      "year": "2006",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.9755/ejfa.v23i1.5308",
+      "article-title": "Halophytic crops: a resource for the future to reduce the water crisis?",
+      "volume": "23",
+      "author": "Koyro",
+      "year": "2011",
+      "journal-title": "Emirates Journal of Food and Agriculture"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0230",
+      "series-title": "Ecophysiology of High Salinity Tolerant Plants",
+      "first-page": "345",
+      "article-title": "Mechanisms of cash crop halophytes to maintain yields and reclaim saline soils in arid areas",
+      "author": "Koyro",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0235",
+      "unstructured": "Lieth, H., 2000. Cashcrop halophytes for future halophyte growers. EU concerted action project IC 18CT96-0055, final meeting at the beginning of the EXPO 2000. Institute of Environmental Systems Research, University of Osnabrück, Germany. ISSN 09336-3114, No. 20."
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "519",
+      "DOI": "10.1016/j.lwt.2009.09.021",
+      "article-title": "Nutritional characterization and changes in quality of Salicornia bigelovii Torr. during storage",
+      "volume": "43",
+      "author": "Lu",
+      "year": "2010",
+      "journal-title": "LWT – Food Science and Technology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "36",
+      "DOI": "10.4081/ija.2011.e7",
+      "article-title": "Saline agriculture in Mediterranean environments",
+      "volume": "6",
+      "author": "Maggio",
+      "year": "2011",
+      "journal-title": "Italian Journal of Agronomy"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "656",
+      "DOI": "10.1021/ie100270x",
+      "article-title": "Halophytes present new opportunities in phytoremediation of heavy metals and saline soils",
+      "volume": "50",
+      "author": "Manousaki",
+      "year": "2011",
+      "journal-title": "Industrial and Engineering Chemistry Research"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1007/s11104-008-9681-6",
+      "article-title": "Effect of salinity and chemical factors on seed germination in the halophyte Crithmum maritimum L.",
+      "volume": "313",
+      "author": "Meot-Duros",
+      "year": "2008",
+      "journal-title": "Plant and Soil"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0260",
+      "doi-asserted-by": "crossref",
+      "first-page": "1345",
+      "DOI": "10.1016/j.plantsci.2004.01.016",
+      "article-title": "Effect of salinity on osmotic adjustment, glycinebetaine accumulation and the betaine aldehyde dehydrogenase gene expression in two halophytic plants, Salicornia europaea and Suaeda maritime",
+      "volume": "166",
+      "author": "Moghaieb",
+      "year": "2004",
+      "journal-title": "Plant Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0265",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1139/b04-159",
+      "article-title": "Forensic palynology and ethnobotany of Salicornia species (Chenopodiaceae) in northwest Canada and Alaska",
+      "volume": "83",
+      "author": "Mudie",
+      "year": "2005",
+      "journal-title": "Canadian Journal of Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0270",
+      "series-title": "Arid Lands Today and Tomorrow: Proceedings of an International Research and Development Conference",
+      "article-title": "Saline environments and halophytic crops",
+      "author": "O’Leary",
+      "year": "1988"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0275",
+      "series-title": "Halophytes as a Resource for Livestock and for Rehabilitation of Degraded Lands",
+      "first-page": "7",
+      "article-title": "Global distribution and potential for halophytes",
+      "author": "O’Leary",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0280",
+      "doi-asserted-by": "crossref",
+      "first-page": "311",
+      "DOI": "10.1007/BF02182250",
+      "article-title": "Agricultural production of halophytes irrigated with seawater",
+      "volume": "89",
+      "author": "O’Leary",
+      "year": "1985",
+      "journal-title": "Plant and Soil"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0285",
+      "unstructured": "OASE Foundation, 2009. Biosaline Agriculture, Amsterdam, The Netherlands. http://www.oasefoundation.eu/project_sub/163."
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0290",
+      "doi-asserted-by": "crossref",
+      "first-page": "531",
+      "DOI": "10.1078/0176-1617-01084",
+      "article-title": "Defense potentials to NaCl in a mangrove, Bruguiera parviflora: differential changes of isoforms of some antioxidative enzymes",
+      "volume": "161",
+      "author": "Parida",
+      "year": "2004",
+      "journal-title": "Journal of Plant Physiology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0295",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/0378-3774(95)01171-E",
+      "article-title": "Irrigation with brackish water under desert conditions X. Irrigation management of tomatoes (Lycopersicon esculentum Mills) on desert sand dunes",
+      "volume": "28",
+      "author": "Pasternak",
+      "year": "1995",
+      "journal-title": "Agricultural Water Management"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0300",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.1080/10715760290006484",
+      "article-title": "The antioxidant activity of regularly consumed fruit and vegetables reflects their phenolic and vitamin C composition",
+      "volume": "36",
+      "author": "Proteggente",
+      "year": "2002",
+      "journal-title": "Free Radical Research"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0305",
+      "first-page": "548",
+      "article-title": "Salicornia herbacea: botanical, chemical and pharmacological review of halophyte marsh plant",
+      "volume": "3",
+      "author": "Rhee",
+      "year": "2009",
+      "journal-title": "Journal of Medicinal Plants Research"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0310",
+      "doi-asserted-by": "crossref",
+      "first-page": "1478",
+      "DOI": "10.1126/science.1168572",
+      "article-title": "Crops for a salinized world",
+      "volume": "322",
+      "author": "Rozema",
+      "year": "2008",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0315",
+      "series-title": "World Vegetables: Principles, Production and Nutritive Values",
+      "first-page": "843",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0320",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1016/S0168-9452(98)00075-2",
+      "article-title": "The Mo-hydroxylases xanthine dehydrogenase and aldehyde oxidase in ryegrass as affected by nitrogen and salinity",
+      "volume": "135",
+      "author": "Sagi",
+      "year": "1998",
+      "journal-title": "Plant Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0325",
+      "doi-asserted-by": "crossref",
+      "first-page": "546",
+      "DOI": "10.1111/j.1399-3054.1997.tb05355.x",
+      "article-title": "Nitrate reductase and molybdenum cofactor in annual ryegrass as affected by salinity and nitrogen source",
+      "volume": "99",
+      "author": "Sagi",
+      "year": "1997",
+      "journal-title": "Physiologia Plantarum"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0330",
+      "series-title": "Medicinal and Aromatic Plants",
+      "first-page": "75",
+      "article-title": "A comparison of cultivation and wild collection of medicinal and aromatic plants under sustainability aspects",
+      "author": "Schippmann",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0335",
+      "doi-asserted-by": "crossref",
+      "first-page": "151",
+      "DOI": "10.1016/B978-0-12-387692-8.00005-9",
+      "article-title": "Ion transport in halophytes",
+      "volume": "57",
+      "author": "Shabala",
+      "year": "2011",
+      "journal-title": "Advances in Botanical Research"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0340",
+      "unstructured": "Shpigel, M., Sagi, M., Ventura, Y., 2007. Constructed wetlands with Salicornia as an environmentally friendly biofilter and a valuable by-product. COST Workshop 859. Nutrient Biofortification and Exclusion of Pollutants in Food Plants (Abstract)."
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0345",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.4067/S0716-97602004000200013",
+      "article-title": "Omega-3 fatty acids and antioxidants in edible wild plants",
+      "volume": "37",
+      "author": "Simopoulos",
+      "year": "2004",
+      "journal-title": "Biological Research"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0350",
+      "doi-asserted-by": "crossref",
+      "first-page": "1682",
+      "DOI": "10.1111/j.1365-2621.2010.02315.x",
+      "article-title": "Effect of processing on the amino acid content of New Zealand spinach (Tetragonia tetragonioides Pall. Kuntze)",
+      "volume": "45",
+      "author": "Słupski",
+      "year": "2010",
+      "journal-title": "International Journal of Food Science & Technology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0355",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1111/j.1095-8339.2006.00549.x",
+      "article-title": "Ethnobotanical review of wild edible plants in Spain",
+      "volume": "152",
+      "author": "Tardío",
+      "year": "2006",
+      "journal-title": "Botanical Journal of the Linnean Society"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0360",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1016/j.envexpbot.2009.05.008",
+      "article-title": "Recent developments in understanding salinity tolerance",
+      "volume": "67",
+      "author": "Türkan",
+      "year": "2009",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0365",
+      "unstructured": "van der Voort, M., BaricicovaV., Dandar, M., Grzegorzewska, M., Schoorlemmer, H., Szabo C., Zmarlick K., 2007. Quality requirements for vegetables and fruit products in the European Union. Applied Plant Research, Research Unit Arable Farming and Vegetable Production. EU Access Report 06."
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0370",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.1016/j.scienta.2010.07.015",
+      "article-title": "Molybdenum as an essential element for improving total yield in seawater-grown Salicornia europaea (L.)",
+      "volume": "126",
+      "author": "Ventura",
+      "year": "2010",
+      "journal-title": "Scientia Horticulturae"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0375",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1016/j.scienta.2011.02.001",
+      "article-title": "Effect of seawater concentration on the productivity and nutritional value of annual Salicornia and perennial Sarcocornia halophytes as leafy vegetable crops",
+      "volume": "128",
+      "author": "Ventura",
+      "year": "2011",
+      "journal-title": "Scientia Horticulturae"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0380",
+      "doi-asserted-by": "crossref",
+      "first-page": "510",
+      "DOI": "10.1016/j.scienta.2011.08.008",
+      "article-title": "Effects of day length on flowering and yield production of Salicornia and Sarcocornia species",
+      "volume": "130",
+      "author": "Ventura",
+      "year": "2011",
+      "journal-title": "Scientia Horticulturae"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0385",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.17660/ActaHortic.1989.242.15",
+      "article-title": "Plant domestication and the development of sea starwort (Aster tripolium L.) as a new vegetable crop",
+      "volume": "242",
+      "author": "Wagenvoort",
+      "year": "1989",
+      "journal-title": "Acta Horticulturae"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0390",
+      "doi-asserted-by": "crossref",
+      "first-page": "501",
+      "DOI": "10.1006/anbo.1999.1086",
+      "article-title": "Growth stage modulates salinity tolerance of New Zealand Spinach (Tetragonia tetragonioides, Pall) and Red Orach (Atriplex hortensis L.)",
+      "volume": "85",
+      "author": "Wilson",
+      "year": "2000",
+      "journal-title": "Annals of Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0395",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1007/BF00039828",
+      "article-title": "Salinity and seed germination patterns in coastal plants",
+      "volume": "61",
+      "author": "Woodell",
+      "year": "1985",
+      "journal-title": "Vegetatio"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0400",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/j.envexpbot.2007.02.010",
+      "article-title": "Salinity tolerance of purslane (Portulaca oleracea L.) is achieved by enhanced antioxidative system, lower level of lipid peroxidation and proline accumulation",
+      "volume": "61",
+      "author": "Yazici",
+      "year": "2007",
+      "journal-title": "Environmental and Experimental Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0405",
+      "first-page": "41",
+      "article-title": "Daylength affects floral initiation in Salicornia bigelovii Torr.",
+      "author": "York",
+      "year": "2000",
+      "journal-title": "Plant Biology"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0410",
+      "doi-asserted-by": "crossref",
+      "first-page": "730",
+      "DOI": "10.1016/j.ecoleng.2010.01.002",
+      "article-title": "Potential for the improvement of Salicornia bigelovii through selective breeding",
+      "volume": "36",
+      "author": "Zerai",
+      "year": "2010",
+      "journal-title": "Ecological Engineering"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0415",
+      "doi-asserted-by": "crossref",
+      "first-page": "66",
+      "DOI": "10.1016/S1360-1385(00)01838-0",
+      "article-title": "Plant salt tolerance",
+      "volume": "6",
+      "author": "Zhu",
+      "year": "2001",
+      "journal-title": "Trends in Plant Science"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0420",
+      "first-page": "697",
+      "article-title": "Growth and selective ion transport of Limonium stocksii Plumbaginacea under saline conditions",
+      "volume": "40",
+      "author": "Zia",
+      "year": "2008",
+      "journal-title": "Pakistan Journal of Botany"
+    },
+    {
+      "key": "10.1016/j.envexpbot.2012.07.010_bib0425",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1080/15324989609381436",
+      "article-title": "Inula crithmoides: a candidate plant for saline agriculture",
+      "volume": "10",
+      "author": "Zurayk",
+      "year": "1996",
+      "journal-title": "Arid Soil Research and Rehabilitation"
+    }
+  ],
+  "container-title": [
+    "Environmental and Experimental Botany"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0098847212001736?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0098847212001736?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        8
+      ]
+    ],
+    "date-time": "2025-04-08T21:48:20Z",
+    "timestamp": 1744148900000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0098847212001736"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        8
+      ]
+    ]
+  },
+  "references-count": 85,
+  "alternative-id": [
+    "S0098847212001736"
+  ],
+  "URL": "https://doi.org/10.1016/j.envexpbot.2012.07.010",
+  "relation": {},
+  "ISSN": [
+    "0098-8472"
+  ],
+  "issn-type": [
+    {
+      "value": "0098-8472",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        8
+      ]
+    ]
+  }
+}

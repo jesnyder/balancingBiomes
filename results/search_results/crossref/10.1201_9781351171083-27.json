@@ -1,0 +1,113 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2024-09-10T19:03:01Z",
+    "timestamp": 1725994981886
+  },
+  "publisher-location": "Waretown, NJ : Apple Academic Press, 2018.",
+  "edition-number": "0",
+  "reference-count": 1,
+  "publisher": "Apple Academic Press",
+  "isbn-type": [
+    {
+      "type": "electronic",
+      "value": "9781351171083"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        29
+      ]
+    ]
+  },
+  "DOI": "10.1201/9781351171083-27",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        12,
+        1
+      ]
+    ],
+    "date-time": "2020-12-01T16:10:27Z",
+    "timestamp": 1606839027000
+  },
+  "page": "379-416",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Potential and Role of Halophyte Crops in Saline Environments"
+  ],
+  "prefix": "10.1201",
+  "member": "301",
+  "reference": [
+    {
+      "key": "ref9",
+      "unstructured": "1. Abrol, I. P.; Yadav, J. S. P.; Massoud, F. I. Salt Affected Soils and Their Management; FAO Soils Bulletin. Food and Agriculture Organization: Rome, Italy, 1988; pp 39."
+    }
+  ],
+  "container-title": [
+    "Engineering Practices for Management of Soil Salinity"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        12,
+        25
+      ]
+    ],
+    "date-time": "2020-12-25T08:22:08Z",
+    "timestamp": 1608884528000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.taylorfrancis.com/books/9781351171076/chapters/10.1201/9781351171083-27"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        29
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781351171083"
+  ],
+  "references-count": 1,
+  "URL": "https://doi.org/10.1201/9781351171083-27",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        29
+      ]
+    ]
+  }
+}

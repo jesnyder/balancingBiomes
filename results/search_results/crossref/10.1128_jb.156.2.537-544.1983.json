@@ -1,0 +1,731 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        18
+      ]
+    ],
+    "date-time": "2025-10-18T20:58:21Z",
+    "timestamp": 1760821101857
+  },
+  "reference-count": 47,
+  "publisher": "American Society for Microbiology",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1983,
+            11,
+            1
+          ]
+        ],
+        "date-time": "1983-11-01T00:00:00Z",
+        "timestamp": 436492800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.asm.org/non-commercial-tdm-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.asm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J Bacteriol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1983,
+        11
+      ]
+    ]
+  },
+  "abstract": "<jats:p>The influence of pH on the proton motive force of Vibrio costicola was determined by measuring the distributions of triphenylmethylphosphonium cation (membrane potential, delta psi) and either dimethyloxazolidinedione or methylamine (osmotic component, delta pH). As the pH of the medium was adjusted from 5.7 to 9.0, the proton motive force steadily decreased from about 170 to 100 mV. This decline occurred, despite a large increase in the membrane potential to its maximum value at pH 9.0, because of the loss of the pH gradient (inside alkaline). The cytoplasm and medium were of equal pH at 7.5; membrane permeability properties were lost at the pH extremes of 5.0 and 9.5. Protonophores and monensin prevented the net efflux of protons normally found when an oxygen pulse was given to an anaerobic cell suspension. A Na+/H+ antiport activity was measured for both Na+ influx and efflux and was shown to be dissipated by protonophores and monensin. These results strongly favor the concept that respiratory energy is used for proton efflux and that the resulting proton motive force may be converted to a sodium motive force through Na+/H+ antiport (driven by delta psi). A role for antiport activity in pH regulation of the cytosol can also explain the broad pH range for optimal growth, extending to the alkaline extreme of pH 9.0.</jats:p>",
+  "DOI": "10.1128/jb.156.2.537-544.1983",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        3
+      ]
+    ],
+    "date-time": "2020-01-03T17:52:32Z",
+    "timestamp": 1578073952000
+  },
+  "page": "537-544",
+  "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 32,
+  "title": [
+    "Proton motive force and Na+/H+ antiport in a moderate halophile"
+  ],
+  "prefix": "10.1128",
+  "volume": "156",
+  "author": [
+    {
+      "given": "F",
+      "family": "Hamaide",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "D J",
+      "family": "Kushner",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "G D",
+      "family": "Sprott",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "235",
+  "reference": [
+    {
+      "key": "p_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "2337",
+      "DOI": "10.1016/S0021-9258(18)93480-0",
+      "article-title": "Determination of intramitochondrial pH and intramitochondrialextramitochondrial pH gradient of isolated heart mitochondria by the use of 5,5-dimethy1-2,4 oxazolidinedione",
+      "volume": "243",
+      "author": "Addanki S.",
+      "year": "1968",
+      "unstructured": "Addanki , S. , F. D. Cahill , and J. F. Sotos . 1968 . Determination of intramitochondrial pH and intramitochondrialextramitochondrial pH gradient of isolated heart mitochondria by the use of 5,5-dimethy1-2,4 oxazolidinedione . J. Biol. Chem. 243 : 2337 - 2348 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bakker E. P. 1979. Ionophore antibiotics p. 67-97. In F. E. Hahn (ed.) Antibiotics vol. V part I: mechanism of action of antibacterial agents. Springer-Verlag KG Berlin.",
+      "DOI": "10.1007/978-3-642-46403-4_5"
+    },
+    {
+      "key": "p_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "474",
+      "DOI": "10.1016/0005-2728(82)90190-6",
+      "article-title": "Membrane potential in a potassium transport-negative mutant of Escherichia coli K-12",
+      "volume": "681",
+      "author": "Bakker E. P.",
+      "year": "1982",
+      "unstructured": "Bakker , E. P. 1982 . Membrane potential in a potassium transport-negative mutant of Escherichia coli K-12 . Biochim. Biophys. Acta 681 : 474 - 483 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "208",
+      "DOI": "10.1016/0003-9861(79)90611-8",
+      "article-title": "Cation/proton antiport systems in Escherichia coli: properties of the sodium/proton antiporter",
+      "volume": "194",
+      "author": "Beck J. C.",
+      "year": "1979",
+      "unstructured": "Beck , J. C. , and B. P. Rosen . 1979 . Cation/proton antiport systems in Escherichia coli: properties of the sodium/proton antiporter . Arch. Biochem. Biophys. 194 : 208 - 214 .",
+      "journal-title": "Arch. Biochem. Biophys."
+    },
+    {
+      "key": "p_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "529",
+      "DOI": "10.1042/bj2080529",
+      "article-title": "Cation transport mechanisms in Mycoplasma mycoides var. Capri cells: Na+-dependent K' accumulation",
+      "volume": "208",
+      "author": "Benyoucef M.",
+      "year": "1982",
+      "unstructured": "Benyoucef , M. , J. -L. Rigaud , and G. Leblanc . 1982 . Cation transport mechanisms in Mycoplasma mycoides var. Capri cells: Na+-dependent K' accumulation . Biochem. J. 208 : 529 - 538 .",
+      "journal-title": "Biochem. J."
+    },
+    {
+      "key": "p_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "539",
+      "DOI": "10.1042/bj2080539",
+      "article-title": "Cation transport mechanisms in Mycoplasma mycoides var. Capri cells: the nature of the link between K' and Na+ transport",
+      "volume": "208",
+      "author": "Benyoucef M.",
+      "year": "1982",
+      "unstructured": "Benyoucef , M. , J. -L. Rigaud , and G. Leblanc . 1982 . Cation transport mechanisms in Mycoplasma mycoides var. Capri cells: the nature of the link between K' and Na+ transport . Biochem. J. 208 : 539 - 547 .",
+      "journal-title": "Biochem. J."
+    },
+    {
+      "key": "p_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1016/S0021-9258(19)86259-2",
+      "article-title": "Cation/proton antiport systems in Escherichia coli: properties of the potassium/proton antiporter",
+      "volume": "255",
+      "author": "Brey R. N.",
+      "year": "1980",
+      "unstructured": "Brey , R. N. , B. P. Rosen , and E. N. Sorensen . 1980 . Cation/proton antiport systems in Escherichia coli: properties of the potassium/proton antiporter . J. Biol. Chem. 255 : 39 - 44 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "35",
+      "DOI": "10.1016/0014-5793(82)81237-4",
+      "article-title": "A biotin-dependent sodium pump: glutaconyl-CoA decarboxylase from Acidaminococcusfermentans",
+      "volume": "148",
+      "author": "Buckel W.",
+      "year": "1982",
+      "unstructured": "Buckel , W. , and R. Semmler . 1982 . A biotin-dependent sodium pump: glutaconyl-CoA decarboxylase from Acidaminococcusfermentans . FEBS Lett. 148 : 35 - 38 .",
+      "journal-title": "FEBS Lett."
+    },
+    {
+      "key": "p_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "32",
+      "DOI": "10.1099/00221287-20-1-32",
+      "article-title": "Lysis of Vibrio costicolus by osmotic shock",
+      "volume": "20",
+      "author": "Christian J. H. B.",
+      "year": "1959",
+      "unstructured": "Christian , J. H. B. , and M. Ingram . 1959 . Lysis of Vibrio costicolus by osmotic shock . J. Gen. Microbiol. 20 : 32 - 42 .",
+      "journal-title": "J. Gen. Microbiol."
+    },
+    {
+      "key": "p_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "506",
+      "DOI": "10.1016/0006-3002(62)90453-5",
+      "article-title": "Solute concentrations within cells of halophilic and non-halophilic bacteria",
+      "volume": "65",
+      "author": "Christian J. H. B.",
+      "year": "1962",
+      "unstructured": "Christian , J. H. B. , and J. A. Waltho . 1962 . Solute concentrations within cells of halophilic and non-halophilic bacteria . Biochim. Biophys. Acta 65 : 506 - 508 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_11",
+      "unstructured": "Cook G. M. W. 1976. Techniques for the analysis of membrane carbohydrates p. 283-351. In A. H. Eddy (ed.) Biochemical analysis of membranes. Chapman & Hall Ltd. London."
+    },
+    {
+      "key": "p_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "443",
+      "DOI": "10.1111/j.1432-1033.1982.tb05807.x",
+      "article-title": "The generation of an electrochemical gradient of sodium ions upon decarboxylation of oxaloacetate by the membrane-bound and Na+-activated oxaloacetate decarboxylase from Klebsiella aerogenes",
+      "volume": "121",
+      "author": "Dimroth P.",
+      "year": "1982",
+      "unstructured": "Dimroth , P. 1982 . The generation of an electrochemical gradient of sodium ions upon decarboxylation of oxaloacetate by the membrane-bound and Na+-activated oxaloacetate decarboxylase from Klebsiella aerogenes . Eur. J. Biochem. 121 : 443 - 449 .",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "p_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1139/m70-047",
+      "article-title": "Nutrition and distribution of salt response in populations of moderately halophilic bacteria",
+      "volume": "16",
+      "author": "Forsyth M. P.",
+      "year": "1970",
+      "unstructured": "Forsyth , M. P. , and D. J. Kushner . 1970 . Nutrition and distribution of salt response in populations of moderately halophilic bacteria . Can. J. Microbiol. 16 : 253 - 261 .",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "p_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1253",
+      "DOI": "10.1016/S0021-9258(19)56980-0",
+      "article-title": "Methylmalonyl coenzyme A decarboxylase: its role in succinate decarboxylation by Micrococcus lactilyticus",
+      "volume": "243",
+      "author": "Galivan J. H.",
+      "year": "1968",
+      "unstructured": "Galivan , J. H. , and S. H. G. Allen . 1968 . Methylmalonyl coenzyme A decarboxylase: its role in succinate decarboxylation by Micrococcus lactilyticus . J. Biol. Chem. 243 : 1253 - 1261 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_15",
+      "first-page": "83",
+      "article-title": "Membranes and energy transduction in bacteria",
+      "volume": "6",
+      "author": "Harold F. M.",
+      "year": "1977",
+      "unstructured": "Harold , F. M. 1977 . Membranes and energy transduction in bacteria . Curr. Top. Bioenerg. 6 : 83 - 149 .",
+      "journal-title": "Curr. Top. Bioenerg."
+    },
+    {
+      "key": "p_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1007/BF01868093",
+      "article-title": "Cation transport and electrogenesis by Streptococcus faecalis. I. The membrane potential",
+      "volume": "8",
+      "author": "Harold F. M.",
+      "year": "1972",
+      "unstructured": "Harold , F. M. , and D. Papineau . 1972 . Cation transport and electrogenesis by Streptococcus faecalis. I. The membrane potential . J. Membr. Biol. 8 : 27 - 44 .",
+      "journal-title": "J. Membr. Biol."
+    },
+    {
+      "key": "p_17",
+      "first-page": "81",
+      "article-title": "Transport of H', K+, Na+ and Ca++",
+      "volume": "44",
+      "author": "Heefner D. L.",
+      "year": "1982",
+      "unstructured": "Heefner , D. L. 1982 . Transport of H', K+, Na+ and Ca++ in Streptococcus. Mol. Cell. Biochem. 44 : 81 - 106 .",
+      "journal-title": "Streptococcus. Mol. Cell. Biochem."
+    },
+    {
+      "key": "p_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "584",
+      "DOI": "10.1038/296584a0",
+      "article-title": "Conversion of the chemical energy of methylmalonyl-CoA decarboxylation into a Na+ gradient",
+      "volume": "296",
+      "author": "Hilpert W.",
+      "year": "1982",
+      "unstructured": "Hilpert , W. , and P. Dimroth . 1982 . Conversion of the chemical energy of methylmalonyl-CoA decarboxylation into a Na+ gradient . Nature (London) 296 : 584 - 585 .",
+      "journal-title": "Nature (London)"
+    },
+    {
+      "key": "p_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "720",
+      "DOI": "10.1139/m81-110",
+      "article-title": "The transmembrane electrical potential and intracellular pH in methanogenic bacteria",
+      "volume": "27",
+      "author": "Jarrell K. F.",
+      "year": "1981",
+      "unstructured": "Jarrell , K. F. , and G. D. Sprott . 1981 . The transmembrane electrical potential and intracellular pH in methanogenic bacteria . Can. J. Microbiol. 27 : 720 - 728 .",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "p_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "1027",
+      "DOI": "10.1128/JB.136.3.1027-1036.1978",
+      "article-title": "Physiological role and membrane lipid modulation of the membrane-bound (Mg 2+, Na+)-adenosine triphosphatase activity in Acholeplasma laidlawii",
+      "volume": "136",
+      "author": "Jinks D. C.",
+      "year": "1978",
+      "unstructured": "Jinks , D. C. , J. R. Silvius , and R. N. McElhaney . 1978 . Physiological role and membrane lipid modulation of the membrane-bound (Mg 2+, Na+)-adenosine triphosphatase activity in Acholeplasma laidlawii . J. Bacteriol. 136 : 1027 - 1036 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "8129",
+      "DOI": "10.1016/S0021-9258(19)86863-1",
+      "article-title": "Active transport of thallous ions by Streptococcus lactis",
+      "volume": "254",
+      "author": "Kashket E. R.",
+      "year": "1979",
+      "unstructured": "Kashket , E. R. 1979 . Active transport of thallous ions by Streptococcus lactis . J. Biol. Chem. 254 : 8129 - 8131 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "1885",
+      "DOI": "10.1016/S0021-9258(19)68120-2",
+      "article-title": "A sodium requirement for growth, solute transport, and pH homeostasis in Bacillus firmus RAB",
+      "volume": "257",
+      "author": "Krulwich T. A.",
+      "year": "1982",
+      "unstructured": "Krulwich , T. A. , A. A. Guffanti , R. F. Bornstein , and J. Hoffstein . 1982 . A sodium requirement for growth, solute transport, and pH homeostasis in Bacillus firmus RAB . J. Biol. Chem. 257 : 1885 - 1889 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "65",
+      "DOI": "10.1128/jb.154.1.65-71.1983",
+      "article-title": "Proton electrochemical gradients in washed cells of Nitrosomonas europaea and Nitrobacter agilis",
+      "volume": "154",
+      "author": "Kumar S.",
+      "year": "1983",
+      "unstructured": "Kumar , S. , and D. J. D. Nicholas . 1983 . Proton electrochemical gradients in washed cells of Nitrosomonas europaea and Nitrobacter agilis . J. Bacteriol. 154 : 65 - 71 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1163",
+      "DOI": "10.1128/jb.153.3.1163-1171.1983",
+      "article-title": "Development of salt-resistant active transport in a moderately halophilic bacterium",
+      "volume": "153",
+      "author": "Kushner D. J.",
+      "year": "1983",
+      "unstructured": "Kushner , D. J. , F. Hamaide , and R. A. MacLeod . 1983 . Development of salt-resistant active transport in a moderately halophilic bacterium . J. Bacteriol. 153 : 1163 - 1171 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "377",
+      "DOI": "10.1016/0304-4157(79)90011-X",
+      "article-title": "The role of Na+ in transport processes of bacterial membranes",
+      "volume": "559",
+      "author": "Lanyi J. K.",
+      "year": "1979",
+      "unstructured": "Lanyi , J. K. 1979 . The role of Na+ in transport processes of bacterial membranes . Biochim. Biophys. Acta 559 : 377 - 397 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "4608",
+      "DOI": "10.1021/bi00666a010",
+      "article-title": "Existence of electrogenic hydrogen ion/sodium ion antiport in Halobacterium halobium cell envelope vesicles",
+      "volume": "15",
+      "author": "Lanyi J. K.",
+      "year": "1976",
+      "unstructured": "Lanyi , J. K. , and R. E. MacDonald . 1976 . Existence of electrogenic hydrogen ion/sodium ion antiport in Halobacterium halobium cell envelope vesicles . Biochemistry 15 : 4608 - 4614 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "354",
+      "DOI": "10.1016/0014-5793(80)80979-3",
+      "article-title": "Na+ transport via Na+/H+ antiport in Halobacterium halobium envelope vesicles",
+      "volume": "117",
+      "author": "Luisi B. F.",
+      "year": "1980",
+      "unstructured": "Luisi , B. F. , J. K. Lanyi , and H. J. Weber . 1980 . Na+ transport via Na+/H+ antiport in Halobacterium halobium envelope vesicles . FEBS Lett. 117 : 354 - 358 .",
+      "journal-title": "FEBS Lett."
+    },
+    {
+      "key": "p_28",
+      "first-page": "1",
+      "article-title": "Methods for studying transport in bacteria",
+      "volume": "5",
+      "author": "Maloney P. C.",
+      "year": "1975",
+      "unstructured": "Maloney , P. C. , E. R. Kashket , and T. H. Wilson . 1975 . Methods for studying transport in bacteria . Methods Membr. Biol. 5 : 1 - 49 .",
+      "journal-title": "Methods Membr. Biol."
+    },
+    {
+      "key": "p_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "7391",
+      "DOI": "10.1016/S0021-9258(20)79716-4",
+      "article-title": "Monovalent cation/proton antiporters in membrane vesicles from Bacillus alcalophilus",
+      "volume": "255",
+      "author": "Mandel K. G.",
+      "year": "1980",
+      "unstructured": "Mandel , K. G. , A. A. Guffanti , and T. A. Krulwich . 1980 . Monovalent cation/proton antiporters in membrane vesicles from Bacillus alcalophilus . J. Biol. Chem. 255 : 7391 - 7396 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1111/j.1469-185X.1966.tb01501.x",
+      "article-title": "Chemiosmotic coupling in oxidative and photosynthetic phosphorylation",
+      "volume": "41",
+      "author": "Mltchell P.",
+      "year": "1966",
+      "unstructured": "Mltchell , P. 1966 . Chemiosmotic coupling in oxidative and photosynthetic phosphorylation . Biol. Rev. Camb. Philos. Soc. 41 : 445 - 502 .",
+      "journal-title": "Biol. Rev. Camb. Philos. Soc."
+    },
+    {
+      "key": "p_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1111/j.1432-1033.1969.tb00588.x",
+      "article-title": "Translocation of some anions cations and acids in rat liver mitochondria",
+      "volume": "9",
+      "author": "Mitchell P.",
+      "year": "1969",
+      "unstructured": "Mitchell , P. , and J. Moyle . 1969 . Translocation of some anions cations and acids in rat liver mitochondria . Eur. J. Biochem. 9 : 149 - 155 .",
+      "journal-title": "Eur. J. Biochem."
+    },
+    {
+      "key": "p_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "441",
+      "DOI": "10.1042/bj1840441",
+      "article-title": "Quantitative analysis of proton-linked transport systems: glutamate transport in Staphylococcus aureus",
+      "volume": "184",
+      "author": "Mitchell W. J.",
+      "year": "1979",
+      "unstructured": "Mitchell , W. J. , I. R. Booth , and W. A. Hamilton . 1979 . Quantitative analysis of proton-linked transport systems: glutamate transport in Staphylococcus aureus . Biochem. J. 184 : 441 - 449 .",
+      "journal-title": "Biochem. J."
+    },
+    {
+      "key": "p_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "737",
+      "DOI": "10.1128/JB.134.3.737-743.1978",
+      "article-title": "Sodium ionproton antiport in a marine bacterium",
+      "volume": "134",
+      "author": "Niven D. F.",
+      "year": "1978",
+      "unstructured": "Niven , D. F. , and R. A. MacLeod . 1978 . Sodium ionproton antiport in a marine bacterium . J. Bacteriol. 134 : 737 - 743 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "151",
+      "DOI": "10.1016/0304-4157(81)90004-6",
+      "article-title": "pH homeostasis in bacteria",
+      "volume": "650",
+      "author": "Padan E.",
+      "year": "1981",
+      "unstructured": "Padan , E. , D. Zilberstein , and S. Schuldner . 1981 . pH homeostasis in bacteria . Biochim. Biophys. Acta 650 : 151 - 166 .",
+      "journal-title": "Biochim. Biophys. Acta"
+    },
+    {
+      "key": "p_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "853",
+      "DOI": "10.1139/m81-134",
+      "article-title": "A simple apparatus for measuring the Eh of anaerobic media",
+      "volume": "27",
+      "author": "Patel G. B.",
+      "year": "1981",
+      "unstructured": "Patel , G. B. , and B. J. Agnew . 1981 . A simple apparatus for measuring the Eh of anaerobic media . Can. J. Microbiol. 27 : 853 - 855 .",
+      "journal-title": "Can. J. Microbiol."
+    },
+    {
+      "key": "p_36",
+      "unstructured": "Rosen B. P. and E. R. Kashket. 1978. Energetics of active transport p. 559-620. In B. P. Rosen (ed.) Bacterial transport. Marcel Dekker Inc. New York."
+    },
+    {
+      "key": "p_37",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1007/BF01558427",
+      "article-title": "The measurement of transmembrane electrochemical proton gradients",
+      "volume": "7",
+      "author": "Rottenberg H.",
+      "year": "1975",
+      "unstructured": "Rottenberg , H. 1975 . The measurement of transmembrane electrochemical proton gradients . Bioenergetics 7 : 61 - 74 .",
+      "journal-title": "Bioenergetics"
+    },
+    {
+      "key": "p_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "10306",
+      "DOI": "10.1016/S0021-9258(18)34020-1",
+      "article-title": "Halorhodopsin is a light-driven chloride pump",
+      "volume": "257",
+      "author": "Schobert B.",
+      "year": "1982",
+      "unstructured": "Schobert , B. , and J. K. Lanyl . 1982 . Halorhodopsin is a light-driven chloride pump . J. Biol. Chem. 257 : 10306 - 10313 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "706",
+      "DOI": "10.1021/bi00597a023",
+      "article-title": "Sodium-proton antiport in isolated membrane vesicles of Escherichia coli",
+      "volume": "17",
+      "author": "Schuldiner S.",
+      "year": "1978",
+      "unstructured": "Schuldiner , S. , and H. Flshkes . 1978 . Sodium-proton antiport in isolated membrane vesicles of Escherichia coli . Biochemistry 17 : 706 - 711 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_40",
+      "doi-asserted-by": "crossref",
+      "first-page": "698",
+      "DOI": "10.1128/JB.130.2.698-703.1977",
+      "article-title": "Cell-bound cations of the moderately halophilic bacterium Vibrio costicola",
+      "volume": "130",
+      "author": "Shindler D. B.",
+      "year": "1977",
+      "unstructured": "Shindler , D. B. , R. M. Wydro , and D. J. Kushner . 1977 . Cell-bound cations of the moderately halophilic bacterium Vibrio costicola . J. Bacteriol. 130 : 698 - 703 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_41",
+      "doi-asserted-by": "crossref",
+      "first-page": "891",
+      "DOI": "10.1128/jb.144.3.891-897.1980",
+      "article-title": "Quantitative measurements of proton motive force and motility in Bacillus subtilis",
+      "volume": "144",
+      "author": "ShIol J.",
+      "year": "1980",
+      "unstructured": "ShIol , J. - I. , S. Matsuura , and Y. Imse . 1980 . Quantitative measurements of proton motive force and motility in Bacillus subtilis . J. Bacteriol. 144 : 891 - 897 .",
+      "journal-title": "J. Bacteriol."
+    },
+    {
+      "key": "p_42",
+      "doi-asserted-by": "crossref",
+      "first-page": "4198",
+      "DOI": "10.1021/bi00517a038",
+      "article-title": "Potassium ion is required for the generation of pH-dependent membrane potential and ApH by the marine bacterium Vibrio alginolyticus",
+      "volume": "20",
+      "author": "Tokuda H.",
+      "year": "1981",
+      "unstructured": "Tokuda , H. , T. Nakamura , and T. Unemoto . 1981 . Potassium ion is required for the generation of pH-dependent membrane potential and ApH by the marine bacterium Vibrio alginolyticus . Biochemistry 20 : 4198 - 4203 .",
+      "journal-title": "Biochemistry"
+    },
+    {
+      "key": "p_43",
+      "doi-asserted-by": "crossref",
+      "first-page": "10007",
+      "DOI": "10.1016/S0021-9258(18)33977-2",
+      "article-title": "Characterization of the respiration-dependent Na' pump in the marine bacterium Vibrio alginolyticus",
+      "volume": "257",
+      "author": "Tokuda H.",
+      "year": "1982",
+      "unstructured": "Tokuda , H. , and T. Unemoto . 1982 . Characterization of the respiration-dependent Na' pump in the marine bacterium Vibrio alginolyticus . J. Biol. Chem. 257 : 10007 - 10014 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_44",
+      "doi-asserted-by": "crossref",
+      "first-page": "943",
+      "DOI": "10.1093/oxfordjournals.jbchem.a132426",
+      "article-title": "Calcium/proton and sodium/proton antiport systems in Escherichia coli",
+      "volume": "85",
+      "author": "Tsuchiya T.",
+      "year": "1979",
+      "unstructured": "Tsuchiya , T. , and K. Takeda . 1979 . Calcium/proton and sodium/proton antiport systems in Escherichia coli . J. Biochem. 85 : 943 - 951 .",
+      "journal-title": "J. Biochem."
+    },
+    {
+      "key": "p_45",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.1042/bj1440087",
+      "article-title": "Proton/sodium ion antiport in Escherichia coli",
+      "volume": "144",
+      "author": "West I. C.",
+      "year": "1974",
+      "unstructured": "West , I. C. , and P. Mitchell . 1974 . Proton/sodium ion antiport in Escherichia coli . Biochem. J. 144 : 87 - 90 .",
+      "journal-title": "Biochem. J."
+    },
+    {
+      "key": "p_46",
+      "doi-asserted-by": "crossref",
+      "first-page": "3687",
+      "DOI": "10.1016/S0021-9258(18)34835-X",
+      "article-title": "The sodium/proton antiporter is part of the pH homeostasis mechanism in Escherichia coli",
+      "volume": "257",
+      "author": "Zilberstein D.",
+      "year": "1982",
+      "unstructured": "Zilberstein , D. , V. Agmon , S. Schuldiner , and E. Padan . 1982 . The sodium/proton antiporter is part of the pH homeostasis mechanism in Escherichia coli . J. Biol. Chem. 257 : 3687 - 3691 .",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "p_47",
+      "doi-asserted-by": "crossref",
+      "first-page": "3692",
+      "DOI": "10.1016/S0021-9258(18)34836-1",
+      "article-title": "Na+ gradient-coupled porters of Escherichia coli share a common subunit",
+      "volume": "257",
+      "author": "Zilberstein D.",
+      "year": "1982",
+      "unstructured": "Zilberstein , D. , I. J. Ophir , E. Padan , and S. Schuldiner . 1982 . Na+ gradient-coupled porters of Escherichia coli share a common subunit . J. Biol. Chem. 257 : 3692 - 3696 .",
+      "journal-title": "J. Biol. Chem."
+    }
+  ],
+  "container-title": [
+    "Journal of Bacteriology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.156.2.537-544.1983",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.asm.org/doi/pdf/10.1128/jb.156.2.537-544.1983",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        7,
+        29
+      ]
+    ],
+    "date-time": "2021-07-29T17:34:11Z",
+    "timestamp": 1627580051000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.asm.org/doi/10.1128/jb.156.2.537-544.1983"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1983,
+        11
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          1983,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1128/jb.156.2.537-544.1983"
+  ],
+  "URL": "https://doi.org/10.1128/jb.156.2.537-544.1983",
+  "relation": {},
+  "ISSN": [
+    "0021-9193",
+    "1098-5530"
+  ],
+  "issn-type": [
+    {
+      "value": "0021-9193",
+      "type": "print"
+    },
+    {
+      "value": "1098-5530",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1983,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-02-02",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ],
+    "date-time": "2025-12-31T01:17:15Z",
+    "timestamp": 1767143835464,
+    "version": "3.48.0"
+  },
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "issue": "S1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            17
+          ]
+        ],
+        "date-time": "2020-04-17T00:00:00Z",
+        "timestamp": 1587081600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 16,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "faseb.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "The FASEB Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:sec>\n                    <jats:label/>\n                    <jats:p>Saline soils limit crop production, and salinity is increasing in farmland in many parts of the world. A halophilic bacterial species has been isolated from salt‐tolerant plants, and when used as an inoculum stimulates growth of alfalfa in salty soil. The hypothesis is that the microbial inoculant induces gene expression changes in the plant, resulting in the increased growth of the plant in salt. To test this, RNA was isolated from inoculated and uninoculated alfalfa plants grown under saline conditions, with additional controls in the absence of salt. RNAseq analysis of these four treatments led to identification of differentially expressed genes (DEG). Several of these DEGs are being examined in more detail using quantitative reverse‐transcriptase PCR. This will lead to the identification of major plant gene expression changes induced by the bacterial inoculum under saline conditions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Support or Funding Information</jats:title>\n                    <jats:p>Our work is being funded by a grant from the Roger and Victoria Sant Educational Endowment for a Sustainable Environment, a John Topham and Susan Redd Butler BYU Faculty Research Award (The Charles Redd Center for Western Studies), and the Department of Microbiology and Molecular Biology, Brigham Young University.</jats:p>\n                  </jats:sec>",
+  "DOI": "10.1096/fasebj.2020.34.s1.04361",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        17
+      ]
+    ],
+    "date-time": "2020-04-17T23:22:50Z",
+    "timestamp": 1587165770000
+  },
+  "page": "1-1",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Halophile Inoculation Significantly Improves Growth of Alfalfa Under Saline Conditions"
+  ],
+  "prefix": "10.1096",
+  "volume": "34",
+  "author": [
+    {
+      "given": "Ashley",
+      "family": "Miller",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Brigham Young University"
+        }
+      ]
+    },
+    {
+      "given": "Alisa",
+      "family": "Knowles",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Brigham Young University"
+        }
+      ]
+    },
+    {
+      "given": "Brent",
+      "family": "Nielsen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Brigham Young University"
+        }
+      ]
+    },
+    {
+      "given": "Jonathon",
+      "family": "Hill",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Brigham Young University"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        17
+      ]
+    ]
+  },
+  "container-title": [
+    "The FASEB Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ],
+    "date-time": "2025-12-31T01:13:35Z",
+    "timestamp": 1767143615000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.2020.34.s1.04361"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        4
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "S1",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1096/fasebj.2020.34.s1.04361"
+  ],
+  "URL": "https://doi.org/10.1096/fasebj.2020.34.s1.04361",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0892-6638",
+    "1530-6860"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0892-6638"
+    },
+    {
+      "type": "electronic",
+      "value": "1530-6860"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-04-17",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}
