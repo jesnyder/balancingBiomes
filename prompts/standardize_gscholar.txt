@@ -1,0 +1,205 @@
+Write python code to acheive the following objective.
+Accuracy is more important than speed.
+Heavily comment the code to explain how and why the code works.
+
+Include a header comment in the python code with the following:
+* Date the code is generated
+
+* Objective: Compile and Standardize the results from Google Scholar query
+
+* Tasks: List the major tasks to accomplish the goal in  sufficient detail for the work to be reproduced. The tasks are list as subheadings below with descriptions.
+
+* Input: List the files, databases, and packages required to run the code
+
+* Output: Lit files produced by the code
+
+# Tasks to complete the objective
+
+Write the code in a main function called
+"standardize_gscholar"
+
+## Compile Google Scholar Results into a list of artciles which are of type dictionary
+open each json file in this directory:
+"results/search_results/gscholar/pages"
+
+Read in each artcile. Files are formatted one of two ways:
+Format #1: List of dictionaries, each item in the list is an article
+[
+  {
+    "title": "Halophiles",
+    "authors": [
+      "S DasSarma",
+      "P DasSarma"
+    ],
+    "year": "2012",
+    "venue": "Els",
+    "abstract": "Halophiles are salt-loving halophilic, depending on their requirement for sodium chloride. Although most marine organisms are slight halophiles, moderate and extreme halophiles are",
+    "num_citations": 360,
+    "citedby_url": "/scholar?cites=8431078760077791083&as_sdt=5,33&sciodt=0,33&hl=en",
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470015902.a0000394.pub3",
+    "scholar_rank": 1,
+    "doi": "10.1002/9780470015902",
+    "doi_url": "https://doi.org/10.1002/9780470015902"
+  },
+  ]
+
+Format #2: List of artciles saved under the key "results"
+
+{
+  "page_number": 13,
+  "results_count": 10,
+  "results": [
+    {
+      "title": "Amelioration of Saline Stress on Chia (Salvia hispanica L.) Seedlings Inoculated With Halotolerant Plant Growth-Promoting Bacteria Isolated From Hypersaline …",
+      "title_link": "https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2021.665798/full",
+      "publication_info": "MF Yañez-Yazlle, N Romano-Armada, VB Rajal… - Frontiers in …, 2021 - frontiersin.org",
+      "snippet": "… first study to assess the performance of chia plants under saline stress when treated with \nhalophile PGPB isolated from the rhizosphere of halophyte plants and extreme environments. …",
+      "publication_year": "2021",
+      "citations": 19,
+      "doi": "",
+      "cited_by": "https://scholar.google.com/scholar?cites=17249196518036013750&as_sdt=2005&sciodt=0,5&hl=en",
+      "related_articles": "https://scholar.google.com/scholar?q=related:tgJxztd0Ye8J:scholar.google.com/&scioq=%22halophyte%22+AND+%22halophile%22&hl=en&as_sdt=0,5"
+    },
+
+## Clean the list of articles
+Inspect each article, remove doi and doi_url key, if found
+Remove the html tags and tags like "[HTML]" or "[BOOK]" or "[PDF]" of "[B]" as well as trailing or leading white space
+Deduplicate entries
+
+## Standardize citations on "citations" key
+Inspect each article
+If "num_citations" key found, edit the name of the key "num_citations" to be "citations"
+If "num_citations" key found and the artcile also has a "citations" key, delete the "num_citations" key
+
+
+## Add DOI and DOI url
+
+For each artcile in the deduplicated list
+add two keys:
+"doi":
+"doi_url":
+
+initialize as set equal to blank
+
+Search for the doi number in the "pub_url" field using these rules
+
+A DOI (Digital Object Identifier) is a permanent, standardized identifier used to uniquely identify scholarly works such as journal articles, datasets, and reports. It consists of two main parts separated by a slash: a prefix and a suffix. The prefix always begins with 10, which designates the DOI system, followed by a number that identifies the publisher or registrant (for example, 10.1016 for Elsevier or 10.1038 for Nature). The suffix is assigned by the publisher and uniquely identifies the specific item; it often encodes information such as the journal name, year of publication, and article number, but its structure is not standardized. When combined, the prefix and suffix form a globally unique identifier that can be resolved through https://doi.org/, ensuring persistent access to the referenced work even if its web location changes.
+
+Consider these rules:
+* DOI designation always begins with 10
+
+* It consists of two main parts separated by a slash: a prefix and a suffix
+
+* Combine prefix and suffix with a slash:
+
+* Prefix format Always starts with 10. (this indicates the DOI system). Followed by a publisher/registrant number:
+    Assigned by a DOI registration agency (CrossRef, DataCite, etc.)
+    Usually 4–9 digits
+    Example prefixes:
+    10.1000 → example publisher
+    10.1016 → Elsevier
+    10.1038 → Nature
+
+* Suffix format is not strictly standardized; can include letters, numbers, periods, dashes, and sometimes slashes Example suffixes:
+    9780470015902.a0000394.pub3 → Wiley
+    fmicb.2018.00148 → Frontiers in Microbiology
+    978-3-319-66480-4 → Springer
+
+* ".pdf" is never part of the doi
+* "/full" is never part of the doi
+
+The doi can be at the end of middle of a url.
+
+Use the example to help create rules
+these example are lifted from the dataset
+
+Examples:
+"pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470015902.a0000394.pub3",
+the doi is in the url
+"doi": "10.1002/9780470015902.a0000394.pub3",
+"doi_url": "https://doi.org/10.1002/9780470015902.a0000394.pub3"
+
+another example
+"pub_url": "https://link.springer.com/content/pdf/10.1007/1-4020-4018-0.pdf#page=372",
+the doi is in the url
+"doi": "10.1007/1-4020-4018-0",
+"doi_url": "https://doi.org/10.1007/1-4020-4018-0"
+
+another example
+pub_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.00148/full",
+the doi is in the url
+"doi": "10.3389/fmicb.2018.00148",
+"doi_url": "https://doi.org/10.3389/fmicb.2018.00148"
+
+another example
+"pub_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-66480-4.pdf",
+the doi is in the url
+"doi": "10.1007/978-3-319-66480-4",
+"doi_url": "https://doi.org/10.1007/978-3-319-66480-4"
+
+another example
+"pub_url": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001914",
+the doi is in the url
+"doi": "10.1099/ijsem.0.001914",
+"doi_url": "https://doi.org/10.1099/ijsem.0.001914"
+
+if the doi is found, set the "doi" key equal to the found doi
+use the doi to build the "doi_url" value, which is "https://doi.org/" + doi as a string
+
+
+## Enrich Artcile Metadata with Abstract
+Every article to be enriched with metadata if possible, using DOI if available, otherwise falling back to the title for each of the three services (CrossRef, OpenAlex, Semantic Scholar).
+
+Loop through the list of articles
+Wait 2 seconds betwen requests. If searches are blocked, stop making requests and move on.
+
+Look up each article
+Query CrossRef using the article doi or title if doi not available
+If match is found, add keys to the article to
+["citations"] = "is-referenced-by-count" key from CrossRef info
+["abstract"] = "abstract" key from CrossRef info
+["publisher"] - "publisher" key from CrossRef info
+
+If no abstract is found from CrossRef, search OpenAlex (https://openalex.org/)
+using doi or title if doi not available
+if a result is found, populate the article "abstract" key with the abstract found in OpenAlex.
+Pause 2 seconds before making the request to avoid becoming blocked.
+["citations"] = "cited_by_count" key from OpenAlex info
+["abstract"] = "abstract_inverted_index key from OpenAlex info, which must be inverted.
+["publisher"] - "raw_source_name" key from OpenAlex info
+
+If no abstract is found in OpenAlex, search Semantic Scholar (https://www.semanticscholar.org/)
+using doi or title if doi not available
+if a result is found, populate the article "abstract" key with the abstract found in OpenAlex.
+Pause 2 seconds before making the request to avoid becoming blocked.
+
+explicit progress reporting printed to the terminal, including percentage completion of the pagination/enrichment, metadata presence (like abstracts), and errors or missing fields
+print queries and status, especially % through the list for this enrichment process
+also print to the terminal if/where metadata - especially abstract - is found in CrossRef / OpenAlex / Semantic Scholar and if not if there was an error code.
+
+
+## Clean the Article List Again
+Remove the html tags and tags like "[HTML]" or "[BOOK]" or "[PDF]" of "[B]" as well as trailing or leading white space
+Deduplicate entries
+
+
+## Save the list of articles
+Save to
+"results/search_results/standardized/gscholar.json"
+
+Structure of the standardized, compiled json
+
+{
+  "count": integer, number of articles in the article list,
+
+  "count_2": integer, number of article in the artcile list with at least 2 citations,
+
+  "count_abstract": integer, number of articles with a abstract,
+
+  "count_doi": integer, number of articles with a doi,
+
+  "count_doi": [list of keys in the article, not all articles need to have all the keys],
+
+  "results": [ list of articles sorted so most cited are at the top ]
+
+}
