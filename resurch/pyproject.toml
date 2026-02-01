@@ -1,0 +1,36 @@
+[project]
+name = "resurch"
+version = "0.1.0"
+description = "CLI tool for searching academic paper repositories and managing metadata"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Conor", email = "conor@example.com"}
+]
+dependencies = [
+    "typer>=0.9.0",
+    "httpx>=0.25.0",
+    "sqlalchemy>=2.0.0",
+    "rich>=13.0.0",
+    "beautifulsoup4>=4.12.0",
+    "jinja2>=3.1.0",
+    "pydantic>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+]
+
+[project.scripts]
+resurch = "resurch.cli:app"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["resurch*"]
