@@ -1,0 +1,6 @@
+# rust builds
+target/
+
+# nix flake
+.envrc
+.direnv/

@@ -1,0 +1,34 @@
+[package]
+name = "resurch"
+version = "0.1.0"
+edition = "2021"
+description = "Academic paper search CLI tool for searching repositories, storing metadata, and generating reports"
+authors = ["Conor"]
+license = "MIT"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+tokio = { version = "1.35", features = ["full", "signal"] }
+reqwest = { version = "0.12", features = ["json"] }
+scraper = "0.20"
+rusqlite = { version = "0.32", features = ["bundled"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+url = { version = "2.5", features = ["serde"] }
+indicatif = "0.17"
+thiserror = "2.0"
+anyhow = "1.0"
+async-trait = "0.1"
+directories = "5.0"
+humantime = "2.1"
+regex = "1.10"
+csv = "1.3"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+chrono = { version = "0.4", features = ["serde"] }
+html-escape = "0.2"
+ctrlc = "3.4"
+
+[profile.release]
+lto = true
+strip = true
