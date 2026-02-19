@@ -1,7 +1,7 @@
 {
   "affs_count": 1510,
-  "affs_count_found": 544,
-  "affs_count_not_found": 885,
+  "affs_count_found": 545,
+  "affs_count_not_found": 887,
   "affs_found": [
     {
       "affiliation": "*Krebs Institute for Biomolecular Research, Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield S10 2TN, United Kingdom; and",
@@ -3810,6 +3810,13 @@
       "lat": "-7.2171670",
       "lon": "-35.9090030",
       "country": "Brazil"
+    },
+    {
+      "affiliation": "UR MaNE, Université de Carthage",
+      "display_name": "جامعة قرطاج, أميلكار, قرطاج, تونس, ولاية تونس, 1054, تونس",
+      "lat": "36.8714886",
+      "lon": "10.3348852",
+      "country": "تونس"
     }
   ],
   "affs_not_found": [
@@ -4697,7 +4704,9 @@
     "Traitomic, Carlsberg A/S  J.C. Jacobsens Gade 4 1799 Copenhagen V Denmark",
     "Transkript-Profiling (Zentrale Infrastrukturgruppe), Max Planck Institute for Molecular Plant Physiology, Germany",
     "Translational Plant Research Laboratory, Department of Microbial Biotechnology, Bharathiar University, Coimbatore 641046, Tamil Nadu, India",
-    "UMR CNRS ECOBIO (Ecosystèmes, Biodiversité, Evolution), University of Rennes, 35042 Rennes, France"
+    "UMR CNRS ECOBIO (Ecosystèmes, Biodiversité, Evolution), University of Rennes, 35042 Rennes, France",
+    "UR Analyses et Procédés Appliqués à l’Environnement UR17ES32, ISSAT-Mahdia, Université de Monastir, Monastir, Tunisia",
+    "Unit of Macromolecular Biochemistry and Genetics"
   ],
   "countries": [
     {
@@ -4874,7 +4883,7 @@
     },
     {
       "name": "تونس",
-      "count": 24
+      "count": 25
     },
     {
       "name": "قطر",
