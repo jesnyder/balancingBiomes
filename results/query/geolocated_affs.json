@@ -1,7 +1,7 @@
 {
   "affs_count": 1510,
-  "affs_count_found": 526,
-  "affs_count_not_found": 862,
+  "affs_count_found": 544,
+  "affs_count_not_found": 885,
   "affs_found": [
     {
       "affiliation": "*Krebs Institute for Biomolecular Research, Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield S10 2TN, United Kingdom; and",
@@ -3684,6 +3684,132 @@
       "lat": "36.1070889",
       "lon": "120.4640531",
       "country": "China"
+    },
+    {
+      "affiliation": "Substance Abuse and Toxicology Research Center, Jazan University, Jazan, Saudi Arabia",
+      "display_name": "جامعة جازان, الكورنيش, جيزان, محافظة جازان, منطقة جازان, 45142, السعودية",
+      "lat": "16.9734448",
+      "lon": "42.5463170",
+      "country": "السعودية"
+    },
+    {
+      "affiliation": "Sun Yat-sen University",
+      "display_name": "中山大学(广州校区南校园), 135, 新港西路, 怡乐, 新港街道, 海珠区, 广州市, 广东省, 510275, 中国",
+      "lat": "23.0996034",
+      "lon": "113.2923509",
+      "country": "China"
+    },
+    {
+      "affiliation": "Tecnológico Nacional de México Campus Roque, Celaya 38525, Mexico",
+      "display_name": "Celaya, Guanajuato, México",
+      "lat": "20.5222851",
+      "lon": "-100.8307739",
+      "country": "Mexico"
+    },
+    {
+      "affiliation": "The Comprehensive Experimental Center of Chinese Academy of Forestry in Yellow River Delta, Dongying 257000, China",
+      "display_name": "东营市, 山东省, 257000, 中国",
+      "lat": "37.4334738",
+      "lon": "118.6689349",
+      "country": "China"
+    },
+    {
+      "affiliation": "The James Hutton Institute Invergowrie Scotland",
+      "display_name": "The James Hutton Institute, School Loan, Kingoodie, Dundee, Perth and Kinross, Alba / Scotland, DD2 5DA, United Kingdom",
+      "lat": "56.4570896",
+      "lon": "-3.0722008",
+      "country": "United Kingdom"
+    },
+    {
+      "affiliation": "The Stockbridge School of Agriculture, University of Massachusetts, Amherst, Massachusetts, USA",
+      "display_name": "University Village, 990, North Amherst, Cushman, Amherst, Hampshire County, Massachusetts, 01002, United States",
+      "lat": "42.4033249",
+      "lon": "-72.5325757",
+      "country": "United States"
+    },
+    {
+      "affiliation": "The United Graduate School of Agricultural Science, Ehime University, Matsuyama, Japan",
+      "display_name": "Ehime University Mochida Campus, 国道317号, 持田町二丁目, 松山市, 愛媛県, 790-0855, 日本",
+      "lat": "33.8433120",
+      "lon": "132.7830160",
+      "country": "Japan"
+    },
+    {
+      "affiliation": "The United Graduate School of Agricultural Sciences, Ehime University",
+      "display_name": "愛媛大学（農学部）, 国道317号, 紅葉町, 松山市, 愛媛県, 790-0838, 日本",
+      "lat": "33.8383479",
+      "lon": "132.7931254",
+      "country": "Japan"
+    },
+    {
+      "affiliation": "The United Graduate School of Agriculture Science, Ehime University, Matsuyama, Japan",
+      "display_name": "Ehime University Mochida Campus, 国道317号, 持田町二丁目, 松山市, 愛媛県, 790-0855, 日本",
+      "lat": "33.8433120",
+      "lon": "132.7830160",
+      "country": "Japan"
+    },
+    {
+      "affiliation": "Thuwal 23955-6900",
+      "display_name": "ثول, محافظة جدة, منطقة مكة المكرمة, 23955-6900, السعودية",
+      "lat": "22.2833454",
+      "lon": "39.1128145",
+      "country": "السعودية"
+    },
+    {
+      "affiliation": "Tianjin Research Institute of Forestry of Chinese Academy of Forestry, Tianjin 300450, China",
+      "display_name": "天津市, 河西区, 天津市, 300061, 中国",
+      "lat": "39.0844897",
+      "lon": "117.1956724",
+      "country": "China"
+    },
+    {
+      "affiliation": "Tsaldam Vocational and Technical College, Delinha, PR China",
+      "display_name": "德令哈市 གཏེར་ལེན་ཁ་གྲོང་ཁྱེར།, 海西蒙古族藏族自治州 མཚོ་ནུབ་སོག་རིགས་ཆ་བོད་རིགས་རང་སྐྱོང་ཁུལ།, 青海省, 中国",
+      "lat": "37.3690819",
+      "lon": "97.3601100",
+      "country": "China"
+    },
+    {
+      "affiliation": "Tsinghua University",
+      "display_name": "清华大学, 30, 双清路, 东升镇, 海淀区, 北京市, 100084, 中国",
+      "lat": "40.0022905",
+      "lon": "116.3209630",
+      "country": "China"
+    },
+    {
+      "affiliation": "Tunisia",
+      "display_name": "تونس",
+      "lat": "33.8439408",
+      "lon": "9.4001380",
+      "country": "تونس"
+    },
+    {
+      "affiliation": "Turpan Eremophytes Botanical Garden, Chinese Academy of Sciences, Turpan 838008, China",
+      "display_name": "崂山区人民政府, 银川东路, 金家岭街道, 崂山区, 青岛市, 山东省, 266100, 中国",
+      "lat": "36.1070889",
+      "lon": "120.4640531",
+      "country": "China"
+    },
+    {
+      "affiliation": "U.S. Department of Agriculture, Agricultural Research Service",
+      "display_name": "USDA-Agricultural Research Service Research Farm, Fresno County, California, United States",
+      "lat": "36.5946888",
+      "lon": "-119.5163402",
+      "country": "United States"
+    },
+    {
+      "affiliation": "UFC",
+      "display_name": "UFC, Dumoy, Talomo District, Davao City, Davao Region, 8000, Philippines",
+      "lat": "7.0369213",
+      "lon": "125.5216589",
+      "country": "Philippines"
+    },
+    {
+      "affiliation": "UFCG",
+      "display_name": "UFCG, Rua Aprígio Veloso, Universitário, Campina Grande, Região Geográfica Imediata de Campina Grande, Região Metropolitana de Campina Grande, Região Geográfica Intermediária de Campina Grande, Paraíba, 58429-170, Brasil",
+      "lat": "-7.2171670",
+      "lon": "-35.9090030",
+      "country": "Brazil"
     }
   ],
   "affs_not_found": [
@@ -4548,7 +4674,30 @@
     "State Key Laboratory of Tree Genetics and Breeding, Engineering Technology Research Center of Black Locust of National Forestry and Grassland Administration, National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology Beijing Forestry University  Beijing China",
     "State Key Laboratory of Tropical Crop Breeding, Shenzhen Branch, Guangdong Laboratory for Lingnan Modern Agriculture, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, Guangdong 518120, China",
     "Statistical Support Unit, College of Agriculture, University of Arizona, Tucson, AZ 85721",
-    "Stockbridge School of Agriculture University of Massachusetts  Amherst MA 01003 USA"
+    "Stockbridge School of Agriculture University of Massachusetts  Amherst MA 01003 USA",
+    "Sustainable Plant Protection, Centre de Cabrils, IRTA—Institute of Agrifood Research and Technology, Ctra. Cabrils Km 2, 08348 Cabrils, Spain",
+    "Synthetic and Functional Biomolecules Center, Beijing National Laboratory for Molecular Sciences, Key Laboratory of Bioorganic Chemistry and Molecular Engineering of Ministry of Education, College of Chemistry and Molecular Engineering Peking University  Beijing China",
+    "Systems Ecology Department of Ecological Science Vrije Universiteit  Amsterdam The Netherlands",
+    "Systems Ecology, Department of Ecological Science, Faculty of Earth and Life Sciences, VU University Amsterdam, De Boelelaan 1085, 1081 HV Amsterdam, The Netherlands",
+    "Thader‐consultoria Ambiental C/Poeta Sánchez Marigal 8 300004 Murcia Spain",
+    "Thailand Bioresource Research Center (TBRC), National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency (NSTDA), Khlong Luang, Pathum Thani 12120, Thailand",
+    "The Albert Katz Department of Dryland Biotechnologies, French Associates Institute for Agriculture and Biotechnology of Dryland, The Jacob Blaustein Institutes for Desert Research, Ben-Gurion University of the Negev, Sede Boqer Campus, Beersheba 8499000, Israel",
+    "The Bioinformatics Platform, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia",
+    "The Center for Comparative Oncology, University of California at Davis, Davis, CA, USA",
+    "The Key Laboratory for Microbial Resources of the Ministry of Education, PR China, and Laboratory for Conservation and Utilization of Bio-Resources, Yunnan Institute of Microbiology, Yunnan University, Kunming 650091, PR China",
+    "The Key Laboratory of Biotechnology for Medicinal Plant of Jiangsu Province, Jiangsu Normal University, Xuzhou, Jiangsu 221116, PR China",
+    "The Key Laboratory of Biotechnology for Medicinal Plant of Jiangsu Province, School of Life Science, Jiangsu Normal University, Xuzhou, Jiangsu, 221116, PR China",
+    "The Key Laboratory of Biotechnology for Medicinal Plant of Jiangsu Province, School of Life Science, Jiangsu Normal University, Xuzhou, Jiangsu, People's Republic of China",
+    "The Key Laboratory of Microbial Diversity in Southwest China, Ministry of Education and Laboratory for Conservation and Utilization of Bio-Resources, Yunnan Institute of Microbiology, Yunnan University, Kunming 650091, PR China",
+    "The UWA Institute of Agriculture The University of Western Australia  Perth Western Australia Australia",
+    "The UWA School of Agriculture and Environment The University of Western Australia  Perth Western Australia Australia",
+    "The United Graduate School of Agricultural Sciences, Kagoshima University, 1-21-24, Korimoto, Kagoshima 890-0065, Japan",
+    "Tottori University",
+    "Tourism and Geographical Science Institute, Baicheng Normal University, Baicheng 137000, China",
+    "Traitomic, Carlsberg A/S  J.C. Jacobsens Gade 4 1799 Copenhagen V Denmark",
+    "Transkript-Profiling (Zentrale Infrastrukturgruppe), Max Planck Institute for Molecular Plant Physiology, Germany",
+    "Translational Plant Research Laboratory, Department of Microbial Biotechnology, Bharathiar University, Coimbatore 641046, Tamil Nadu, India",
+    "UMR CNRS ECOBIO (Ecosystèmes, Biodiversité, Evolution), University of Rennes, 35042 Rennes, France"
   ],
   "countries": [
     {
@@ -4572,6 +4721,10 @@
       "count": 1
     },
     {
+      "name": "Brazil",
+      "count": 1
+    },
+    {
       "name": "Canada",
       "count": 5
     },
@@ -4581,7 +4734,7 @@
     },
     {
       "name": "China",
-      "count": 131
+      "count": 137
     },
     {
       "name": "Danmark",
@@ -4617,7 +4770,7 @@
     },
     {
       "name": "Japan",
-      "count": 24
+      "count": 27
     },
     {
       "name": "Malaysia",
@@ -4629,7 +4782,7 @@
     },
     {
       "name": "Mexico",
-      "count": 4
+      "count": 5
     },
     {
       "name": "New Zealand / Aotearoa",
@@ -4641,7 +4794,7 @@
     },
     {
       "name": "Philippines",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Polska",
@@ -4685,11 +4838,11 @@
     },
     {
       "name": "United Kingdom",
-      "count": 8
+      "count": 9
     },
     {
       "name": "United States",
-      "count": 55
+      "count": 57
     },
     {
       "name": "Viet Nam",
@@ -4709,7 +4862,7 @@
     },
     {
       "name": "السعودية",
-      "count": 9
+      "count": 11
     },
     {
       "name": "السودان",
@@ -4721,7 +4874,7 @@
     },
     {
       "name": "تونس",
-      "count": 23
+      "count": 24
     },
     {
       "name": "قطر",
