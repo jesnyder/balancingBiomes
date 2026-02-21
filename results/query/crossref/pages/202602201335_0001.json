@@ -1,0 +1,5596 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2025-04-24T12:25:52Z",
+      "timestamp": 1745497552479
+    },
+    "reference-count": 23,
+    "publisher": "Canadian Science Publishing",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2000,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2000-02-01T00:00:00Z",
+          "timestamp": 949363200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Can. J. Microbiol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          2,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Both the moderately halophilic bacterium, Halomonas elongata, and the extremely halophilic archaea, Halobacterium salinarum, can be found in hypersaline environments (e.g., salterns). On complex media, H. elongata grows over a salt range of 0.05-5.2 M, whereas, H. salinarum multiplies over a salt range of 2.5-5.2 M. The purpose of this study was to illustrate the effect that solar (UV-A and UV-B) and germicidal radiation (UV-C) had on the growth patterns of these bacteria at varied salt concentrations. Halomonas elongata grown on a complex medium at 0.05, 1.37, and 4.3 M NaC1 was found to be more sensitive to UV-A and UV-B radiation, as the salt concentration of the medium increased. Halobacterium salinarum grown on a complex medium at 3.0 and 4.3 M NaC1 did not show a significant drop in viability after 39.3 kJ\u00b7m<jats:sup>-2</jats:sup>of UV-A and UV-B exposure. When exposed to UV-C, H. elongata exhibited substantially more sensitivity than H. salinarum. In H. elongata, differential sensitivity to UV-C was observed. At 0.05 M NaCl, H. elongata was less sensitive to UV-C than at 1.37 and 4.3 M NaCl. Both bacteria showed some photoreactivation when incubated under visible light following both UV-A, UV-B, and UV-C exposure. Mutagenesis following UV-C exposure was demonstrated by both organisms.</jats:p>",
+    "DOI": "10.1139/w99-122",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2011-04-24T06:04:42Z",
+      "timestamp": 1303625082000
+    },
+    "page": "180-187",
+    "source": "Crossref",
+    "is-referenced-by-count": 25,
+    "title": [
+      "The effects of ultraviolet radiation on the moderate halophile<i>Halomonas elongata</i>and the extreme halophile<i>Halobacterium salinarum</i>"
+    ],
+    "prefix": "10.1139",
+    "volume": "46",
+    "author": [
+      {
+        "given": "E L",
+        "family": "Martin",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "R L",
+        "family": "Reinhardt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "L L",
+        "family": "Baum",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M R",
+        "family": "Becker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J J",
+        "family": "Shaffer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "T A",
+        "family": "Kokjohn",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "155",
+    "reference": [
+      {
+        "key": "p_1/p_1_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1007/BF02092885",
+        "volume": "20",
+        "author": "Bylund J.E.",
+        "year": "1990",
+        "journal-title": "Curr. Microbiol."
+      },
+      {
+        "key": "p_2/p_2_1",
+        "first-page": "45",
+        "volume": "66",
+        "author": "Bylund J.E.",
+        "year": "1991",
+        "journal-title": "Microbios"
+      },
+      {
+        "key": "p_3/p_3_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "643",
+        "DOI": "10.1111/j.1751-1097.1991.tb08492.x",
+        "volume": "53",
+        "author": "Eker A.P.M.",
+        "year": "1991",
+        "journal-title": "Photochem. Photobiol."
+      },
+      {
+        "key": "p_4/p_4_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/0167-4781(87)90061-3",
+        "volume": "910",
+        "author": "Fitt P.S.",
+        "year": "1987",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "p_5/p_5_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1111/j.1432-1033.1985.tb08903.x",
+        "volume": "149",
+        "author": "Galinski E.A.",
+        "year": "1985",
+        "journal-title": "Ectothiorhodospira. Eur. J. Biochem."
+      },
+      {
+        "key": "p_6/p_6_1",
+        "first-page": "560",
+        "volume": "156",
+        "author": "Grey V.L.",
+        "year": "1976",
+        "journal-title": "Biochem. J."
+      },
+      {
+        "key": "p_8/p_8_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "777",
+        "DOI": "10.1016/0076-6879(79)55085-X",
+        "volume": "55",
+        "author": "Lanyi J.K.",
+        "year": "1979",
+        "journal-title": "Methods Enzymol."
+      },
+      {
+        "key": "p_10/p_10_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1424",
+        "DOI": "10.1139/m83-218",
+        "volume": "29",
+        "author": "Martin E.L.",
+        "year": "1983",
+        "journal-title": "Can. J. Microbiol."
+      },
+      {
+        "key": "p_11/p_11_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1016/0921-8777(96)00018-3",
+        "volume": "364",
+        "author": "McCready S.",
+        "year": "1996",
+        "journal-title": "Mutat. Res."
+      },
+      {
+        "key": "p_12/p_12_1",
+        "first-page": "265",
+        "volume": "44",
+        "author": "Miller R.V.",
+        "year": "1990",
+        "journal-title": "Rev. Microbiol."
+      },
+      {
+        "key": "p_13/p_13_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.1093/oxfordjournals.jbchem.a122092",
+        "volume": "102",
+        "author": "Nanba T.",
+        "year": "1987",
+        "journal-title": "J. Biochem."
+      },
+      {
+        "key": "p_14/p_14_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.1099/13500872-145-2-427",
+        "volume": "145",
+        "author": "Pichereau V.",
+        "year": "1999",
+        "journal-title": "Microbiology"
+      },
+      {
+        "key": "p_16/p_16_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2125",
+        "DOI": "10.1093/nar/24.11.2125",
+        "volume": "24",
+        "author": "Sandler S.J.",
+        "year": "1996",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "p_17/p_17_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/0304-4165(84)90287-3",
+        "volume": "799",
+        "author": "Sharma N.",
+        "year": "1984",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "p_18/p_18_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1241",
+        "DOI": "10.1099/00221287-136-7-1241",
+        "volume": "136",
+        "author": "Simonson C.S.",
+        "year": "1990",
+        "journal-title": "J. Gen. Microbiol."
+      },
+      {
+        "key": "p_19/p_19_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "6323",
+        "DOI": "10.1128/JB.171.11.6323-6329.1989",
+        "volume": "171",
+        "author": "Takao M.",
+        "year": "1989",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "p_20/p_20_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "504",
+        "DOI": "10.1128/MMBR.62.2.504-544.1998",
+        "volume": "62",
+        "author": "Ventosa A.",
+        "year": "1998",
+        "journal-title": "Microbiol. Mol. Biol. Rev."
+      },
+      {
+        "key": "p_21/p_21_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1139/m80-130",
+        "volume": "26",
+        "author": "Vreeland R.H.",
+        "year": "1980",
+        "journal-title": "Can. J. Microbiol."
+      },
+      {
+        "key": "p_22/p_22_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1099/00207713-30-2-485",
+        "volume": "30",
+        "author": "Vreeland R.H.",
+        "year": "1980",
+        "journal-title": "Int. J. Syst. Bacteriol."
+      },
+      {
+        "key": "p_23/p_23_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1139/m83-066",
+        "volume": "29",
+        "author": "Vreeland R.H.",
+        "year": "1983",
+        "journal-title": "Can. J. Microbiol."
+      },
+      {
+        "key": "p_24/p_24_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1128/MMBR.48.1.60-93.1984",
+        "volume": "48",
+        "author": "Walker G.C.",
+        "year": "1984",
+        "journal-title": "Microbiol. Rev."
+      },
+      {
+        "key": "p_25/p_25_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2200",
+        "DOI": "10.1128/AEM.63.6.2200-2205.1997",
+        "volume": "63",
+        "author": "Weinbauer M.G.",
+        "year": "1997",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "p_26/p_26_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "705",
+        "DOI": "10.1099/00221287-136-4-705",
+        "volume": "136",
+        "author": "Wohlfarth A.",
+        "year": "1990",
+        "journal-title": "J. Gen. Microbiol."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Microbiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/w99-122",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2020-06-18T14:56:54Z",
+      "timestamp": 1592492214000
+    },
+    "score": 15.297518,
+    "resource": {
+      "primary": {
+        "URL": "http://www.nrcresearchpress.com/doi/10.1139/w99-122"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          2,
+          1
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            2,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1139/w99-122"
+    ],
+    "URL": "https://doi.org/10.1139/w99-122",
+    "ISSN": [
+      "0008-4166",
+      "1480-3275"
+    ],
+    "issn-type": [
+      {
+        "value": "0008-4166",
+        "type": "print"
+      },
+      {
+        "value": "1480-3275",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2000,
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          11
+        ]
+      ],
+      "date-time": "2025-12-11T04:05:17Z",
+      "timestamp": 1765425917648,
+      "version": "3.46.0"
+    },
+    "reference-count": 0,
+    "publisher": "Institute of Experimental Botany",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biologia plant.",
+      "Bio. plant.",
+      "Biol. plant."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          8,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1023/a:1002705706120",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2020-06-10T20:06:13Z",
+      "timestamp": 1591819573000
+    },
+    "page": "178-178",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Hamdy, A., Lieth, H., Todorovi\u010d, M., Moschenko, M. (ed.): Halophyte Uses in Different Climates II. Halophyte Crop Development: Pilot Studies"
+    ],
+    "prefix": "10.32615",
+    "volume": "43",
+    "author": [
+      {
+        "given": "I.",
+        "family": "Pr\u00e1\u0161il",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "17418",
+    "container-title": [
+      "Biologia plantarum"
+    ],
+    "link": [
+      {
+        "URL": "http://bp.ueb.cas.cz/doi/10.1023/A:1002705706120.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          11
+        ]
+      ],
+      "date-time": "2025-12-11T04:00:16Z",
+      "timestamp": 1765425616000
+    },
+    "score": 15.286416,
+    "resource": {
+      "primary": {
+        "URL": "http://bp.ueb.cas.cz/doi/10.1023/A:1002705706120.html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          8,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            8,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1023/a:1002705706120",
+    "ISSN": [
+      "1573-8264"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1573-8264"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2000,
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          6
+        ]
+      ],
+      "date-time": "2024-09-06T11:40:00Z",
+      "timestamp": 1725622800494
+    },
+    "publisher-location": "Dordrecht",
+    "reference-count": 17,
+    "publisher": "Springer Netherlands",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9789400984226"
+      },
+      {
+        "type": "electronic",
+        "value": "9789400984202"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-94-009-8420-2_71",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2011-10-19T01:24:33Z",
+      "timestamp": 1318987473000
+    },
+    "page": "543-549",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "DNA-Protein Complex from an Extreme Halophile: A Histone-Like Protein in Archaebacteria"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Masayuki",
+        "family": "Ohba",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Tairo",
+        "family": "Oshima",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "71_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "4537",
+        "DOI": "10.1073/pnas.74.10.4537",
+        "volume": "74",
+        "author": "GE Fox",
+        "year": "1977",
+        "unstructured": "Fox, G.E., Magrum, L.J., Balch, W.E., Woefe, R.S. and Woese, C.R.: Proc. Natl. Acad. Sci. USA, 74, 4537 (1977)",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "5088",
+        "DOI": "10.1073/pnas.74.11.5088",
+        "volume": "74",
+        "author": "CR Woese",
+        "year": "1977",
+        "unstructured": "Woese, C.R. and Fox, G.E.: Proc. Natl. Acad. Sci. USA, 74, 5088 (1977)",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "245",
+        "DOI": "10.1007/BF01734485",
+        "volume": "11",
+        "author": "CR Woese",
+        "year": "1978",
+        "unstructured": "Woese, C.R., Magrum, L.J. and Fox, G.E.: J. Mol. Evol., 11, 245 (1978)",
+        "journal-title": "J. Mol. Evol."
+      },
+      {
+        "key": "71_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.1007/BF01732865",
+        "volume": "13",
+        "author": "CR Woese",
+        "year": "1979",
+        "unstructured": "Woese, C.R.: J. Mol. Evol., 13, 95 (1979)",
+        "journal-title": "J. Mol. Evol."
+      },
+      {
+        "key": "71_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "583",
+        "DOI": "10.1016/0005-2787(72)90513-8",
+        "volume": "272",
+        "author": "BN White",
+        "year": "1972",
+        "unstructured": "White, B.N. and Bayley, S.T.: Biochim. Biophys. Acta, 272, 583 (1972)",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "71_CR6",
+        "unstructured": "Yaguchi, M., Matheson, A.T., Visentin, L.P., and Zuker, M.: in \u201cGenetics and Evolution of Transcriptional and Translational Apparatus\u201d (S. Osawa) to be published by Kodansha Scientific Press, Tokyo"
+      },
+      {
+        "key": "71_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1073/pnas.76.1.381",
+        "volume": "76",
+        "author": "H Hori",
+        "year": "1979",
+        "unstructured": "Hori, H. and Osawa, S.: Proc. Natl. Acad. Sci. USA, 76, 381 (1979)",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1016/0303-2647(78)90024-2",
+        "volume": "10",
+        "author": "DG Searcy",
+        "year": "1978",
+        "unstructured": "Searcy, D.G., Stein, D.B. and Green, G.R.: BioSystems, 10, 19 (1978)",
+        "journal-title": "Bio Systems"
+      },
+      {
+        "key": "71_CR9",
+        "first-page": "1157",
+        "volume": "15",
+        "author": "MB Gochnauer",
+        "year": "1969",
+        "unstructured": "Gochnauer, M.B. and Kushner, D.J.: J. Microbiol., 15, 1157 (1969)",
+        "journal-title": "J. Microbiol."
+      },
+      {
+        "key": "71_CR10",
+        "first-page": "61",
+        "volume-title": "Methods in Cell Biology",
+        "author": "AL Olins",
+        "year": "1978",
+        "unstructured": "Olins, A.L.: in \u201cMethods in Cell Biology\u201d Vol. 19 (G. Stein et al. eds.) Academic Press, New York (1978) p. 61"
+      },
+      {
+        "key": "71_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "403",
+        "DOI": "10.1083/jcb.83.2.403",
+        "volume": "83",
+        "author": "F Thoma",
+        "year": "1979",
+        "unstructured": "Thoma, F., Koller, T.H. and Klug, A.: J. Cell Biol., 83, 403 (1979)",
+        "journal-title": "J. Cell Biol."
+      },
+      {
+        "key": "71_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "993",
+        "DOI": "10.1139/m72-154",
+        "volume": "18",
+        "author": "JK Lanyi",
+        "year": "1972",
+        "unstructured": "Lanyi, J,K, and Silverman, M.P,: Can. J. Microbiol., 18, 993 (1972)",
+        "journal-title": "Can. J. Microbiol"
+      },
+      {
+        "key": "71_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "187",
+        "DOI": "10.1085/jgp.55.2.187",
+        "volume": "55",
+        "author": "M Ginzburg",
+        "year": "1970",
+        "unstructured": "Ginzburg, M,, Sachs, L, and Ginzburg, B.Z.: J. Gen. Physiol., 55, 187 (1970)",
+        "journal-title": "J. Gen. Physiol"
+      },
+      {
+        "key": "71_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "3428",
+        "DOI": "10.1073/pnas.72.9.3428",
+        "volume": "72",
+        "author": "J Rouviere-Yaniv",
+        "year": "1975",
+        "unstructured": "Rouviere-Yaniv, J, and Gros, F,: Proc. Natl. Acad. Sci. USA. 72, 3428 (1975)",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1917",
+        "DOI": "10.1073/pnas.73.6.1917",
+        "volume": "73",
+        "author": "R Haselkorn",
+        "year": "1976",
+        "unstructured": "Haselkorn, R, and Rouviere-Yaniv, J.: Proc. Natl. Acad. Sci. USA., 73, 1917 (1976)",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1101/SQB.1978.042.01.047",
+        "volume": "42",
+        "author": "J Rouviere-Yaniv",
+        "year": "1978",
+        "unstructured": "Rouviere-Yaniv, J,: Cold Spring Harbor Symp. Quant. Biol., 42, 439 (1978)",
+        "journal-title": "Cold Spring Harbor Symp. Quant. Biol."
+      },
+      {
+        "key": "71_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "447",
+        "DOI": "10.1111/j.1432-1033.1980.tb05968.x",
+        "volume": "103",
+        "author": "B Laine",
+        "year": "1980",
+        "unstructured": "Laine, B., Kmiecik, D., Sautiere, P., Biserte, G., and Cohen-Solal, M: Eur. J. Biochem., 103, 447 (1980)",
+        "journal-title": "Eur. J. Biochem"
+      }
+    ],
+    "container-title": [
+      "Origin of Life"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-94-009-8420-2_71.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          4
+        ]
+      ],
+      "date-time": "2020-12-04T13:45:24Z",
+      "timestamp": 1607089524000
+    },
+    "score": 15.166486,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-94-009-8420-2_71"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789400984226",
+      "9789400984202"
+    ],
+    "references-count": 17,
+    "URL": "https://doi.org/10.1007/978-94-009-8420-2_71",
+    "published": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2025-10-31T07:31:00Z",
+      "timestamp": 1761895860322
+    },
+    "publisher-location": "Dordrecht",
+    "reference-count": 33,
+    "publisher": "Springer Netherlands",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9789400774100"
+      },
+      {
+        "type": "electronic",
+        "value": "9789400774117"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-94-007-7411-7_9",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2014-05-12T05:17:20Z",
+      "timestamp": 1399871840000
+    },
+    "page": "135-142",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "From Halophyte Research to Halophytes Farming"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "K. Ben",
+        "family": "Hamed",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "C.",
+        "family": "Magn\u00e9",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "C.",
+        "family": "Abdelly",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "9_CR1",
+        "volume-title": "Biosaline agriculture and salinity tolerance in plants",
+        "author": "C Abdelly",
+        "year": "2006",
+        "unstructured": "Abdelly C, Barhoumi Z, Ghanya T, Debez A, Ben Hamed K, Sleimi N, Ouerghi Z, Smaoui A, Huchzermeyer B, Grignon C (2006) Potential utilisation of halophytes for the rehabilitation and valorisation of salt-affected areas in Tunisia. In: \u00d6zt\u00fcrk M, Waisel Y, Khan MA, G\u00f6rk G (eds) Biosaline agriculture and salinity tolerance in plants. Birkh\u00e4user Verlag, Basel"
+      },
+      {
+        "key": "9_CR2",
+        "unstructured": "Abdelly C, Debez A, Samoui A, Grignon C (2011) Halophyte-fodder species association may improve nutrient availability and biomass production of the Sabkha ecosystem. In: Ozturk M et al (eds) Sabkha ecosystems, tasks for vegetation science. Springer, Dordrecht, The Netherlands, pp 85\u201394"
+      },
+      {
+        "key": "9_CR3",
+        "volume-title": "Salinity: environment- plants- molecules",
+        "author": "SM Breckle",
+        "year": "2002",
+        "unstructured": "Breckle SM (2002) Salinity, halophytes and salt affected natural ecosystems. In: La\u00fcchli A, L\u00fcttge U (eds) Salinity: environment- plants- molecules. Dordrecht, The Netherlands, pp 53\u201377"
+      },
+      {
+        "key": "9_CR4",
+        "series-title": "Progress in biometeorology 14",
+        "first-page": "95",
+        "volume-title": "Halophyte uses in different climates",
+        "author": "Z Aslam",
+        "year": "1999",
+        "unstructured": "Aslam Z (1999) Aster tripolium: a winter forage: introduction for salt-affected soils. In: Hamdy A, Lieth H, Todorovi\u0107 M, Moschenko M (eds) Halophyte uses in different climates, vol 2, Progress in biometeorology 14. Backhuys Publishers, Leiden, pp 95\u2013103"
+      },
+      {
+        "key": "9_CR6",
+        "volume-title": "Sustainable use of halophytes",
+        "author": "H Lieth",
+        "year": "1998",
+        "unstructured": "Lieth H, Moschenko M (1998) Sustainable use of halophytes, 2nd edn. USF University Osnabrueck, Osnabrueck",
+        "edition": "2"
+      },
+      {
+        "key": "9_CR7",
+        "volume-title": "Saltland pastures in Australia: a practical guide",
+        "author": "EG Barrett-Lennard",
+        "year": "1995",
+        "unstructured": "Barrett-Lennard EG, Malcolm CV (1995) Saltland pastures in Australia: a practical guide. Department of Agriculture Western Australia, Perth"
+      },
+      {
+        "key": "9_CR8",
+        "volume-title": "Progress in biometeorology",
+        "author": "U Menzel",
+        "year": "1999",
+        "unstructured": "Menzel U, Lieth H (1999) Halophyte Database Vers. 2.0. Halophyte uses in different climates I: ecological and ecophysiological studies. In: Lieth H, Moschenko M, Lohman M, Koyro HW, Hamdy A (eds) Progress in biometeorology. Backhuys Publishers, Leiden, The Netherlands, pp 158\u2013258"
+      },
+      {
+        "volume-title": "Halophytes and biosaline agriculture",
+        "year": "1996",
+        "key": "9_CR9",
+        "unstructured": "Choukr-Allah R, Malcolm CV, Hamdy A (eds) (1996) Halophytes and biosaline agriculture. Marcel Dekker, New York"
+      },
+      {
+        "key": "9_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.1016/S0735-2689(99)00388-3",
+        "volume": "18",
+        "author": "EP Glenn",
+        "year": "1999",
+        "unstructured": "Glenn EP, Brown JJ, Blumwald E (1999) Salt tolerance and crop potential of halophytes. Crit Rev Plant Sci 18:227\u201325",
+        "journal-title": "Crit Rev Plant Sci"
+      },
+      {
+        "key": "9_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "599",
+        "DOI": "10.1016/B978-0-12-586450-3.50027-5",
+        "volume-title": "Ecology of halophytes",
+        "author": "EP Odum",
+        "year": "1974",
+        "unstructured": "Odum EP (1974) Halophytes, energetics and ecosystems. In: Reinold RJ, Queen H (eds) Ecology of halophytes. Academic/New Press, New York, pp 599\u2013602"
+      },
+      {
+        "key": "9_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/S0140-1963(18)31273-4",
+        "volume": "9",
+        "author": "EP Glenn",
+        "year": "1985",
+        "unstructured": "Glenn EP, O\u2019Leary J (1985) Productivity and irrigation requirements of halophytes grown with seawater in the Sonoran Desert. J Arid Environ 9:81\u201391",
+        "journal-title": "J Arid Environ"
+      },
+      {
+        "key": "9_CR13",
+        "volume-title": "Saline agriculture, salt tolerant plants for developing countries",
+        "author": "JR Goodin",
+        "year": "1990",
+        "unstructured": "Goodin JR, Epstein E, McKell CM, O\u2019Leary JW (1990) Saline agriculture, salt tolerant plants for developing countries. National Academy Press, Washington, DC"
+      },
+      {
+        "key": "9_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1065",
+        "DOI": "10.1126/science.251.4997.1065",
+        "volume": "251",
+        "author": "EP Glenn",
+        "year": "1991",
+        "unstructured": "Glenn EP, O\u2019Leary JW, Watson MC, Thompson TL, Kuehl RO (1991) Salicornia bigelovii Torr.: an oilseed halophyte for seawater irrigation. Science 251:1065\u20131067",
+        "journal-title": "Science"
+      },
+      {
+        "key": "9_CR15",
+        "unstructured": "Aronson JA, Pasternak D, Danon A (1988) Introduction and first evaluation of 120 halophytes under seawater irrigation. In: Whitehead EE et al (eds) Arid lands today and tomorrow: proceedings of an international research and development conference. Westview Press, Boulder, pp 737\u2013746"
+      },
+      {
+        "key": "9_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "323",
+        "DOI": "10.1007/BF02182251",
+        "volume": "89",
+        "author": "JL Gallagher",
+        "year": "1985",
+        "unstructured": "Gallagher JL (1985) Halophytic crops for cultivation at seawater salinity. Plant Soil 89:323\u2013336",
+        "journal-title": "Plant Soil"
+      },
+      {
+        "key": "9_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "213",
+        "DOI": "10.1080/15324989609381436",
+        "volume": "10",
+        "author": "R Zurayk",
+        "year": "1996",
+        "unstructured": "Zurayk R, Baalbaki R (1996) Inula crithmoides: a candidate plant for saline agriculture. Arid Soil Res Rehab 10:213\u2013223",
+        "journal-title": "Arid Soil Res Rehab"
+      },
+      {
+        "key": "9_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "315",
+        "DOI": "10.1016/j.jaridenv.2006.05.010",
+        "volume": "68",
+        "author": "DJ Weber",
+        "year": "2007",
+        "unstructured": "Weber DJ, Ansari R, Gul B, Khan MA (2007) Potential of halophytes as sources of edible oil. J Arid Environ 68:315\u2013321",
+        "journal-title": "J Arid Environ"
+      },
+      {
+        "key": "9_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "123",
+        "DOI": "10.1016/S0963-9969(02)00117-5",
+        "volume": "36",
+        "author": "MF Marcone",
+        "year": "2003",
+        "unstructured": "Marcone MF (2003) Batis maritima (Saltwort/Beachwort): a nutritious, halophytic, seed bearings, perennial shrub for cultivation of otherwise unproductive agricultural land affected by salinity. Food Res Int 36:123\u2013130",
+        "journal-title": "Food Res Int"
+      },
+      {
+        "key": "9_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.3109/07388551.2011.630647",
+        "volume": "32",
+        "author": "R Ksouri",
+        "year": "2012",
+        "unstructured": "Ksouri R, Megdiche W, Jallali I, Debez A, Magn\u00e9 C, Isoda H, Abdelly C (2012) Medicinal halophytes: potent source of health promoting biomolecules with medical, nutraceutical and food applications. Crit Rev Biotechnol 32:289\u2013326",
+        "journal-title": "Crit Rev Biotechnol"
+      },
+      {
+        "key": "9_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1016/j.smallrumres.2010.01.010",
+        "volume": "91",
+        "author": "H Shaer El",
+        "year": "2010",
+        "unstructured": "El Shaer H (2010) Halophytes and salt tolerant plants as potential forages for ruminants in the Near East region. Small Rumin Res 91:3\u201312",
+        "journal-title": "Small Rumin Res"
+      },
+      {
+        "key": "9_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "234",
+        "DOI": "10.1016/j.agee.2006.08.003",
+        "volume": "119",
+        "author": "DG Masters",
+        "year": "2007",
+        "unstructured": "Masters DG, Benes SE, Norman HC (2007) Biosaline agriculture for forage and livestock production. Agric Ecosyst Environ 119:234\u2013248",
+        "journal-title": "Agric Ecosyst Environ"
+      },
+      {
+        "key": "9_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "818",
+        "DOI": "10.1016/j.biombioe.2011.01.023",
+        "volume": "35",
+        "author": "Z Abideen",
+        "year": "2011",
+        "unstructured": "Abideen Z, Ansari R, Khan MA (2011) Halophytes: potential source of ligno-cellulosic biomass for ethanol production. Biomass Bioenerg 35:818\u2013822",
+        "journal-title": "Biomass Bioenerg"
+      },
+      {
+        "key": "9_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "899",
+        "DOI": "10.1007/s00425-008-0880-4",
+        "volume": "229",
+        "author": "Su-Lian Lv",
+        "year": "2009",
+        "unstructured": "Su-Lian Lv, Li-Jun Lian, Pei-Lin Tao, Zhao-Xia Li, Ke-Wei Zhang, Ju-Ren Zhang (2009) Overexpression of Thellungiella halophila H+-PPase (TsVP) in cotton enhances drought stress resistance of plants. Planta 229:899\u2013910",
+        "journal-title": "Planta"
+      },
+      {
+        "key": "9_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1059",
+        "DOI": "10.1093/jxb/erj124",
+        "volume": "57",
+        "author": "TD Colmer",
+        "year": "2006",
+        "unstructured": "Colmer TD, Flowers TJ, Munns R (2006) Use of wild relatives to improve salt tolerance in wheat. J Exp Bot 57:1059\u20131078",
+        "journal-title": "J Exp Bot"
+      },
+      {
+        "key": "9_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "365",
+        "DOI": "10.1007/s11104-011-0934-4",
+        "volume": "348",
+        "author": "R Munns",
+        "year": "2011",
+        "unstructured": "Munns R, Richard JA, Islam A, Colmer TD (2011) Hordeum marinum-wheat amphiploids maintain higher leaf K+:Na+ and suffer less leaf injury than wheat parents in saline conditions. Plant Soil 348:365\u2013377",
+        "journal-title": "Plant Soil"
+      },
+      {
+        "key": "9_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1016/S0168-9452(02)00133-4",
+        "volume": "163",
+        "author": "HC Sharma",
+        "year": "2002",
+        "unstructured": "Sharma HC, Crouch JH, Sharma KK, Seetharama N, Hash CT (2002) Applications of biotechnology for crop improvement: prospects and constraints. Plant Sci 163:381\u2013395",
+        "journal-title": "Plant Sci"
+      },
+      {
+        "key": "9_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "259",
+        "DOI": "10.1016/S0168-9452(01)00382-X",
+        "volume": "161",
+        "author": "Y Wei",
+        "year": "2001",
+        "unstructured": "Wei Y, Guangmin X, Daying Z, Huimin C (2001) Transfer of salt tolerance from Aeluropus littoralis sinensis to wheat (Triticum aestivum L.) via asymmetric somatic hybridization. Plant Sci 161:259\u2013266",
+        "journal-title": "Plant Sci"
+      },
+      {
+        "key": "9_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "773",
+        "DOI": "10.1016/j.plantsci.2004.05.010",
+        "volume": "167",
+        "author": "C Suiyun",
+        "year": "2004",
+        "unstructured": "Suiyun C, Guangmin X, Taiyong Q et al (2004) Introgression of salt tolerance from somatic hybrids between common wheat and Thinopyrum ponticum. Plant Sci 167:773\u2013779",
+        "journal-title": "Plant Sci"
+      },
+      {
+        "key": "9_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "209",
+        "DOI": "10.1007/s11240-008-9406-9",
+        "volume": "94",
+        "author": "K Grigoriadou",
+        "year": "2008",
+        "unstructured": "Grigoriadou K, Maloupa E (2008) Micropropagation and salt tolerance of in vitro grown Crithmum maritimum L. Plant Cell Tiss Org Cult 94:209\u2013217",
+        "journal-title": "Plant Cell Tiss Org Cult"
+      },
+      {
+        "key": "9_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "141",
+        "DOI": "10.2307/2656692",
+        "volume": "87",
+        "author": "DM Seliskar",
+        "year": "2000",
+        "unstructured": "Seliskar DM, Gallagher JL (2000) Exploiting wild population diversity and soma clonal variation in the salt marsh grass Distichlis spicata (Poaceae) for marsh creation and restoration. Am J Bot 87:141\u2013146",
+        "journal-title": "Am J Bot"
+      },
+      {
+        "key": "9_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "313",
+        "DOI": "10.1016/j.indcrop.2011.06.024",
+        "volume": "35",
+        "author": "M Joshi",
+        "year": "2011",
+        "unstructured": "Joshi M, Mishra A, Jha B (2011) NaCl plays a key role for in vitro micropropagation of Salicornia brachiata, an extreme halophyte. Ind Crop Prod 35:313\u2013316",
+        "journal-title": "Ind Crop Prod"
+      },
+      {
+        "key": "9_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1023/A:1021205731719",
+        "volume": "72",
+        "author": "AM Al-Bahrany",
+        "year": "2003",
+        "unstructured": "Al-Bahrany AM, Al-Khayri JM (2003) Micropropagation of grey mangrove Avicennia marina. Plant Cell Tissue Org Cult 72:87\u201393",
+        "journal-title": "Plant Cell Tissue Org Cult"
+      },
+      {
+        "key": "9_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1105",
+        "DOI": "10.1046/j.0016-8025.2001.00761.x",
+        "volume": "24",
+        "author": "M Kura-Hotta",
+        "year": "2001",
+        "unstructured": "Kura-Hotta M, Mimura M, Tsujimura T, Washitani-Nemoto S, Mimura T (2001) High salt-treatment induced Na+ extrusion and low salt treatment-induced Na+ accumulation in suspension cultured cells of the mangrove plant Bruguiera sexangula. Plant Cell Environ 24:1105\u20131112",
+        "journal-title": "Plant Cell Environ"
+      }
+    ],
+    "container-title": [
+      "Tasks for Vegetation Science",
+      "Sabkha Ecosystems: Volume IV: Cash Crop Halophyte and Biodiversity Conservation"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-94-007-7411-7_9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          26
+        ]
+      ],
+      "date-time": "2019-05-26T20:02:56Z",
+      "timestamp": 1558900976000
+    },
+    "score": 15.166269,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-94-007-7411-7_9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789400774100",
+      "9789400774117"
+    ],
+    "references-count": 33,
+    "URL": "https://doi.org/10.1007/978-94-007-7411-7_9",
+    "ISSN": [
+      "0167-9406",
+      "1875-130X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0167-9406"
+      },
+      {
+        "type": "electronic",
+        "value": "1875-130X"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T05:04:21Z",
+      "timestamp": 1725512661180
+    },
+    "publisher-location": "Dordrecht",
+    "reference-count": 0,
+    "publisher": "Springer Netherlands",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9781402067532"
+      },
+      {
+        "type": "electronic",
+        "value": "9781402067549"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2008-01-01T00:00:00Z",
+          "timestamp": 1199145600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-1-4020-6754-9_7310",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          23
+        ]
+      ],
+      "date-time": "2008-05-23T13:08:53Z",
+      "timestamp": 1211548133000
+    },
+    "page": "838-838",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophyte"
+    ],
+    "prefix": "10.1007",
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          16
+        ]
+      ]
+    },
+    "container-title": [
+      "Encyclopedia of Genetics, Genomics, Proteomics and Informatics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4020-6754-9_7310",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2016-07-15T07:22:13Z",
+      "timestamp": 1468567333000
+    },
+    "score": 15.112536,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-1-4020-6754-9_7310"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781402067532",
+      "9781402067549"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-1-4020-6754-9_7310",
+    "published": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T00:17:50Z",
+      "timestamp": 1740097070548,
+      "version": "3.37.3"
+    },
+    "publisher-location": "Dordrecht",
+    "reference-count": 43,
+    "publisher": "Springer Netherlands",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9789400774100"
+      },
+      {
+        "type": "electronic",
+        "value": "9789400774117"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-94-007-7411-7_5",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2014-05-12T05:17:20Z",
+      "timestamp": 1399871840000
+    },
+    "page": "73-80",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Feasibility of Halophyte Domestication for High-Salinity Agriculture"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "J. Jed",
+        "family": "Brown",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Edward P.",
+        "family": "Glenn",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "S. E.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "5_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "875",
+        "DOI": "10.1071/PP9950875",
+        "volume": "22",
+        "author": "TJ Flower",
+        "year": "1995",
+        "unstructured": "Flower TJ, Yeo AR (1995) Breeding for salinity resistance in crop plants: where next? Aust J Plant Physiol 22:875\u2013884",
+        "journal-title": "Aust J Plant Physiol"
+      },
+      {
+        "key": "5_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1016/j.agwat.2005.04.015",
+        "volume": "78",
+        "author": "TJ Flower",
+        "year": "2005",
+        "unstructured": "Flower TJ, Flowers SA (2005) Why does salinity pose such a difficult problem for plant breeders? Agric Water Manag 78:15\u201324",
+        "journal-title": "Agric Water Manag"
+      },
+      {
+        "key": "5_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rozema J, Schat H (2012) Salt tolerance of halophytes, research questions reviewed in the perspective of saline agriculture. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.08.004",
+        "DOI": "10.1016/j.envexpbot.2012.08.004"
+      },
+      {
+        "key": "5_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1478",
+        "DOI": "10.1126/science.1168572",
+        "volume": "322",
+        "author": "J Rozema",
+        "year": "2008",
+        "unstructured": "Rozema J, Flowers T (2008) Crops for a salinized world. Science 322:1478\u20131480",
+        "journal-title": "Science"
+      },
+      {
+        "key": "5_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "313",
+        "DOI": "10.1086/415032",
+        "volume": "61",
+        "author": "T Flowers",
+        "year": "1986",
+        "unstructured": "Flowers T, Hajibagheri M, Clipson N (1986) Halophytes. Quart Rev Biol 61:313\u2013337",
+        "journal-title": "Quart Rev Biol"
+      },
+      {
+        "key": "5_CR6",
+        "volume-title": "HALOPH; salt tolerant plants for the world-a computerized global data base of halophytes with emphasis on their economic uses",
+        "author": "J Aronson",
+        "year": "1989",
+        "unstructured": "Aronson J (1989) HALOPH; salt tolerant plants for the world-a computerized global data base of halophytes with emphasis on their economic uses. University of Arizona Press, Tucson"
+      },
+      {
+        "key": "5_CR7",
+        "volume-title": "Irrigation water management: training manual No.1 \u2013 Introduction to irrigation",
+        "author": "A Brouwer",
+        "year": "1985",
+        "unstructured": "Brouwer A, Goffeau M, Heibloem M (1985) Irrigation water management: training manual No.1 \u2013 Introduction to irrigation. FAO, Rome"
+      },
+      {
+        "key": "5_CR8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-017-6014-0",
+        "volume-title": "Salinity and aridity: new approaches to old problems",
+        "author": "H Boyko",
+        "year": "1966",
+        "unstructured": "Boyko H (1966) Salinity and aridity: new approaches to old problems. Dr. W. Junk, The Hague"
+      },
+      {
+        "key": "5_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1038/scientificamerican0367-89",
+        "volume": "216",
+        "author": "H Boyko",
+        "year": "1967",
+        "unstructured": "Boyko H (1967) Salt-water agriculture. Sci Am 216:89\u201396",
+        "journal-title": "Sci Am"
+      },
+      {
+        "key": "5_CR10",
+        "first-page": "1",
+        "volume": "3",
+        "author": "H Boyko",
+        "year": "1959",
+        "unstructured": "Boyko H, Boyko E (1959) Seawater irrigation, a new line of research on a bioclimatic plant-soil complex. Int J Bioclim 3:1\u201317",
+        "journal-title": "Int J Bioclim"
+      },
+      {
+        "volume-title": "The biosaline concept: an approach to the utilization of underexploited resources",
+        "year": "1979",
+        "key": "5_CR11",
+        "unstructured": "Holaender A (ed) (1979) The biosaline concept: an approach to the utilization of underexploited resources. Plenum, New York"
+      },
+      {
+        "key": "5_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1525/9780520310926-009",
+        "volume-title": "Water scarcity: impacts on western agriculture",
+        "author": "J Schilfgaarde Van",
+        "year": "1984",
+        "unstructured": "Van Schilfgaarde J, Rhoades JD (1984) Coping with salinity. In: Engelbert EA, Sheuring AF (eds) Water scarcity: impacts on western agriculture. University of California Press, Berkeley/Los Angeles, pp 157\u2013179"
+      },
+      {
+        "key": "5_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "187",
+        "DOI": "10.1007/978-1-4020-9065-3_19",
+        "volume-title": "Salinity and water stress: improving crop efficiency",
+        "author": "SW Breckle",
+        "year": "2009",
+        "unstructured": "Breckle SW (2009) Is sustainable agriculture with seawater irrigation realistic? In: Ashraf M, Ozturk M, Athar HR (eds) Salinity and water stress: improving crop efficiency. Springer Science\u2009+\u2009Business Media, Dordrecht, pp 187\u2013196. Springer, Netherlands"
+      },
+      {
+        "key": "5_CR14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Katschnig D, Broekman R, Rozema J (2012) Salt tolerance in the halophyte Salicornia dolichostachya Moss: growth, morphology and physiology. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.04.002",
+        "DOI": "10.1016/j.envexpbot.2012.04.002"
+      },
+      {
+        "key": "5_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.1016/S0735-2689(99)00388-3",
+        "volume": "18",
+        "author": "EP Glenn",
+        "year": "1999",
+        "unstructured": "Glenn EP, Brown JJ, Blumwald E (1999) Salt tolerance and crop potential of halophytes. Crit Rev Plant Sci 18:227\u2013255",
+        "journal-title": "Crit Rev Plant Sci"
+      },
+      {
+        "key": "5_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1016/S0140-1963(18)31119-4",
+        "volume": "13",
+        "author": "MC Watson",
+        "year": "1987",
+        "unstructured": "Watson MC, O\u2019Leary JW, Glenn EP (1987) Evaluation of Atriplexlentiformis (torr) S.Wats.an Atriplexnummularia Lindl. as irrigated forage crops. J Arid Environ 13:293\u2013303",
+        "journal-title": "J Arid Environ"
+      },
+      {
+        "key": "5_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.1016/0167-8809(90)90127-Y",
+        "volume": "32",
+        "author": "MC Watson",
+        "year": "1990",
+        "unstructured": "Watson MC (1990) Atriplex species as irrigated forage crops. Agric Ecosyst Environ 32:107\u2013118",
+        "journal-title": "Agric Ecosyst Environ"
+      },
+      {
+        "key": "5_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "473",
+        "DOI": "10.1016/j.agee.2011.01.012",
+        "volume": "140",
+        "author": "D Soliz",
+        "year": "2011",
+        "unstructured": "Soliz D, Glenn EP, Seaman R, Yoklic M, Nelson SG, Brown P (2011) Water consumption, irrigation efficiency and nutritional value of Atriplexlentiformis grown on reverse osmosis brine in a desert irrigation district. Agric Ecosyst Environ 140:473\u2013483",
+        "journal-title": "Agric Ecosyst Environ"
+      },
+      {
+        "key": "5_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "899",
+        "DOI": "10.1016/j.agrformet.2008.11.010",
+        "volume": "149",
+        "author": "FL Jordan",
+        "year": "2009",
+        "unstructured": "Jordan FL, Yoklic M, Morino K, Brown PK, Seaman R, Glenn EP (2009) Consumptive water use and stomatal conductance of Atriplexlentiformis irrigated with industrial brine in a desert irrigation district. Agric For Meteor 149:899\u2013912",
+        "journal-title": "Agric For Meteor"
+      },
+      {
+        "key": "5_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/S0140-1963(18)31273-4",
+        "volume": "9",
+        "author": "EP Glenn",
+        "year": "1985",
+        "unstructured": "Glenn EP, O\u2019Leary JW (1985) Productivity and irrigation requirements of halophytes grown with seawater in the Sonoran Desert. J Arid Environ 9:81\u201391",
+        "journal-title": "J Arid Environ"
+      },
+      {
+        "key": "5_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "1065",
+        "DOI": "10.1126/science.251.4997.1065",
+        "volume": "251",
+        "author": "EP Glenn",
+        "year": "1991",
+        "unstructured": "Glenn EP, O\u2019Leary JW, Watson MC et al (1991) Salicornia bigelovii Torr.: an oilseed halophyte for seawater irrigation. Science 251:1065\u20131067",
+        "journal-title": "Science"
+      },
+      {
+        "key": "5_CR22",
+        "unstructured": "Salunkhe DK (ed) (1992). World oilseeds. Springer, New York"
+      },
+      {
+        "volume-title": "Agricultural handbook no. 60",
+        "year": "1954",
+        "key": "5_CR23",
+        "unstructured": "Richards LA (ed) (1954) Agricultural handbook no. 60. USDA, Washington, DC"
+      },
+      {
+        "key": "5_CR24",
+        "volume-title": "Water quality for agriculture, handbook 29",
+        "author": "RS Ayers",
+        "year": "1976",
+        "unstructured": "Ayers RS, Westcot DW (1976) Water quality for agriculture, handbook 29. FAO, Rome"
+      },
+      {
+        "key": "5_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "32",
+        "DOI": "10.2136/sssaj1978.03615995004200010008x",
+        "volume": "42",
+        "author": "H Frenkel",
+        "year": "1978",
+        "unstructured": "Frenkel H, Goertzen JO, Rhoades JD (1978) Effects of clay type and content, exchangeable sodium percentage, and electrolyte concentration on clay dispersion and soil hydraulic conductivity. Soil Sci Soc Am J 42:32\u201339",
+        "journal-title": "Soil Sci Soc Am J"
+      },
+      {
+        "key": "5_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.scitotenv.2003.10.012",
+        "volume": "323",
+        "author": "M Qadir",
+        "year": "2004",
+        "unstructured": "Qadir M, Oster JD (2004) Crop and irrigation management strategies for saline-sodic soils and waters aimed at environmentally sustainable agriculture. Sci Total Environ 323:1\u201319",
+        "journal-title": "Sci Total Environ"
+      },
+      {
+        "key": "5_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "502",
+        "DOI": "10.1016/j.agwat.2010.08.009",
+        "volume": "98",
+        "author": "J Letey",
+        "year": "2011",
+        "unstructured": "Letey J, Hoffman GJ, Hopmans JW et al (2011) Evaluation of soil salinity leaching requirement guidelines. Agric Water Manag 98:502\u2013506",
+        "journal-title": "Agric Water Manag"
+      },
+      {
+        "key": "5_CR28",
+        "unstructured": "Glenn EP, Olsen M, Frye R, Moore D (1994) Use of halophytes to remove carbon from the atmosphere: results of a demonstration experiment. Electric Power Research Institute, TR-103310, Research report 8011\u201303, Palo Alto, California"
+      },
+      {
+        "key": "5_CR29",
+        "first-page": "221",
+        "volume-title": "Halophytes and biosaline agriculture",
+        "author": "EP Glenn",
+        "year": "1995",
+        "unstructured": "Glenn EP, Riley J, Hicks N, Swingle S (1995) Seawater irrigation of halophytes for animal feed. In: Choukr-Allah R, Malcolm M, Hamdy A (eds) Halophytes and biosaline agriculture. Marcel Dekker, New York, pp 221\u2013236"
+      },
+      {
+        "key": "5_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Glenn EP, Anday T, Chaturvedi R et al (2012) Three halophytes for saline-water agriculture: an oilseed, a forage and a grain crop. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.05.002",
+        "DOI": "10.1016/j.envexpbot.2012.05.002"
+      },
+      {
+        "key": "5_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "711",
+        "DOI": "10.1006/jare.1997.0253",
+        "volume": "36",
+        "author": "EP Glenn",
+        "year": "1997",
+        "unstructured": "Glenn EP, Miyamoto S, Moore D et al (1997) Water requirements for cultivating Salicorniabigelovii Torr. with seawater on sand in a coastal desert environment. J Arid Environ 36:711\u2013730",
+        "journal-title": "J Arid Environ"
+      },
+      {
+        "key": "5_CR32",
+        "first-page": "1",
+        "volume": "24",
+        "author": "P Gepts",
+        "year": "2004",
+        "unstructured": "Gepts P (2004) Crop domestication as a long-term selection experiment. Plant Breed Rev 24:1\u201344",
+        "journal-title": "Plant Breed Rev"
+      },
+      {
+        "key": "5_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "730",
+        "DOI": "10.1016/j.ecoleng.2010.01.002",
+        "volume": "36",
+        "author": "DB Zerai",
+        "year": "2010",
+        "unstructured": "Zerai DB, Glenn EP, Chatervedi R et al (2010) Potential for the improvement of Salicornia bigelovii through selective breeding. Ecol Eng 36:730\u2013739",
+        "journal-title": "Ecol Eng"
+      },
+      {
+        "key": "5_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1111/j.1744-7909.2010.01006.x",
+        "volume": "53",
+        "author": "T Sang",
+        "year": "2011",
+        "unstructured": "Sang T (2011) Toward the domestication of lignocellulosic energy crops: learning from food crop domestication free access. J Integr Plant Biol 53:96\u2013104",
+        "journal-title": "J Integr Plant Biol"
+      },
+      {
+        "key": "5_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "129",
+        "DOI": "10.1007/978-1-4020-5072-5_11",
+        "volume-title": "Sabkha ecosystems",
+        "author": "MA Khan",
+        "year": "2006",
+        "unstructured": "Khan MA, Qaiser M (2006) Halophytes of Pakistan: characteristics, distribution and potential economic usages. In: Khan MA, B\u00f6er B, Kust GS, Barth HJ (eds) Sabkha ecosystems. Springer, New York, pp 129\u2013153"
+      },
+      {
+        "key": "5_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "2661",
+        "DOI": "10.1016/j.soilbio.2007.02.005",
+        "volume": "39",
+        "author": "K Ravindran",
+        "year": "2007",
+        "unstructured": "Ravindran K, Venkatesan K, Balakrishnan V, Chellappan K, Balasubramanian T (2007) Restoration of saline land by halophytes for Indian soils. Soil Biol Biochem 39:2661\u20132664",
+        "journal-title": "Soil Biol Biochem"
+      },
+      {
+        "key": "5_CR37",
+        "first-page": "31",
+        "volume": "8",
+        "author": "K Zhao",
+        "year": "2002",
+        "unstructured": "Zhao K, Fan H, Jiang X, Song J (2002) Improvement and utilization of saline soil by planting halophytes. Chin J Appl Environ Biol 8:31\u201335",
+        "journal-title": "Chin J Appl Environ Biol"
+      },
+      {
+        "key": "5_CR38",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2135/1992.cropsandman",
+        "volume-title": "Crops and man",
+        "author": "JR Harlan",
+        "year": "1992",
+        "unstructured": "Harlan JR (1992) Crops and man. Crop Science Society of American, Madison"
+      },
+      {
+        "key": "5_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "29",
+        "DOI": "10.1111/j.1469-8137.2012.04253.x",
+        "volume": "196",
+        "author": "RS Meyer",
+        "year": "2012",
+        "unstructured": "Meyer RS, DuVal AE, Jensen HR (2012) Patterns and processes in crop domestication: an historical review and quantitative analysis of 203 global food crops. New Phytol 196:29\u201348",
+        "journal-title": "New Phytol"
+      },
+      {
+        "key": "5_CR40",
+        "first-page": "9",
+        "volume-title": "Crop ferality and volunteerism",
+        "author": "SI Warwick",
+        "year": "2005",
+        "unstructured": "Warwick SI, Stewart C (2005) Crops come from wild plants \u2013 how domestication, transgenes, and linkage together shape ferality. In: Gressel J (ed) Crop ferality and volunteerism. CRC Press, Boca Raton, pp 9\u201330"
+      },
+      {
+        "key": "5_CR41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gul B, Ansari R, Flowers TJ, Khan MA (2012) Germination strategies of halophyte seeds under salinity. Environ Exp Bot. http://dx.doi.org/10.1016/j.envexpbot.2012.11.006",
+        "DOI": "10.1016/j.envexpbot.2012.11.006"
+      },
+      {
+        "key": "5_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1111/j.1469-8137.2008.02432.x",
+        "volume": "179",
+        "author": "A Karp",
+        "year": "2008",
+        "unstructured": "Karp A, Shield I (2008) Bioenergy from plants and the sustainable yield challenge. New Phytol 179:15\u201331",
+        "journal-title": "New Phytol"
+      },
+      {
+        "key": "5_CR43",
+        "first-page": "485",
+        "volume-title": "Principles of plant breeding",
+        "author": "RW Allard",
+        "year": "1999",
+        "unstructured": "Allard RW (1999) Principles of plant breeding. Wiley, New York, p 485"
+      }
+    ],
+    "container-title": [
+      "Tasks for Vegetation Science",
+      "Sabkha Ecosystems: Volume IV: Cash Crop Halophyte and Biodiversity Conservation"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-94-007-7411-7_5",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T12:11:38Z",
+      "timestamp": 1648987898000
+    },
+    "score": 15.094372,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-94-007-7411-7_5"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789400774100",
+      "9789400774117"
+    ],
+    "references-count": 43,
+    "URL": "https://doi.org/10.1007/978-94-007-7411-7_5",
+    "ISSN": [
+      "0167-9406",
+      "1875-130X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0167-9406"
+      },
+      {
+        "type": "electronic",
+        "value": "1875-130X"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          8
+        ]
+      ],
+      "date-time": "2024-09-08T11:02:05Z",
+      "timestamp": 1725793325939
+    },
+    "publisher-location": "Dordrecht",
+    "reference-count": 3,
+    "publisher": "Springer Netherlands",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9789400774100"
+      },
+      {
+        "type": "electronic",
+        "value": "9789400774117"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-94-007-7411-7_25",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2014-05-12T05:17:20Z",
+      "timestamp": 1399871840000
+    },
+    "page": "335-336",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "World Halophyte Garden: Economic Dividends with Global Significance"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Benno",
+        "family": "B\u00f6er",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "M. Ajmal",
+        "family": "Khan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kenneth B.",
+        "family": "Marcum",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "25_CR1",
+        "volume-title": "Reaction time and the physiological law of strength. Demarcation problems of psychology and physiology",
+        "author": "YI Boyko",
+        "year": "1961",
+        "unstructured": "Boyko YI (1961) Reaction time and the physiological law of strength. Demarcation problems of psychology and physiology. Publishing House of the Academy of Pedagogical Sciences, RSFSR, Moscow"
+      },
+      {
+        "key": "25_CR2",
+        "unstructured": "Menzel U, Lieth H (1999) Tabulation of halophytes reported as utilized in different publications and handbooks. In: Hamdy A, Lieth H, Todorovi\u0107 M, Moschenko M (eds) Halophyte uses in different climates, vol 2, Progress in biometeorology 14. Backhuys Publishers, Leiden, pp 127\u2013133"
+      },
+      {
+        "key": "25_CR3",
+        "volume-title": "HALOPH; salt tolerant plants for the world \u2013 a computerized global data base of halophytes with emphasis on their economic uses",
+        "author": "J Aronson",
+        "year": "1989",
+        "unstructured": "Aronson J (1989) HALOPH; salt tolerant plants for the world \u2013 a computerized global data base of halophytes with emphasis on their economic uses. University of Arizona Press, Tucson"
+      }
+    ],
+    "container-title": [
+      "Tasks for Vegetation Science",
+      "Sabkha Ecosystems: Volume IV: Cash Crop Halophyte and Biodiversity Conservation"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-94-007-7411-7_25",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          26
+        ]
+      ],
+      "date-time": "2019-05-26T20:03:00Z",
+      "timestamp": 1558900980000
+    },
+    "score": 15.02852,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-94-007-7411-7_25"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789400774100",
+      "9789400774117"
+    ],
+    "references-count": 3,
+    "URL": "https://doi.org/10.1007/978-94-007-7411-7_25",
+    "ISSN": [
+      "0167-9406",
+      "1875-130X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0167-9406"
+      },
+      {
+        "type": "electronic",
+        "value": "1875-130X"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2024-02-11T11:59:00Z",
+      "timestamp": 1707652740104
+    },
+    "publisher": "Fundacao para a Ciencia e a Tecnologia (unidadeFCCN)",
+    "award-start": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          1
+        ]
+      ]
+    },
+    "award": "2021.06747.BD",
+    "DOI": "10.54499/2021.06747.bd",
+    "type": "grant",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2024-02-09T09:16:54Z",
+      "timestamp": 1707470214000
+    },
+    "source": "Crossref",
+    "prefix": "10.54499",
+    "member": "31773",
+    "project": [
+      {
+        "project-title": [
+          {
+            "title": "Exploring the phylogenetic and functional diversity of the halophyte mycobiome",
+            "language": "en"
+          },
+          {
+            "title": "Exploring the phylogenetic and functional diversity of the halophyte mycobiome",
+            "language": "pt"
+          }
+        ],
+        "investigator": [
+          {
+            "given": "Cristina",
+            "family": "Sofia Fernandes Torcato",
+            "alternate-name": [
+              "Cristina Sofia Fernandes Torcato"
+            ],
+            "affiliation": []
+          }
+        ],
+        "lead-investigator": [
+          {
+            "given": "Cristina",
+            "family": "Sofia Fernandes Torcato",
+            "alternate-name": [
+              "Cristina Sofia Fernandes Torcato"
+            ],
+            "affiliation": []
+          }
+        ],
+        "award-amount": {
+          "amount": 40540.28,
+          "currency": "EUR"
+        },
+        "award-start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ]
+        },
+        "award-end": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              31
+            ]
+          ]
+        },
+        "funding": [
+          {
+            "type": "grant",
+            "scheme": "FCT",
+            "award-amount": {
+              "amount": 40540.28,
+              "currency": "EUR",
+              "percentage": null
+            },
+            "funder": {
+              "id": [
+                {
+                  "id": "10.13039/501100001871",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia"
+            }
+          }
+        ]
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2024-02-09T09:16:54Z",
+      "timestamp": 1707470214000
+    },
+    "score": 14.944148,
+    "resource": {
+      "primary": {
+        "URL": "https://sciproj.ptcris.pt/80979DFA"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.54499/2021.06747.bd"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          11
+        ]
+      ],
+      "date-time": "2025-04-11T12:11:03Z",
+      "timestamp": 1744373463369,
+      "version": "3.40.4"
+    },
+    "reference-count": 2,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "4415",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1954,
+              6,
+              12
+            ]
+          ],
+          "date-time": "1954-06-12T00:00:00Z",
+          "timestamp": -490924800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              1954,
+              6,
+              12
+            ]
+          ],
+          "date-time": "1954-06-12T00:00:00Z",
+          "timestamp": -490924800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nature"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1954,
+          6,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1038/1731143a0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2006-05-30T11:48:15Z",
+      "timestamp": 1148989695000
+    },
+    "page": "1143-1143",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Brownish-yellow Discoloration of Salt Cod and Halophile Calcium-needing Micro-organisms"
+    ],
+    "prefix": "10.1038",
+    "volume": "173",
+    "author": [
+      {
+        "given": "P\u00c1LL",
+        "family": "OLAFSSON",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BF1731143a0_CR1",
+        "unstructured": "Dyer, W. J., \u201cYellow Stains in Salt Fish\u201d, Fish. Res. Bd. Canada, Progress Reports of the Atlantic Coast Stations, No. 45 (1949)."
+      },
+      {
+        "key": "BF1731143a0_CR2",
+        "unstructured": "Rep. Food Invest. Bd. for 1951 (Dept. Sci. and Indust. Res., London, 1952)."
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/1731143a0",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/1731143a0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/1731143a0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          11
+        ]
+      ],
+      "date-time": "2025-04-11T11:29:59Z",
+      "timestamp": 1744370999000
+    },
+    "score": 14.901427,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/1731143a0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1954,
+          6,
+          12
+        ]
+      ]
+    },
+    "references-count": 2,
+    "journal-issue": {
+      "issue": "4415",
+      "published-print": {
+        "date-parts": [
+          [
+            1954,
+            6,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BF1731143a0"
+    ],
+    "URL": "https://doi.org/10.1038/1731143a0",
+    "ISSN": [
+      "0028-0836",
+      "1476-4687"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0028-0836"
+      },
+      {
+        "type": "electronic",
+        "value": "1476-4687"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1954,
+          6,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2025-04-17T04:11:37Z",
+      "timestamp": 1744863097342,
+      "version": "3.40.4"
+    },
+    "reference-count": 23,
+    "publisher": "AMPP",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Here, we coupled successive rounds of molecular microbial methods (MMM) to calibrate adenosine triphosphate (ATP) readings to trend Halanaerobium fouling in unconventional wells. ATP was then used to drive a biocide efficacy study, which resulted in selecting a glutaraldehyde/quaternary amine (quat) blend. This selection was partly supported by literature searches, which showed that quats have been effective on Halanaerobium. ATP monitoring was then used to direct the success of a downhole biocide treatment program for horizontal wells. Since sessile samples were not routinely available, planktonic samples were used. Over two years of reviewing the treatment results of approximately 30 wells in a single lease, where multiple sample points were available, we found that most treatments were successful in returning/or maintaining wells within KPIs. The operator has experienced reduced failures and currently relies on MMM supported ATP to monitor multiple leases where Halanaerobium is present.</jats:p>",
+    "DOI": "10.5006/c2021-16718",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2025-04-16T14:52:23Z",
+      "timestamp": 1744815143000
+    },
+    "page": "1-13",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Successful Treatment of a Corrosive Acetic Acid Producing Halophile That Is Averse to Culture Media"
+    ],
+    "prefix": "10.5006",
+    "author": [
+      {
+        "given": "Christopher",
+        "family": "Rodriguez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clariant OMS, 2750 Technology Forest Blvd, The Woodlands, TX, 77381, USA"
+          }
+        ]
+      },
+      {
+        "given": "Jason",
+        "family": "Hook",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clariant OMS, 3408 Easy Hwy 158, Midland, TX, 79702, USA"
+          }
+        ]
+      },
+      {
+        "given": "Shane",
+        "family": "Underwood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clariant OMS, 3408 East Hwy 158, Midland, TX, 79702, USA"
+          }
+        ]
+      }
+    ],
+    "member": "2917",
+    "reference": [
+      {
+        "key": "2025041610514915500_b1-c2021-16718",
+        "volume-title": "Trends in U.S. Oil and Natural Gas Upstream Costs",
+        "author": "U.S. Energy Information Administration",
+        "year": "2016"
+      },
+      {
+        "key": "2025041610514915500_b2-c2021-16718",
+        "first-page": "123450",
+        "article-title": "Controlling Bacteria in Recycled Production Water for Completion and Workover Operations",
+        "volume-title": "SPE International",
+        "author": "Tischler",
+        "year": "2009"
+      },
+      {
+        "key": "2025041610514915500_b3-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1111/j.1574-6941.2011.01196.x",
+        "article-title": "Bacterial communities associated with hydraulic fracturing fluids in thermogenic natural gas wells in North Central Texas, USA",
+        "volume": "81",
+        "author": "Struchtemeyer",
+        "year": "2012",
+        "journal-title": "FEMS Microbiol Ecol"
+      },
+      {
+        "key": "2025041610514915500_b4-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1016/S0065-2164(08)00806-X",
+        "article-title": "Microbial Processes in the Oil Fields: Culprits, Problems, and Oppurtunities",
+        "volume": "66",
+        "author": "Youssef",
+        "year": "2009",
+        "journal-title": "Adv Appl Microbiol"
+      },
+      {
+        "key": "2025041610514915500_b5-c2021-16718",
+        "volume-title": "Field Monitoring of Bacterial growth in Oil and Gas Systems",
+        "author": "NACE International TMO194-2014"
+      },
+      {
+        "issue": "988",
+        "key": "2025041610514915500_b6-c2021-16718",
+        "first-page": "1",
+        "article-title": "Metabolic Capability of a Predominant Halanaerobium Sp. In Hydraulically Fractured Gas Wells and Its Implication in Pipeline Corrosion",
+        "volume": "7",
+        "author": "Liang",
+        "year": "2016",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "2025041610514915500_b7-c2021-16718",
+        "first-page": "173709",
+        "article-title": "Investigation of Microorganisms in a West Texas Oilfield Using Growth and Genetic Testing",
+        "volume-title": "SPE International",
+        "author": "Kilbane",
+        "year": "2015"
+      },
+      {
+        "key": "2025041610514915500_b8-c2021-16718",
+        "first-page": "13033",
+        "article-title": "Expanding Industry Access to Molecular Microbiological Methods: Development of an Off-the-Shelf Laboratory Workflow for qPCR and NGS Analysis",
+        "volume-title": "NACE International",
+        "author": "Sharma",
+        "year": "2019"
+      },
+      {
+        "key": "2025041610514915500_b9-c2021-16718",
+        "article-title": "Delivering Value Through Microbial Control",
+        "author": "Donovan",
+        "year": "2016",
+        "journal-title": "Hart\u2019s Explortion and Production Magazine"
+      },
+      {
+        "issue": "10",
+        "key": "2025041610514915500_b10-c2021-16718",
+        "first-page": "1031",
+        "article-title": "The ATP Assay, A Method for Measuring Biological Activity in Industrial Water",
+        "volume": "51",
+        "author": "Caprita",
+        "year": "2006",
+        "journal-title": "Revue Roumaine de Chimiel"
+      },
+      {
+        "issue": "3",
+        "key": "2025041610514915500_b11-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "495",
+        "DOI": "10.1128/jcm.28.3.495-503.1990",
+        "article-title": "Rapid and Simple Method for Purification of Nucleic Acids",
+        "volume": "28",
+        "author": "Boom",
+        "year": "1990",
+        "journal-title": "Journal of Clinical Microbiology"
+      },
+      {
+        "issue": "Supplement 1",
+        "key": "2025041610514915500_b12-c2021-16718",
+        "first-page": "4516",
+        "article-title": "Global Patterns of 16S rRNA Diversity at a Depth of Millions of Sequences per Sample",
+        "volume": "108",
+        "author": "Caporaso",
+        "year": "2010",
+        "journal-title": "PNAS"
+      },
+      {
+        "issue": "4",
+        "key": "2025041610514915500_b13-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "1213",
+        "DOI": "10.1128/JCM.02036-07",
+        "article-title": "Rapid Antimicrobial Susceptibility Determination of Uropathogens in Clinical Urine Specimens by Use of ATP Bioluminescence",
+        "volume": "46",
+        "author": "Ivancic",
+        "year": "2008",
+        "journal-title": "Journal of Clinical Microbiology"
+      },
+      {
+        "issue": "22",
+        "key": "2025041610514915500_b14-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "13141",
+        "DOI": "10.1021/es402928b",
+        "article-title": "Microbial Community Changes in Hydraulic Fracturing fluids, and Produced Water from Shale Gas Extraction",
+        "volume": "47",
+        "author": "Mohan",
+        "year": "2013",
+        "journal-title": "Environ, Sci. Technol."
+      },
+      {
+        "issue": "11",
+        "key": "2025041610514915500_b15-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "6508",
+        "DOI": "10.1021/es501173p",
+        "article-title": "Temporal Changes in Microbial Ecology and Geochemistry in Produced Water from Hydraulically Fractured Marcellus Shale Gas Wells",
+        "volume": "48",
+        "author": "Cluff",
+        "year": "2014",
+        "journal-title": "Environ, Sci. Technol."
+      },
+      {
+        "issue": "8",
+        "key": "2025041610514915500_b16-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "e02659-16",
+        "DOI": "10.1128/AEM.02659-16",
+        "article-title": "Predominance and Metabolic Potential of Halanaerobium in Produced Water from Hydraulically Fractured Marcellus Shale Wells",
+        "volume": "83",
+        "author": "Lipus",
+        "year": "2017",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "key": "2025041610514915500_b17-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1093/femsec/fiw166",
+        "article-title": "Hydraulic Fracturing Offers View of Microbial Life in the Deep Terrestrial Subsurface",
+        "volume": "92",
+        "author": "Mouser",
+        "year": "2016",
+        "journal-title": "FEMS Microbiol Ecol"
+      },
+      {
+        "key": "2025041610514915500_b18-c2021-16718",
+        "first-page": "2299",
+        "article-title": "Developing a Metric for Microbiologically Influenced Corrosion (MIC) in Oilfield Water Handling Systems",
+        "volume-title": "NACE International",
+        "author": "Al-Shamari",
+        "year": "2013"
+      },
+      {
+        "issue": "4",
+        "key": "2025041610514915500_b19-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1128/mSphereDirect.00257-17",
+        "article-title": "Sulfide Generation by Dominant Halanaerobium microorganisms in Hydraulically Fractured Shales",
+        "volume": "2",
+        "author": "Booker",
+        "year": "2017",
+        "journal-title": "mSphere"
+      },
+      {
+        "key": "2025041610514915500_b20-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1111/j.1574-6968.1997.tb10224.x",
+        "article-title": "Halanaerobium congolense sp. nov., an anaerobic, moderately halophilic, thiosulfate-and sulfur-reducing bacterium from an African oil field",
+        "volume": "147",
+        "author": "Ravot",
+        "year": "1997",
+        "journal-title": "FEMS Microbiol. lett."
+      },
+      {
+        "issue": "28",
+        "key": "2025041610514915500_b21-c2021-16718",
+        "doi-asserted-by": "crossref",
+        "first-page": "E6585",
+        "DOI": "10.1073/pnas.1800155115",
+        "article-title": "Coupled Laboratory and Field Investigations Resolve Microbial Interactions that underpin Persistence in Hydraulically Fractured Shales",
+        "volume": "115",
+        "author": "Borton",
+        "year": "2018",
+        "journal-title": "PNAS"
+      },
+      {
+        "key": "2025041610514915500_b22-c2021-16718",
+        "first-page": "342",
+        "volume-title": "Production Chemicals for the Oil and Gas Industry",
+        "author": "Kelland",
+        "year": "2009",
+        "edition": "1st"
+      },
+      {
+        "key": "2025041610514915500_b23-c2021-16718",
+        "first-page": "3876",
+        "article-title": "The Environmental Fate of Oil and Gas Biocides: A Review",
+        "volume-title": "NACE International",
+        "author": "Williams",
+        "year": "2014"
+      }
+    ],
+    "event": {
+      "name": "CORROSION 2021",
+      "location": "Virtual Conference",
+      "acronym": "CONF_APR2021",
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            19
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            30
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "CORROSION 2021"
+    ],
+    "link": [
+      {
+        "URL": "https://content.ampp.org/nace/proceedings-pdf/doi/10.5006/C2021-16718/1095843/c2021-16718.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://content.ampp.org/nace/proceedings-pdf/doi/10.5006/C2021-16718/1095843/c2021-16718.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2025-04-16T14:52:28Z",
+      "timestamp": 1744815148000
+    },
+    "score": 14.901427,
+    "resource": {
+      "primary": {
+        "URL": "https://content.ampp.org/nace/proceedings/CONF_APR2021/2021/1/59374"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.5006/c2021-16718",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T09:14:39Z",
+      "timestamp": 1726218879171
+    },
+    "reference-count": 10,
+    "publisher": "Trans Tech Publications, Ltd.",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              31
+            ]
+          ],
+          "date-time": "2013-10-31T00:00:00Z",
+          "timestamp": 1383177600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 30,
+        "URL": "https://www.scientific.net/PolicyAndEthics/PublishingPolicies"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              31
+            ]
+          ],
+          "date-time": "2013-10-31T00:00:00Z",
+          "timestamp": 1383177600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 30,
+        "URL": "https://www.scientific.net/license/TDM_Licenser.pdf"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "AMM"
+    ],
+    "abstract": "<jats:p>PHB (Poly-\u03b2-hydroxybutyrate) has been widely in the areas of industrial packaging, pharmacy and agriculture. Currently, its production cost, especially in extraction and purification are high. A moderate halophilic bacterium was used for PHB synthesis and an aqueous extraction method based on osmotic downshock was investigated in this paper to further improve the extraction efficiency. PHB synthesised by moderate halophile with certain NaCl concentration can be released with cell lysis by osmotic downshock. Meanwhile the high temperature, ultrasonic and SDS (Sodium dodecyl sulfate) can enhance the release. After 48 h of fermentation, the production of PHB by <jats:italic>Halomonas salina</jats:italic> was 6.5 g/L. The extraction rate of PHB was 24.6% with osmotic downshock and 35.4% with additional ultrasonic assistance at 65 \u00b0C. A further addition of 0.5% SDS made the extraction rate increase to 75.4%. Thereinto, the addition of 6% NaCl had significantly improved the aqueous extraction rate to 92.3%.</jats:p>",
+    "DOI": "10.4028/www.scientific.net/amm.448-453.160",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2013-10-31T14:58:30Z",
+      "timestamp": 1383231510000
+    },
+    "page": "160-163",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Study on Synthesis of PHB by Moderate Halophile and Aqueous Extraction of PHB"
+    ],
+    "prefix": "10.4028",
+    "volume": "448-453",
+    "author": [
+      {
+        "given": "Qing",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dalian Maritime University"
+          }
+        ]
+      },
+      {
+        "given": "Ling Hua",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dalian Maritime University"
+          }
+        ]
+      }
+    ],
+    "member": "2457",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1157365",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Keshavarz, I. Roy. Curr Opin Microbiol. Vol. 13 (2010), pp.321-326.",
+        "DOI": "10.1016/j.mib.2010.02.006"
+      },
+      {
+        "key": "1157366",
+        "unstructured": "Z.J. Li, X.X. Wei, G.Q. Chen. Chin J Biotech. Vol. 26 (2010), pp.1426-1435. In Chinese."
+      },
+      {
+        "key": "1157367",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Guzm\u00e1n, D.V. Thuoc, J. Mart\u00edn, R.H. Kaul, J. Quillaguam\u00e1n. Appl Microbiol Biot. Vol. 84 (2009), pp.1069-1077.",
+        "DOI": "10.1007/s00253-009-2036-2"
+      },
+      {
+        "key": "1157368",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Ling, H.H. Wong, C.J. Thomas, D.R.G. Williams, A.P.J. Niddelberg. Bioseparation. Vol. 7 (1997), pp.9-15.",
+        "DOI": "10.1023/A:1007900416356"
+      },
+      {
+        "key": "1157369",
+        "unstructured": "R.F. Castillo, F.R. Valera, J.G. Ramos, F.R. Berraquero. Vol. 51 (1986), pp.214-216."
+      },
+      {
+        "key": "1157370",
+        "doi-asserted-by": "crossref",
+        "unstructured": "B. Kunasundari, K. Sudesh. Express Polym Lett. Vol. 5 (2011), pp.620-634.",
+        "DOI": "10.3144/expresspolymlett.2011.60"
+      },
+      {
+        "key": "1157371",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. Pandolfi, M.N. Pons, M.D. Motta. Biotechnol Lett. Vol. 29 (2007), pp.1263-1269.",
+        "DOI": "10.1007/s10529-007-9387-5"
+      },
+      {
+        "key": "1157372",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Yilmaz, H. Soran, Y. Beyatli. World J Microb Biot. Vol. 21 (2005), pp.565-566.",
+        "DOI": "10.1007/s11274-004-3274-1"
+      },
+      {
+        "key": "1157373",
+        "doi-asserted-by": "crossref",
+        "unstructured": "G.K. Hiller, N. Calkins, R. V. Wandruszka. Langmuir. Vol. 12 (1996), pp.916-920.",
+        "DOI": "10.1021/la950535j"
+      },
+      {
+        "key": "1157374",
+        "unstructured": "X.Y. Fang, X. Yang, C.X. Zhou, T. Chen, J.J. Hu. Computers and Applied Chemistry. Vol. 27 (2010), pp.374-378. In Chinese."
+      }
+    ],
+    "container-title": [
+      "Applied Mechanics and Materials"
+    ],
+    "link": [
+      {
+        "URL": "https://www.scientific.net/AMM.448-453.160.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2021-01-12T22:12:51Z",
+      "timestamp": 1610489571000
+    },
+    "score": 14.877832,
+    "resource": {
+      "primary": {
+        "URL": "https://www.scientific.net/AMM.448-453.160"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10
+        ]
+      ]
+    },
+    "references-count": 10,
+    "URL": "https://doi.org/10.4028/www.scientific.net/amm.448-453.160",
+    "ISSN": [
+      "1662-7482"
+    ],
+    "issn-type": [
+      {
+        "value": "1662-7482",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2022-07-01T20:51:24Z",
+      "timestamp": 1656708684679
+    },
+    "reference-count": 0,
+    "publisher": "Societe entomologique de France",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "bsef"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1933
+        ]
+      ]
+    },
+    "DOI": "10.3406/bsef.1933.14529",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2021-11-09T08:53:09Z",
+      "timestamp": 1636447989000
+    },
+    "page": "57-59",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Une Cochenille halophile en Tunisie"
+    ],
+    "prefix": "10.32475",
+    "volume": "38",
+    "author": [
+      {
+        "given": "Paul",
+        "family": "Vayssi\u00e8re",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "17575",
+    "container-title": [
+      "Bulletin de la Soci\u00e9t\u00e9 entomologique de France"
+    ],
+    "language": "fr",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          13
+        ]
+      ],
+      "date-time": "2021-11-13T05:54:00Z",
+      "timestamp": 1636782840000
+    },
+    "score": 14.825181,
+    "resource": {
+      "primary": {
+        "URL": "https://www.persee.fr/doc/bsef_0037-928x_1933_num_38_4_14529"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1933
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            1933
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3406/bsef.1933.14529",
+    "ISSN": [
+      "0037-928X"
+    ],
+    "issn-type": [
+      {
+        "value": "0037-928X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1933
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2024-09-04T09:57:23Z",
+      "timestamp": 1725443843973
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Wiley",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9780471268215"
+      },
+      {
+        "type": "electronic",
+        "value": "9780471684220"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              7,
+              15
+            ]
+          ],
+          "date-time": "2004-07-15T00:00:00Z",
+          "timestamp": 1089849600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              7,
+              15
+            ]
+          ],
+          "date-time": "2004-07-15T00:00:00Z",
+          "timestamp": 1089849600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1002/0471684228.egp05443",
+    "type": "other",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2004-09-14T10:09:56Z",
+      "timestamp": 1095156596000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophyte"
+    ],
+    "prefix": "10.1002",
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2004,
+          7,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "Encyclopedic Dictionary of Genetics, Genomics and Proteomics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/0471684228.egp05443",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2023-12-12T19:26:58Z",
+      "timestamp": 1702409218000
+    },
+    "score": 14.722867,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/0471684228.egp05443"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          7,
+          15
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780471268215",
+      "9780471684220"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.1002/0471684228.egp05443",
+      "10.1002/0471684228"
+    ],
+    "URL": "https://doi.org/10.1002/0471684228.egp05443",
+    "archive": [
+      "Portico"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          7,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2026-01-25T04:17:00Z",
+      "timestamp": 1769314620312,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "Frontiers Media SA",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Front. Microbiol."
+    ],
+    "DOI": "10.3389/fmicb.2013.00418",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2014-01-05T23:16:49Z",
+      "timestamp": 1388963809000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Prebiotic protein design supports a halophile origin of foldable proteins"
+    ],
+    "prefix": "10.3389",
+    "volume": "4",
+    "author": [
+      {
+        "given": "Liam M.",
+        "family": "Longo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Michael",
+        "family": "Blaber",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": [
+      "Frontiers in Microbiology"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2015-02-18T14:28:08Z",
+      "timestamp": 1424269688000
+    },
+    "score": 14.632352,
+    "resource": {
+      "primary": {
+        "URL": "http://journal.frontiersin.org/article/10.3389/fmicb.2013.00418/abstract"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3389/fmicb.2013.00418",
+    "ISSN": [
+      "1664-302X"
+    ],
+    "issn-type": [
+      {
+        "value": "1664-302X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2024-02-09T00:25:55Z",
+      "timestamp": 1707438355929
+    },
+    "publisher": "Fundacao para a Ciencia e a Tecnologia (unidadeFCCN)",
+    "award-start": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          1
+        ]
+      ]
+    },
+    "award": "PRT/BD/154549/2022",
+    "DOI": "10.54499/prt/bd/154549/2022",
+    "type": "grant",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2023-12-12T14:43:34Z",
+      "timestamp": 1702392214000
+    },
+    "source": "Crossref",
+    "prefix": "10.54499",
+    "member": "31773",
+    "project": [
+      {
+        "project-title": [
+          {
+            "title": "Production of bioactive compounds by halophyte plants in aquaculture on coastal waters",
+            "language": "en"
+          },
+          {
+            "title": "Production of bioactive compounds by halophyte plants in aquaculture on coastal waters",
+            "language": "pt"
+          }
+        ],
+        "investigator": [
+          {
+            "ORCID": "http://orcid.org/0000-0002-3932-5588",
+            "authenticated-orcid": false,
+            "given": "In\u00eas",
+            "family": "Jo\u00e3o Dinis Ferreira",
+            "alternate-name": [
+              "In\u00eas Jo\u00e3o Dinis Ferreira"
+            ],
+            "affiliation": []
+          }
+        ],
+        "lead-investigator": [
+          {
+            "ORCID": "http://orcid.org/0000-0002-3932-5588",
+            "authenticated-orcid": false,
+            "given": "In\u00eas",
+            "family": "Jo\u00e3o Dinis Ferreira",
+            "alternate-name": [
+              "In\u00eas Jo\u00e3o Dinis Ferreira"
+            ],
+            "affiliation": []
+          }
+        ],
+        "award-amount": {
+          "amount": 10209.25,
+          "currency": "EUR"
+        },
+        "award-start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ]
+        },
+        "award-end": {
+          "date-parts": [
+            [
+              2027,
+              8,
+              31
+            ]
+          ]
+        },
+        "funding": [
+          {
+            "type": "grant",
+            "scheme": "FCT",
+            "award-amount": {
+              "amount": 10209.25,
+              "currency": "EUR",
+              "percentage": null
+            },
+            "funder": {
+              "id": [
+                {
+                  "id": "10.13039/501100001871",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia"
+            }
+          }
+        ]
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2024-02-08T18:50:14Z",
+      "timestamp": 1707418214000
+    },
+    "score": 14.610294,
+    "resource": {
+      "primary": {
+        "URL": "https://sciproj.ptcris.pt/99644DFA"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.54499/prt/bd/154549/2022"
+  },
+  {
+    "institution": [
+      {
+        "name": "Aalborg University",
+        "department": [
+          "AAU Energy"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2024-08-08T00:48:26Z",
+      "timestamp": 1723078106646
+    },
+    "reference-count": 0,
+    "publisher": "Aalborg University",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.54337/aau588627903",
+    "type": "dissertation",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          20
+        ]
+      ],
+      "date-time": "2023-11-20T08:04:15Z",
+      "timestamp": 1700467455000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Exploring the Potential of Halophyte Biomass for Green Biorefinery Applications"
+    ],
+    "prefix": "10.54337",
+    "author": [
+      {
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Aalborg University",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Laura Sini Sofia",
+        "family": "Hulkko",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "32610",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          20
+        ]
+      ],
+      "date-time": "2023-11-20T08:04:17Z",
+      "timestamp": 1700467457000
+    },
+    "score": 14.600467,
+    "degree": [
+      "Ph.d"
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://vbn.aau.dk/en/publications/exploring-the-potential-of-halophyte-biomass-for-green-biorefiner"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.54337/aau588627903"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2026-01-19T11:57:12Z",
+      "timestamp": 1768823832730,
+      "version": "3.49.0"
+    },
+    "reference-count": 38,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2003-06-01T00:00:00Z",
+          "timestamp": 1054425600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2003-06-01T00:00:00Z",
+          "timestamp": 1054425600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Plant and Soil"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1023/a:1024578002235",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2003-09-15T17:36:35Z",
+      "timestamp": 1063647395000
+    },
+    "page": "171-185",
+    "source": "Crossref",
+    "is-referenced-by-count": 65,
+    "title": [
+      "Halophyte and glycophyte salt tolerance at germination and the establishment of halophyte shrubs in saline environments"
+    ],
+    "prefix": "10.1007",
+    "volume": "253",
+    "author": [
+      {
+        "given": "C.V.",
+        "family": "Malcolm",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "V.A.",
+        "family": "Lindley",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J.W.",
+        "family": "O'Leary",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "H.V.",
+        "family": "Runciman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "E.G.",
+        "family": "Barrett-Lennard",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "5121998_CR1",
+        "unstructured": "Association of Official Analytical Chemists 1980 Official Methods of Analyses of the Association of Analytical Chemists. 13th edition, Washington, DC, USA."
+      },
+      {
+        "key": "5121998_CR2",
+        "unstructured": "Ayoub A T and Malcolm C V (Eds) 1993 Halophytes for livestock, rehabilitation of degraded land and sequestering atmospheric carbon. UNEP Environmental Management Guidelines, United Nations Environment Programme, Nairobi, Kenya, 60 pp."
+      },
+      {
+        "key": "5121998_CR3",
+        "unstructured": "Barrett-Lennard E G, Malcolm C V, Stern W R and Wilkins S M. (Eds) 1986 Forage and fuel production from salt affected wasteland. Proceedings of Research for Development Seminar, Cunderdin, Western Australia, May 19-27, 1984, Elsevier Science, Amsterdam."
+      },
+      {
+        "key": "5121998_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1007/BF00018060",
+        "volume": "39",
+        "author": "L. S. Bates",
+        "year": "1973",
+        "unstructured": "Bates L S, Waldren R P and Teare J D 1973 Rapid determination of free proline for water stress studies. Plant Soil 39, 205-207.",
+        "journal-title": "Plant Soil"
+      },
+      {
+        "key": "5121998_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1016/S0367-2530(17)31752-8",
+        "volume": "163",
+        "author": "W Baumeister",
+        "year": "1974",
+        "unstructured": "Baumeister W and Kloos G 1974 Uber die saltzkretion bei Halimione portulacoides. Flora 163, 24-56.",
+        "journal-title": "Flora"
+      },
+      {
+        "key": "5121998_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.2307/1931251",
+        "volume": "33",
+        "author": "N. C. W. Beadle",
+        "year": "1952",
+        "unstructured": "Beadle N C W1952 Studies in halophytes I. The germination of the seed and establishment of the seedlings of five species of Atriplex in Australia. Ecology. 33, 49-62.",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "5121998_CR7",
+        "volume-title": "Physiology and Biochemistry of seeds. 2. Viability, Dormancy and Environmental Control",
+        "author": "J. D. Bewley",
+        "year": "1982",
+        "unstructured": "Bewley J D and Black M 1982 Physiology and Biochemistry of seeds. 2. Viability, Dormancy and Environmental Control. Springer, Berlin, 375 pp."
+      },
+      {
+        "key": "5121998_CR8",
+        "first-page": "469",
+        "volume": "16",
+        "author": "S Blumenthal-Goldschmidt",
+        "year": "1968",
+        "unstructured": "Blumenthal-Goldschmidt S and Poljakoff-Mayber A 1968 Effect of substrate salinity on growth and on submicroscopic structure of leaf cells of Atriplex halimus L. Aust. J. Bot. 16, 469-478.",
+        "journal-title": "Aust. J. Bot."
+      },
+      {
+        "key": "5121998_CR9",
+        "unstructured": "Breckle, S-W 1976 Zur \u00d6kologie und zuden Mineralstoffverh\u00e4ltnissen alsalzender und nicht absalzender Xero-Halophyten. Dissertationes Botaniceae Bd. 35."
+      },
+      {
+        "key": "5121998_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "609",
+        "DOI": "10.1093/oxfordjournals.aob.a084234",
+        "volume": "32",
+        "author": "R. C. Brian",
+        "year": "1986",
+        "unstructured": "Brian R C and Cattlin N D 1986 The surface structure of leaves of Chenopodium album L. Ann. Bot. 32, 609-612.",
+        "journal-title": "Ann. Bot."
+      },
+      {
+        "key": "5121998_CR11",
+        "first-page": "73",
+        "volume": "69",
+        "author": "N. T. Burbidge",
+        "year": "1945",
+        "unstructured": "Burbidge N T 1945 Germination studies of Australian Chenopodiaceae with special reference to the conditions necessary for regeneration. I. Atriplex vesicarium Heward. Trans. R. Soc. South Aust. 69, 73-84.",
+        "journal-title": "Trans. R. Soc. South Aust."
+      },
+      {
+        "key": "5121998_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.2134/agronj1969.00021962006100030035x",
+        "volume": "61",
+        "author": "N. J. Chatterton",
+        "year": "1969",
+        "unstructured": "Chatterton N J and McKell C M 1969 Atriplex polycarpa. 1. Germination and growth as affected by sodium chloride in water cultures. Agron. J. 61, 448-450.",
+        "journal-title": "Agron. J."
+      },
+      {
+        "key": "5121998_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1071/AR9630001",
+        "volume": "14",
+        "author": "N Collis-George",
+        "year": "1963",
+        "unstructured": "Collis-George N, Davey B G, Scotter D R and Williamson D R 1963 Some consequences of bitumenous mulches. Aust. J. Agric. Res. 14, 1-11.",
+        "journal-title": "Aust. J. Agric. Res."
+      },
+      {
+        "key": "5121998_CR14",
+        "unstructured": "Laws H V 1982 Germination and establishment of Atriplex spp. W. Aust. Dept. Agric., Division of Resource Management, Research Summary, 1982, 195-198."
+      },
+      {
+        "key": "5121998_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1104/pp.63.4.700",
+        "volume": "63",
+        "author": "D. J. Longstreth",
+        "year": "1979",
+        "unstructured": "Longstreth D J and Nobel P S 1979 Salinity effects on leaf anatomy: consequences for photosynthesis. Plant Physiol. 63, 700-703.",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "5121998_CR16",
+        "unstructured": "Malcolm C V 1972 Establishing shrubs in saline environments. W. Aust. Dept. Agric. Tech. Bull. 14, 37 pp."
+      },
+      {
+        "key": "5121998_CR17",
+        "first-page": "343",
+        "volume": "5",
+        "author": "C. V. Malcolm",
+        "year": "1986",
+        "unstructured": "Malcolm C V 1986 Production from salt-affected soils. Reclam. Reveg. Res. 5, 343-361.",
+        "journal-title": "Reclam. Reveg. Res."
+      },
+      {
+        "key": "5121998_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1007/978-94-011-0818-8_4",
+        "volume-title": "Halophytes as a resource for livestock and for rehabilitation of degraded lands",
+        "author": "C. V. Malcolm",
+        "year": "1994",
+        "unstructured": "Malcolm C V 1994 Use of halophyte forages for rehabilitation of degraded lands. In Halophytes as a resource for livestock and for rehabilitation of degraded lands. Eds. V R Squires and A T Ayoub. pp. 25-41. Kluwer Academic Publishers, Dordrecht."
+      },
+      {
+        "key": "5121998_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1071/RJ9810106",
+        "volume": "3",
+        "author": "C. V. Malcolm",
+        "year": "1981",
+        "unstructured": "Malcolm C V and Allen R J 1981 TheMallen Niche Seeder for plant establishment on difficult sites. Aust. Rangel. J. 3, 106-109.",
+        "journal-title": "Aust. Rangel. J."
+      },
+      {
+        "key": "5121998_CR20",
+        "unstructured": "Malcolm C V and Lloyd M J 2001 Revegetation of one million hectares of wheatbelt saltland in Western Australia. In Proceedings of National Conference on Productive Use and Rehabilitation of Saline Land, 20-23 March 2001, Launceston, Tasmania."
+      },
+      {
+        "key": "5121998_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1071/RJ9850022",
+        "volume": "7",
+        "author": "C. V. Malcolm",
+        "year": "1985",
+        "unstructured": "Malcolm C V and Swaan T C 1985 Soil mulches and sprayed coatings and seed washing to aid chenopod establishment on saline soil. Aust. Rangel. J. 7, 22-28.",
+        "journal-title": "Aust. Rangel. J."
+      },
+      {
+        "key": "5121998_CR22",
+        "unstructured": "Malcolm C V and Swaan T C 1989 Screening shrubs for establishment and survival on salt-affected soils in south-western Australia. W. Aust. Dept. Agric. Tech. Bull. 81, 35 pp."
+      },
+      {
+        "key": "5121998_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/S0140-1963(18)31548-9",
+        "volume": "5",
+        "author": "C. V. Malcolm",
+        "year": "1982",
+        "unstructured": "Malcolm C V, Hillman B J, Swaan T C, Denby C, Carlson D and D'Antuono M 1982 Black paint soil amendment and mulch effects on chenopod establishment on a saline soil. J. Arid Environ. 5, 179-189.",
+        "journal-title": "J. Arid Environ."
+      },
+      {
+        "key": "5121998_CR24",
+        "unstructured": "Malcolm C V, Clarke A J and Swaan T C 1984 Plant collections for saltland revegetation and soil conservation. W. Aust. Dept. Agric. Tech. Bull. 65, 112 pp."
+      },
+      {
+        "key": "5121998_CR25",
+        "volume-title": "The Germination of Seeds",
+        "author": "A. M. Mayer",
+        "year": "1963",
+        "unstructured": "Mayer A M and Poljakoff-Mayber A 1963 The Germination of Seeds. Pergamon, Oxford, 262 pp."
+      },
+      {
+        "key": "5121998_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1104/pp.45.1.62",
+        "volume": "45",
+        "author": "A Mozafar",
+        "year": "1970",
+        "unstructured": "Mozafar A and Goodin J R 1970 Vesiculated hairs: a mechanism for salt tolerance in Atriplex halimus L. Plant Physiol. 45, 62-65.",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "5121998_CR27",
+        "volume-title": "A Factual Key for the Recognition of Australian Soils",
+        "author": "K. H. Northcote",
+        "year": "1979",
+        "unstructured": "Northcote K H 1979 A Factual Key for the Recognition of Australian Soils. 4th Edition. Rellim Technical Publications, Glenside, South Australia.",
+        "edition": "4th Edition"
+      },
+      {
+        "key": "5121998_CR28",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-642-67637-6",
+        "volume-title": "Physiological Processes in Plant Ecology, Toward a Synthesis with Atriplex",
+        "author": "C. B. Osmond",
+        "year": "1980",
+        "unstructured": "Osmond C B, Bjorkman O and Anderson D J 1980 Physiological Processes in Plant Ecology, Toward a Synthesis with Atriplex, Vol. 36. Springer, Berlin, Heidelberg, New York."
+      },
+      {
+        "key": "5121998_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.2307/3899685",
+        "volume": "39",
+        "author": "R. L. Potter",
+        "year": "1986",
+        "unstructured": "Potter R L, Ueckert D N, Peterson J L and McFarland ML 1986 Germination of fourwing saltbush seeds: Interaction of temperature, osmotic potential and pH. J. Range Man. 39, 43-46.",
+        "journal-title": "J. Range Man."
+      },
+      {
+        "key": "5121998_CR30",
+        "first-page": "43",
+        "volume": "14",
+        "author": "P. J. M. Sale",
+        "year": "1966",
+        "unstructured": "Sale P J M 1966 Effect of petroleum mulch on seedling emergence, soil moisture and soil temperature. Exp. Hort. 14, 43-52.",
+        "journal-title": "Exp. Hort."
+      },
+      {
+        "key": "5121998_CR31",
+        "first-page": "215",
+        "volume-title": "Tasks for Vegetation Science",
+        "author": "U Schirmer",
+        "year": "1982",
+        "unstructured": "Schirmer U and Breckle S W 1982 The role of bladders for salt removal in some Chenopodiaceae (mainly Atriplex species). In Tasks for Vegetation Science, Vol 2. Eds. D N Sen and K S Rajpurohit. pp. 215-231. DR W. Junk, The Hague."
+      },
+      {
+        "key": "5121998_CR32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Squires V R and Ayoub A T (Eds.) 1994 eds. Halophytes as a resource for livestock and for rehabilitation of degraded lands. In Tasks for Vegetation Science. Vol. 32. Kluwer Academic Publishers, Dordrecht. 315 pp.",
+        "DOI": "10.1007/978-94-011-0818-8"
+      },
+      {
+        "key": "5121998_CR33",
+        "unstructured": "State Salinity Council 2000 Natural Resource Management in Western Australia, The State Salinity Strategy, March 2000. Government of Western Australia. 72 pp."
+      },
+      {
+        "key": "5121998_CR34",
+        "first-page": "532",
+        "volume": "85",
+        "author": "F. H. Takatori",
+        "year": "1964",
+        "unstructured": "Takatori F H, Lippert I F and Whiting F L 1964 The effect of petroleum mulch and polyethylene films on soil temperature and plant growth. Proc. Am. Soc. Hort. Sci. 85, 532-540.",
+        "journal-title": "Proc. Am. Soc. Hort. Sci."
+      },
+      {
+        "key": "5121998_CR35",
+        "first-page": "105",
+        "volume": "25",
+        "author": "W. W. Thomson",
+        "year": "1979",
+        "unstructured": "Thomson W W and Platt-Aloia K 1979 Ultrastructure transitions associated with the development of the bladder cell of the trichomes of Atriplex. Cytobios 25, 105-114.",
+        "journal-title": "Cytobios"
+      },
+      {
+        "key": "5121998_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1016/S0140-1963(18)31119-4",
+        "volume": "13",
+        "author": "M. C. Watson",
+        "year": "1987",
+        "unstructured": "Watson M C, O'Leary J W and Glenn E P 1987 Evaluation of Atriplex lentiformis (Torr.) S.Wats. and Atriplex nummularia Lindl. as irrigated forage crops. J. Arid Environ. 13, 293\u2013303.",
+        "journal-title": "J. Arid Environ."
+      },
+      {
+        "key": "5121998_CR37",
+        "unstructured": "nummularia Lindl. as irrigated forage crops . J. Arid Environ. 13, 293-303."
+      },
+      {
+        "key": "5121998_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1111/j.1399-3054.1986.tb02433.x",
+        "volume": "67",
+        "author": "R Weimberg",
+        "year": "1986",
+        "unstructured": "Weimberg R 1986 Growth and solute accumulation in 3-week-old seedlings of Agropyron elongatum stressed with sodium and potassium salts. Physiol. Plant. 67, 129-135.",
+        "journal-title": "Physiol. Plant"
+      }
+    ],
+    "container-title": [
+      "Plant and Soil"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1023/A:1024578002235.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1023/A:1024578002235/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1023/A:1024578002235.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2025-08-04T06:51:24Z",
+      "timestamp": 1754290284000
+    },
+    "score": 14.589243,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1023/A:1024578002235"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          6
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "5121998"
+    ],
+    "URL": "https://doi.org/10.1023/a:1024578002235",
+    "ISSN": [
+      "0032-079X",
+      "1573-5036"
+    ],
+    "issn-type": [
+      {
+        "value": "0032-079X",
+        "type": "print"
+      },
+      {
+        "value": "1573-5036",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          13
+        ]
+      ],
+      "date-time": "2026-01-13T08:47:12Z",
+      "timestamp": 1768294032058,
+      "version": "3.49.0"
+    },
+    "reference-count": 42,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2021-04-01T00:00:00Z",
+          "timestamp": 1617235200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2021-04-01T00:00:00Z",
+          "timestamp": 1617235200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Talented Young Scientist Program",
+        "award": [
+          "19-074"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "19-074"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Science of The Total Environment"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.scitotenv.2020.142885",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2020-10-14T03:19:35Z",
+      "timestamp": 1602645575000
+    },
+    "page": "142885",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "special_numbering": "C",
+    "title": [
+      "Improving quality of metal-contaminated soils by some halophyte and non-halophyte forage plants"
+    ],
+    "prefix": "10.1016",
+    "volume": "764",
+    "author": [
+      {
+        "given": "Zheli",
+        "family": "Ding",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Saif",
+        "family": "Alharbi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaser A.",
+        "family": "Almaroai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mamdouh A.",
+        "family": "Eissa",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "7256",
+        "DOI": "10.1007/s11356-013-1735-5",
+        "article-title": "5-Aminolevulinic acid ameliorates cadmium-induced morphological, biochemical and ultrastructural changes in seedlings of oilseed rape",
+        "volume": "20",
+        "author": "Ali",
+        "year": "2013",
+        "journal-title": "Environ. Sci. Pollut. Res."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1300/J064v14n02_08",
+        "article-title": "Soil aggregate stability: a review",
+        "volume": "14",
+        "author": "Ame\u2019zketa",
+        "year": "1999",
+        "journal-title": "J. Sust. Agric."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "714",
+        "DOI": "10.1016/j.ecoenv.2019.02.068",
+        "article-title": "Phytoremediation: environmentally sustainable way for reclamation of heavy metal polluted soils",
+        "volume": "174",
+        "author": "Ashraf",
+        "year": "2019",
+        "journal-title": "Ecotoxicol. Environ. Saf."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1007/BF00018060",
+        "article-title": "Rapid determination of free proline for water stress studies",
+        "volume": "39",
+        "author": "Bates",
+        "year": "1973",
+        "journal-title": "Plant Soil"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1007/s12303-008-0006-9",
+        "article-title": "Fractionation and bioavailability of Pb in municipal solid waste compost and Pb uptake by rice straw and grain under submerged condition in amended soil",
+        "volume": "12",
+        "author": "Bhattacharyya",
+        "year": "2008",
+        "journal-title": "Geosci. J."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1023/A:1026246728095",
+        "article-title": "Spatial distribution of roots of pearl millet on sandy soils of Niger",
+        "volume": "256",
+        "author": "Bruck",
+        "year": "2003",
+        "journal-title": "Plant Soil"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0035",
+        "series-title": "Soil Survey Laboratory Methods Manual. Soil Survey Investigations Report No. 42, Version 4.0",
+        "author": "Burt",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.soilbio.2019.01.026",
+        "article-title": "Drought-induced decline of productivity in the dominant grassland species Lolium 387 perenne L. depends on soil type and prevailing climatic conditions",
+        "volume": "132",
+        "author": "Buttler",
+        "year": "2019",
+        "journal-title": "Soil Biol. Biochem."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0045",
+        "first-page": "1877",
+        "article-title": "Performance of river saltbush (Atriplex amnicola) grown on contaminated soils as affected by organic fertilization",
+        "volume": "30",
+        "author": "Eissa",
+        "year": "2014",
+        "journal-title": "World Appl. Sci. J."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "540",
+        "DOI": "10.2134/agronj2015.0460",
+        "article-title": "Phosphate and organic amendments for safe production of okra from metal-contaminated soils",
+        "volume": "108",
+        "author": "Eissa",
+        "year": "2016",
+        "journal-title": "Agron. J."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1080/15320383.2018.1551325",
+        "article-title": "Effect of compost and biochar on heavy metals phytostabilization by the halophytic plant old man saltbush [Atriplex nummularia Lindl]",
+        "volume": "28",
+        "author": "Eissa",
+        "year": "2019",
+        "journal-title": "Soil Sediment Contam."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1080/15320383.2019.1634674",
+        "article-title": "Phytoremediation capacity of some forage plants grown on a metals-contaminated soil",
+        "volume": "28",
+        "author": "Eissa",
+        "year": "2019",
+        "journal-title": "Soil Sediment Contam."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.scitotenv.2020.142885_bb2020",
+        "first-page": "1097",
+        "article-title": "Heavy metals uptake and translocation by lettuce and spinach grown on a metal-contaminated soil",
+        "volume": "18",
+        "author": "Eissa",
+        "year": "2018",
+        "journal-title": "J. Soil Sci. Plant Nutr."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb2300",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1016/j.sajb.2018.01.015",
+        "article-title": "Nitrogen fertilization: effect on Cd-phytoextraction by the halophytic plant quail bush [Atriplex lentiformis (torr.) s. wats]",
+        "volume": "115",
+        "author": "Eissa",
+        "year": "2018",
+        "journal-title": "S. Afr. J. Bot."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1007/s11356-018-3627-1",
+        "article-title": "Growth and biochemical changes in quail bush (Atriplex lentiformis (Torr.) S.Wats) under Cd stress",
+        "volume": "26",
+        "author": "Eissa",
+        "year": "2019",
+        "journal-title": "Environ. Sci. Pollut. Res."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb2500",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1016/j.sajb.2018.09.014",
+        "article-title": "Impact of in vitro cold stress on two banana genotypes based on physio-biochemical Evaluation",
+        "volume": "119",
+        "author": "El-Mahdy",
+        "year": "2018",
+        "journal-title": "S. Afr. J. Bot."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0070",
+        "author": "EU European Union"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0075",
+        "series-title": "Guidelines for soil description",
+        "author": "FAO",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0080",
+        "series-title": "The World Sorghum and Millet Economies \u2013 Facts, Trends and Outlooks",
+        "author": "FAO",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0085",
+        "series-title": "Challenges and Opportunities for Enhancing Sustainable Cowpea Production, IITA, Ibadan, Nigeria",
+        "author": "Fatokun",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1148",
+        "DOI": "10.1016/j.ecolmodel.2010.01.003",
+        "article-title": "The dynamics of heavy metals in plant\u2013soil interactions",
+        "volume": "221",
+        "author": "Guala",
+        "year": "2010",
+        "journal-title": "Ecol. Model."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "389",
+        "DOI": "10.1007/BF00333714",
+        "article-title": "A global analysis of root distributions for terrestrial biomes",
+        "volume": "108",
+        "author": "Jackson",
+        "year": "1996",
+        "journal-title": "Oecologia"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "3161",
+        "DOI": "10.1016/j.scitotenv.2018.10.209",
+        "article-title": "Impacts of rising temperature, carbon dioxide concentration and sea level on wheat production in North Nile delta",
+        "volume": "651",
+        "author": "Kheir",
+        "year": "2019",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0105",
+        "first-page": "1",
+        "article-title": "Impacts of sewage irrigation on soil properties of farmland in China: A review",
+        "volume": "87",
+        "author": "Li",
+        "year": "2018",
+        "journal-title": "Int. J. Experim. Botany"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "206",
+        "DOI": "10.1016/j.scitotenv.2018.03.161",
+        "article-title": "Remediation techniques for heavy metal-contaminated soils: principles and applicability",
+        "volume": "633",
+        "author": "Liu",
+        "year": "2018",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "1271",
+        "DOI": "10.2134/jeq2004.1271",
+        "article-title": "Heavy metal accumulation by the halophyte species Mediterranean saltbush",
+        "volume": "33",
+        "author": "Lutts",
+        "year": "2004",
+        "journal-title": "J. Environ. Qual."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.foodres.2018.04.023",
+        "article-title": "Potential use of pearl millet (Pennisetum glaucum (L.) R. Br.) in Brazil: food security, processing, health benefits and nutritional products",
+        "volume": "109",
+        "author": "Martins",
+        "year": "2018",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "352",
+        "DOI": "10.1626/jcs.65.352",
+        "article-title": "Mechanism of interspecific differences among four gramineous crops in growth response to soil drying",
+        "volume": "65",
+        "author": "Matsuura",
+        "year": "1996",
+        "journal-title": "JPN. J. Crop Sci."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0135",
+        "series-title": "Mineral Tolerance of Animals",
+        "author": "National Research Council",
+        "year": "2005"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "777",
+        "DOI": "10.3389/fpls.2018.00777",
+        "article-title": "Coping with metal toxicity cues from halophytes",
+        "volume": "9",
+        "author": "Nikalje",
+        "year": "2018",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.5194/soil-1-603-2015",
+        "article-title": "Can we manipulate root system architecture to control soil erosion?",
+        "volume": "1",
+        "author": "Ola",
+        "year": "2015",
+        "journal-title": "Soil"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1585",
+        "DOI": "10.2135/cropsci1998.0011183X003800060029x",
+        "article-title": "Crop diversification in the Sahel through use of environmental changes near Faidherbia Albida (Del.) A. Chev",
+        "volume": "38",
+        "author": "Payne",
+        "year": "1998",
+        "journal-title": "Crop Sci."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.scitotenv.2020.142885_bb0155",
+        "first-page": "320",
+        "article-title": "Adaptation and potential uses of sorghum and pearl millet in alternative and health foods",
+        "volume": "7",
+        "author": "Rai",
+        "year": "2008",
+        "journal-title": "Compr. Rev. Food Sci. Food Saf."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "1279",
+        "DOI": "10.1016/j.chemosphere.2008.11.007",
+        "article-title": "EDTA-assisted Pb phytoextraction",
+        "volume": "74",
+        "author": "Saifullah",
+        "year": "2009",
+        "journal-title": "Chemosphere"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0165",
+        "series-title": "Interacting Processes in Soil Science",
+        "first-page": "38",
+        "article-title": "Physical-chemical effects of salts upon infiltration and water movement in soils",
+        "author": "Shainberg",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0170",
+        "series-title": "Advances in Cowpea Research",
+        "first-page": "30",
+        "article-title": "Recent advances in cowpea breeding",
+        "author": "Singh",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "308",
+        "DOI": "10.1016/j.agwat.2004.09.036",
+        "article-title": "Effects of irrigation with saline waters, at different concentrations on soil physical and chemical characteristics",
+        "volume": "77",
+        "author": "Tedeschi",
+        "year": "2005",
+        "journal-title": "Agric. Water Manag."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0180",
+        "unstructured": "US EPA, 1996. United States Environmental Protection Agency. Method 3050B.Acid Digestion of Sediments, Sludges, and Soils.USEPA; 1996."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0185",
+        "series-title": "Exposure Factors Handbook. Volume II-Food Ingestion Factors. EPA/600//P-95/002Fa",
+        "author": "US EPA (United State Environmental Protection Agency)",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "5775",
+        "DOI": "10.1007/s10661-012-2983-4",
+        "article-title": "Heavy metal contamination in a vulnerable mangrove swamp in South China",
+        "volume": "185",
+        "author": "Wang",
+        "year": "2013",
+        "journal-title": "Environ. Monit. Assess."
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1016/S0045-6535(02)00232-1",
+        "article-title": "Ecological restoration of mine degraded soils, with emphasis on metal contaminated soils",
+        "volume": "50",
+        "author": "Wong",
+        "year": "2003",
+        "journal-title": "Chemosphere"
+      },
+      {
+        "key": "10.1016/j.scitotenv.2020.142885_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "456",
+        "DOI": "10.1016/j.scitotenv.2006.01.016",
+        "article-title": "Accumulation of Pb, Cu, and Zn in native plants growing on a contaminated Florida site",
+        "volume": "368",
+        "author": "Yoon",
+        "year": "2006",
+        "journal-title": "Sci. Total Environ."
+      }
+    ],
+    "container-title": [
+      "Science of The Total Environment"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0048969720364159?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0048969720364159?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2025-09-24T11:35:10Z",
+      "timestamp": 1758713710000
+    },
+    "score": 14.522803,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048969720364159"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4
+        ]
+      ]
+    },
+    "references-count": 42,
+    "alternative-id": [
+      "S0048969720364159"
+    ],
+    "URL": "https://doi.org/10.1016/j.scitotenv.2020.142885",
+    "ISSN": [
+      "0048-9697"
+    ],
+    "issn-type": [
+      {
+        "value": "0048-9697",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Improving quality of metal-contaminated soils by some halophyte and non-halophyte forage plants",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Science of The Total Environment",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.scitotenv.2020.142885",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2020 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "142885"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2026-01-10T00:04:09Z",
+      "timestamp": 1768003449193,
+      "version": "3.49.0"
+    },
+    "reference-count": 40,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 2069,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1111/j.1438-8677.2009.00207.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2009-03-31T11:59:56Z",
+      "timestamp": 1238500796000
+    },
+    "page": "79-87",
+    "source": "Crossref",
+    "is-referenced-by-count": 183,
+    "title": [
+      "Salt stimulation of growth and photosynthesis in an extreme halophyte, Arthrocnemum macrostachyum"
+    ],
+    "prefix": "10.1111",
+    "volume": "12",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Redondo-G\u00c3\u00b3mez",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "E.",
+        "family": "Mateos-Naranjo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M. E.",
+        "family": "Figueroa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A. J.",
+        "family": "Davy",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB1|cit1",
+        "first-page": "123",
+        "volume-title": "Photosynthesis and the Environment",
+        "author": "Asada",
+        "year": "1996"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB2|cit2",
+        "doi-asserted-by": "crossref",
+        "first-page": "815",
+        "DOI": "10.1023/B:RUPP.0000047831.85509.a6",
+        "article-title": "Structural and functional state of thylakoids in a halophyte Suaeda altissima before and after disturbance of salt\u00e2\u0080\u0093water balance by extremely high concentrations of NaCl",
+        "volume": "51",
+        "author": "Balnokin",
+        "year": "2004",
+        "journal-title": "Russian Journal of Plant Physiology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB3|cit3",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1007/BF00402983",
+        "article-title": "Photon yield of O2 evolution and chlorophyll fluorescence characteristics at 77K among vascular plants of diverse origin",
+        "volume": "170",
+        "author": "Bj\u00c3\u00b6rkman",
+        "year": "1987",
+        "journal-title": "Planta"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB4|cit4",
+        "first-page": "193",
+        "volume-title": "Photosynthesis and Production in a Changing Environment: a Field and Laboratory Manual",
+        "author": "Bolh\u00c3\u00a0r-Nordenkampf",
+        "year": "1993"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB5|cit5",
+        "first-page": "526",
+        "volume-title": "Flora Iberica: Plantas Vasculares de la Pen\u00c3\u00adnsula Ib\u00c3\u00a9rica e Islas Baleares",
+        "volume": "Vol. II",
+        "author": "Castroviejo",
+        "year": "1990"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB6|cit6",
+        "doi-asserted-by": "crossref",
+        "first-page": "681",
+        "DOI": "10.1046/j.0022-0477.2001.00607.x",
+        "article-title": "Biological Flora of the British Isles: Salicornia L (Salicornia pusilla J. Woods, S. ramosissima J. Woods, S. europaea L., S. obscura P.W. Ball & Tutin, S. nitens P.W. Ball & Tutin, S. fragilis P.W. Ball & Tutin and S. dolichostachya Moss)",
+        "volume": "89",
+        "author": "Davy",
+        "year": "2001",
+        "journal-title": "Journal of Ecology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB7|cit7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1035",
+        "DOI": "10.1111/j.1365-2745.2006.01156.x",
+        "article-title": "Biological Flora of the British Isles: Sarcocornia perennis (Miller) A.J Scott",
+        "volume": "94",
+        "author": "Davy",
+        "year": "2006",
+        "journal-title": "Journal of Ecology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB8|cit8",
+        "doi-asserted-by": "crossref",
+        "first-page": "599",
+        "DOI": "10.1146/annurev.pp.43.060192.003123",
+        "article-title": "Photoprotection and other responses of plants to high light stress",
+        "volume": "43",
+        "author": "Demmig-Adams",
+        "year": "1992",
+        "journal-title": "Annual Review of Plant Physiology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB9|cit9",
+        "volume-title": "The Quantitative Analysis of Plant Growth",
+        "author": "Evans",
+        "year": "1972"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB10|cit10",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1055/s-2004-820867",
+        "article-title": "Diffusive and metabolic limitations to photosynthesis under drought and salinity in C3 plants",
+        "volume": "6",
+        "author": "Flexas",
+        "year": "2004",
+        "journal-title": "Plant Biology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB11|cit11",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1104/pp.116.2.571",
+        "article-title": "Relationship between CO2 assimilation, photosynthetic electron transport, and active O2 metabolism in leaves of maize in the field during periods of low temperature",
+        "volume": "116",
+        "author": "Fryer",
+        "year": "1998",
+        "journal-title": "Plant Physiology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB12|cit12",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/S0304-4165(89)80016-9",
+        "article-title": "The relationship between the quantum yield of photosynthetic electron transport and quenching of chlorophyll fluorescence",
+        "volume": "990",
+        "author": "Genty",
+        "year": "1989",
+        "journal-title": "Biochimica et Biophysica Acta"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB13|cit13",
+        "first-page": "1",
+        "article-title": "The water culture method for growing plants without soil",
+        "volume": "347",
+        "author": "Hoagland",
+        "year": "1938",
+        "journal-title": "California Agricultural Experiment Station Bulletin"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB14|cit14",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1093/aob/mcf214",
+        "article-title": "A modern tool for classical plant growth analysis",
+        "volume": "90",
+        "author": "Hunt",
+        "year": "2002",
+        "journal-title": "Annals of Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB15|cit15",
+        "first-page": "243",
+        "volume-title": "Ecological Processes in Coastal Environments",
+        "author": "Jefferies",
+        "year": "1979"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB16|cit16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1457",
+        "DOI": "10.1081/PLN-100106995",
+        "article-title": "Effects of supplementary potassium and phosphorus on physiological development and mineral nutrition of cucumber and pepper cultivars grown at high salinity (NaCl)",
+        "volume": "24",
+        "author": "Kaya",
+        "year": "2001",
+        "journal-title": "Journal of Plant Nutrition"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB17|cit17",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/S0304-3770(01)00160-7",
+        "article-title": "Experimental assessment of salinity tolerance of Ceriops tagal seedlings and saplings from the Indus delta, Pakistan",
+        "volume": "70",
+        "author": "Khan",
+        "year": "2001",
+        "journal-title": "Aquatic Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB18|cit18",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1080/01904169909365617",
+        "article-title": "Effects of salinity on growth, ion content, and osmotic relations in Halopyrum mocoronatum (L.) Stapf",
+        "volume": "22",
+        "author": "Khan",
+        "year": "1999",
+        "journal-title": "Journal of Plant Nutrition"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB19|cit19",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1006/jare.1999.0617",
+        "article-title": "The effect of salinity on the growth, water status, and ion content of a leaf succulent perennial halophyte, Suaeda fruticosa (L.) Forssk",
+        "volume": "45",
+        "author": "Khan",
+        "year": "2000",
+        "journal-title": "Journal of Arid Environments"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB20|cit20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1365",
+        "DOI": "10.1081/PLN-200067462",
+        "article-title": "Salt stimulation and tolerance in an intertidal stem-succulent halophyte",
+        "volume": "28",
+        "author": "Khan",
+        "year": "2005",
+        "journal-title": "Journal of Plant Nutrition"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB21|cit21",
+        "doi-asserted-by": "crossref",
+        "first-page": "350",
+        "DOI": "10.1016/0076-6879(87)48036-1",
+        "article-title": "Chlorophylls and carotenoids: pigments of photosynthetic biomembranes",
+        "volume": "148",
+        "author": "Lichtenthaler",
+        "year": "1987",
+        "journal-title": "Methods in Enzymology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB22|cit22",
+        "doi-asserted-by": "crossref",
+        "first-page": "659",
+        "DOI": "10.1093/jexbot/51.345.659",
+        "article-title": "Chorophyll fluorescence- a practical guide",
+        "volume": "51",
+        "author": "Maxwell",
+        "year": "2000",
+        "journal-title": "Journal of Experimental Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB23|cit23",
+        "first-page": "1141",
+        "volume-title": "La Ecofisiolog\u00c3\u00ada Vegetal",
+        "author": "Medrano",
+        "year": "2004"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB24|cit24",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1046/j.0016-8025.2001.00808.x",
+        "article-title": "Comparative physiology of salt and water stress",
+        "volume": "25",
+        "author": "Munns",
+        "year": "2002",
+        "journal-title": "Plant, Cell and Environment"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB25|cit25",
+        "first-page": "92",
+        "article-title": "Whole plant responses to salinity",
+        "volume": "138",
+        "author": "Munns",
+        "year": "1986",
+        "journal-title": "Australian Journal of Plant Physiology"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB26|cit26",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1093/jxb/41.4.497",
+        "article-title": "Salt tolerance in the succulent, coastal halophyte, Sarcocornia natalensis",
+        "volume": "41",
+        "author": "Naidoo",
+        "year": "1990",
+        "journal-title": "Journal of Experimental Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB27|cit27",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1016/j.ecoenv.2004.06.010",
+        "article-title": "Salt tolerance and salinity effects on plants: a review",
+        "volume": "60",
+        "author": "Parida",
+        "year": "2005",
+        "journal-title": "Ecotoxicology and Environmental Safety"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB28|cit28",
+        "doi-asserted-by": "crossref",
+        "first-page": "479",
+        "DOI": "10.1046/j.1469-8137.2003.00825.x",
+        "article-title": "Photosynthesis, photosystem II efficiency and the xanthophyll cycle in the salt-adapted halophyte Atriplex centralasiatica",
+        "volume": "159",
+        "author": "Qiu",
+        "year": "2003",
+        "journal-title": "New Phytologist"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB29|cit29",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1007/s11099-005-7159-9",
+        "article-title": "Presence of an internal photosynthetic cylinder surrounding the stele in stems of the tribe Salicornieae (Chenopodiaceae) from SW Iberian Peninsula",
+        "volume": "43",
+        "author": "Redondo-G\u00c3\u00b3mez",
+        "year": "2005",
+        "journal-title": "Photosynthetica"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB30|cit30",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1111/j.1399-3054.2006.00719.x",
+        "article-title": "Growth and photosynthetic responses to salinity in an extreme halophyte, Sarcocornia fruticosa",
+        "volume": "128",
+        "author": "Redondo-G\u00c3\u00b3mez",
+        "year": "2006",
+        "journal-title": "Physiologia Plantarum"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB31|cit31",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1093/aob/mcm119",
+        "article-title": "Growth and photosynthetic responses to salinity of the salt-marsh shrub Atriplex portulacoides",
+        "volume": "100",
+        "author": "Redondo-G\u00c3\u00b3mez",
+        "year": "2007",
+        "journal-title": "Annals of Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB32|cit32",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1093/aob/mcn069",
+        "article-title": "Carry-over of differential salt tolerance in plants grown from dimorphic seeds of Suaeda splendens",
+        "volume": "102",
+        "author": "Redondo-G\u00c3\u00b3mez",
+        "year": "2008",
+        "journal-title": "Annals of Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB33|cit33",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1023/A:1010512021353",
+        "article-title": "Effects of NaCl and Na2SO4 on red-osier dogwood (Cornus stolonifera Michx) seedlings",
+        "volume": "233",
+        "author": "Renault",
+        "year": "2001",
+        "journal-title": "Plant and Soil"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB34|cit34",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1023/B:PHOT.0000015454.36367.e2",
+        "article-title": "Chlorophyll fluorescence as a tool in cereal crop research",
+        "volume": "41",
+        "author": "Sayed",
+        "year": "2003",
+        "journal-title": "Photosynthetica"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB35|cit35",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1007/BF00024185",
+        "article-title": "Continuous recording of photochemical and non-photochemical chlorophyll fluorescence quenching with a new type of modulation fluorimeter",
+        "volume": "10",
+        "author": "Schreiber",
+        "year": "1986",
+        "journal-title": "Photosynthesis Research"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB36|cit36",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1006/anbo.1998.0812",
+        "article-title": "Salt tolerance in the halophyte Halosarcia pergranulata subsp. pergranulata",
+        "volume": "83",
+        "author": "Short",
+        "year": "1999",
+        "journal-title": "Annals of Botany"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB37|cit37",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1007/BF00345565",
+        "article-title": "Taxonomic and ecological aspects of the distribution of glycinebetaine and related compounds in plants",
+        "volume": "27",
+        "author": "Storey",
+        "year": "1977",
+        "journal-title": "Oecologia"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB38|cit38",
+        "doi-asserted-by": "crossref",
+        "first-page": "509",
+        "DOI": "10.1046/j.1365-313X.1998.00147.x",
+        "article-title": "Guard cell cation channels are involved in Na+-induced stomatal closure in a halophyte",
+        "volume": "14",
+        "author": "V\u00c3\u00a9ry",
+        "year": "1998",
+        "journal-title": "Plant Journal"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB39|cit39",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1007/BF00384257",
+        "article-title": "Some relationships between the biochemistry of photosynthesis and the gas exchange of leaves",
+        "volume": "153",
+        "author": "Von Caemmerer",
+        "year": "1981",
+        "journal-title": "Planta"
+      },
+      {
+        "key": "10.1111/j.1438-8677.2009.00207.x-BIB40|cit40",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1007/BF00368849",
+        "article-title": "Mineral ion composition and occurrence of CAM-like diurnal malate fluctuations in plants of coastal and desert habitats of Israel and the Sinai",
+        "volume": "25",
+        "author": "Winter",
+        "year": "1976",
+        "journal-title": "Oecologia"
+      }
+    ],
+    "container-title": [
+      "Plant Biology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1438-8677.2009.00207.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1438-8677.2009.00207.x/fullpdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          6
+        ]
+      ],
+      "date-time": "2021-07-06T15:02:38Z",
+      "timestamp": 1625583758000
+    },
+    "score": 14.50404,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1438-8677.2009.00207.x"
+      }
+    },
+    "subtitle": [
+      "Salt stimulation in an extreme halophyte"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+      "issue": "1"
+    },
+    "URL": "https://doi.org/10.1111/j.1438-8677.2009.00207.x",
+    "ISSN": [
+      "1435-8603",
+      "1438-8677"
+    ],
+    "issn-type": [
+      {
+        "value": "1435-8603",
+        "type": "print"
+      },
+      {
+        "value": "1438-8677",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T18:39:58Z",
+      "timestamp": 1725561598639
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 0,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783540764557"
+      },
+      {
+        "type": "electronic",
+        "value": "9783540764359"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-540-76435-9_5862",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          31
+        ]
+      ],
+      "date-time": "2010-07-31T23:46:48Z",
+      "timestamp": 1280620008000
+    },
+    "page": "426-426",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "2598 halophyte [n]"
+    ],
+    "prefix": "10.1007",
+    "member": "297",
+    "container-title": [
+      "Encyclopedic Dictionary of Landscape and Urban Planning"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-540-76435-9_5862.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          24
+        ]
+      ],
+      "date-time": "2020-11-24T02:06:11Z",
+      "timestamp": 1606183571000
+    },
+    "score": 14.451267,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-540-76435-9_5862"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783540764557",
+      "9783540764359"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-3-540-76435-9_5862",
+    "published": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  }
+]

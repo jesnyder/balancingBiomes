@@ -1,0 +1,5326 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          6
+        ]
+      ],
+      "date-time": "2024-09-06T03:14:50Z",
+      "timestamp": 1725592490226
+    },
+    "publisher-location": "Berlin/Heidelberg",
+    "reference-count": 0,
+    "publisher": "Springer-Verlag",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1007/springerreference_222965",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2012-02-08T06:25:52Z",
+      "timestamp": 1328682352000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "member": "297",
+    "container-title": [
+      "SpringerReference"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2012,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2012-02-08T06:35:40Z",
+      "timestamp": 1328682940000
+    },
+    "score": 20.993467,
+    "resource": {
+      "primary": {
+        "URL": "http://www.springerreference.com/index/doi/10.1007/SpringerReference_222965"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/springerreference_222965"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T10:04:37Z",
+      "timestamp": 1726221877672
+    },
+    "edition-number": "3",
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1093/oed/4157085580",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2023-07-21T14:08:33Z",
+      "timestamp": 1689948513000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "halophile, n. &amp; adj."
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Oxford English Dictionary"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2023-07-21T14:10:29Z",
+      "timestamp": 1689948629000
+    },
+    "score": 19.576885,
+    "resource": {
+      "primary": {
+        "URL": "https://oed.com/dictionary/halophile_n"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/oed/4157085580",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2025-03-25T14:42:17Z",
+      "timestamp": 1742913737069,
+      "version": "3.40.3"
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 6,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783662650929"
+      },
+      {
+        "type": "electronic",
+        "value": "9783662650936"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2023-01-01T00:00:00Z",
+          "timestamp": 1672531200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2023-01-01T00:00:00Z",
+          "timestamp": 1672531200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-662-65093-6_694",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          27
+        ]
+      ],
+      "date-time": "2023-07-27T09:02:26Z",
+      "timestamp": 1690448546000
+    },
+    "page": "1287-1289",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Josefa",
+        "family": "Anton",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "694_CR9223",
+        "volume-title": "Halophiles. Encyclopedia of life sciences",
+        "author": "S DasSarma",
+        "year": "2006",
+        "unstructured": "DasSarma S, Arora P (2006) Halophiles. Encyclopedia of life sciences. Wiley, London"
+      },
+      {
+        "key": "694_CR9224",
+        "volume-title": "Halophilic bacteria",
+        "author": "DJ Kushner",
+        "year": "1988",
+        "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodr\u00edguez-Valera F (ed) Halophilic bacteria. CRC, Boca Raton"
+      },
+      {
+        "key": "694_CR9225",
+        "doi-asserted-by": "publisher",
+        "first-page": "334",
+        "DOI": "10.1128/MMBR.63.2.334-348.1999",
+        "volume": "63",
+        "author": "A Oren",
+        "year": "1999",
+        "unstructured": "Oren A (1999) Bioenergetic aspects of halophilism. Microbiol Mol Biol Rev 63:334\u2013348",
+        "journal-title": "Microbiol Mol Biol Rev"
+      },
+      {
+        "key": "694_CR9226",
+        "volume-title": "The prokaryotes: a handbook on the biology of bacteria",
+        "author": "A Oren",
+        "year": "2006",
+        "unstructured": "Oren A (2006) Life at high salt concentrations. In: Dworkin M (ed) The prokaryotes: a handbook on the biology of bacteria. Springer, New York"
+      },
+      {
+        "key": "694_CR9227",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1186/1746-1448-4-2",
+        "volume": "4",
+        "author": "A Oren",
+        "year": "2008",
+        "unstructured": "Oren A (2008) Microbial salt at high salt concentrations: phylogenetic and metabolic diversity. Saline Syst 4:2",
+        "journal-title": "Saline Syst"
+      },
+      {
+        "key": "694_CR9228",
+        "volume-title": "SGM symposium 66: prokaryotic diversity-mechanisms and significance",
+        "author": "A Ventosa",
+        "year": "2006",
+        "unstructured": "Ventosa A (2006) Unusual micro-organisms from unusual habitats: hypersaline environments. In: Logan NA, Lappin-Scott HM, Oyston PCF (eds) SGM symposium 66: prokaryotic diversity-mechanisms and significance. Cambridge University Press, Cambridge"
+      }
+    ],
+    "container-title": [
+      "Encyclopedia of Astrobiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-662-65093-6_694",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          27
+        ]
+      ],
+      "date-time": "2023-07-27T19:23:24Z",
+      "timestamp": 1690485804000
+    },
+    "score": 18.836071,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-662-65093-6_694"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783662650929",
+      "9783662650936"
+    ],
+    "references-count": 6,
+    "URL": "https://doi.org/10.1007/978-3-662-65093-6_694",
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "28 July 2023",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2025-03-27T13:09:40Z",
+      "timestamp": 1743080980757,
+      "version": "3.40.3"
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 6,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9783642278334"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2014-01-01T00:00:00Z",
+          "timestamp": 1388534400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-642-27833-4_694-2",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2015-05-29T05:06:44Z",
+      "timestamp": 1432876004000
+    },
+    "page": "1-3",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Josefa",
+        "family": "Anton",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "694-2_CR1",
+        "volume-title": "Halophiles. Encyclopedia of life sciences",
+        "author": "S DasSarma",
+        "year": "2006",
+        "unstructured": "DasSarma S, Arora P (2006) Halophiles. Encyclopedia of life sciences. Wiley, London"
+      },
+      {
+        "key": "694-2_CR2",
+        "volume-title": "Halophilic bacteria",
+        "author": "DJ Kushner",
+        "year": "1988",
+        "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodr\u00edguez-Valera F (ed) Halophilic bacteria. CRC, Boca Raton"
+      },
+      {
+        "key": "694-2_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "334",
+        "DOI": "10.1128/MMBR.63.2.334-348.1999",
+        "volume": "63",
+        "author": "A Oren",
+        "year": "1999",
+        "unstructured": "Oren A (1999) Bioenergetic aspects of halophilism. Microbiol Mol Biol Rev 63:334\u2013348",
+        "journal-title": "Microbiol Mol Biol Rev"
+      },
+      {
+        "key": "694-2_CR4",
+        "volume-title": "The prokaryotes: a handbook on the biology of bacteria",
+        "author": "A Oren",
+        "year": "2006",
+        "unstructured": "Oren A (2006) Life at high salt concentrations. In: Dworkin M (ed) The prokaryotes: a handbook on the biology of bacteria. Springer, New York"
+      },
+      {
+        "key": "694-2_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1186/1746-1448-4-2",
+        "volume": "4",
+        "author": "A Oren",
+        "year": "2008",
+        "unstructured": "Oren A (2008) Microbial salt at high salt concentrations: phylogenetic and metabolic diversity. Saline Syst 4:2",
+        "journal-title": "Saline Syst"
+      },
+      {
+        "key": "694-2_CR6",
+        "volume-title": "SGM symposium 66: prokaryotic diversity-mechanisms and significance",
+        "author": "A Ventosa",
+        "year": "2006",
+        "unstructured": "Ventosa A (2006) Unusual micro-organisms from unusual habitats: hypersaline environments. In: Logan NA, Lappin-Scott HM, Oyston PCF (eds) SGM symposium 66: prokaryotic diversity-mechanisms and significance. Cambridge University Press, Cambridge"
+      }
+    ],
+    "container-title": [
+      "Encyclopedia of Astrobiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-642-27833-4_694-2",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2023-02-10T09:11:04Z",
+      "timestamp": 1676020264000
+    },
+    "score": 18.024107,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-642-27833-4_694-2"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783642278334"
+    ],
+    "references-count": 6,
+    "URL": "https://doi.org/10.1007/978-3-642-27833-4_694-2",
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "5 March 2014, 11:42:20",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      },
+      {
+        "value": "5 March 2014, 11:42:20",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      },
+      {
+        "value": "15 April 2015",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2025-03-27T02:26:25Z",
+      "timestamp": 1743042385475,
+      "version": "3.40.3"
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 6,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783662441848"
+      },
+      {
+        "type": "electronic",
+        "value": "9783662441855"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2015-01-01T00:00:00Z",
+          "timestamp": 1420070400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2015-01-01T00:00:00Z",
+          "timestamp": 1420070400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-662-44185-5_694",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2016-02-25T17:17:22Z",
+      "timestamp": 1456420642000
+    },
+    "page": "1069-1071",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Josefa",
+        "family": "Anton",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "694_CR9150",
+        "volume-title": "Halophiles. Encyclopedia of life sciences",
+        "author": "S DasSarma",
+        "year": "2006",
+        "unstructured": "DasSarma S, Arora P (2006) Halophiles. Encyclopedia of life sciences. Wiley, London"
+      },
+      {
+        "key": "694_CR9151",
+        "volume-title": "Halophilic bacteria",
+        "author": "DJ Kushner",
+        "year": "1988",
+        "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodr\u00edguez-Valera F (ed) Halophilic bacteria. CRC, Boca Raton"
+      },
+      {
+        "key": "694_CR9152",
+        "doi-asserted-by": "publisher",
+        "first-page": "334",
+        "DOI": "10.1128/MMBR.63.2.334-348.1999",
+        "volume": "63",
+        "author": "A Oren",
+        "year": "1999",
+        "unstructured": "Oren A (1999) Bioenergetic aspects of halophilism. Microbiol Mol Biol Rev 63:334\u2013348",
+        "journal-title": "Microbiol Mol Biol Rev"
+      },
+      {
+        "key": "694_CR9153",
+        "volume-title": "The prokaryotes: a handbook on the biology of bacteria",
+        "author": "A Oren",
+        "year": "2006",
+        "unstructured": "Oren A (2006) Life at high salt concentrations. In: Dworkin M (ed) The prokaryotes: a handbook on the biology of bacteria. Springer, New York"
+      },
+      {
+        "key": "694_CR9154",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1186/1746-1448-4-2",
+        "volume": "4",
+        "author": "A Oren",
+        "year": "2008",
+        "unstructured": "Oren A (2008) Microbial salt at high salt concentrations: phylogenetic and metabolic diversity. Saline Syst 4:2",
+        "journal-title": "Saline Syst"
+      },
+      {
+        "key": "694_CR9155",
+        "volume-title": "SGM symposium 66: prokaryotic diversity-mechanisms and significance",
+        "author": "A Ventosa",
+        "year": "2006",
+        "unstructured": "Ventosa A (2006) Unusual micro-organisms from unusual habitats: hypersaline environments. In: Logan NA, Lappin-Scott HM, Oyston PCF (eds) SGM symposium 66: prokaryotic diversity-mechanisms and significance. Cambridge University Press, Cambridge"
+      }
+    ],
+    "container-title": [
+      "Encyclopedia of Astrobiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-662-44185-5_694",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ],
+      "date-time": "2020-12-14T07:22:24Z",
+      "timestamp": 1607930544000
+    },
+    "score": 17.941917,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-662-44185-5_694"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783662441848",
+      "9783662441855"
+    ],
+    "references-count": 6,
+    "URL": "https://doi.org/10.1007/978-3-662-44185-5_694",
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "16 October 2015",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T22:29:17Z",
+      "timestamp": 1725575357144
+    },
+    "publisher-location": "New York, NY",
+    "reference-count": 0,
+    "publisher": "Springer New York",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9781441962461"
+      },
+      {
+        "type": "electronic",
+        "value": "9781441962478"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-1-4419-6247-8_13876",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2011-01-17T10:25:49Z",
+      "timestamp": 1295259949000
+    },
+    "page": "897-897",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Jan W.",
+        "family": "Gooch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Encyclopedic Dictionary of Polymers"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4419-6247-8_13876",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2013-04-30T13:26:19Z",
+      "timestamp": 1367328379000
+    },
+    "score": 17.830801,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-1-4419-6247-8_13876"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781441962461",
+      "9781441962478"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-1-4419-6247-8_13876",
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          6
+        ]
+      ],
+      "date-time": "2024-09-06T03:39:35Z",
+      "timestamp": 1725593975113
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 0,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783642112713"
+      },
+      {
+        "type": "electronic",
+        "value": "9783642112744"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-642-11274-4_694",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2011-06-29T16:05:34Z",
+      "timestamp": 1309363534000
+    },
+    "page": "725-727",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Josefa",
+        "family": "Ant\u00f3n",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Encyclopedia of Astrobiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-642-11274-4_694",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2013-06-20T10:27:04Z",
+      "timestamp": 1371724024000
+    },
+    "score": 17.783724,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-642-11274-4_694"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783642112713",
+      "9783642112744"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-3-642-11274-4_694",
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T12:07:02Z",
+      "timestamp": 1725970022754
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 48,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783662555941"
+      },
+      {
+        "type": "electronic",
+        "value": "9783662555958"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2017-01-01T00:00:00Z",
+          "timestamp": 1483228800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-662-55595-8_7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2018-03-08T01:34:55Z",
+      "timestamp": 1520472895000
+    },
+    "page": "125-145",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Halophile"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Andreas",
+        "family": "Stolz",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "7_CR1",
+        "volume-title": "Artemia: basic and applied biology",
+        "author": "TJ Abatzopoulos",
+        "year": "2013",
+        "unstructured": "Abatzopoulos TJ, Beardmore JA, Clegg JS, Sorgeloos P (2013) Artemia: basic and applied biology. Springer, Berlin"
+      },
+      {
+        "key": "7_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Arahal DR, Ventosa A (2006) The family Halomonadaceae. In: Falkow S, Rosenberg E, Schleifer K-H, Stackebrandt E (Hrsg) The Prokaryotes. Bd.\u00a06., 3. Aufl. Springer, Berlin, S 811\u2013835",
+        "DOI": "10.1007/0-387-30746-X_28"
+      },
+      {
+        "key": "7_CR3",
+        "first-page": "5",
+        "volume": "11",
+        "author": "M Avron",
+        "year": "1986",
+        "unstructured": "Avron M (1986) The osmotic components of halotolerant algae. TIBS 11:5\u20136",
+        "journal-title": "TIBS"
+      },
+      {
+        "key": "7_CR4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Beuchat LR (2001) Indigenous fermented foods. In: Rehm H-J, Reed G (Hrsg) Biotechnology set, 2. Aufl. Wiley VCH, S 505\u2013555",
+        "DOI": "10.1002/9783527620999.ch13j"
+      },
+      {
+        "key": "7_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1186/1471-2164-7-169",
+        "volume": "7",
+        "author": "H Bolhuis",
+        "year": "2006",
+        "unstructured": "Bolhuis H, Palm P, Wende A, Falb M, Rampp M, Rodriguez-Valera F, Pfeiffer F, Oesterhelt D (2006) The genome of the square archaeon Haloquadratum walsbyi: life at the limits of water activity. BMC Genom 7:169",
+        "journal-title": "BMC Genom"
+      },
+      {
+        "key": "7_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1287",
+        "DOI": "10.1111/j.1462-2920.2004.00692.x",
+        "volume": "6",
+        "author": "H Bolhuis",
+        "year": "2004",
+        "unstructured": "Bolhuis H, te Poele EM, Rodriguez-Valera F (2004) Isolation and cultivation of Walsby\u00b4s square archaeon. Env Microbiol 6:1287\u20131291",
+        "journal-title": "Env Microbiol"
+      },
+      {
+        "key": "7_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "268",
+        "DOI": "10.1016/j.apgeochem.2008.11.013",
+        "volume": "24",
+        "author": "BB Bowen",
+        "year": "2009",
+        "unstructured": "Bowen BB, Benison KC (2009) Geochemical characteristics of naturally acid and alkaline saline lakes in southern Western Australia. Appl Geochem 24:268\u2013284",
+        "journal-title": "Appl Geochem"
+      },
+      {
+        "key": "7_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "e92",
+        "DOI": "10.1371/journal.pone.0000092",
+        "volume": "1",
+        "author": "S Breuert",
+        "year": "2006",
+        "unstructured": "Breuert S, Allers T, Spohn G, Soppa J (2006) Regulated polyploidy in halophilic archaea. PLoS ONE 1:e92",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "7_CR9",
+        "first-page": "117",
+        "volume": "61",
+        "author": "MS da Costa",
+        "year": "1998",
+        "unstructured": "Costa MS da, Santos H, Galinski EA (1998) An overview of the role and diversity of compatible solutes in Bacteria and Archaea. Adv Biochem Eng Biotechnol 61:117\u2013153",
+        "journal-title": "Adv Biochem Eng Biotechnol"
+      },
+      {
+        "key": "7_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1016/j.mib.2015.05.009",
+        "volume": "25",
+        "author": "S DasSarma",
+        "year": "2015",
+        "unstructured": "DasSarma S, DasSarma P (2015) Halophiles and their enzymes:negativity put to good use. Curr Opin Microbiol 25:120\u2013126",
+        "journal-title": "Curr Opin Microbiol"
+      },
+      {
+        "key": "7_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1007/s10482-015-0493-4",
+        "volume": "108",
+        "author": "G Dou",
+        "year": "2015",
+        "unstructured": "Dou G, He W, Liu H, Ma Y (2015) Halomonas heilongjiangensis sp. nov., a novel moderately halophilic bacterium isolated from saline and alkaline soil. Antonie Van Leeuwenhoek 108:403\u2013413",
+        "journal-title": "Antonie Van Leeuwenhoek"
+      },
+      {
+        "key": "7_CR12",
+        "unstructured": "Galinski EA (1994) Halophile und halotolerante Eubakterien. In: Hausmann K, Kremer BP (Hrsg) Extremophile Mikroorganismen in ausgefallenen Lebensr\u00e4umen. VCH, Weinheim, S 89\u2013112"
+      },
+      {
+        "key": "7_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/S0065-2911(08)60148-4",
+        "volume": "37",
+        "author": "EA Galinski",
+        "year": "1995",
+        "unstructured": "Galinski EA (1995) Osmoadaptation in bacteria. Adv Microbial Physiol 37:273\u2013328",
+        "journal-title": "Adv Microbial Physiol"
+      },
+      {
+        "key": "7_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1007/s00360-011-0624-9",
+        "volume": "182",
+        "author": "RJ Gonzalez",
+        "year": "2012",
+        "unstructured": "Gonzalez RJ (2012) The physiology of hyper-salinity in teleost fish: a review. J Comp Physiol B 182:321\u2013329",
+        "journal-title": "J Comp Physiol B"
+      },
+      {
+        "key": "7_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "326",
+        "DOI": "10.1016/j.clindermatol.2008.01.002",
+        "volume": "26",
+        "author": "R Graf",
+        "year": "2008",
+        "unstructured": "Graf R, Anzali S, Buenger J, Pfluecker F, Driller H (2008) The multifunctional role of ectoine as a natural cell protectant. Clin Dermatol 26:326\u2013333",
+        "journal-title": "Clin Dermatol"
+      },
+      {
+        "key": "7_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "e110533",
+        "DOI": "10.1371/journal.pone.0110533",
+        "volume": "9",
+        "author": "ST Jaakkola",
+        "year": "2014",
+        "unstructured": "Jaakkola ST, Zerulla K, Guo Q, Liu Y, Ma H, Yang C et al (2014) Halophilic archaea cultivated from surface sterilized middle-late Eocene rock salt are polyploid. PLoS ONE 9:e110533",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "7_CR17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0122869",
+        "author": "SS Johnson",
+        "year": "2015",
+        "unstructured": "Johnson SS, Chevrette MG, Ehlmann BL, Benison KC (2015) Insights from the metagenome of an acid salt lake: the role of biology in an extreme environment. PLoS One: https://doi.org/10.1371/journal.pone.0122869",
+        "journal-title": "PLoS One:DOI"
+      },
+      {
+        "key": "7_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1007/BF00174204",
+        "volume": "37",
+        "author": "K Lippert",
+        "year": "1992",
+        "unstructured": "Lippert K, Galinski EA (1992) Enzyme stabilization by ectoine-type compatible solutes: protection against heating, freezing and drying. Appl Microbiol Biotechnol 37:61\u201365",
+        "journal-title": "Appl Microbiol Biotechnol"
+      },
+      {
+        "key": "7_CR19",
+        "volume-title": "Brock Mikrobiologie",
+        "author": "MT Madigan",
+        "year": "2001",
+        "unstructured": "Madigan MT, Martinko JM, Parker J (2001) Brock Mikrobiologie. Spektrum Verlag, Heidelberg"
+      },
+      {
+        "key": "7_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1007/s007920100184",
+        "volume": "5",
+        "author": "R Margesin",
+        "year": "2001",
+        "unstructured": "Margesin R, Schinner F (2001) Potential of halotolerant and halophilic microorganisms for biotechnology. Extremophiles 5:73\u201383",
+        "journal-title": "Extremophiles"
+      },
+      {
+        "key": "7_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1046/j.1462-2920.2000.00105.x",
+        "volume": "2",
+        "author": "TJ McGenity",
+        "year": "2000",
+        "unstructured": "McGenity TJ, Gemmell RT, Grant WD, Stan-Lotter H (2000) Origins of halophilic microorganisms in ancient salt. Env Microbiol 2:243\u2013250",
+        "journal-title": "Env Microbiol"
+      },
+      {
+        "key": "7_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "20.537",
+        "DOI": "10.1073/pnas.1209119109",
+        "volume": "109",
+        "author": "S Nelson-Sathi",
+        "year": "2012",
+        "unstructured": "Nelson-Sathi S, Dagan T, Landan G, Janssen A, Steel M, McInerney JO, Deppenmeier U, Martin WF (2012) Acquisition of 1,000 eubacterial genes physiologically transformed a methanogen at the origin of Haloarchaea. Proc Natl Acad Sci USA 109:20.537\u201320.542",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "7_CR23",
+        "first-page": "12.176",
+        "volume": "97",
+        "author": "WV Ng",
+        "year": "2012",
+        "unstructured": "Ng WV, Kennedy SP, Mahairas GG, Berquist B, Pan M, Shukla HD et al (2012) Genome sequence of Halobacterium species NRC-1. Proc Natl Acad Sci USA 97:12.176\u201312.181",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "7_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1186/1746-1448-4-2",
+        "volume": "4",
+        "author": "A Oren",
+        "year": "2008",
+        "unstructured": "Oren A (2008) Microbial life at high salt concentrations: phylogenetic and metabolic diversity. Saline Syst 4:2",
+        "journal-title": "Saline Syst"
+      },
+      {
+        "key": "7_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "825",
+        "DOI": "10.1080/09593330903370026",
+        "volume": "31",
+        "author": "A Oren",
+        "year": "2010",
+        "unstructured": "Oren A (2010) Industrial and environmental applications of halophilic microorganisms. Env Technol 31:825\u2013834",
+        "journal-title": "Env Technol"
+      },
+      {
+        "key": "7_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Oren A (2013) Life at high salt concentrations, intracellular KCl concentrations, and acidic proteomes. Front Microbiol 4:315",
+        "DOI": "10.3389/fmicb.2013.00315"
+      },
+      {
+        "key": "7_CR27",
+        "first-page": "23",
+        "volume": "21",
+        "author": "A Oren",
+        "year": "2014",
+        "unstructured": "Oren A (2014) The ecology of Dunaliella in high-salt environments. J Biol Res 21:23",
+        "journal-title": "J Biol Res"
+      },
+      {
+        "key": "7_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.copbio.2015.02.005",
+        "volume": "33",
+        "author": "A Oren",
+        "year": "2015",
+        "unstructured": "Oren A (2015) Halophilic microbial communities and their environments. Curr Opin Biotechnol 33:119\u2013124",
+        "journal-title": "Curr Opin Biotechnol"
+      },
+      {
+        "key": "7_CR29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Oren A, Rodriguez-Valera F, Ant\u00f3n J, Benlloch S, Rosell\u00f3-Mora, Amann R, Coleman J, Russell NJ (2004) Red extremely halophilic, but not archaeal: the physiology and ecology of Salinibacter ruber, a bacterium isolated from saltern crystallizer ponds. In: Ventosa A (Hrsg) Halophilic microorganisms. Springer, Berlin, S\u00a063\u201376",
+        "DOI": "10.1007/978-3-662-07656-9_4"
+      },
+      {
+        "key": "7_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pastor JM, Bernal V, Salvador M, Argando\u00f1a M, Vargas C, Csonka L, Sevilla A, Iborra JL, Nieto JJ, C\u00e1novas M (2013) Role of central metabolism in the osmoadaptation of the halophilic bacterium Chromohalobacter salexigens. J Biol Chem 288:17.769\u201317.781",
+        "DOI": "10.1074/jbc.M113.470567"
+      },
+      {
+        "key": "7_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1853",
+        "DOI": "10.1128/AEM.16.12.1853-1858.1968",
+        "volume": "16",
+        "author": "JI Pitt",
+        "year": "1968",
+        "unstructured": "Pitt JI, Christian JHB (1968) Water relations of xerophilic fungi isolated from prunes. Appl Microbiol 16:1853\u20131858",
+        "journal-title": "Appl Microbiol"
+      },
+      {
+        "key": "7_CR32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Plemenita\u0161 A, Lenassi M, Konte T, Kej\u017ear A, Gostin\u010dar C, Gunde-Cimerman N (2014) Adaptation to high salt concentrations in halotolerant/halophilic fungi: a molecular perspective. Front Microbiol 5:199",
+        "DOI": "10.3389/fmicb.2014.00199"
+      },
+      {
+        "key": "7_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "5508",
+        "DOI": "10.3390/md13095508",
+        "volume": "13",
+        "author": "M Rodrigo-Ba\u00f1os",
+        "year": "2015",
+        "unstructured": "Rodrigo-Ba\u00f1os M, Garbayo I, Vilhez C, Bonete MJ, Martinez-Espinosa RM (2015) Carotenoids from haloarchaea and their potential in biotechnology. Mar Drugs 13:5508\u20135532",
+        "journal-title": "Mar Drugs"
+      },
+      {
+        "key": "7_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "306",
+        "DOI": "10.1002/(SICI)1097-0290(19980205)57:3<306::AID-BIT7>3.0.CO;2-L",
+        "volume": "57",
+        "author": "T Sauer",
+        "year": "1998",
+        "unstructured": "Sauer T, Galinski EA (1998) Bacterial milking: a novel bioprocess for production of compatible solutes. Biotechnol Bioeng 57:306\u2013313",
+        "journal-title": "Biotechnol Bioeng"
+      },
+      {
+        "key": "7_CR35",
+        "doi-asserted-by": "crossref",
+        "first-page": "585",
+        "DOI": "10.1099/mic.0.28504-0",
+        "volume": "152",
+        "author": "J Soppa",
+        "year": "2006",
+        "unstructured": "Soppa J (2006) From genomes to function: haloarchaea as model organisms. Microbiol 152:585\u2013590",
+        "journal-title": "Microbiol"
+      },
+      {
+        "key": "7_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1038/ismej.2016.203",
+        "volume": "11",
+        "author": "DY Sorokin",
+        "year": "2017",
+        "unstructured": "Sorokin DY, Messina E, Smedile F, Roman P, Damst\u0117 JSS, Ciordia S, Mena MC, Ferrer M, Golyshin PN, Kublanov IV, Samarov NI, Toshchakov SV, La Cono V, Yakimov MM (2017) Discovery of anaerobic lithoheterotrophic haloarchaea, ubiquitous in hypersaline habitats. ISME J 11:1245\u20131260",
+        "journal-title": "ISME J"
+      },
+      {
+        "key": "7_CR37",
+        "doi-asserted-by": "crossref",
+        "first-page": "1487",
+        "DOI": "10.3390/life5031487",
+        "volume": "5",
+        "author": "H Stan-Lotter",
+        "year": "2015",
+        "unstructured": "Stan-Lotter H, Fendrihan S (2015) Halophilic archaea: life with desiccation, radiation and oligotrophy over geological times. Life 5:1487\u20131496",
+        "journal-title": "Life"
+      },
+      {
+        "key": "7_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "3565",
+        "DOI": "10.1099/00221287-145-12-3565",
+        "volume": "145",
+        "author": "H Stan-Lotter",
+        "year": "1999",
+        "unstructured": "Stan-Lotter H, McGenity TJ, Legat A, Denner EBM, Glaser K, Stetter KO, Wanner G (1999) Very similar strains of Halococcus salifodinae are found in geographically separated Permo-Triassic salt deposits. Microbiol 145:3565\u20133574",
+        "journal-title": "Microbiol"
+      },
+      {
+        "key": "7_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1333",
+        "DOI": "10.1038/ismej.2014.219",
+        "volume": "9",
+        "author": "A Stevenson",
+        "year": "2015",
+        "unstructured": "Stevenson A, Cray JA, Williams JP, Santos R, Sahay R, Neuenkirchen N et al (2015) Is there a common water-activity limit for the three domains of life? ISME J 9:1333\u20131351",
+        "journal-title": "ISME J"
+      },
+      {
+        "key": "7_CR40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sulaiman J, Gan HM, Yin W-F, Chan K-G (2014) Microbial succession and the functional potential during the fermentation of Chinese soy sauce brine. Front Microbiol 5:556",
+        "DOI": "10.3389/fmicb.2014.00556"
+      },
+      {
+        "key": "7_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "254",
+        "DOI": "10.1016/0378-1097(90)90535-X",
+        "volume": "75",
+        "author": "HG Tr\u00fcper",
+        "year": "1990",
+        "unstructured": "Tr\u00fcper HG, Galinski EA (1990) Biosynthesis and fate of compatible solutes in extremely halophilic phototrophic eubacteria. FEMS Microbiol Rev 75:254\u2013257",
+        "journal-title": "FEMS Microbiol Rev"
+      },
+      {
+        "key": "7_CR42",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-642-20198-1",
+        "volume-title": "Halophiles and hypersaline environments. Current research and future trends",
+        "author": "A Ventosa",
+        "year": "2011",
+        "unstructured": "Ventosa A, Oren A, Ma Y (2011) Halophiles and hypersaline environments. Current research and future trends. Springer, Berlin"
+      },
+      {
+        "key": "7_CR43",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1038/283069a0",
+        "volume": "283",
+        "author": "AE Walsby",
+        "year": "1980",
+        "unstructured": "Walsby AE (1980) A square bacterium. Nature 283:69\u201371",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "7_CR44",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/j.tim.2005.03.002",
+        "volume": "13",
+        "author": "AE Walsby",
+        "year": "2005",
+        "unstructured": "Walsby AE (2005) Archaea with square cells. Trends Microbiol 13:193\u2013195",
+        "journal-title": "Trends Microbiol"
+      },
+      {
+        "key": "7_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1111/j.1574-6976.2000.tb00542.x",
+        "volume": "24",
+        "author": "DT Welsh",
+        "year": "2000",
+        "unstructured": "Welsh DT (2000) Ecological significance of compatible solute accumulation by micro-organisms: from single cells to global climate. FEMS Microbiol Rev 24:263\u2013290",
+        "journal-title": "FEMS Microbiol Rev"
+      },
+      {
+        "key": "7_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1126/science.1103569",
+        "volume": "307",
+        "author": "PWJJ van der Wielen",
+        "year": "2005",
+        "unstructured": "Wielen PWJJ van der, Bolhuis H, Borin S, Daffonchio D, Corselli C, Giuliano L et al (2005) The enigma of prokaryotic life in deep hypersaline anoxic basins. Science 307:121\u2013123",
+        "journal-title": "Science"
+      },
+      {
+        "key": "7_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1128/AEM.02702-13",
+        "volume": "80",
+        "author": "J Zajc",
+        "year": "2014",
+        "unstructured": "Zajc J, Kogej T, Galinski EA, Ramos J, Gunde-Cimerman N (2014) Osmoadaptation strategy of the most halophilic fungus, Wallemia ichthyophaga, growing optimally at salinities above 15\u00a0% NaCl. Appl Environ Microbiol 80:247\u2013256",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "key": "7_CR48",
+        "doi-asserted-by": "crossref",
+        "first-page": "C2639",
+        "DOI": "10.1111/1750-3841.13516",
+        "volume": "81",
+        "author": "L Zhang",
+        "year": "2016",
+        "unstructured": "Zhang L, Zhou R, Cui R, Huang J, Wu C (2016) Characterizing soy sauce Moromi manufactured by high-salt dilute-state and low-salt solid-state fermentation using multiphase analyzing methods. J Food Sci 81:C2639\u2013C2646",
+        "journal-title": "J Food Sci"
+      }
+    ],
+    "container-title": [
+      "Extremophile Mikroorganismen"
+    ],
+    "language": "de",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-662-55595-8_7",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2024-07-01T21:21:50Z",
+      "timestamp": 1719868910000
+    },
+    "score": 17.523476,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-662-55595-8_7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783662555941",
+      "9783662555958"
+    ],
+    "references-count": 48,
+    "URL": "https://doi.org/10.1007/978-3-662-55595-8_7",
+    "published": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          8
+        ]
+      ],
+      "date-time": "2024-09-08T15:05:30Z",
+      "timestamp": 1725807930444
+    },
+    "publisher-location": "2455 Teller Road,\u00a0Thousand Oaks,\u00a0California\u00a091320\u00a0",
+    "reference-count": 0,
+    "publisher": "SAGE Publications, Ltd.",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9781446247112"
+      },
+      {
+        "type": "electronic",
+        "value": "9781446247501"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.4135/9781446247501.n1826",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2014-10-27T14:59:40Z",
+      "timestamp": 1414421980000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "HALOPHYTE"
+    ],
+    "prefix": "10.4135",
+    "member": "179",
+    "container-title": [
+      "Encyclopedia of Environmental Change"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          21
+        ]
+      ],
+      "date-time": "2022-04-21T18:01:20Z",
+      "timestamp": 1650564080000
+    },
+    "score": 16.61036,
+    "resource": {
+      "primary": {
+        "URL": "https://sk.sagepub.com/reference/dictionaryenvirochange/n1826.i1.xml"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781446247112",
+      "9781446247501"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.4135/9781446247501"
+    ],
+    "URL": "https://doi.org/10.4135/9781446247501.n1826",
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2026-01-06T13:46:07Z",
+      "timestamp": 1767707167320
+    },
+    "reference-count": 0,
+    "publisher": "Frontiers Media SA",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Front. Microbiol."
+    ],
+    "DOI": "10.3389/fmicb.2013.00380",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2013-12-10T09:51:57Z",
+      "timestamp": 1386669117000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 39,
+    "title": [
+      "Raman spectroscopy in halophile research"
+    ],
+    "prefix": "10.3389",
+    "volume": "4",
+    "author": [
+      {
+        "given": "Jan",
+        "family": "Jehli\u010dka",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Aharon",
+        "family": "Oren",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": [
+      "Frontiers in Microbiology"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2015-02-18T19:27:55Z",
+      "timestamp": 1424287675000
+    },
+    "score": 16.093405,
+    "resource": {
+      "primary": {
+        "URL": "http://journal.frontiersin.org/article/10.3389/fmicb.2013.00380/abstract"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3389/fmicb.2013.00380",
+    "ISSN": [
+      "1664-302X"
+    ],
+    "issn-type": [
+      {
+        "value": "1664-302X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2024-03-26T02:18:42Z",
+      "timestamp": 1711419522011
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "group-title": "SSRN",
+    "reference-count": 42,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2139/ssrn.4771528",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2024-03-25T13:17:52Z",
+      "timestamp": 1711372672000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Ferguson Plot Analysis of Chaperone Clpb\u00a0From Moderate Halophile"
+    ],
+    "prefix": "10.2139",
+    "author": [
+      {
+        "given": "Teruo",
+        "family": "Akuta",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yui",
+        "family": "Tomioka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Masataka",
+        "family": "Nakagawa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tsutomu",
+        "family": "Arakawa",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1002/elps.200600666",
+        "article-title": "Remembrance of Andreas Chrambach. The origin of the Ferguson plot",
+        "volume": "28",
+        "author": "K A Ferguson",
+        "year": "2007",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "985",
+        "DOI": "10.1016/S0026-0495(64)80018-4",
+        "article-title": "Starch-gel electrophoresis-application to the classification of pituitary proteins and polypeptides",
+        "volume": "13",
+        "author": "K A Ferguson",
+        "year": "1964",
+        "journal-title": "Metabolism"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "564",
+        "DOI": "10.1208/aapsj080365",
+        "article-title": "Is any measurement method optimal for all aggregate sizes and types?",
+        "volume": "8",
+        "author": "J S Philo",
+        "year": "2006",
+        "journal-title": "AAPS J"
+      },
+      {
+        "key": "ref4",
+        "first-page": "143",
+        "article-title": "Analytical ultracentrifugation: sedimentation velocity and sedimentation equilibrium",
+        "volume": "84",
+        "author": "J C Cole",
+        "year": "2008",
+        "journal-title": "Methods Call Mol"
+      },
+      {
+        "key": "ref5",
+        "first-page": "209",
+        "volume": "27",
+        "author": "E P Pittz",
+        "year": "1973",
+        "journal-title": "Light scattering and differential refractometry"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/0167-4838(82)90370-3",
+        "article-title": "Estimation of molecular weights of membrane proteins in the presence of SDS by low-angle laser light scattering combined with high-performance porous silica gel chromatography. Confirmation of the trimer structure of porin of the E. coli outer membrane",
+        "volume": "706",
+        "author": "K Kameyama",
+        "year": "1982",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/0003-2697(92)90042-6",
+        "article-title": "Molecular weights of glycosylated and nonglycosylated forms of recombinant human stem cell factor determined by low-angle laser light scattering",
+        "author": "T Arakawa",
+        "year": "1992",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.1016/S0003-9861(57)80019-8",
+        "article-title": "Light scattering of isoionic conalbumin",
+        "volume": "66",
+        "author": "S N Timasheff",
+        "year": "1957",
+        "journal-title": "Arch. Biochem. Biophys"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1006/abio.1996.0345",
+        "article-title": "Size-exclusion chromatography with on-line light scattering, absorbance, and refractive index detectors for studying proteins and their complexes",
+        "volume": "240",
+        "author": "J Wen",
+        "year": "1996",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "423",
+        "DOI": "10.1126/science.aar5839",
+        "article-title": "Quantitative mass imaging of single biological macromolecules",
+        "volume": "360",
+        "author": "G Young",
+        "year": "2018",
+        "journal-title": "Science"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1007/s00249-021-01513-9",
+        "article-title": "Standard protocol for mass photometry experiments",
+        "volume": "50",
+        "author": "D Wu",
+        "year": "2021",
+        "journal-title": "Eur. Biophys. J"
+      },
+      {
+        "key": "ref12",
+        "author": "R Sato"
+      },
+      {
+        "key": "ref13",
+        "article-title": "Detection of concentration-dependent conformational changes in SARS-CoV-2 nucleoprotein by agarose native gel electrophoresis",
+        "volume": "662",
+        "author": "T Arakawa",
+        "year": "2023",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/j.ijbiomac.2022.06.118",
+        "article-title": "Ladder observation of bovine serum albumin by high resolution agarose gel electrophoresis",
+        "volume": "215",
+        "author": "Y Tomioka",
+        "year": "2022",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bpc.2023.107095",
+        "article-title": "Ferguson plot analysis of multiple intermediate species of thermally unfolded bovine serum albumin",
+        "volume": "301",
+        "author": "Y Tomioka",
+        "year": "2023",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bpc.2024.107200",
+        "article-title": "Different behavior of Ferguson plot between agarose and polyacrylamide gels",
+        "volume": "307",
+        "author": "Y Tomioka",
+        "year": "2024",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "862",
+        "DOI": "10.3109/07388551.2015.1051942",
+        "article-title": "ClpB/Hsp100 proteins and heat stress tolerance in plants",
+        "volume": "36",
+        "author": "R C Mishra",
+        "year": "2016",
+        "journal-title": "Crit. Rev. Biotechnol"
+      },
+      {
+        "key": "ref18",
+        "article-title": "Agarose gel electrophoresis analysis of chemically cross-linked ClpB chaperone protein from moderate Halophile",
+        "author": "M Tokunaga",
+        "year": "2024",
+        "journal-title": "Salt and Seawater Science & Technology"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fmolb.2015.00022",
+        "article-title": "Cooperation of Hsp70 and Hsp100 chaperone machines in protein disaggregation",
+        "volume": "2",
+        "author": "A Mogk",
+        "year": "2015",
+        "journal-title": "Front. Mol. Biosci"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "668",
+        "DOI": "10.1016/j.ijbiomac.2019.08.066",
+        "article-title": "Agarose native gel electrophoresis",
+        "volume": "140",
+        "author": "C Li",
+        "year": "2019",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "885",
+        "DOI": "10.1016/j.ijbiomac.2020.02.185",
+        "article-title": "Agarose native gel electrophoresis for characterization of antibodies",
+        "volume": "151",
+        "author": "C Li",
+        "year": "2020",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref22",
+        "author": "C Sakuma"
+      },
+      {
+        "key": "ref23",
+        "article-title": "Western blotting analysis of proteins separated by agarose native gel electrophoresis",
+        "volume": "166",
+        "author": "T Maruyama",
+        "year": "2021",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref24",
+        "author": "C Sakuma"
+      },
+      {
+        "key": "ref25",
+        "first-page": "589",
+        "article-title": "Analysis of protein denaturation, aggregation and posttranlational modification by agarose native gel electrophoresis",
+        "volume": "172",
+        "author": "T Arakawa",
+        "year": "1021",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref26",
+        "author": "M Nakagawa"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1016/j.ijbiomac.2021.08.142",
+        "article-title": "Akuta, Optimization and application of silver staining of non-glycosylated and glycosylated proteins and nucleic acids for agarose native gel electrophoresis",
+        "volume": "189",
+        "author": "Y Sato",
+        "year": "2021",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref28",
+        "author": "T Arakawa"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/bs.mcb.2021.12.030",
+        "article-title": "Gel-electrophoresis based method for biomolecular interaction",
+        "volume": "169",
+        "author": "Y Shibata",
+        "year": "2022",
+        "journal-title": "Methods Cell Biol"
+      },
+      {
+        "key": "ref30",
+        "author": "K Tunyasuvunakool"
+      },
+      {
+        "key": "ref31",
+        "author": "R Bateman"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "590",
+        "DOI": "10.1038/s41586-021-03828-1",
+        "article-title": "Highly accurate protein structure prediction for the human proteome",
+        "volume": "596",
+        "author": "S Reiman",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "970",
+        "DOI": "10.1073/pnas.65.4.970",
+        "article-title": "Unified theory for gel electrophoresis and gel filtration",
+        "volume": "65",
+        "author": "D Rodbard",
+        "year": "1970",
+        "journal-title": "Proc. Natl. Acad. Sci"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "997",
+        "DOI": "10.1002/elps.1150121202",
+        "article-title": "Simultaneous Ferguson plot analysis, using electrophoresis on a single agarose pore gradient gel, of DNA fragments contained in a mixture",
+        "volume": "12",
+        "author": "E Gombocz",
+        "year": "1991",
+        "journal-title": "Electrophresis"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1073/pnas.65.4.970",
+        "article-title": "Unified theory for gel electrophoresis and gel filtration",
+        "volume": "65",
+        "author": "D Rodbard",
+        "year": "1970",
+        "journal-title": "Proc. Natl. Acad. Sci"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "410",
+        "DOI": "10.1016/0003-2697(71)90271-5",
+        "article-title": "Fractionation and characterization of an oligomeric series of bovine keratohyalin by polyacrylamide gel electrophoresis",
+        "volume": "43",
+        "author": "A R Ugel",
+        "year": "1971",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1002/elps.1150160104",
+        "article-title": "Ogston gel electrophoretic sieving: how is the fractional volume available to a particle related to its mobility and diffusion coefficient(s)?",
+        "volume": "1",
+        "author": "G W Slater",
+        "year": "1995",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1021/acsmaterialsau.3c00018",
+        "article-title": "Cell-sized confinements alter molecular diffusion in concentrated polymer solutions due to length-dependent wetting of polymers",
+        "volume": "3",
+        "author": "Y Kanakubo",
+        "year": "2023",
+        "journal-title": "ACS Mater. Au"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1093",
+        "DOI": "10.1007/s12551-022-01001-0",
+        "article-title": "Cell-size space effects on phase separation of binary polymer blends",
+        "volume": "14",
+        "author": "M Yanagisawa",
+        "year": "2022",
+        "journal-title": "Biophys. Rev"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1515/BC.2006.064",
+        "article-title": "Protein aggregation in crowded environments",
+        "volume": "387",
+        "author": "R J Ellis",
+        "year": "2006",
+        "journal-title": "Biol. Chem"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "970",
+        "DOI": "10.1016/j.tibs.2016.08.013",
+        "article-title": "Macromolecular crowding in vitro, in vivo, and in between",
+        "volume": "41",
+        "author": "G Rivas",
+        "year": "2016",
+        "journal-title": "Trends Biochem. Sci"
+      },
+      {
+        "key": "ref42",
+        "journal-title": "CRedit: Teruo Akuta: Methodology, Visualization, Writing, Supervision Yui Tomioka: Visualization, Formal analysis Masataka Nakagawa: Visualization Tsutomu Arakawa: Conceptualization, Writing -review & editing"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2024-03-25T13:54:51Z",
+      "timestamp": 1711374891000
+    },
+    "score": 16.064434,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ssrn.com/abstract=4771528"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 42,
+    "URL": "https://doi.org/10.2139/ssrn.4771528",
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T09:36:30Z",
+      "timestamp": 1648978590506
+    },
+    "reference-count": 1,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2001-02-01T00:00:00Z",
+          "timestamp": 980985600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Trends in Microbiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0966-842x(01)01953-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T19:48:54Z",
+      "timestamp": 1027626534000
+    },
+    "page": "58",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Genome sequence of an extreme halophile"
+    ],
+    "prefix": "10.1016",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Mark",
+        "family": "Pallen",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0966-842X(01)01953-9_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "12176",
+        "DOI": "10.1073/pnas.190337797",
+        "article-title": "Genome sequence of Halobacterium species NRC-1",
+        "volume": "97",
+        "author": "Ng",
+        "year": "2000",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      }
+    ],
+    "container-title": [
+      "Trends in Microbiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0966842X01019539?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0966842X01019539?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          22
+        ]
+      ],
+      "date-time": "2019-04-22T06:50:37Z",
+      "timestamp": 1555915837000
+    },
+    "score": 15.724276,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0966842X01019539"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          2
+        ]
+      ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0966842X01019539"
+    ],
+    "URL": "https://doi.org/10.1016/s0966-842x(01)01953-9",
+    "ISSN": [
+      "0966-842X"
+    ],
+    "issn-type": [
+      {
+        "value": "0966-842X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Research Square"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          24
+        ]
+      ],
+      "date-time": "2025-11-24T15:48:34Z",
+      "timestamp": 1763999314728,
+      "version": "3.45.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          24
+        ]
+      ]
+    },
+    "group-title": "In Review",
+    "reference-count": 17,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              24
+            ]
+          ],
+          "date-time": "2025-11-24T00:00:00Z",
+          "timestamp": 1763942400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          2
+        ]
+      ]
+    },
+    "abstract": "<title>Abstract</title>\n                <p>\n                  Although current classification systems for halophilic and halotolerant microorganisms have contributed significantly to the field, there remain opportunities to enhance their theoretical foundation and broader adoption. In this study, we introduce a new classification system grounded in the Statistical Rarity definition of extremophiles. To support this proposal, a comprehensive bibliographic survey of 1,298 species described as 'halophile', 'halophilic', or 'halotolerant' from 1967 to 2021 was conducted. Of these, 1,196 species with complete optimal NaCl growth data were analyzed using the Counting Method to determine species frequency across NaCl concentrations. Quartile metrics were applied to define new subclasses: halotolerant (&lt;\u20090.6 mol\u00b7L\n                  <sup>\u2212\u20091</sup>\n                  NaCl), slight halophile (0.6\u20131.2 mol\u00b7L\n                  <sup>\u2212\u20091</sup>\n                  ), moderate halophile (1.2\u20132.2 mol\u00b7L\n                  <sup>\u2212\u20091</sup>\n                  ), and extreme halophile (&gt;\u20092.2 mol\u00b7L\n                  <sup>\u2212\u20091</sup>\n                  ). The proposed system reclassifies a significant portion of species and emphasizes biological relevance by correlating rarity of optimal growth conditions with extremity. This paradigm shift addresses inconsistencies in halophile classification and standardizes the definition of halophilic and halotolerant microorganisms, providing theoretical meaning to those terms.\n                </p>",
+    "DOI": "10.21203/rs.3.rs-8012852/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          24
+        ]
+      ],
+      "date-time": "2025-11-24T15:44:27Z",
+      "timestamp": 1763999067000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Proposal for new halophile classification system based on Statistical Rarity definition of extremophiles"
+    ],
+    "prefix": "10.21203",
+    "author": [
+      {
+        "given": "Ana Paula Muche",
+        "family": "Schiavo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Universidade de S\u00e3o Paulo"
+          }
+        ]
+      },
+      {
+        "given": "Roberta Almeida",
+        "family": "Vincenzi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de S\u00e3o Paulo"
+          }
+        ]
+      },
+      {
+        "given": "Fabio",
+        "family": "Rodrigues",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade de S\u00e3o Paulo"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "ref1",
+        "volume-title": "The Stanford Encyclopedia of Philosophy, Spring 2024",
+        "author": "Bird A",
+        "year": "2024",
+        "unstructured": "Bird A, Tobin E (2024) Natural Kinds. In: Zalta EN, Nodelman U (eds) The Stanford Encyclopedia of Philosophy, Spring 2024. Methaphysics Research Lab, Stanford University"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.1128/jb.98.1.289-297.1969",
+        "article-title": "Thermus aquaticus gen. n. and sp. n., a nonsporulating extreme thermophile",
+        "volume": "98",
+        "author": "Brock TD",
+        "year": "1969",
+        "unstructured": "Brock TD, Freeze H (1969) Thermus aquaticus gen. n. and sp. n., a nonsporulating extreme thermophile. J Bacteriol 98:289\u2013297. https://doi.org/10.1128/jb.98.1.289-297.1969",
+        "journal-title": "J Bacteriol"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "first-page": "281",
+        "DOI": "10.1089/153110702762027862",
+        "article-title": "Extremophiles and the Search for Extraterrestrial Life",
+        "volume": "2",
+        "author": "Cavicchioli R",
+        "year": "2002",
+        "unstructured": "Cavicchioli R (2002) Extremophiles and the Search for Extraterrestrial Life. Astrobiology 2:281\u2013292. https://doi.org/10.1089/153110702762027862",
+        "journal-title": "Astrobiology"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "first-page": "793",
+        "DOI": "10.1038/ismej.2015.160",
+        "article-title": "On the concept of a psychrophile",
+        "volume": "10",
+        "author": "Cavicchioli R",
+        "year": "2016",
+        "unstructured": "Cavicchioli R (2016) On the concept of a psychrophile. ISME J 10:793\u2013795. https://doi.org/10.1038/ismej.2015.160",
+        "journal-title": "ISME J"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1103185",
+        "author": "Daly MJ",
+        "year": "2004",
+        "unstructured": "Daly MJ, Gaidamakova EK, Matrosova VY et al (2004) Accumulation of Mn(II) in Deinicoccus radiodurans facilitates gamma-radiation resistance. Science (1979) 306:1025\u20131028. https://doi.org/10.1126/science.1103185"
+      },
+      {
+        "key": "ref6",
+        "author": "DasSarma S",
+        "year": "2012",
+        "unstructured": "DasSarma S, DasSarma P (2012) Halophiles. In: Encyclopedia of Life Sciences"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.envres.2023.116547",
+        "article-title": "Temperature \u2013 A critical abiotic paradigm that governs bacterial heterogeneity in natural ecological system",
+        "volume": "234",
+        "author": "Kumar S",
+        "year": "2023",
+        "unstructured": "Kumar S, Najar IN, Sharma P et al (2023) Temperature \u2013 A critical abiotic paradigm that governs bacterial heterogeneity in natural ecological system. Environ Res 234. https://doi.org/10.1016/j.envres.2023.116547",
+        "journal-title": "Environ Res"
+      },
+      {
+        "key": "ref8",
+        "first-page": "109",
+        "volume-title": "Halophilic Bacteria",
+        "author": "Kushner DJ",
+        "year": "1988",
+        "unstructured": "Kushner DJ, Kamekura M (1988) Physiology of halophilic eubacteria. In: Rodriguez-Valera F (ed) Halophilic Bacteria. CRC, Boca Raton, pp 109\u2013140"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1111/j.1574-6968.1986.tb01835.x",
+        "article-title": "Halophilic and halotolerant microorganisms-an overview and historical perspective",
+        "volume": "2",
+        "author": "Larsen H",
+        "year": "1986",
+        "unstructured": "Larsen H (1986) Halophilic and halotolerant microorganisms-an overview and historical perspective. FEMS Microbiol Lett 2:3\u20137. https://doi.org/10.1111/j.1574-6968.1986.tb01835.x",
+        "journal-title": "FEMS Microbiol Lett"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1093/oso/9780190915650.003.0010",
+        "volume-title": "Social and Conceptual Issues in Astrobiology",
+        "author": "Mariscal C",
+        "year": "2020",
+        "unstructured": "Mariscal C, Brunet TDP (2020) What are extremophiles? In: Smith KC, Mariscal C (eds) Social and Conceptual Issues in Astrobiology. Oxford University Press, New York, pp 157\u2013175"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1937",
+        "DOI": "10.1099/ijs.0.035782-0",
+        "article-title": "Planococcus halocryophilus sp. nov., an extreme sub-zero species from high arctic permafrost",
+        "volume": "62",
+        "author": "Mykytczuk NCS",
+        "year": "2012",
+        "unstructured": "Mykytczuk NCS, Wilhelm RC, Whyte LG (2012) Planococcus halocryophilus sp. nov., an extreme sub-zero species from high arctic permafrost. Int J Syst Evol Microbiol 62:1937\u20131944. https://doi.org/10.1099/ijs.0.035782-0",
+        "journal-title": "Int J Syst Evol Microbiol"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "first-page": "5607",
+        "DOI": "10.1099/ijsem.0.004332",
+        "article-title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+        "volume": "70",
+        "author": "Parte AC",
+        "year": "2020",
+        "unstructured": "Parte AC, Sard\u00e0 Carbasse J, Meier-Kolthoff JP et al (2020) List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ. Int J Syst Evol Microbiol 70:5607\u20135612. https://doi.org/10.1099/ijsem.0.004332",
+        "journal-title": "Int J Syst Evol Microbiol"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "first-page": "926",
+        "DOI": "10.30574/wjarr.2023.17.1.0117",
+        "article-title": "Halophilic microbiome: Distribution, diversity and applications",
+        "volume": "17",
+        "author": "Rathod MG",
+        "year": "2023",
+        "unstructured": "Rathod MG, Kamble GT, Dhawale PI et al (2023) Halophilic microbiome: Distribution, diversity and applications. World J Adv Res Reviews 17:926\u2013933. https://doi.org/10.30574/wjarr.2023.17.1.0117",
+        "journal-title": "World J Adv Res Reviews"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1092",
+        "DOI": "10.1038/35059215",
+        "article-title": "Life in extreme environments",
+        "volume": "409",
+        "author": "Rothschild LJ",
+        "year": "2001",
+        "unstructured": "Rothschild LJ, Mancinelli RL (2001) Life in extreme environments. Nature 409:1092\u20131101. https://doi.org/10.1038/35059215",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "first-page": "341",
+        "DOI": "10.1080/1040841X.2023.2197491",
+        "article-title": "Exploring halophilic environments as a source of new antibiotics",
+        "volume": "50",
+        "author": "Thompson TP",
+        "year": "2024",
+        "unstructured": "Thompson TP, Gilmore BF (2024) Exploring halophilic environments as a source of new antibiotics. Crit Rev Microbiol 50:341\u2013370. https://doi.org/10.1080/1040841X.2023.2197491",
+        "journal-title": "Crit Rev Microbiol"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-662-07656-9",
+        "volume-title": "Halophilic Microorganisms",
+        "author": "Ventosa A",
+        "year": "2004",
+        "unstructured": "Ventosa A, Kates M, Grant WD et al (2004) Halophilic Microorganisms. Springer Berlin Heidelberg, New York"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biotechadv.2023.108302",
+        "article-title": "Utilization of gene manipulation system for advancing the biotechnological potential of halophiles: A review",
+        "volume": "70",
+        "author": "Xu T",
+        "year": "2024",
+        "unstructured": "Xu T, Mitra R, Tan D et al (2024) Utilization of gene manipulation system for advancing the biotechnological potential of halophiles: A review. Biotechnol Adv 70. https://doi.org/10.1016/j.biotechadv.2023.108302",
+        "journal-title": "Biotechnol Adv"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-8012852/v1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-8012852/v1.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          24
+        ]
+      ],
+      "date-time": "2025-11-24T15:44:28Z",
+      "timestamp": 1763999068000
+    },
+    "score": 15.669746,
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-8012852/v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          24
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.21203/rs.3.rs-8012852/v1",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          2
+        ]
+      ],
+      "date-time": "2023-11-02T07:07:14Z",
+      "timestamp": 1698908834059
+    },
+    "reference-count": 0,
+    "publisher": "Canadian Science Publishing",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Can. J. Microbiol.",
+      "Rev. can. microbiol.",
+      "Revue canadienne de microbiologie"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "DOI": "10.1139/cjm-46-2-180",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          27
+        ]
+      ],
+      "date-time": "2002-07-27T06:52:27Z",
+      "timestamp": 1027752747000
+    },
+    "page": "180-187",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "The effects of ultraviolet radiation on the moderate halophile &lt;i&gt;Halomonas elongata&lt;/i&gt; and the extreme halophile &lt;i&gt;Halobacterium salinarum&lt;/i&gt;"
+    ],
+    "prefix": "10.1139",
+    "volume": "46",
+    "author": [
+      {
+        "given": "E.L.",
+        "family": "Martin",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "R.L.",
+        "family": "Reinhardt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "L.L.",
+        "family": "Baum",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M.R.",
+        "family": "Becker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J.J.",
+        "family": "Shaffer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "T.A.",
+        "family": "Kokjohn",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "155",
+    "container-title": [
+      "Canadian Journal of Microbiology"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2010,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2010-05-20T07:54:26Z",
+      "timestamp": 1274342066000
+    },
+    "score": 15.617097,
+    "resource": {
+      "primary": {
+        "URL": "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2_abst_e?cjm_w99-122_46_ns_nf_cjm46-00"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2000
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1139/cjm-46-2-180",
+    "ISSN": [
+      "1480-3275",
+      "0008-4166"
+    ],
+    "issn-type": [
+      {
+        "value": "1480-3275",
+        "type": "electronic"
+      },
+      {
+        "value": "0008-4166",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Research Square"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2025-01-07T05:24:37Z",
+      "timestamp": 1736227477991,
+      "version": "3.32.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          8
+        ]
+      ]
+    },
+    "group-title": "In Review",
+    "reference-count": 41,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2024-10-08T00:00:00Z",
+          "timestamp": 1728345600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          28
+        ]
+      ]
+    },
+    "abstract": "<title>Abstract</title>\n        <p>Ferguson plot is a simple method to determine the molecular weight of native proteins and their complexes. We here tested the validity of Ferguson plot based on agarose native gel electrophoresis using multimeric chaperone protein, ClpB, derived from moderate halophile that forms a native hexamer. Ferguson plot showed a single band with a molecular weight of 1,500 kDa, about twice the size of the native hexamer, which may be consistent with the structure of other chaperons that form a double ring comprising a dimer of two hexamer assembly units, i.e, dodecamer. In fact, dynamic light scattering experiment showed two peaks, which appears to correspond to the hexamer and dodecamer structures.</p>",
+    "DOI": "10.21203/rs.3.rs-4993116/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          8
+        ]
+      ],
+      "date-time": "2024-10-08T16:37:18Z",
+      "timestamp": 1728405438000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Ferguson plot analysis of chaperone ClpB from moderate halophile"
+    ],
+    "prefix": "10.21203",
+    "author": [
+      {
+        "given": "Teruo",
+        "family": "Akuta",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yui",
+        "family": "Tomioka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tomoto",
+        "family": "Ura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Masataka",
+        "family": "Nakagawa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tsutomu",
+        "family": "Arakawa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Alliance Protein Laboratories (United States)"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "first-page": "499",
+        "DOI": "10.1002/elps.200600666",
+        "article-title": "The origin of the Ferguson plot",
+        "volume": "28",
+        "author": "Ferguson KA",
+        "year": "2007",
+        "unstructured": "Ferguson KA (2007) The origin of the Ferguson plot. Electrophoresis 28(4):499\u2013500. https://doi.org/10.1002/elps.200600666",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "first-page": "985",
+        "DOI": "10.1016/S0026-0495(64)80018-4",
+        "article-title": "Starch-gel electrophoresis-application to the classification of pituitary proteins and polypeptides",
+        "volume": "13",
+        "author": "Ferguson KA",
+        "year": "1964",
+        "unstructured": "Ferguson KA (1964) Starch-gel electrophoresis-application to the classification of pituitary proteins and polypeptides. Metabolism 13:985\u20131001. https://doi.org/10.1016/S0026-0495(64)80018-4",
+        "journal-title": "Metabolism"
+      },
+      {
+        "issue": "3",
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "first-page": "E564",
+        "DOI": "10.1208/aapsj080365",
+        "article-title": "Is any measurement method optimal for all aggregate sizes and types?",
+        "volume": "8",
+        "author": "Philo JS",
+        "year": "2006",
+        "unstructured": "Philo JS (2006) Is any measurement method optimal for all aggregate sizes and types? AAPS J 8(3):E564\u2013571. \u3000 https://doi.org/10.1208/aapsj080365",
+        "journal-title": "AAPS J"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "first-page": "143",
+        "DOI": "10.1016/S0091-679X(07)84006-4",
+        "article-title": "Analytical ultracentrifugation: sedimentation velocity and sedimentation equilibrium",
+        "volume": "84",
+        "author": "Cole JC",
+        "year": "2008",
+        "unstructured": "Cole JC, Larry JW, Moody TP, Laue TM (2008) Analytical ultracentrifugation: sedimentation velocity and sedimentation equilibrium. Methods Call Mol 84:143\u2013179. https://doi.org/10.1016/S0091-679X(07)84006-4",
+        "journal-title": "Methods Call Mol"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "first-page": "209",
+        "DOI": "10.1016/s0076-6879(73)27012-x",
+        "article-title": "Light scattering and differential refractometry",
+        "volume": "27",
+        "author": "Pittz EP",
+        "year": "1973",
+        "unstructured": "Pittz EP, Lee JC, Bablouzian B, Townend R, Timasheff SN (1973) Light scattering and differential refractometry. Methods Enzymol 27:209\u2013256. https://doi.org/10.1016/s0076-6879(73)27012-x",
+        "journal-title": "Methods Enzymol"
+      },
+      {
+        "issue": "1",
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1016/0167-4838(82)90370-3",
+        "article-title": "Estimation of molecular weights of membrane proteins in the presence of SDS by low-angle laser light scattering combined with high-performance porous silica gel chromatography. Confirmation of the trimer structure of porin of the E. coli outer membrane",
+        "volume": "706",
+        "author": "Kameyama K",
+        "year": "1982",
+        "unstructured": "Kameyama K, Nakae T, Takagi T (1982) Estimation of molecular weights of membrane proteins in the presence of SDS by low-angle laser light scattering combined with high-performance porous silica gel chromatography. Confirmation of the trimer structure of porin of the E. coli outer membrane. Biochim Biophys Acta 706(1):19\u201326. \u3000 https://doi.org/10.1016/0167-4838(82)90370-3",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "issue": "1",
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1016/0003-2697(92)90042-6",
+        "article-title": "Molecular weights of glycosylated and nonglycosylated forms of recombinant human stem cell factor determined by low-angle laser light scattering",
+        "volume": "203",
+        "author": "Arakawa T",
+        "year": "1992",
+        "unstructured": "Arakawa T, Langley KE, Kameyama K, Takagi T (1992) Molecular weights of glycosylated and nonglycosylated forms of recombinant human stem cell factor determined by low-angle laser light scattering. Anal Biochem 203(1):53\u201357. https://doi.org/10.1016/0003-2697(92)90042-6",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "issue": "2",
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "first-page": "427",
+        "DOI": "10.1016/s0003-9861(57)80019-8",
+        "article-title": "Light scattering of isoionic conalbumin",
+        "volume": "66",
+        "author": "Timasheff SN",
+        "year": "1957",
+        "unstructured": "Timasheff SN, Tinoco I Jr (1957) Light scattering of isoionic conalbumin. Arch Biochem Biophys 66(2):427\u2013437. https://doi.org/10.1016/s0003-9861(57)80019-8",
+        "journal-title": "Arch Biochem Biophys"
+      },
+      {
+        "issue": "2",
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.1006/abio.1996.0345",
+        "article-title": "Size-exclusion chromatography with on-line light scattering, absorbance, and refractive index detectors for studying proteins and their complexes",
+        "volume": "240",
+        "author": "Wen J",
+        "year": "1996",
+        "unstructured": "Wen J, Arakawa T, Philo JS (1996) Size-exclusion chromatography with on-line light scattering, absorbance, and refractive index detectors for studying proteins and their complexes. Anal Biochem 240(2):155\u2013166. https://doi.org/10.1006/abio.1996.0345",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "issue": "6387",
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "first-page": "423",
+        "DOI": "10.1126/science.aar5839",
+        "article-title": "Quantitative mass imaging of single biological macromolecules",
+        "volume": "360",
+        "author": "Young G",
+        "year": "2018",
+        "unstructured": "Young G, Hundt N, Cole D, Fineberg A, Andrecka J, Tyler A, Olerinyova A, Ansari A, Marklund EG, Collier MP, Chandler SA, Tkachenko O, Allen J, Cripspin M, Billington N, Takagi Y, Sellers JR, Eichmann C, Selenko P, Frey L, Riek R, Galpin MR, Struwe WB, Benesch JLP, Kukura P (2018) Quantitative mass imaging of single biological macromolecules. Science 360(6387):423\u2013427. https://doi.org/10.1126/science.aar5839",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "3\u20134",
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "first-page": "403",
+        "DOI": "10.1007/s00249-021-01513-9",
+        "article-title": "Standard protocol for mass photometry experiments",
+        "volume": "50",
+        "author": "Wu D",
+        "year": "2021",
+        "unstructured": "Wu D, Piszczek G (2021) Standard protocol for mass photometry experiments. Eur Biophys J 50(3\u20134):403\u2013409. https://doi.org/10.1007/s00249-021-01513-9",
+        "journal-title": "Eur Biophys J"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "first-page": "114995",
+        "DOI": "10.1016/j.ab.2022.114995",
+        "article-title": "Detection of concentration-dependent conformational changes in SARS-CoV-2 nucleoprotein by agarose native gel electrophoresis",
+        "volume": "662",
+        "author": "Sato R",
+        "year": "2023",
+        "unstructured": "Sato R, Tomioka Y, Sakuma C, Nakagawa M, Kurosawa Y, Shiba K, Arakawa T, Akuta T (2023) Detection of concentration-dependent conformational changes in SARS-CoV-2 nucleoprotein by agarose native gel electrophoresis. Anal Biochem 662:114995. https://doi.org/10.1016/j.ab.2022.114995",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "first-page": "512",
+        "DOI": "10.1016/j.ijbiomac.2022.06.118",
+        "article-title": "Ladder observation of bovine serum albumin by high resolution agarose gel electrophoresis",
+        "volume": "215",
+        "author": "Tomioka Y",
+        "year": "2022",
+        "unstructured": "Tomioka Y, Nakagawa M, Sakuma C, Nagatoishi S, Tsumoto K, Arakawa T, Akuta T (2022) Ladder observation of bovine serum albumin by high resolution agarose gel electrophoresis. Int J Biol Macromol 215:512\u2013520. https://doi.org/10.1016/j.ijbiomac.2022.06.118",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "first-page": "107095",
+        "DOI": "10.1016/j.bpc.2023.107095",
+        "article-title": "Ferguson plot analysis of multiple intermediate species of thermally unfolded bovine serum albumin",
+        "volume": "301",
+        "author": "Tomioka Y",
+        "year": "2023",
+        "unstructured": "Tomioka Y, Nagatoishi S, Nakagawa M, Tsumoto K, Arakawa T, Akuta T (2023) Ferguson plot analysis of multiple intermediate species of thermally unfolded bovine serum albumin. Biophys Chem 301:107095. https://doi.org/10.1016/j.bpc.2023.107095",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "first-page": "107200",
+        "DOI": "10.1016/j.bpc.2024.107200",
+        "article-title": "Different behavior of Ferguson plot between agarose and polyacrylamide gels",
+        "volume": "307",
+        "author": "Tomioka Y",
+        "year": "2024",
+        "unstructured": "Tomioka Y, Akuta T, Tokunaga M, Arakawa T (2024) Different behavior of Ferguson plot between agarose and polyacrylamide gels. Biophys Chem 307:107200. https://doi.org/10.1016/j.bpc.2024.107200",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "issue": "5",
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "first-page": "62",
+        "DOI": "10.3109/07388551.2015.1051942",
+        "article-title": "ClpB/Hsp100 proteins and heat stress tolerance in plants",
+        "volume": "36",
+        "author": "Mishra RC",
+        "year": "2016",
+        "unstructured": "Mishra RC, Grover A (2016) ClpB/Hsp100 proteins and heat stress tolerance in plants. Crit Rev Biotechnol 36(5):62\u2013874. https://doi.org/10.3109/07388551.2015.1051942",
+        "journal-title": "Crit Rev Biotechnol"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.11457/ssst.5.0_22",
+        "article-title": "Agarose gel electrophoresis analysis of chemically cross-linked ClpB chaperone protein from moderate Halophile",
+        "volume": "5",
+        "author": "Tokunaga M",
+        "year": "2025",
+        "unstructured": "Tokunaga M, Akuta T, Tokunaga Y, Tomioka Y, Arakawa T, Ishibashi M (2025) Agarose gel electrophoresis analysis of chemically cross-linked ClpB chaperone protein from moderate Halophile. Salt Seawater Sci Technol 5:22\u201326. https://doi.org/10.11457/ssst.5.0_22",
+        "journal-title": "Salt Seawater Sci Technol"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.3389/fmolb.2015.00022",
+        "article-title": "Cooperation of Hsp70 and Hsp100 chaperone machines in protein disaggregation",
+        "volume": "2",
+        "author": "Mogk A",
+        "year": "2015",
+        "unstructured": "Mogk A, Kummer E, Bukau B (2015) Cooperation of Hsp70 and Hsp100 chaperone machines in protein disaggregation. Front Mol Biosci 2:22. https://doi.org/10.3389/fmolb.2015.00022",
+        "journal-title": "Front Mol Biosci"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1016/j.jinorgbio.2017.11.019",
+        "article-title": "An optimized low-cost protocol for standardized production of iron-free apoferritin nanocages with high protein recovery and suitable conformation for nanotechnological applications",
+        "volume": "183",
+        "author": "Moglia I",
+        "year": "2018",
+        "unstructured": "Moglia I, Santiago M, Olivera-Nappa \u00c1, Soler M (2018) An optimized low-cost protocol for standardized production of iron-free apoferritin nanocages with high protein recovery and suitable conformation for nanotechnological applications. J Inorg Biochem 183:184\u2013190. https://doi.org/10.1016/j.jinorgbio.2017.11.019",
+        "journal-title": "J Inorg Biochem"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "first-page": "668",
+        "DOI": "10.1016/j.ijbiomac.2019.08.066",
+        "article-title": "Agarose native gel electrophoresis",
+        "volume": "140",
+        "author": "Li C",
+        "year": "2019",
+        "unstructured": "Li C, Arakawa T (2019) Agarose native gel electrophoresis. Int J Biol Macromol 140:668\u2013671. https://doi.org/10.1016/j.ijbiomac.2019.08.066",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "first-page": "885",
+        "DOI": "10.1016/j.ijbiomac.2020.02.185",
+        "article-title": "Agarose native gel electrophoresis for characterization of antibodies",
+        "volume": "151",
+        "author": "Li C",
+        "year": "2020",
+        "unstructured": "Li C, Akuta T, Nakagawa M, Sato T, Shibata T, Maruyama T, Okumura CJ, Kurosawa Y, Arakawa T (2020) Agarose native gel electrophoresis for characterization of antibodies. Int J Biol Macromol 151:885\u2013890. https://doi.org/10.1016/j.ijbiomac.2020.02.185",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1106",
+        "DOI": "10.1016/j.ijbiomac.2020.10.265",
+        "article-title": "Western blotting analysis of proteins separated by agarose native gel electrophoresis",
+        "volume": "166",
+        "author": "Sakuma C",
+        "year": "2021",
+        "unstructured": "Sakuma C, Sato T, Shibata T, Nakagawa M, Kurosawa Y, Okumura CJ, Maruyama T, Arakawa T, Akuta T (2021) Western blotting analysis of proteins separated by agarose native gel electrophoresis. Int J Biol Macromol 166:1106\u20131110. https://doi.org/10.1016/j.ijbiomac.2020.10.265",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "first-page": "589",
+        "DOI": "10.1016/j.ijbiomac.2021.01.075",
+        "article-title": "Analysis of protein denaturation, aggregation and post-tranlational modification by agarose native gel electrophoresis",
+        "volume": "172",
+        "author": "Sakuma C",
+        "year": "2021",
+        "unstructured": "Sakuma C, Tomioka Y, Li C, Shibata T, Nakagawa M, Kurosawa Y, Arakawa T, Akuta T (2021) Analysis of protein denaturation, aggregation and post-tranlational modification by agarose native gel electrophoresis. Int J Biol Macromol 172:589\u2013596. https://doi.org/10.1016/j.ijbiomac.2021.01.075",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "first-page": "869",
+        "DOI": "10.1016/j.ijbiomac.2021.08.142",
+        "article-title": "Optimization and application of silver staining of non-glycosylated and glycosylated proteins and nucleic acids for agarose native gel electrophoresis",
+        "volume": "189",
+        "author": "Nakagawa M",
+        "year": "2021",
+        "unstructured": "Nakagawa M, Tomioka Y, Sakuma C, Sato R, Shibata T, Kurosawa Y, Sato Y, Ono Y, Arakawa T, Akuta T (2021) Optimization and application of silver staining of non-glycosylated and glycosylated proteins and nucleic acids for agarose native gel electrophoresis. Int J Biol Macromol 189:869\u2013878. https://doi.org/10.1016/j.ijbiomac.2021.08.142",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "first-page": "67",
+        "DOI": "10.1016/bs.mcb.2021.12.030",
+        "article-title": "Gel-electrophoresis based method for biomolecular interaction",
+        "volume": "169",
+        "author": "Arakawa T",
+        "year": "2022",
+        "unstructured": "Arakawa T, Nakagawa M, Tomioka Y, Sakuma C, Li C, Sato T, Sato R, Shibata T, Kurosawa Y, Akuta T (2022) Gel-electrophoresis based method for biomolecular interaction. Methods Cell Biol 169:67\u201395. https://doi.org/10.1016/bs.mcb.2021.12.030",
+        "journal-title": "Methods Cell Biol"
+      },
+      {
+        "issue": "2",
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "first-page": "147",
+        "DOI": "10.1007/s12551-013-0107-1",
+        "article-title": "Light-scattering-based analysis of biomolecular interactions",
+        "volume": "5",
+        "author": "Some D",
+        "year": "2013",
+        "unstructured": "Some D (2013) Light-scattering-based analysis of biomolecular interactions. Biophys Rev 5(2):147\u2013158. https://doi.org/10.1007/s12551-013-0107-1",
+        "journal-title": "Biophys Rev"
+      },
+      {
+        "issue": "4",
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "first-page": "970",
+        "DOI": "10.1073/pnas.65.4.970",
+        "article-title": "Unified theory for gel electrophoresis and gel filtration",
+        "volume": "65",
+        "author": "Rodbard D",
+        "year": "1970",
+        "unstructured": "Rodbard D, Chrambach A (1970) Unified theory for gel electrophoresis and gel filtration. Proc Natl Acad Sci USA 65(4):970\u2013977. https://doi.org/10.1073/pnas.65.4.970",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "issue": "12",
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "first-page": "997",
+        "DOI": "10.1002/elps.1150121202",
+        "article-title": "Simultaneous Ferguson plot analysis, using electrophoresis on a single agarose pore gradient gel, of DNA fragments contained in a mixture",
+        "volume": "12",
+        "author": "Gombocz E",
+        "year": "1991",
+        "unstructured": "Gombocz E, Chrambach A (1991) Simultaneous Ferguson plot analysis, using electrophoresis on a single agarose pore gradient gel, of DNA fragments contained in a mixture. Electrophresis 12(12):997\u20131004. https://doi.org/10.1002/elps.1150121202",
+        "journal-title": "Electrophresis"
+      },
+      {
+        "issue": "2",
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "first-page": "410",
+        "DOI": "10.1016/0003-2697(71)90271-5",
+        "article-title": "Fractionation and characterization of an oligomeric series of bovine keratohyalin by polyacrylamide gel electrophoresis",
+        "volume": "43",
+        "author": "Ugel AR",
+        "year": "1971",
+        "unstructured": "Ugel AR, Chrambach A, Rodbard D (1971) Fractionation and characterization of an oligomeric series of bovine keratohyalin by polyacrylamide gel electrophoresis. Anal Biochem 43(2):410\u2013426. https://doi.org/10.1016/0003-2697(71)90271-5",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "issue": "1",
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.1002/elps.1150160104",
+        "article-title": "Ogston gel electrophoretic sieving: how is the fractional volume available to a particle related to its mobility and diffusion coefficient(s)?",
+        "volume": "16",
+        "author": "Slater GW",
+        "year": "1995",
+        "unstructured": "Slater GW, Guo HL (1995) Ogston gel electrophoretic sieving: how is the fractional volume available to a particle related to its mobility and diffusion coefficient(s)? Electrophoresis 16(1):11\u201315. https://doi.org/10.1002/elps.1150160104",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "issue": "5",
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "first-page": "442",
+        "DOI": "10.1021/acsmaterialsau.3c00018",
+        "article-title": "Cell-sized confinements alter molecular diffusion in concentrated polymer solutions due to length-dependent wetting of polymers",
+        "volume": "3",
+        "author": "Kanakubo Y",
+        "year": "2023",
+        "unstructured": "Kanakubo Y, Watanabe C, Yamamoto J, Yanagisawa N, Sakuta H, Nikoubashman A, Yanagisawa M (2023) Cell-sized confinements alter molecular diffusion in concentrated polymer solutions due to length-dependent wetting of polymers. ACS Mater Au 3(5):442\u2013449. https://doi.org/10.1021/acsmaterialsau.3c00018",
+        "journal-title": "ACS Mater Au"
+      },
+      {
+        "issue": "5",
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1093",
+        "DOI": "10.1007/s12551-022-01001-0",
+        "article-title": "Cell-size space effects on phase separation of binary polymer blends",
+        "volume": "14",
+        "author": "Yanagisawa M",
+        "year": "2022",
+        "unstructured": "Yanagisawa M (2022) Cell-size space effects on phase separation of binary polymer blends. Biophys Rev 14(5):1093\u20131103. https://doi.org/10.1007/s12551-022-01001-0",
+        "journal-title": "Biophys Rev"
+      },
+      {
+        "issue": "5",
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "first-page": "485",
+        "DOI": "10.1515/BC.2006.064",
+        "article-title": "Protein aggregation in crowded environments",
+        "volume": "387",
+        "author": "Ellis RJ",
+        "year": "2006",
+        "unstructured": "Ellis RJ, Minton AP (2006) Protein aggregation in crowded environments. Biol Chem 387(5):485\u2013497. https://doi.org/10.1515/BC.2006.064",
+        "journal-title": "Biol Chem"
+      },
+      {
+        "issue": "11",
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "first-page": "970",
+        "DOI": "10.1016/j.tibs.2016.08.013",
+        "article-title": "Macromolecular crowding in vitro, in vivo, and in between",
+        "volume": "41",
+        "author": "Rivas G",
+        "year": "2016",
+        "unstructured": "Rivas G, Minton AP (2016) Macromolecular crowding in vitro, in vivo, and in between. Trends Biochem Sci 41(11):970\u2013981. https://doi.org/10.1016/j.tibs.2016.08.013",
+        "journal-title": "Trends Biochem Sci"
+      },
+      {
+        "issue": "19",
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "first-page": "eadf5336",
+        "DOI": "10.1126/sciadv.adf5336",
+        "article-title": "Dodecamer assembly of a metazoan AAA+ chaperone couples substrate extraction to refolding",
+        "volume": "9",
+        "author": "Gupta A",
+        "year": "2023",
+        "unstructured": "Gupta A, Lentzsch AM, Siegel A, Yu Z, Chio US, Cheng Y, Shan SO (2023) Dodecamer assembly of a metazoan AAA+ chaperone couples substrate extraction to refolding. Sci Adv 9(19):eadf5336. https://doi.org/10.1126/sciadv.adf5336",
+        "journal-title": "Sci Adv"
+      },
+      {
+        "issue": "2",
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "first-page": "e3001987",
+        "DOI": "10.1371/journal.pbio.3001987",
+        "article-title": "Comprehensive structural characterization of the human AAA\u2009+\u2009disaggregase CLPB in the apo- and substrate-bound states reveals a unique mode of action driven by oligomerization",
+        "volume": "21",
+        "author": "Wu D",
+        "year": "2023",
+        "unstructured": "Wu D, Liu Y, Dai Y, Wang G, Lu G, Chen Y, Li N, Lin J, Gao N (2023) Comprehensive structural characterization of the human AAA\u2009+\u2009disaggregase CLPB in the apo- and substrate-bound states reveals a unique mode of action driven by oligomerization. PLoS Biol 21(2):e3001987. https://doi.org/10.1371/journal.pbio.3001987",
+        "journal-title": "PLoS Biol"
+      },
+      {
+        "issue": "12",
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "first-page": "1991",
+        "DOI": "10.1021/bi101670s",
+        "article-title": "A quantitative analysis of the effect of nucleotides and the M domain on the association equilibrium of ClpB",
+        "volume": "50",
+        "author": "Castillo U",
+        "year": "2011",
+        "unstructured": "del Castillo U, Alfonso C, Acebr\u00f3n SP, Martos A, Moro F, Rivas G, Muga A (2011) A quantitative analysis of the effect of nucleotides and the M domain on the association equilibrium of ClpB. Biochemistry 50(12):1991\u20132003. https://doi.org/10.1021/bi101670s",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "issue": "6348",
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1126/science.aan1052",
+        "article-title": "Ratchet-like polypeptide translocation mechanism of the AAA\u2009+\u2009disaggregase Hsp104",
+        "volume": "357",
+        "author": "Gates SN",
+        "year": "2017",
+        "unstructured": "Gates SN, Yokom AL, Lin J, Jackrel ME, Rizo AN, Kendsersky NM, Buell CE, Sweeny EA, Mack KL, Chuang E, Torrente MP, Su M, Shorter J, Southworth DR (2017) Ratchet-like polypeptide translocation mechanism of the AAA\u2009+\u2009disaggregase Hsp104. Science 357(6348):273\u2013279. https://doi.org/10.1126/science.aan1052",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "47",
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "first-page": "40486",
+        "DOI": "10.1074/jbc.M111.284448",
+        "article-title": "Ordered assembly of heat shock proteins, Hsp26, Hsp70, Hsp90, and Hsp104, on expanded polyglutamine fragments revealed by chemical probes",
+        "volume": "286",
+        "author": "Walter GM",
+        "year": "2011",
+        "unstructured": "Walter GM, Smith MC, Wis\u00e9n S, Basrur V, Elenitoba-Johnson KS, Duennwald ML, Kumar A, Gestwicki JE (2011) Ordered assembly of heat shock proteins, Hsp26, Hsp70, Hsp90, and Hsp104, on expanded polyglutamine fragments revealed by chemical probes. J Biol Chem 286(47):40486\u201340493. https://doi.org/10.1074/jbc.M111.284448",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "issue": "1",
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "first-page": "2147",
+        "DOI": "10.1038/s41467-018-04587-w",
+        "article-title": "Dynamic structural states of ClpB involved in its disaggregation function",
+        "volume": "9",
+        "author": "Uchihashi T",
+        "year": "2018",
+        "unstructured": "Uchihashi T, Watanabe YH, Nakazaki Y, Yamasaki T, Watanabe H, Maruno T, Ishii K, Uchiyama S, Song C, Murata K, Iino R, Ando T (2018) Dynamic structural states of ClpB involved in its disaggregation function. Nat Commun 9(1):2147. https://doi.org/10.1038/s41467-018-04587-w",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "issue": "6644",
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "first-page": "741",
+        "DOI": "10.1038/41944",
+        "article-title": "The crystal structure of the asymmetric GroEL-GroES-(ADP)7 chaperonin complex",
+        "volume": "388",
+        "author": "Xu Z",
+        "year": "1997",
+        "unstructured": "Xu Z, Horwich AL, Sigler PB (1997) The crystal structure of the asymmetric GroEL-GroES-(ADP)7 chaperonin complex. Nature 388(6644):741\u2013750. https://doi.org/10.1038/41944",
+        "journal-title": "Nature"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-4993116/v1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-4993116/v1.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2025-01-06T16:48:07Z",
+      "timestamp": 1736182087000
+    },
+    "score": 15.562443,
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-4993116/v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          8
+        ]
+      ]
+    },
+    "references-count": 41,
+    "URL": "https://doi.org/10.21203/rs.3.rs-4993116/v1",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s10930-024-10245-6",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          8
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T19:40:55Z",
+      "timestamp": 1760211655268,
+      "version": "build-2065373602"
+    },
+    "reference-count": 52,
+    "publisher": "MDPI AG",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              12
+            ]
+          ],
+          "date-time": "2016-05-12T00:00:00Z",
+          "timestamp": 1463011200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Life"
+    ],
+    "abstract": "<jats:p>Prof. Hans Georg Tr\u00fcper, one of the most important scientists in the field of halophile research, passed away on 9 March 2016 at the age of 79. I here present a brief obituary with special emphasis on Prof. Tr\u00fcper\u2019s contributions to our understanding of the halophilic prokaryotes and their adaptations to life in hypersaline environments. He has pioneered the study of the halophilic anoxygenic phototrophic sulfur bacteria of the Ectothiorhodospira\u2014Halorhodospira group. Some of the species he and his group isolated from hypersaline and haloalkaline environments have become model organisms for the study of the mechanisms of haloadaptation: the functions of three major organic compounds \u2013 glycine betaine, ectoine, and trehalose \u2013 known to serve as \u201ccompatible solutes\u201d in halophilic members of the Bacteria domain, were discovered during studies of these anoxygenic phototrophs. Prof. Tr\u00fcper\u2019s studies of hypersaline alkaline environments in Egypt also led to the isolation of the first known extremely halophilic archaeon (Natronomonas pharaonis). The guest editors dedicate this special volume of Life to the memory of Prof. Hans Georg Tr\u00fcper.</jats:p>",
+    "DOI": "10.3390/life6020019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2016-05-12T10:18:45Z",
+      "timestamp": 1463048325000
+    },
+    "page": "19",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Hans Georg Tr\u00fcper (1936\u20132016) and His Contributions to Halophile Research"
+    ],
+    "prefix": "10.3390",
+    "volume": "6",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5828-0995",
+        "authenticated-orcid": false,
+        "given": "Aharon",
+        "family": "Oren",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Plant and Environmental Sciences, The Alexander Silberman Institute of Life Sciences, The Hebrew University of Jerusalem, Edmond J. Safra Campus, Jerusalem 91904, Israel"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "unstructured": "Oren, A. (2016). Hans Georg Tr\u00fcper\u20141936\u20132016. Int. J. Syst. Evol. Microbiol., in press."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schink, B. (2016). Hans Georg Tr\u00fcper\u20141936\u20132016. FEMS Microbiol. Lett.",
+        "DOI": "10.1093/femsle/fnw085"
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tr\u00fcper, H.G. (1964). CO2-Fixierung und Intermedi\u00e4rstoffwechsel bei Chromatium okenii Perty. [Ph.D. Thesis, University of G\u00f6ttingen].",
+        "DOI": "10.1007/BF00510539"
+      },
+      {
+        "key": "ref_4",
+        "unstructured": "Tr\u00fcper, H.G. (1971). Adenylylsulfat-Reduktase in phototrophen Bakterien. [Habilitation Thesis, University of G\u00f6ttingen]."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Seckbach, J., Oren, A., and Stan-Lotter, H. (2013). Polyextremophiles\u2014Organisms Living under Multiple Forms of Stress, Springer.",
+        "DOI": "10.1007/978-94-007-6488-0"
+      },
+      {
+        "key": "ref_6",
+        "first-page": "425",
+        "article-title": "Die bakterielle Rotf\u00e4rbung der Salzseen des Wadi Natrun (\u00c4gypten)",
+        "volume": "5",
+        "author": "Jannasch",
+        "year": "1957",
+        "journal-title": "Arch. Hydrobiol."
+      },
+      {
+        "key": "ref_7",
+        "first-page": "381",
+        "article-title": "Isolation of extremely halophilic phototrophic bacteria from the alkaline Wadi Natrun, Egypt",
+        "volume": "84",
+        "author": "Imhoff",
+        "year": "1978",
+        "journal-title": "Arch. Hydrobiol."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1080/01490457909377733",
+        "article-title": "The Wadi Natrun: Chemical composition and microbial mass developments in alkaline brines of eutrophic desert lakes",
+        "volume": "1",
+        "author": "Imhoff",
+        "year": "1979",
+        "journal-title": "Geomicrobiol. J."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1007/BF00459526",
+        "article-title": "Ectothiorhodospira vacuolata sp. nov., a new phototrophic bacterium from soda lakes",
+        "volume": "130",
+        "author": "Imhoff",
+        "year": "1981",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_10",
+        "first-page": "228",
+        "article-title": "Ectothiorhodospira abdelmalekii sp. nov., a new halophilic and alkaliphilic phototrophic bacterium",
+        "volume": "2",
+        "author": "Imhoff",
+        "year": "1981",
+        "journal-title": "Zentralblatt Bakteriol. Mikrobiol. Hyg. Erste Abt. Orginale C"
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1007/s002030050304",
+        "article-title": "The phylogenetic relationship among Ectothiorhodospiraceae: A reevaluation of their taxonomy on the basis of 16S rDNA analyses",
+        "volume": "165",
+        "author": "Imhoff",
+        "year": "1996",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1007/BF00410772",
+        "article-title": "Ectothiorhodospira halochloris sp. nov., a new extremely halophilic phototrophic bacterium containing bacteriochlorophyll b",
+        "volume": "114",
+        "author": "Imhoff",
+        "year": "1977",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1016/S0723-2020(85)80003-5",
+        "article-title": "Osmoregulation in a new haloalkaliphilic Bacillus from the Wadi Natrun (Egypt)",
+        "volume": "6",
+        "author": "Weisser",
+        "year": "1985",
+        "journal-title": "Syst. Appl. Microbiol."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1099/00207713-46-1-98",
+        "article-title": "Bacillus haloalkaliphilus sp. nov.",
+        "volume": "46",
+        "author": "Fritze",
+        "year": "1996",
+        "journal-title": "Int. J. Syst. Bacteriol."
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1891",
+        "DOI": "10.1099/ijs.0.63456-0",
+        "article-title": "Reclassification of Bacillus haloalkaliphilus Fritze 1996 as Alkalibacillus haloalkaliphilus gen. nov., comb. nov. and the description of Alkalibacillus salilacus sp. nov., a novel halophilic bacterium isolated from a salt lake in China",
+        "volume": "55",
+        "author": "Jeon",
+        "year": "2005",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "ref_16",
+        "first-page": "318",
+        "article-title": "Halobacterium pharaonis sp. nov., a new, extremely haloalkaliphilic archaebacterium with low magnesium requirement",
+        "volume": "3",
+        "author": "Soliman",
+        "year": "1982",
+        "journal-title": "Zentralblatt Bakteriol. Mikrobiol. Hyg. Erste Abt. Orginale C"
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "853",
+        "DOI": "10.1099/00207713-47-3-853",
+        "article-title": "Diversity of alkaliphilic halobacteria: Proposals for transfer of Natronobacterium vacuolatum, Natronobacterium magadii, and Natronobacterium pharaonis to Halorubrum, Natrialba, and Natronomonas gen. nov., respectively, as Halorubrum vacuolatum comb. nov., Natrialba magadii comb. nov., and Natronomonas pharaonis comb. nov., respectively",
+        "volume": "47",
+        "author": "Kamekura",
+        "year": "1997",
+        "journal-title": "Int. J. Syst. Bacteriol."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.1111/j.1574-6968.1982.tb08287.x",
+        "article-title": "Betaine, a compatible solute in the extremely halophilic phototrophic bacterium Ectothiorhodospira halochloris",
+        "volume": "13",
+        "author": "Galinski",
+        "year": "1982",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1993",
+        "DOI": "10.1099/00221287-138-10-1993",
+        "article-title": "Transport of glycine betaine in the extremely haloalkaliphilic sulphur bacterium Ectothiorhodospira halochloris",
+        "volume": "138",
+        "author": "Peters",
+        "year": "1992",
+        "journal-title": "J. Gen. Microbiol."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1111/j.1432-1033.1985.tb08903.x",
+        "article-title": "1,4,5,6-tetrahydro-2-methyl-4-pyrimidinecarboxylic acid. A novel cyclic amino acid from halophilic phototrophic bacteria of the genus Ectothiorhodospira",
+        "volume": "149",
+        "author": "Galinski",
+        "year": "1985",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1111/j.1574-6968.1990.tb03815.x",
+        "article-title": "The biosynthesis of ectoine",
+        "volume": "71",
+        "author": "Peters",
+        "year": "1990",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1016/0167-7012(93)90006-4",
+        "article-title": "A modified FMOC-method for the determination of amino acid-type osmolytes and tetrahydropyrimidines (ectoines)",
+        "volume": "17",
+        "author": "Kunte",
+        "year": "1993",
+        "journal-title": "J. Microbiol. Meth."
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1007/BF00871735",
+        "article-title": "Biosynthesis and function of trehalose in Ectothiorhodospira halochloris",
+        "volume": "63",
+        "author": "Lippert",
+        "year": "1993",
+        "journal-title": "Antonie Leeuwenhoek"
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "600",
+        "DOI": "10.1007/BF00245272",
+        "article-title": "Degradation of the compatible solute trehalose in Ectothiorhodospira halochloris: Isolation and characterization of trehalase",
+        "volume": "153",
+        "author": "Herzog",
+        "year": "1990",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "181",
+        "DOI": "10.1111/j.1574-6968.1990.tb03939.x",
+        "article-title": "Fate of compatible solutes during dilution stress in Ectothiorhodospira halochloris",
+        "volume": "73",
+        "author": "Tschichholz",
+        "year": "1990",
+        "journal-title": "FEMS Microbiol. Ecol."
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "684",
+        "DOI": "10.1007/BF00167285",
+        "article-title": "Survival of Escherichia coli during drying and storage in the presence of compatible solutes",
+        "volume": "41",
+        "author": "Louis",
+        "year": "1994",
+        "journal-title": "Appl. Microbiol. Biotechnol."
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1111/j.1574-6968.1990.tb04098.x",
+        "article-title": "Biosynthesis and fate of compatible solutes in extremely halophilic phototrophic eubacteria",
+        "volume": "75",
+        "author": "Galinski",
+        "year": "1990",
+        "journal-title": "FEMS Microbiol. Rev."
+      },
+      {
+        "key": "ref_28",
+        "unstructured": "Cohen, Y., and Rosenberg, E. (1989). Microbial Mats. Physiological Ecology of Benthic Microbial Communities, American Society for Microbiology."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "254",
+        "DOI": "10.1007/BF00413477",
+        "article-title": "Sulfide oxidation in Ectothiorhodospira abdelmalekii. Evidence for the catalytic role of cytochrome c-551",
+        "volume": "135",
+        "author": "Then",
+        "year": "1983",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Degens, E.T., and Ross, D.A. (1969). Hot Brines and Recent Heavy Metal Deposits in the Red Sea, Springer-Verlag.",
+        "DOI": "10.1007/978-3-662-28603-6"
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1016/0005-2760(82)90091-1",
+        "article-title": "Lipid composition of six species of the phototrophic bacterial genus Ectothiorhodospira",
+        "volume": "712",
+        "author": "Asselineau",
+        "year": "1982",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "ref_32",
+        "first-page": "38",
+        "article-title": "Carotenoid composition in the genus Ectothiorhodospira Pelsh",
+        "volume": "80",
+        "author": "Schmidt",
+        "year": "1971",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1111/j.1574-6968.1990.tb03772.x",
+        "article-title": "Anaerobic growth of halophilic archaeobacteria by reduction of dimethylsulfoxide and trimethylamine N-oxide",
+        "volume": "70",
+        "author": "Oren",
+        "year": "1990",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1182",
+        "DOI": "10.1007/BF01946388",
+        "article-title": "Concentrated brines as habitats for microorganisms",
+        "volume": "42",
+        "author": "Galinski",
+        "year": "1986",
+        "journal-title": "Experientia"
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.1016/S0723-2020(86)80007-8",
+        "article-title": "Ecophysiology of the aerobic halophilic archaebacteria",
+        "volume": "7",
+        "author": "Tindall",
+        "year": "1986",
+        "journal-title": "Syst. Appl. Microbiol."
+      },
+      {
+        "key": "ref_36",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1111/j.1574-6976.1994.tb00128.x",
+        "article-title": "Microbial behaviour in salt-stressed ecosystems",
+        "volume": "15",
+        "author": "Galinski",
+        "year": "1994",
+        "journal-title": "FEMS Microbiol. Rev."
+      },
+      {
+        "key": "ref_37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rodriguez-Valera, F. (1991). General and Applied Aspects of Halophilic Microorganisms, Plenum Press.",
+        "DOI": "10.1007/978-1-4615-3730-4"
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1186/1746-1448-4-2",
+        "article-title": "Microbial life at high salt concentrations: Phylogenetic and metabolic diversity",
+        "volume": "4",
+        "author": "Oren",
+        "year": "2008",
+        "journal-title": "Saline Syst."
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.3389/fmicb.2013.00315",
+        "article-title": "Life at high salt concentrations, intracellular KCl concentrations, and acidic proteomes",
+        "volume": "4",
+        "author": "Oren",
+        "year": "2013",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1074/jbc.M112.420505",
+        "article-title": "An extremely halophilic proteobacterium combines a highly acidic proteome with a low cytoplasmic potassium content",
+        "volume": "288",
+        "author": "Deole",
+        "year": "2013",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1099/00207713-46-2-492",
+        "article-title": "Halobacillus gen. nov., with descriptions of Halobacillus litoralis sp. nov. and Halobacillus trueperi sp. nov., and transfer of Sporosarcina halophila to Halobacillus halophilus comb. nov.",
+        "volume": "46",
+        "author": "Spring",
+        "year": "1996",
+        "journal-title": "Int. J. Syst. Bacteriol."
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "first-page": "2042",
+        "DOI": "10.1099/ijs.0.008151-0",
+        "article-title": "Natronovirga wadinatrunensis gen. nov., sp. nov. and Natranaerobius trueperi sp. nov., halophilic alkalithermophilic micro-organisms from soda lakes of the Wadi An Natrun, Egypt",
+        "volume": "59",
+        "author": "Mesbah",
+        "year": "2009",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "ref_43",
+        "first-page": "231",
+        "article-title": "How to name a prokaryote? Etymological considerations, proposals and practical advice in prokaryote nomenclature",
+        "volume": "23",
+        "year": "1999",
+        "journal-title": "FEMS Microbiol. Rev."
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "first-page": "2107",
+        "DOI": "10.1099/ijs.0.016741-0",
+        "article-title": "International code of nomenclature of prokaryotes. Appendix 9: Orthography",
+        "volume": "59",
+        "year": "2009",
+        "journal-title": "Int. J. Syst. Bacteriol."
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/j.femsle.2005.05.002",
+        "article-title": "Truepera radiovictrix gen. nov., sp. nov., a new radiation resistant species and the proposal of Trueperaceae fam. nov.",
+        "volume": "247",
+        "author": "Albuquerque",
+        "year": "2005",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "first-page": "1265",
+        "DOI": "10.1099/ijs.0.020032-0",
+        "article-title": "Comparative chemotaxonomic and phylogenetic studies on the genus Arcanobacterium Collins et al. 1982 emend. Lehnen et al. 2006: Proposal for Trueperella gen. nov. and emended description of the genus Arcanobacterium",
+        "volume": "61",
+        "author": "Yassin",
+        "year": "2011",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1099/ijs.0.066852-0",
+        "article-title": "Hanstruepera neustonica gen. nov., sp. nov., a zeaxanthin-producing member of the family Flavobacteriaceae isolated from estuarine water, and emendation of Sediminibacter furfurosus Khan et al. 2007 emend. Kwon et al. 2014, Mangrovimonas yunxiaonensis Li et al. 2013, Antarcticimonas flava Yang et al. 2009 and Hoppeia youngheungensis Kwonm et al. 2014",
+        "volume": "65",
+        "author": "Hameed",
+        "year": "2015",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1007/s002030050467",
+        "article-title": "Rhodospira trueperi gen. nov., sp. nov., a new phototrophic proteobacterium of the alpha group",
+        "volume": "168",
+        "author": "Pfennig",
+        "year": "1997",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "ref_49",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1099/00207713-52-2-671",
+        "article-title": "Thiobaca trueperi gen. nov., sp. nov., a phototrophic purple sulfur bacterium isolated from freshwater lake sediment",
+        "volume": "52",
+        "author": "Rees",
+        "year": "2002",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1099/00207713-47-2-577",
+        "article-title": "Classification of \u201cPseudomonas azotocolligans\u201d Anderson 1955, 132, in the genus Sphingomonas as Sphingomonas trueperi sp. nov.",
+        "volume": "47",
+        "author": "Denner",
+        "year": "1997",
+        "journal-title": "Int. J. Syst. Bacteriol."
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ventosa, A. (2004). Halophilic Microorganisms, Springer-Verlag.",
+        "DOI": "10.1007/978-3-662-07656-9"
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "first-page": "647",
+        "DOI": "10.1099/ijs.0.012740-0",
+        "article-title": "Hans Georg Tr\u00fcper, life member of the ICSP\u2014An appreciation",
+        "volume": "59",
+        "author": "Tindall",
+        "year": "2009",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      }
+    ],
+    "container-title": [
+      "Life"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2075-1729/6/2/19/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T19:23:43Z",
+      "timestamp": 1760210623000
+    },
+    "score": 15.562443,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2075-1729/6/2/19"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          12
+        ]
+      ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "life6020019"
+    ],
+    "URL": "https://doi.org/10.3390/life6020019",
+    "ISSN": [
+      "2075-1729"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2075-1729"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T00:21:49Z",
+      "timestamp": 1648945309255
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "371",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2005-03-01T00:00:00Z",
+          "timestamp": 1109635200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Revue Fran\u00e7aise des Laboratoires"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0338-9898(05)80148-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2005-06-15T11:43:59Z",
+      "timestamp": 1118835839000
+    },
+    "page": "14",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Une nouvelle bact\u00e9rie halophile"
+    ],
+    "prefix": "10.1016",
+    "volume": "2005",
+    "member": "78",
+    "container-title": [
+      "Revue Fran\u00e7aise des Laboratoires"
+    ],
+    "language": "fr",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0338989805801489?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0338989805801489?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2019-01-25T22:29:26Z",
+      "timestamp": 1548455366000
+    },
+    "score": 15.530665,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0338989805801489"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "371",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0338989805801489"
+    ],
+    "URL": "https://doi.org/10.1016/s0338-9898(05)80148-9",
+    "ISSN": [
+      "0338-9898"
+    ],
+    "issn-type": [
+      {
+        "value": "0338-9898",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T21:20:37Z",
+      "timestamp": 1763587237869,
+      "version": "3.45.0"
+    },
+    "description": "Supplemental Information for 10.1021/acs.biochem.9b00582",
+    "reference-count": 0,
+    "publisher": "American Chemical Society (ACS)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1021/acs.biochem.9b00582.s001",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2020-04-08T09:24:02Z",
+      "timestamp": 1586337842000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Structure and Function of the Acetylpolyamine Amidohydrolase from the Deep Earth Halophile Marinobacter subterrani"
+    ],
+    "prefix": "10.1021",
+    "member": "316",
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2020-04-08T09:24:02Z",
+      "timestamp": 1586337842000
+    },
+    "score": 15.530665,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.biochem.9b00582/suppl_file/bi9b00582_si_001.pdf"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1021/acs.biochem.9b00582.s001"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2026-02-05T21:50:52Z",
+      "timestamp": 1770328252729,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "Biodiversity Heritage Library",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1901
+        ]
+      ]
+    },
+    "DOI": "10.5962/p.70908",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2026-02-04T07:09:44Z",
+      "timestamp": 1770188984000
+    },
+    "page": "172-177",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Sur un nouvel H\u00e9mipt\u00e8re halophile"
+    ],
+    "prefix": "10.5962",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Henri",
+        "family": "Couti\u00e8re",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "J",
+        "family": "Martin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "33859",
+    "container-title": [
+      "Bulletin du Muse\u0301um d'histoire naturelle"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2026-02-04T07:09:44Z",
+      "timestamp": 1770188984000
+    },
+    "score": 15.46299,
+    "resource": {
+      "primary": {
+        "URL": "https://www.biodiversitylibrary.org/part/70908"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1901
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5962/p.70908",
+    "ISSN": [
+      "2419-6452",
+      "0027-4070"
+    ],
+    "issn-type": [
+      {
+        "value": "2419-6452",
+        "type": "electronic"
+      },
+      {
+        "value": "0027-4070",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1901
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2024-07-12T00:27:27Z",
+      "timestamp": 1720744047969
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "group-title": "SSRN",
+    "reference-count": 48,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2139/ssrn.4891326",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          10
+        ]
+      ],
+      "date-time": "2024-07-10T21:17:01Z",
+      "timestamp": 1720646221000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Ferguson Plot Analysis of Chaperone Clpb\u00a0From Moderate Halophile"
+    ],
+    "prefix": "10.2139",
+    "author": [
+      {
+        "given": "Teruo",
+        "family": "Akuta",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yui",
+        "family": "Tomioka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tomoto",
+        "family": "Ura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Masataka",
+        "family": "Nakagawa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tsutomu",
+        "family": "Arakawa",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/elps.200600666",
+        "article-title": "Remembrance of Andreas Chrambach. The origin of the Ferguson plot",
+        "volume": "28",
+        "author": "K A Ferguson",
+        "year": "2007",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "985",
+        "DOI": "10.1016/S0026-0495(64)80018-4",
+        "article-title": "Starch-gel electrophoresis-application to the classification of pituitary proteins and polypeptides",
+        "volume": "13",
+        "author": "K A Ferguson",
+        "year": "1964",
+        "journal-title": "Metabolism"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "564",
+        "DOI": "10.1208/aapsj080365",
+        "article-title": "Is any measurement method optimal for all aggregate sizes and types?",
+        "volume": "8",
+        "author": "J S Philo",
+        "year": "2006",
+        "journal-title": "AAPS J"
+      },
+      {
+        "key": "ref4",
+        "first-page": "143",
+        "article-title": "Analytical ultracentrifugation: sedimentation velocity and sedimentation equilibrium",
+        "volume": "84",
+        "author": "J C Cole",
+        "year": "2008",
+        "journal-title": "Methods Call Mol"
+      },
+      {
+        "key": "ref5",
+        "first-page": "209",
+        "volume": "27",
+        "author": "E P Pittz",
+        "year": "1973",
+        "journal-title": "Light scattering and differential refractometry"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/0167-4838(82)90370-3",
+        "article-title": "Estimation of molecular weights of membrane proteins in the presence of SDS by low-angle laser light scattering combined with high-performance porous silica gel chromatography. Confirmation of the trimer structure of porin of the E. coli outer membrane",
+        "volume": "706",
+        "author": "K Kameyama",
+        "year": "1982",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/0003-2697(92)90042-6",
+        "article-title": "Molecular weights of glycosylated and nonglycosylated forms of recombinant human stem cell factor determined by low-angle laser light scattering",
+        "author": "T Arakawa",
+        "year": "1992",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.1016/S0003-9861(57)80019-8",
+        "article-title": "Light scattering of isoionic conalbumin",
+        "volume": "66",
+        "author": "S N Timasheff",
+        "year": "1957",
+        "journal-title": "Arch. Biochem. Biophys"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1006/abio.1996.0345",
+        "article-title": "Size-exclusion chromatography with on-line light scattering, absorbance, and refractive index detectors for studying proteins and their complexes",
+        "volume": "240",
+        "author": "J Wen",
+        "year": "1996",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "423",
+        "DOI": "10.1126/science.aar5839",
+        "article-title": "Quantitative mass imaging of single biological macromolecules",
+        "volume": "360",
+        "author": "G Young",
+        "year": "2018",
+        "journal-title": "Science"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1007/s00249-021-01513-9",
+        "article-title": "Standard protocol for mass photometry experiments",
+        "volume": "50",
+        "author": "D Wu",
+        "year": "2021",
+        "journal-title": "Eur. Biophys. J"
+      },
+      {
+        "key": "ref12",
+        "author": "R Sato"
+      },
+      {
+        "key": "ref13",
+        "article-title": "Detection of concentration-dependent conformational changes in SARS-CoV-2 nucleoprotein by agarose native gel electrophoresis",
+        "volume": "662",
+        "author": "T Arakawa",
+        "year": "2023",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/j.ijbiomac.2022.06.118",
+        "article-title": "Ladder observation of bovine serum albumin by high resolution agarose gel electrophoresis",
+        "volume": "215",
+        "author": "Y Tomioka",
+        "year": "2022",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bpc.2023.107095",
+        "article-title": "Ferguson plot analysis of multiple intermediate species of thermally unfolded bovine serum albumin",
+        "volume": "301",
+        "author": "Y Tomioka",
+        "year": "2023",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bpc.2024.107200",
+        "article-title": "Different behavior of Ferguson plot between agarose and polyacrylamide gels",
+        "volume": "307",
+        "author": "Y Tomioka",
+        "year": "2024",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "862",
+        "DOI": "10.3109/07388551.2015.1051942",
+        "article-title": "ClpB/Hsp100 proteins and heat stress tolerance in plants",
+        "volume": "36",
+        "author": "R C Mishra",
+        "year": "2016",
+        "journal-title": "Crit. Rev. Biotechnol"
+      },
+      {
+        "key": "ref18",
+        "first-page": "22",
+        "article-title": "Agarose gel electrophoresis analysis of chemically cross-linked ClpB chaperone protein from moderate Halophile",
+        "volume": "5",
+        "author": "M Tokunaga",
+        "year": "2025",
+        "journal-title": "Salt and Seawater Science & Technology"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fmolb.2015.00022",
+        "article-title": "Cooperation of Hsp70 and Hsp100 chaperone machines in protein disaggregation",
+        "volume": "2",
+        "author": "A Mogk",
+        "year": "2015",
+        "journal-title": "Front. Mol. Biosci"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "184",
+        "DOI": "10.1016/j.jinorgbio.2017.11.019",
+        "article-title": "An optimized low-cost protocol for standardized production of iron-free apoferritin nanocages with high protein recovery and suitable conformation for nanotechnological applications",
+        "volume": "183",
+        "author": "I Moglia",
+        "year": "2018",
+        "journal-title": "J. Inorg. Biochem"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "668",
+        "DOI": "10.1016/j.ijbiomac.2019.08.066",
+        "article-title": "Agarose native gel electrophoresis",
+        "volume": "140",
+        "author": "C Li",
+        "year": "2019",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "885",
+        "DOI": "10.1016/j.ijbiomac.2020.02.185",
+        "article-title": "Agarose native gel electrophoresis for characterization of antibodies",
+        "volume": "151",
+        "author": "C Li",
+        "year": "2020",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref23",
+        "author": "C Sakuma"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1106",
+        "DOI": "10.1016/j.ijbiomac.2020.10.265",
+        "article-title": "Western blotting analysis of proteins separated by agarose native gel electrophoresis",
+        "volume": "166",
+        "author": "T Maruyama",
+        "year": "2021",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref25",
+        "author": "C Sakuma"
+      },
+      {
+        "key": "ref26",
+        "first-page": "589",
+        "article-title": "Analysis of protein denaturation, aggregation and posttranlational modification by agarose native gel electrophoresis",
+        "volume": "172",
+        "author": "T Arakawa",
+        "year": "1021",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref27",
+        "author": "M Nakagawa"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1016/j.ijbiomac.2021.08.142",
+        "article-title": "Akuta, Optimization and application of silver staining of non-glycosylated and glycosylated proteins and nucleic acids for agarose native gel electrophoresis",
+        "volume": "189",
+        "author": "Y Sato",
+        "year": "2021",
+        "journal-title": "Int. J. Biol. Macromol"
+      },
+      {
+        "key": "ref29",
+        "author": "T Arakawa"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/bs.mcb.2021.12.030",
+        "article-title": "Gel-electrophoresis based method for biomolecular interaction",
+        "volume": "169",
+        "author": "Y Shibata",
+        "year": "2022",
+        "journal-title": "Methods Cell Biol"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1007/s12551-013-0107-1",
+        "article-title": "Light-scattering-based analysis of biomolecular interactions",
+        "volume": "5",
+        "author": "D Some",
+        "year": "2013",
+        "journal-title": "Biophys Rev"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "970",
+        "DOI": "10.1073/pnas.65.4.970",
+        "article-title": "Unified theory for gel electrophoresis and gel filtration",
+        "volume": "65",
+        "author": "D Rodbard",
+        "year": "1970",
+        "journal-title": "Proc. Natl. Acad. Sci"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "997",
+        "DOI": "10.1002/elps.1150121202",
+        "article-title": "Simultaneous Ferguson plot analysis, using electrophoresis on a single agarose pore gradient gel, of DNA fragments contained in a mixture",
+        "volume": "12",
+        "author": "E Gombocz",
+        "year": "1991",
+        "journal-title": "Electrophresis"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "970",
+        "DOI": "10.1073/pnas.65.4.970",
+        "article-title": "Unified theory for gel electrophoresis and gel filtration",
+        "volume": "65",
+        "author": "D Rodbard",
+        "year": "1970",
+        "journal-title": "Proc. Natl. Acad. Sci"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "410",
+        "DOI": "10.1016/0003-2697(71)90271-5",
+        "article-title": "Fractionation and characterization of an oligomeric series of bovine keratohyalin by polyacrylamide gel electrophoresis",
+        "volume": "43",
+        "author": "A R Ugel",
+        "year": "1971",
+        "journal-title": "Anal. Biochem"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1002/elps.1150160104",
+        "article-title": "Ogston gel electrophoretic sieving: how is the fractional volume available to a particle related to its mobility and diffusion coefficient(s)?",
+        "volume": "1",
+        "author": "G W Slater",
+        "year": "1995",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1021/acsmaterialsau.3c00018",
+        "article-title": "Cell-sized confinements alter molecular diffusion in concentrated polymer solutions due to length-dependent wetting of polymers",
+        "volume": "3",
+        "author": "Y Kanakubo",
+        "year": "2023",
+        "journal-title": "ACS Mater. Au"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1093",
+        "DOI": "10.1007/s12551-022-01001-0",
+        "article-title": "Cell-size space effects on phase separation of binary polymer blends",
+        "volume": "14",
+        "author": "M Yanagisawa",
+        "year": "2022",
+        "journal-title": "Biophys. Rev"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1515/BC.2006.064",
+        "article-title": "Protein aggregation in crowded environments",
+        "volume": "387",
+        "author": "R J Ellis",
+        "year": "2006",
+        "journal-title": "Biol. Chem"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "970",
+        "DOI": "10.1016/j.tibs.2016.08.013",
+        "article-title": "Macromolecular crowding in vitro, in vivo, and in between",
+        "volume": "41",
+        "author": "G Rivas",
+        "year": "2016",
+        "journal-title": "Trends Biochem. Sci"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/sciadv.adf5336",
+        "article-title": "Dodecamer assembly of a metazoan AAA + chaperone couples substrate extraction to refolding",
+        "volume": "9",
+        "author": "A Gupta",
+        "year": "2023",
+        "journal-title": "Sci Adv"
+      },
+      {
+        "key": "ref42",
+        "article-title": "Comprehensive structural characterization of the human AAA+ disaggregase CLPB in the apo-and substrate-bound states reveals a unique mode of action driven by oligomerization",
+        "volume": "21",
+        "author": "D Wu",
+        "year": "2023",
+        "journal-title": "PLoS Biol"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1991",
+        "DOI": "10.1021/bi101670s",
+        "article-title": "A quantitative analysis of the effect of nucleotides and the M domain on the association equilibrium of ClpB",
+        "volume": "50",
+        "author": "U Del Castillo",
+        "year": "2011",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "ref44",
+        "author": "S N Gates"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1126/science.aan1052",
+        "article-title": "Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104",
+        "volume": "357",
+        "author": "E A Buell",
+        "year": "2017",
+        "journal-title": "Science"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "40486",
+        "DOI": "10.1074/jbc.M111.284448",
+        "article-title": "Ordered assembly of heat shock proteins, Hsp26, Hsp70, Hsp90, and Hsp104, on expanded polyglutamine fragments revealed by chemical probes",
+        "volume": "286",
+        "author": "G M Walter",
+        "year": "2011",
+        "journal-title": "J. Biol. Chem"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41467-018-04587-w",
+        "article-title": "Dynamic structural states of ClpB involved in its disaggregation function",
+        "volume": "9",
+        "author": "T Uchihashi",
+        "year": "2018",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "crossref",
+        "first-page": "741",
+        "DOI": "10.1038/41944",
+        "article-title": "The crystal structure of the asymmetric GroEL-GroES-(ADP)7 chaperonin complex",
+        "volume": "388",
+        "author": "Z Xu",
+        "year": "1997",
+        "journal-title": "Nature"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2024-07-11T04:11:22Z",
+      "timestamp": 1720671082000
+    },
+    "score": 15.40592,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ssrn.com/abstract=4891326"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 48,
+    "URL": "https://doi.org/10.2139/ssrn.4891326",
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+]

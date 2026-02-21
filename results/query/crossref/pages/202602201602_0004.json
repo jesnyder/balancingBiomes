@@ -1,0 +1,5214 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T03:10:29Z",
+      "timestamp": 1768533029613,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2003-02-01T00:00:00Z",
+          "timestamp": 1044057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Extremophiles"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00792-002-0289-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          9
+        ]
+      ],
+      "date-time": "2018-08-09T14:30:55Z",
+      "timestamp": 1533825055000
+    },
+    "page": "1-7",
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "Differential expression of genes influenced by changing salinity using RNA arbitrarily primed PCR in the archaeal halophile Haloferax volcanii"
+    ],
+    "prefix": "10.1007",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Kelly A.",
+        "family": "Bidle",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Extremophiles"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00792-002-0289-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s00792-002-0289-0/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00792-002-0289-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00792-002-0289-0",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2019-05-29T02:46:14Z",
+      "timestamp": 1559097974000
+    },
+    "score": 13.672489,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s00792-002-0289-0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0289"
+    ],
+    "URL": "https://doi.org/10.1007/s00792-002-0289-0",
+    "ISSN": [
+      "1431-0651"
+    ],
+    "issn-type": [
+      {
+        "value": "1431-0651",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2025-10-25T18:39:25Z",
+      "timestamp": 1761417565872
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          3,
+          15
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0378-1097(01)00044-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T20:54:50Z",
+      "timestamp": 1027630490000
+    },
+    "page": "113-118",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "Purification and characterisation of a possible assimilatory nitrite reductase from the halophile archaeon Haloferax mediterranei"
+    ],
+    "prefix": "10.1093",
+    "volume": "196",
+    "author": [
+      {
+        "given": "R",
+        "family": "Mart\u00ednez-Espinosa",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2015-01-07T22:52:03Z",
+      "timestamp": 1420671123000
+    },
+    "score": 13.662183,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1016/S0378-1097(01)00044-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          3,
+          15
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2"
+    },
+    "alternative-id": [
+      "S0378-1097(01)00044-1"
+    ],
+    "URL": "https://doi.org/10.1016/s0378-1097(01)00044-1",
+    "ISSN": [
+      "0378-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          3,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T11:02:40Z",
+      "timestamp": 1747220560816,
+      "version": "3.40.5"
+    },
+    "reference-count": 0,
+    "publisher": "H1 Connect",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.3410/f.737444950.793572178",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2020-03-18T13:05:22Z",
+      "timestamp": 1584536722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Faculty Opinions recommendation of A potassium chloride to glycine betaine osmoprotectant switch in the extreme halophile Halorhodospira halophila."
+    ],
+    "prefix": "10.3410",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1418-363X",
+        "authenticated-orcid": true,
+        "given": "Michail",
+        "family": "Yakimov",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute for Coastal Marine Environment, Italian National Research Council (CNR), Italy"
+          }
+        ]
+      }
+    ],
+    "member": "4950",
+    "content-created": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          11
+        ]
+      ]
+    },
+    "container-title": [
+      "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2022-09-13T11:05:11Z",
+      "timestamp": 1663067111000
+    },
+    "score": 13.640216,
+    "resource": {
+      "primary": {
+        "URL": "https://facultyopinions.com/article/737444950#eval793572178"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3410/f.737444950.793572178",
+    "relation": {
+      "is-review-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1038/s41598-020-59231-9",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2026-02-09T22:00:25Z",
+      "timestamp": 1770674425274,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          2,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0378-1097(99)00628-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T13:55:22Z",
+      "timestamp": 1027605322000
+    },
+    "page": "67-71",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Production and biochemical characterization of an \u03b1-amylase from the moderate halophile Halomonas meridiana"
+    ],
+    "prefix": "10.1093",
+    "volume": "183",
+    "author": [
+      {
+        "given": "M",
+        "family": "Coronado",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2015-01-07T17:40:18Z",
+      "timestamp": 1420652418000
+    },
+    "score": 13.623462,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1016/S0378-1097(99)00628-X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          2,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1"
+    },
+    "alternative-id": [
+      "S0378-1097(99)00628-X"
+    ],
+    "URL": "https://doi.org/10.1016/s0378-1097(99)00628-x",
+    "ISSN": [
+      "0378-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2000,
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2026-01-19T23:43:36Z",
+      "timestamp": 1768866216221,
+      "version": "3.49.0"
+    },
+    "reference-count": 30,
+    "publisher": "MathDoc/Centre Mersenne",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              25
+            ]
+          ],
+          "date-time": "2016-04-25T00:00:00Z",
+          "timestamp": 1461542400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              15
+            ]
+          ],
+          "date-time": "2016-03-15T00:00:00Z",
+          "timestamp": 1458000000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "em-consulte.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "abstract": "<jats:p id=\"abspara0015\">\n                    The aim of this study is the evaluation of different extraction methods for dicaffeoylquinic acids (diCQA), previously identified by a LC-DAD-ESI-QTOF dereplication strategy from a halophyte plant rich in polyphenols. Three different eco-friendly extraction methods are tested: microwave-assisted extraction (MAE), pressurized fluid extraction (PFE), supercritical fluid extraction (SFE). Various specific parameters are optimized for each of them. Global extraction yields are calculated for all extracts. Moreover, the extracts are analyzed by HPLC\u2013DAD\u2013ELSD, and the obtained profiles are compared to estimate qualitatively and semi-quantitatively their composition. The practicality of each technique is also discussed. The results show that the various parameters tested for PFE and MAE do not drastically affect the extraction of our interest compounds. However, the parameters tested on SFE are more decisive, such as the addition of a modifier in CO\n                    <jats:sub>2</jats:sub>\n                    , which allows the extraction of diCQA.\n                  </jats:p>",
+    "DOI": "10.1016/j.crci.2016.03.009",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2016-04-29T07:55:15Z",
+      "timestamp": 1461916515000
+    },
+    "page": "1133-1141",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Comparaison de diff\u00e9rentes m\u00e9thodes d'extraction d'acides dicaf\u00e9oylquiniques \u00e0 partir d'une plante halophile"
+    ],
+    "prefix": "10.5802",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Lor\u00e8ne",
+        "family": "Gourguillon",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "\u00c9milie",
+        "family": "Destandau",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Annelise",
+        "family": "Lobstein",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "\u00c9ric",
+        "family": "Lesellier",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3842",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "key2025102314401970106_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1111/j.1469-8137.2008.02531.x",
+        "volume": "179",
+        "author": "Flowers, T.J.",
+        "year": "2008",
+        "unstructured": "[1] Flowers, T.J.; Colmer, T.D. New Phytol., 179 (2008), pp. 945-963",
+        "journal-title": "New Phytol."
+      },
+      {
+        "key": "key2025102314401970106_2",
+        "doi-asserted-by": "publisher",
+        "first-page": "120",
+        "DOI": "10.1016/j.envexpbot.2012.10.010",
+        "volume": "87",
+        "author": "Alhdad, G.M.",
+        "year": "2013",
+        "unstructured": "[2] Alhdad, G.M.; Seal, C.E.; Al-Azzawi, M.J.; Flowers, T.J. Environ. Exp. Bot, 87 (2013), pp. 120-125",
+        "journal-title": "Environ. Exp. Bot"
+      },
+      {
+        "key": "key2025102314401970106_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1016/j.ecoenv.2014.08.013",
+        "volume": "110",
+        "author": "Yildiztugay, E.",
+        "year": "2014",
+        "unstructured": "[3] Yildiztugay, E.; Ozfidan-Konakci, C.; Kucukoduk, M. Ecotoxicol. Environ. Saf., 110 (2014), pp. 21-30",
+        "journal-title": "Ecotoxicol. Environ. Saf."
+      },
+      {
+        "key": "key2025102314401970106_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/j.ecss.2014.05.017",
+        "volume": "146",
+        "author": "Canalejo, A.",
+        "year": "2014",
+        "unstructured": "[4] Canalejo, A.; Mart\u00ednez-Dom\u00ednguez, D.; C\u00f3rdoba, F.; Torronteras, R. Estuar. Coast. Shelf Sci., 146 (2014), pp. 68-75",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "key2025102314401970106_5",
+        "author": "Bose, J.",
+        "year": "2013",
+        "unstructured": "[5] Bose, J.; Rodrigo-Moreno, A.; Shabala, S. J. Exp. Bot. (2013)",
+        "journal-title": "J. Exp. Bot."
+      },
+      {
+        "key": "key2025102314401970106_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1111/ics.12218",
+        "volume": "37",
+        "author": "Zillich, O.V.",
+        "year": "2015",
+        "unstructured": "[6] Zillich, O.V.; Schweiggert-Weisz, U.; Eisner, P.; Kerscher, M. Int. J. Cosmet. Sci., 37 (2015), pp. 455-464",
+        "journal-title": "Int. J. Cosmet. Sci."
+      },
+      {
+        "key": "key2025102314401970106_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.3109/09546634.2014.991675",
+        "volume": "26",
+        "author": "Tuong, W.",
+        "year": "2015",
+        "unstructured": "[7] Tuong, W.; Walker, L.; Sivamani, R.K. J. Dermatol. Treat., 26 (2015), pp. 381-388",
+        "journal-title": "J. Dermatol. Treat."
+      },
+      {
+        "key": "key2025102314401970106_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "740",
+        "DOI": "10.1016/j.indcrop.2013.06.011",
+        "volume": "49",
+        "author": "Trabelsi, N.",
+        "year": "2013",
+        "unstructured": "[8] Trabelsi, N.; Oueslati, S.; Henry-Vitrac, C.; Waffo-T\u00e9guo, P.; Medini, F.; M\u00e9rillon, J.-M. et al. Ind. Crops Prod., 49 (2013), pp. 740-746",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "key2025102314401970106_9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[9] M.J. Rodrigues, A. Soszynski, A. Martins, A.P. Rauter, N.R. Neng, J.M.F. Nogueira, et\u00a0al., Ind. Crops Prod. 77(2015) 315\u2013322.",
+        "DOI": "10.1016/j.indcrop.2015.08.061"
+      },
+      {
+        "key": "key2025102314401970106_10",
+        "author": "Buhmann, A.",
+        "year": "2013",
+        "unstructured": "[10] Buhmann, A.; Papenbrock, J. Funct. Plant Biol. (2013)",
+        "journal-title": "Funct. Plant Biol."
+      },
+      {
+        "key": "key2025102314401970106_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1007/s00403-009-1001-3",
+        "volume": "302",
+        "author": "Nichols, J.A.",
+        "year": "2010",
+        "unstructured": "[11] Nichols, J.A.; Katiyar, S.K. Arch. Dermatol. Res., 302 (2010), pp. 71-83",
+        "journal-title": "Arch. Dermatol. Res."
+      },
+      {
+        "key": "key2025102314401970106_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/j.fitote.2015.01.005",
+        "volume": "101",
+        "author": "Wittenauer, J.",
+        "year": "2015",
+        "unstructured": "[12] Wittenauer, J.; M\u00e4ckle, S.; Su\u00dfmann, D.; Schweiggert-Weisz, U.; Carle, R. Fitoterapia, 101 (2015), pp. 179-187",
+        "journal-title": "Fitoterapia"
+      },
+      {
+        "key": "key2025102314401970106_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "94227",
+        "DOI": "10.1039/C5RA14465E",
+        "volume": "5",
+        "author": "Matos, M.J.",
+        "year": "2015",
+        "unstructured": "[13] Matos, M.J.; Varela, C.; Vilar, S.; Hripcsak, G.; Borges, F.; Santana, L. et al. RSC Adv., 5 (2015), pp. 94227-94235",
+        "journal-title": "RSC Adv."
+      },
+      {
+        "key": "key2025102314401970106_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1007/s10068-015-0034-y",
+        "volume": "24",
+        "author": "Hong, S.",
+        "year": "2015",
+        "unstructured": "[14] Hong, S.; Joo, T.; Jhoo, J.-W. Food Sci. Biotechnol., 24 (2015), pp. 257-263",
+        "journal-title": "Food Sci. Biotechnol."
+      },
+      {
+        "key": "key2025102314401970106_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "4893",
+        "DOI": "10.1021/jf040048m",
+        "volume": "52",
+        "author": "Iwai, K.",
+        "year": "2004",
+        "unstructured": "[15] Iwai, K.; Kishimoto, N.; Kakino, Y.; Mochida, K.; Fujita, T. J. Agric. Food Chem., 52 (2004), pp. 4893-4898",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "key2025102314401970106_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "749",
+        "DOI": "10.2174/138955712801264792",
+        "volume": "12",
+        "author": "Sova, M.",
+        "year": "2012",
+        "unstructured": "[16] Sova, M. Mini Rev. Med. Chem., 12 (2012), pp. 749-767",
+        "journal-title": "Mini Rev. Med. Chem."
+      },
+      {
+        "key": "key2025102314401970106_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1016/j.jfoodeng.2013.01.014",
+        "volume": "117",
+        "author": "Azmir, J.",
+        "year": "2013",
+        "unstructured": "[17] Azmir, J.; Zaidul, I.S.M.; Rahman, M.M.; Sharif, K.M.; Mohamed, A.; Sahena, F. et al. J. Food Eng., 117 (2013), pp. 426-436",
+        "journal-title": "J. Food Eng."
+      },
+      {
+        "key": "key2025102314401970106_18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[18] Letellier, M.; Budzinski, H., 27 (1999), pp. 259-270",
+        "DOI": "10.1051/analusis:1999116"
+      },
+      {
+        "key": "key2025102314401970106_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/0021-9673(90)85109-9",
+        "volume": "520",
+        "author": "Ganzler, K.",
+        "year": "1990",
+        "unstructured": "[19] Ganzler, K.; Szinai, I.; Salg\u00f3, A. J. Chromatogr. A, 520 (1990), pp. 257-262",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "key2025102314401970106_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1016/j.supflu.2012.07.004",
+        "volume": "71",
+        "author": "Santos, S.A.O.",
+        "year": "2012",
+        "unstructured": "[20] Santos, S.A.O.; Villaverde, J.J.; Silva, C.M.; Neto, C.P.; Silvestre, A.J.D. J. Supercrit. Fluids, 71 (2012), pp. 71-79",
+        "journal-title": "J. Supercrit. Fluids"
+      },
+      {
+        "key": "key2025102314401970106_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2441",
+        "DOI": "10.1021/jf052858j",
+        "volume": "54",
+        "author": "D\u00edaz-Reinoso, B.",
+        "year": "2006",
+        "unstructured": "[21] D\u00edaz-Reinoso, B.; Moure, A.; Dom\u00ednguez, H.; Paraj\u00f3, J.C. J. Agric. Food Chem., 54 (2006), pp. 2441-2469",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "key2025102314401970106_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "3408",
+        "DOI": "10.1021/jf9912506",
+        "volume": "48",
+        "author": "Murga, R.",
+        "year": "2000",
+        "unstructured": "[22] Murga, R.; Ruiz, R.; Beltr\u00e1n, S.; Cabezas, J.L. J. Agric. Food Chem., 48 (2000), pp. 3408-3412",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "key2025102314401970106_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1808",
+        "DOI": "10.2174/138527210792927645",
+        "volume": "14",
+        "author": "Wolfender, J.-L.",
+        "year": "2010",
+        "unstructured": "[23] Wolfender, J.-L.; Marti, G.; Ferreira Queiroz, E. Curr. Org. Chem., 14 (2010), pp. 1808-1832",
+        "journal-title": "Curr. Org. Chem."
+      },
+      {
+        "key": "key2025102314401970106_24",
+        "author": "Bruneton, J.",
+        "year": "2009",
+        "unstructured": "[24] Bruneton, J. Libr. Lavoisier (2009)",
+        "journal-title": "Libr. Lavoisier"
+      },
+      {
+        "key": "key2025102314401970106_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1186",
+        "DOI": "10.1016/j.foodchem.2011.01.122",
+        "volume": "127",
+        "author": "Chua, L.S.",
+        "year": "2011",
+        "unstructured": "[25] Chua, L.S.; Latiff, N.A.; Lee, S.Y.; Lee, C.T.; Sarmidi, M.R.; Aziz, R.A. Food Chem., 127 (2011), pp. 1186-1192",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "key2025102314401970106_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1365/s10337-009-1036-9",
+        "volume": "69",
+        "author": "de Moraes, S.L.",
+        "year": "2009",
+        "unstructured": "[26] de Moraes, S.L.; Greg\u00f3rio, L.E.; Tomaz, J.C.; Lopes, N.P. Chromatographia, 69 (2009), pp. 157-165",
+        "journal-title": "Chromatographia"
+      },
+      {
+        "key": "key2025102314401970106_27",
+        "unstructured": "[27] Dictionary of Natural Products, http://dnp.chemnetbase.com/ (accessed 02.09.14)."
+      },
+      {
+        "key": "key2025102314401970106_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1016/j.tifs.2005.12.004",
+        "volume": "17",
+        "author": "Wang, L.",
+        "year": "2006",
+        "unstructured": "[28] Wang, L.; Weller, C.L. Trends Food Sci. Technol., 17 (2006), pp. 300-312",
+        "journal-title": "Trends Food Sci. Technol."
+      },
+      {
+        "key": "key2025102314401970106_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1016/S0021-9673(99)00569-5",
+        "volume": "849",
+        "author": "Palma, M.",
+        "year": "1999",
+        "unstructured": "[29] Palma, M.; Taylor, L.T. J. Chromatogr. A, 849 (1999), pp. 117-124",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "key2025102314401970106_30",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.supflu.2010.05.001",
+        "volume": "54",
+        "author": "Seabra, I.J.",
+        "year": "2010",
+        "unstructured": "[30] Seabra, I.J.; Braga, M.E.M.; Batista, M.T.; de Sousa, H.C. J. Supercrit. Fluids, 54 (2010), pp. 145-152",
+        "journal-title": "J. Supercrit. Fluids"
+      }
+    ],
+    "container-title": [
+      "Comptes Rendus. Chimie"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://comptes-rendus.academie-sciences.fr/chimie/item/10.1016/j.crci.2016.03.009.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2025-10-23T13:00:59Z",
+      "timestamp": 1761224459000
+    },
+    "score": 13.618343,
+    "resource": {
+      "primary": {
+        "URL": "https://comptes-rendus.academie-sciences.fr/chimie/articles/10.1016/j.crci.2016.03.009/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          25
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "9",
+      "published-online": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.crci.2016.03.009"
+    ],
+    "URL": "https://doi.org/10.1016/j.crci.2016.03.009",
+    "ISSN": [
+      "1631-0748",
+      "1878-1543"
+    ],
+    "issn-type": [
+      {
+        "value": "1631-0748",
+        "type": "print"
+      },
+      {
+        "value": "1878-1543",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Comparaison de diff\u00e9rentes m\u00e9thodes d'extraction d'acides dicaf\u00e9oylquiniques \u00e0 partir d'une plante halophile",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Comptes Rendus Chimie",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.crci.2016.03.009",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2016 Acad\u00e9mie des sciences. Published by Elsevier Masson SAS.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2024-03-01T04:57:13Z",
+      "timestamp": 1709269033982
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/0378-1097(78)90079-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2002-12-27T21:11:26Z",
+      "timestamp": 1041023486000
+    },
+    "page": "157-160",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The adenosine triphosphatase from the moderate halophile, Vibrio costicola"
+    ],
+    "prefix": "10.1093",
+    "volume": "3",
+    "author": [
+      {
+        "given": "A",
+        "family": "Higa",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2015-04-09T20:01:35Z",
+      "timestamp": 1428609695000
+    },
+    "score": 13.618219,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1016/0378-1097(78)90079-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1978,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1978,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0378-1097(78)90079-4"
+    ],
+    "URL": "https://doi.org/10.1016/0378-1097(78)90079-4",
+    "ISSN": [
+      "0378-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1978,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T23:17:20Z",
+      "timestamp": 1763594240197,
+      "version": "3.45.0"
+    },
+    "description": "Supplemental Information for 10.1021/acs.jnatprod.1c01102",
+    "reference-count": 0,
+    "publisher": "American Chemical Society (ACS)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1021/acs.jnatprod.1c01102.s001",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2022-02-16T17:45:13Z",
+      "timestamp": 1645033513000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Adiponectin-Secretion-Promoting Cyclic PeptidePolyketide Hybrids from a Halophyte-Associated Fungus, Colletotrichum gloeosporioides JS0417"
+    ],
+    "prefix": "10.1021",
+    "member": "316",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2022-03-25T03:30:14Z",
+      "timestamp": 1648179014000
+    },
+    "score": 13.609117,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.jnatprod.1c01102/suppl_file/np1c01102_si_001.pdf"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1021/acs.jnatprod.1c01102.s001"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T12:54:15Z",
+      "timestamp": 1761742455846
+    },
+    "reference-count": 24,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 6601,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biotechnol. Bioeng."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1002/(sici)1097-0290(19970805)55:3<471::aid-bit2>3.0.co;2-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2004-10-25T17:09:39Z",
+      "timestamp": 1098724179000
+    },
+    "page": "471-479",
+    "source": "Crossref",
+    "is-referenced-by-count": 61,
+    "title": [
+      "Unusual salt and solvent dependence of a protease from an extreme halophile"
+    ],
+    "prefix": "10.1002",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Jungbae",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jonathan S.",
+        "family": "Dordick",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1016/0003-2697(83)90660-7",
+        "volume": "130",
+        "author": "Barshop",
+        "year": "1983",
+        "journal-title": "Anal. Biochem."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1885",
+        "DOI": "10.1126/science.1411504",
+        "volume": "257",
+        "author": "Chait",
+        "year": "1992",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.1111/j.1399-3011.1995.tb01041.x",
+        "volume": "45",
+        "author": "Delaureto",
+        "year": "1995",
+        "journal-title": "Int. J. Pept. Protein Res."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1344",
+        "DOI": "10.1126/science.267.5202.1344",
+        "volume": "267",
+        "author": "Dym",
+        "year": "1995",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1146/annurev.bb.16.060187.000441",
+        "volume": "16",
+        "author": "Eisenberg",
+        "year": "1987",
+        "journal-title": "Annu. Rev. Biophys. Biophys. Chem."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "452",
+        "DOI": "10.1038/nsb0596-452",
+        "volume": "3",
+        "author": "Frolow",
+        "year": "1996",
+        "journal-title": "Nature Struct. Biol."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2588",
+        "DOI": "10.1016/S0021-9258(18)63111-4",
+        "volume": "245",
+        "author": "Herskovits",
+        "year": "1970",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "826",
+        "DOI": "10.1128/JB.155.2.826-830.1983",
+        "volume": "155",
+        "author": "Isotova",
+        "year": "1983",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1146/annurev.bb.10.060181.000245",
+        "volume": "10",
+        "author": "Jaenicke",
+        "year": "1981",
+        "journal-title": "Annu. Rev. Biophys. Bioeng."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "344",
+        "DOI": "10.1016/0014-5793(90)81283-T",
+        "volume": "268",
+        "author": "Jaenicke",
+        "year": "1990",
+        "journal-title": "FEBS Lett."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1219",
+        "DOI": "10.1002/bit.260230605",
+        "volume": "23",
+        "author": "Kawamura",
+        "year": "1981",
+        "journal-title": "Biotechnol. Bioeng."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB12",
+        "volume-title": "Microbial life in extreme environments",
+        "author": "Kushner",
+        "year": "1978",
+        "unstructured": "1978. Microbial life in extreme environments. Academic Press, London."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "272",
+        "DOI": "10.1128/MMBR.38.3.272-290.1974",
+        "volume": "38",
+        "author": "Lanyi",
+        "year": "1974",
+        "journal-title": "Bacteriol. Rev."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1111/j.1432-1033.1976.tb10228.x",
+        "volume": "63",
+        "author": "Pajot",
+        "year": "1976",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1111/j.1432-1033.1981.tb05543.x",
+        "volume": "118",
+        "author": "Pundak",
+        "year": "1981",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1111/j.1432-1033.1981.tb05542.x",
+        "volume": "118",
+        "author": "Pundak",
+        "year": "1981",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "6536",
+        "DOI": "10.1021/bi00526a004",
+        "volume": "20",
+        "author": "Rao",
+        "year": "1981",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2462",
+        "DOI": "10.1021/ja01089a028",
+        "volume": "87",
+        "author": "Robinson",
+        "year": "1965a",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2470",
+        "DOI": "10.1021/ja01089a029",
+        "volume": "87",
+        "author": "Robinson",
+        "year": "1965b",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1016/0141-0229(94)90165-1",
+        "volume": "16",
+        "author": "Ryu",
+        "year": "1994",
+        "journal-title": "Enzyme Microb. Technol."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1016/0005-2736(67)90020-X",
+        "volume": "135",
+        "author": "Soo-Hoo",
+        "year": "1967",
+        "journal-title": "Biophys. Acta"
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1042/bj2850281",
+        "volume": "285",
+        "author": "Stepanov",
+        "year": "1992",
+        "journal-title": "Biochem. J."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1042/bj0760381",
+        "volume": "76",
+        "author": "Teale",
+        "year": "1960",
+        "journal-title": "Biochem. J."
+      },
+      {
+        "key": "10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9-BIB24",
+        "first-page": "333",
+        "volume": "15",
+        "author": "Zaccai",
+        "year": "1990",
+        "journal-title": "TIBS"
+      }
+    ],
+    "container-title": [
+      "Biotechnology and Bioengineering"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F(SICI)1097-0290(19970805)55:3%3C471::AID-BIT2%3E3.0.CO;2-9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/(SICI)1097-0290(19970805)55:3%3C471::AID-BIT2%3E3.0.CO;2-9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2021-07-01T06:56:06Z",
+      "timestamp": 1625122566000
+    },
+    "score": 13.607052,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0290(19970805)55:3<471::AID-BIT2>3.0.CO;2-9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          5
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            8,
+            5
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1002/(sici)1097-0290(19970805)55:3<471::aid-bit2>3.0.co;2-9",
+    "ISSN": [
+      "0006-3592",
+      "1097-0290"
+    ],
+    "issn-type": [
+      {
+        "value": "0006-3592",
+        "type": "print"
+      },
+      {
+        "value": "1097-0290",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2024-03-04T03:41:03Z",
+      "timestamp": 1709523663651
+    },
+    "reference-count": 0,
+    "publisher": "H1 Connect",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          4,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.3410/f.1031944.370843",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2012-09-19T03:35:51Z",
+      "timestamp": 1348025751000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Faculty Opinions recommendation of Analysis of protein solvent interactions in glucose dehydrogenase from the extreme halophile Haloferax mediterranei."
+    ],
+    "prefix": "10.3410",
+    "author": [
+      {
+        "given": "Shiladitya",
+        "family": "DasSarma",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Microbiology and Immunology, University of Maryland School of Medicine, USA"
+          }
+        ]
+      }
+    ],
+    "member": "4950",
+    "content-created": {
+      "date-parts": [
+        [
+          2006,
+          4,
+          11
+        ]
+      ]
+    },
+    "container-title": [
+      "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2020-04-17T21:21:20Z",
+      "timestamp": 1587158480000
+    },
+    "score": 13.596507,
+    "resource": {
+      "primary": {
+        "URL": "https://facultyopinions.com/prime/1031944#eval370843"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          4,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3410/f.1031944.370843",
+    "relation": {
+      "is-review-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1073/pnas.0508854103",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          4,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T23:32:14Z",
+      "timestamp": 1763595134428,
+      "version": "3.45.0"
+    },
+    "description": "Supplemental Information for 10.1021/acs.joc.9b01511",
+    "reference-count": 0,
+    "publisher": "American Chemical Society (ACS)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1021/acs.joc.9b01511.s001",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2020-04-08T10:37:24Z",
+      "timestamp": 1586342244000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Neuroprotective Glycosylated Cyclic Lipodepsipeptides Colletotrichamides AE, from a Halophyte-Associated Fungus, Colletotrichum gloeosporioides JS419"
+    ],
+    "prefix": "10.1021",
+    "member": "316",
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2020-04-08T10:37:24Z",
+      "timestamp": 1586342244000
+    },
+    "score": 13.588483,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.joc.9b01511/suppl_file/jo9b01511_si_001.pdf"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1021/acs.joc.9b01511.s001"
+  },
+  {
+    "institution": [
+      {
+        "name": "Authorea, Inc."
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2025-06-03T16:36:44Z",
+      "timestamp": 1748968604755,
+      "version": "3.41.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          17
+        ]
+      ]
+    },
+    "group-title": "Preprints",
+    "reference-count": 0,
+    "publisher": "Wiley",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:p id=\"p1\">The sulfur cycle is one of the geochemical element cycles in which\nmicroorganisms play a key driving role. The microbial function of soil S\ncycling in response to desert degradation, however, remains largely\nunknown. We used metagenomics to analyze the characteristics of\nmicrobial communities and their functional genes involved in the S\ncycles under natural water gradients with three typical halophytes\nshrubs in the Ebinur Lake Basin Desert, China. Our results showed that\nthe rhizosphere effect, water gradient, and halophyte type played a\nmajor role in shaping the S cycle. On the whole, in the rhizosphere type\nand low water environment, the functional genes involved in the S cycle\nhad high abundance, and the SOX system in <jats:italic>Alhagi sparsifolia</jats:italic> had\na high expression level. In the S cycle network structure, as the soil\nwater content decreased, the complexity in S gene networks increased,\nshowing the characteristics of clustering and high connectivity.\nIndicates the strengthening mode in microbial interactions with the\nwater content. Interestingly, the negative correlation of the network\nchanged with the water content, and there was more competition among\ncommunities under the low water gradient and more cooperation under the\nhigh water gradient. Through the correlation between environmental\nfactors and the network, nitrate (NO ) and soil available S (AS) constrained most S gene\necology networks. The key species involved in the S cycle were\nhalophilic microorganisms. These results can enhance the understanding\nof soil S biogeochemical processes and contribute to the mitigation of\ndesertification by improving soil conservation.</jats:p>",
+    "DOI": "10.22541/au.165544417.79775826/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2022-06-17T05:36:25Z",
+      "timestamp": 1655444185000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Soil microbial-mediated sulfur cycle and ecological network under typical desert halophyte shrubs"
+    ],
+    "prefix": "10.22541",
+    "author": [
+      {
+        "given": "Wenjing",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Xinjiang University"
+          }
+        ]
+      },
+      {
+        "given": "Guanghui",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Xinjiang University"
+          }
+        ]
+      },
+      {
+        "given": "Dong",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northwest University"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2022-06-17T05:36:25Z",
+      "timestamp": 1655444185000
+    },
+    "score": 13.554908,
+    "resource": {
+      "primary": {
+        "URL": "https://www.authorea.com/users/489775/articles/573362-soil-microbial-mediated-sulfur-cycle-and-ecological-network-under-typical-desert-halophyte-shrubs?commit=ed7ab07c4a067411ebc9e4f4fc8b3f65a742ce67"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          17
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.22541/au.165544417.79775826/v1",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2026-02-14T06:14:21Z",
+      "timestamp": 1771049661827,
+      "version": "3.50.1"
+    },
+    "reference-count": 63,
+    "publisher": "MDPI AG",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              19
+            ]
+          ],
+          "date-time": "2022-02-19T00:00:00Z",
+          "timestamp": 1645228800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biomolecules"
+    ],
+    "abstract": "<jats:p>Dehydrins (DHNs) belong to the LEA (late embryogenesis abundant) family group II, that comprise four conserved motifs (the Y-, S-, F-, and K-segments) and are known to play a multifunctional role in plant stress tolerance. Based on the presence and order of these segments, dehydrins are divided into six subclasses: YnSKn, FnSKn, YnKn, SKn, Kn, and KnS. DHNs are rarely studied in halophytes, and their contribution to the mechanisms developed by these plants to survive in extreme conditions remains unknown. In this work, we carried out multiple genomic analyses of the conservation of halophytic DHN sequences to discover new segments, and examine their architectures, while comparing them with their orthologs in glycophytic plants. We performed an in silico analysis on 86 DHN sequences from 10 halophytic genomes. The phylogenetic tree showed that there are different distributions of the architectures among the different species, and that FSKn is the only architecture present in every plant studied. It was found that K-, F-, Y-, and S-segments are highly conserved in halophytes and glycophytes with a few modifications, mainly involving charged amino acids. Finally, expression data collected for three halophytic species (Puccinillia tenuiflora, Eutrema salsugenium, and Hordeum marinum) revealed that many DHNs are upregulated by salt stress, and the intensity of this upregulation depends on the DHN architecture.</jats:p>",
+    "DOI": "10.3390/biom12020330",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2022-02-21T08:14:46Z",
+      "timestamp": 1645431286000
+    },
+    "page": "330",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "The Halophyte Dehydrin Sequence Landscape"
+    ],
+    "prefix": "10.3390",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Siwar",
+        "family": "Ghanmi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Plant Physiology & Functional Genomics Research Unit, Institute of Biotechnology, University of Sfax,  Sfax 3038, Tunisia"
+          }
+        ]
+      },
+      {
+        "given": "Steffen P.",
+        "family": "Graether",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Molecular and Cellular Biology, University of Guelph, Guelph, ON N1G 2W1, Canada"
+          },
+          {
+            "name": "Graduate Program in Bioinformatics, University of Guelph, Guelph, ON N1G 2W1, Canada"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1952-7350",
+        "authenticated-orcid": false,
+        "given": "Moez",
+        "family": "Hanin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Plant Physiology & Functional Genomics Research Unit, Institute of Biotechnology, University of Sfax,  Sfax 3038, Tunisia"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, X., Zhang, M., Xie, B., Jiang, X., and Gai, Y. (2021). Functional Characteristics Analysis of Dehydrins in Larixkaempferi under Osmotic Stress. Int. J. Mol. Sci., 22.",
+        "DOI": "10.3390/ijms22041715"
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1111/j.1469-8137.2005.01487.x",
+        "article-title": "Genes and salt tolerance: Bringing them together",
+        "volume": "167",
+        "author": "Munns",
+        "year": "2005",
+        "journal-title": "New Phytol."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "781",
+        "DOI": "10.1146/annurev.arplant.57.032905.105444",
+        "article-title": "Transcriptional regulatory networks in cellular responses and tolerance to dehydration and cold stresses",
+        "volume": "57",
+        "author": "Shinozaki",
+        "year": "2006",
+        "journal-title": "Annu. Rev. Plant Biol."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.ecolind.2015.04.027",
+        "article-title": "Soil salinization and waterlogging: A threat to environment and agricultural sustainability",
+        "volume": "57",
+        "author": "Singh",
+        "year": "2015",
+        "journal-title": "Ecol. Indic."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.1051/agro:2008021",
+        "article-title": "Plant drought stress: Effects, mechanisms and management",
+        "volume": "29",
+        "author": "Farooq",
+        "year": "2009",
+        "journal-title": "Agron. Sustain. Dev."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1111/j.1469-8137.2008.02531.x",
+        "article-title": "Salinity tolerance in halophytes",
+        "volume": "179",
+        "author": "Flowers",
+        "year": "2008",
+        "journal-title": "New Phytol."
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1016/j.plaphy.2016.02.037",
+        "article-title": "Physiological and leaf metabolome changes in the xerohalophyte species Atriplexhalimus induced by salinity",
+        "volume": "103",
+        "author": "Bendaly",
+        "year": "2016",
+        "journal-title": "Plant Physiol. Biochem."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1787",
+        "DOI": "10.3389/fpls.2016.01787",
+        "article-title": "New insights on plant salt tolerance mechanisms and their potential use for breeding",
+        "volume": "7",
+        "author": "Hanin",
+        "year": "2016",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1299",
+        "DOI": "10.1007/s00425-014-2154-7",
+        "article-title": "A comparative study of the early osmotic, ionic, redox and hormonal signaling response in leaves and roots of two halophytes and a glycophyte to salinity",
+        "volume": "240",
+        "author": "Ellouzi",
+        "year": "2014",
+        "journal-title": "Planta"
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1186/1471-2229-10-261",
+        "article-title": "Comparative genomic analysis of 1047 completely sequenced cDNAs from an Arabidopsis-related model halophyte, Thellungiella halophila",
+        "volume": "10",
+        "author": "Taji",
+        "year": "2010",
+        "journal-title": "BMC Plant Biol."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1007/BF00021327",
+        "article-title": "Abscisic acid induction of cloned cotton late embryogenesis-abundant (Lea) mRNAs",
+        "volume": "7",
+        "author": "Galau",
+        "year": "1986",
+        "journal-title": "Plant Mol. Biol."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1007/BF00027338",
+        "article-title": "A cDNA-based comparison of dehydration-induced proteins (dehydrins) in barley and corn",
+        "volume": "13",
+        "author": "Close",
+        "year": "1989",
+        "journal-title": "Plant Mol. Biol."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1475",
+        "DOI": "10.1007/s00709-015-0901-7",
+        "article-title": "Isolation, cloning, and characterization of a novel Sorghum dehydrin (SbDhn2) protein",
+        "volume": "253",
+        "author": "Halder",
+        "year": "2016",
+        "journal-title": "Protoplasma"
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1006/prep.1994.1040",
+        "article-title": "Purification of a maize dehydrin",
+        "volume": "5",
+        "author": "Ceccardi",
+        "year": "1994",
+        "journal-title": "Protein Expr. Purif."
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1503",
+        "DOI": "10.4161/psb.6.10.17088",
+        "article-title": "Plant dehydrins and stress tolerance: Versatile proteins for complex mechanisms",
+        "volume": "6",
+        "author": "Hanin",
+        "year": "2011",
+        "journal-title": "Plant Signal. Behav."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Aziz, M.A., Sabeem, M., Mullath, S.K., Brini, F., and Masmoudi, K. (2021). Plant Group II LEA Proteins: Intrinsically Disordered Structure for Multiple Functions in Response to Environmental Stresses. Biomolecules, 11.",
+        "DOI": "10.3390/biom11111662"
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "709",
+        "DOI": "10.3389/fpls.2017.00709",
+        "article-title": "Genome analysis of conserved dehydrin motifs in vascular plants",
+        "volume": "8",
+        "author": "Malik",
+        "year": "2017",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1104/pp.108.120725",
+        "article-title": "The Enigmatic LEA Proteins and Other Hydrophilins",
+        "volume": "148",
+        "author": "Battaglia",
+        "year": "2008",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "DOI": "10.1016/j.plantsci.2012.07.012",
+        "article-title": "Functional studies of soybean (Glycine max L.) seed LEA proteins GmPM6, GmPM11, and GmPM30 by CD and FTIR spectroscopy",
+        "volume": "196",
+        "author": "Shih",
+        "year": "2012",
+        "journal-title": "Plant Sci."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1007/s12104-009-9192-2",
+        "article-title": "NMR assignments of the intrinsically disordered K 2 and YSK 2 dehydrins",
+        "volume": "3",
+        "author": "Findlater",
+        "year": "2009",
+        "journal-title": "Biomol. NMR Assign."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1002/pro.534",
+        "article-title": "Cryoprotective mechanism of a small intrinsically disordered dehydrin protein",
+        "volume": "20",
+        "author": "Hughes",
+        "year": "2011",
+        "journal-title": "Protein Sci."
+      },
+      {
+        "key": "ref_22",
+        "first-page": "945",
+        "article-title": "The plant dehydrins: Structure and putative functions",
+        "volume": "68",
+        "author": "Allagulova",
+        "year": "2003",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/s10725-015-0113-3",
+        "article-title": "Group II late embryogenesis abundant (LEA) proteins: Structural and functional aspects in plant abiotic stress",
+        "volume": "79",
+        "author": "Banerjee",
+        "year": "2015",
+        "journal-title": "Plant Growth Regul."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.4161/psb.11085",
+        "article-title": "The multifunctionality of dehydrins: An overview",
+        "volume": "5",
+        "author": "Hara",
+        "year": "2010",
+        "journal-title": "Plant Signal. Behav."
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1061",
+        "DOI": "10.1007/s00425-017-2679-7",
+        "article-title": "Hiding in plain sight: The F segment and other conserved features of seed plant SKn dehydrins",
+        "volume": "245",
+        "author": "Strimbeck",
+        "year": "2017",
+        "journal-title": "Planta"
+      },
+      {
+        "key": "ref_26",
+        "first-page": "795",
+        "article-title": "Dehydrins: Emergence of a biochemical role of a family of plant dehydration proteins",
+        "volume": "97",
+        "author": "Close",
+        "year": "1996",
+        "journal-title": "Physiologiaplantarum"
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "110172",
+        "DOI": "10.1016/j.plantsci.2019.110172",
+        "article-title": "Binding of a Vitisripariadehydrin to DNA",
+        "volume": "287",
+        "author": "Boddington",
+        "year": "2019",
+        "journal-title": "Plant Sci."
+      },
+      {
+        "key": "ref_28",
+        "first-page": "520",
+        "article-title": "A dehydrin-dehydrin interaction: The case of SK3 from Opuntiastreptacantha",
+        "volume": "5",
+        "author": "Martynowicz",
+        "year": "2014",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s12870-018-1511-2",
+        "article-title": "Characterization of Dehydrin protein, CdDHN4-L and CdDHN4-S, and their differential protective roles against abiotic stress in vitro",
+        "volume": "18",
+        "author": "Lv",
+        "year": "2018",
+        "journal-title": "BMC Plant Biol."
+      },
+      {
+        "key": "ref_30",
+        "first-page": "1",
+        "article-title": "Functional characterization of KS-type dehydrin ZmDHN13 and its related conserved domains under oxidative stress",
+        "volume": "7",
+        "author": "Liu",
+        "year": "2017",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1111/j.1399-3054.1997.tb04785.x",
+        "article-title": "Dehydrins: A commonalty in the response of plants to dehydration and low temperature",
+        "volume": "100",
+        "author": "Close",
+        "year": "1997",
+        "journal-title": "Physiol. Plant."
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/j.crbiot.2021.07.005",
+        "article-title": "Dehydrin in the past four decades: From chaperones to transcription co-regulators in regulating abiotic stress response",
+        "volume": "3",
+        "author": "Tiwari",
+        "year": "2021",
+        "journal-title": "Curr. Res. Biotechnol."
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "583",
+        "DOI": "10.1111/j.1399-3054.2008.01164.x",
+        "article-title": "RcDhn5, a cold acclimation-responsive dehydrin from Rhododendron catawbiense rescues enzyme activity from dehydration effects in vitro and enhances freezing tolerance in RcDhn5-overexpressing Arabidopsis plants",
+        "volume": "134",
+        "author": "Peng",
+        "year": "2008",
+        "journal-title": "Physiol. Plant."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1050",
+        "DOI": "10.1271/bbb.90949",
+        "article-title": "Wheat dehydrin DHN-5 exerts a heat-protective effect on \u03b2-glucosidase and glucose oxidase activities",
+        "volume": "74",
+        "author": "Brini",
+        "year": "2010",
+        "journal-title": "Biosci. Biotechnol. Biochem."
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "first-page": "643",
+        "DOI": "10.1007/s12033-012-9606-8",
+        "article-title": "The K-Segments of the Wheat Dehydrin DHN-5 are Essential for the Protection of Lactate Dehydrogenase and \u03b2-Glucosidase Activities In Vitro",
+        "volume": "54",
+        "author": "Drira",
+        "year": "2013",
+        "journal-title": "Mol. Biotechnol."
+      },
+      {
+        "key": "ref_36",
+        "doi-asserted-by": "crossref",
+        "first-page": "918",
+        "DOI": "10.3389/fpls.2017.00918",
+        "article-title": "YSK2 Type Dehydrin (SbDhn1) from Sorghum bicolor Showed Improved Protection under High Temperature and Osmotic Stress Condition",
+        "volume": "8",
+        "author": "Halder",
+        "year": "2017",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_37",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1016/j.jplph.2016.12.003",
+        "article-title": "The role of hydrophobic amino acids of K-segments in the cryoprotection of lactate dehydrogenase by dehydrins",
+        "volume": "210",
+        "author": "Hara",
+        "year": "2017",
+        "journal-title": "J. Plant Physiol."
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "406",
+        "DOI": "10.3389/fpls.2015.00406",
+        "article-title": "The K-segments of wheat dehydrin WZY2 are essential for its protective functions under temperature stress",
+        "volume": "6",
+        "author": "Yang",
+        "year": "2015",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_39",
+        "first-page": "3310",
+        "article-title": "Wheat dehydrin K-segments ensure bacterial stress tolerance, antiaggregation and antimicrobial effects",
+        "volume": "175",
+        "author": "Drira",
+        "year": "2015",
+        "journal-title": "Appl. Biotechnol."
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1007/s00217-014-2228-6",
+        "article-title": "Efficient purification of cryoprotectivedehydrin protein from the radish (Raphanussativus) taproot",
+        "volume": "239",
+        "author": "Hara",
+        "year": "2014",
+        "journal-title": "Eur. Food Res. Technol."
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "108510",
+        "DOI": "10.1016/j.abb.2020.108510",
+        "article-title": "Cryoprotective activity of Arabidopsis KS-type dehydrin depends on the hydrophobic amino acids of two active segments",
+        "volume": "691",
+        "author": "Yokoyama",
+        "year": "2020",
+        "journal-title": "Arch. Biochem. Biophys."
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "first-page": "1503",
+        "DOI": "10.1104/pp.109.136697",
+        "article-title": "The K-Segment of Maize DHN1 Mediates Binding to Anionic Phospholipid Vesicles and Concomitant Structural Changes",
+        "volume": "150",
+        "author": "Koag",
+        "year": "2009",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "first-page": "576",
+        "DOI": "10.3389/fpls.2014.00576",
+        "article-title": "Disorder and function: A review of the dehydrin protein family",
+        "volume": "5",
+        "author": "Graether",
+        "year": "2014",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_44",
+        "first-page": "932",
+        "article-title": "Membrane-induced folding of the plant stress dehydrin Lti30",
+        "volume": "171",
+        "author": "Eriksson",
+        "year": "2016",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "first-page": "26900",
+        "DOI": "10.1074/jbc.M115.678219",
+        "article-title": "Structural and Functional Insights into the Cryoprotection of Membranes by the Intrinsically Disordered Dehydrins",
+        "volume": "290",
+        "author": "Clarke",
+        "year": "2015",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Eriksson, S.K., and Harryson, P. (2011). Dehydrins: Molecular Biology, Structure and Function. Plant Desiccation Tolerance, Springer.",
+        "DOI": "10.1007/978-3-642-19106-0_14"
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "6468",
+        "DOI": "10.1074/jbc.RA118.007163",
+        "article-title": "The disordered plant dehydrin Lti30 protects the membrane during water-related stress by cross-linking lipids",
+        "volume": "294",
+        "author": "Gupta",
+        "year": "2019",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riley, A.C., Ashlock, D.A., and Graether, S.P. (2019). Evolution of the modular, disordered stress proteins known as dehydrins. PLoS ONE, 14.",
+        "DOI": "10.1371/journal.pone.0211813"
+      },
+      {
+        "key": "ref_49",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v028.c01",
+        "article-title": "Beanplot: A Boxplot Alternative for Visual Comparison of Distributions",
+        "volume": "28",
+        "author": "Kampstra",
+        "year": "2008",
+        "journal-title": "J. Stat. Softw."
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guo, R., Zhao, L., Zhang, K., Lu, H., Bhanbhro, N., and Yang, C. (2021). Comparative Genomics and Transcriptomics of the Extreme Halophyte Puccinellia tenuiflora Provides Insights into Salinity Tolerance Differentiation between Halophytes and Glycophytes. Front. Plant Sci., 12.",
+        "DOI": "10.3389/fpls.2021.649001"
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "first-page": "770742",
+        "DOI": "10.3389/fgene.2021.770742",
+        "article-title": "Transcriptome Profiling of the Salt Stress Response in the Leaves and Roots of Halophytic Eutrema salsugineum",
+        "volume": "12",
+        "author": "Li",
+        "year": "2021",
+        "journal-title": "Front. Genet."
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Isayenkov, S., Hilo, A., Rizzo, P., Tandron Moya, Y.A., Rolletschek, H., Borisjuk, L., and Radchuk, V. (2020). Adaptation strategies of halophytic barley Hordeum marinum ssp. marinum to high salinity and osmotic stress. Int. J. Mol. Sci., 21.",
+        "DOI": "10.3390/ijms21239019"
+      },
+      {
+        "key": "ref_53",
+        "doi-asserted-by": "crossref",
+        "first-page": "5667",
+        "DOI": "10.1016/j.jprot.2012.08.012",
+        "article-title": "Proteomic and physiological responses of the halophyte Cakilemaritima to moderate salinity at the germinative and vegetative stages",
+        "volume": "75",
+        "author": "Debez",
+        "year": "2012",
+        "journal-title": "J. Proteom."
+      },
+      {
+        "key": "ref_54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bueno, M., and Cordovilla, M.P. (2020). Ecophysiology and Uses of Halophytes in Diverse Habitats. Handbook of Halophytes: From Molecules to Ecosystems towards Biosaline Agriculture, Springer.",
+        "DOI": "10.1007/978-3-030-17854-3_57-1"
+      },
+      {
+        "key": "ref_55",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dagar, J.C. (2014). Greening Salty and Waterlogged Lands through Agroforestry Systems for Livelihood Security and Better Environment. Agroforestry Systems in India: Livelihood Security & Ecosystem Services, Springer.",
+        "DOI": "10.1007/978-81-322-1662-9"
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.2478/s11658-006-0044-0",
+        "article-title": "Plant dehydrins\u2014Tissue location, structure and function",
+        "volume": "11",
+        "author": "Rorat",
+        "year": "2006",
+        "journal-title": "Cell. Mol. Biol. Lett."
+      },
+      {
+        "key": "ref_57",
+        "doi-asserted-by": "crossref",
+        "first-page": "112300",
+        "DOI": "10.1016/j.phytochem.2020.112300",
+        "article-title": "F-segments of Arabidopsis dehydrins show cryoprotective activities for lactate dehydrogenase depending on the hydrophobic residues",
+        "volume": "173",
+        "author": "Ohkubo",
+        "year": "2020",
+        "journal-title": "Phytochemistry"
+      },
+      {
+        "key": "ref_58",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1016/j.plantsci.2019.03.012",
+        "article-title": "Y2SK2 and SK3 type dehydrins from Agapanthus praecox can improve plant stress tolerance and act as multifunctional protectants",
+        "volume": "284",
+        "author": "Yang",
+        "year": "2019",
+        "journal-title": "Plant Sci."
+      },
+      {
+        "key": "ref_59",
+        "doi-asserted-by": "crossref",
+        "first-page": "129506",
+        "DOI": "10.1016/j.bbagen.2019.129506",
+        "article-title": "Dehydrin ERD14 activates glutathione transferase Phi9 in Arabidopsis thaliana under osmotic stress",
+        "volume": "1864",
+        "author": "Nguyen",
+        "year": "2019",
+        "journal-title": "Biochim. Et Biophys. Acta (BBA) Gen. Subj."
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "first-page": "347",
+        "DOI": "10.1016/S0022-2836(03)00150-5",
+        "article-title": "Unique Amino Acid Composition of Proteins in Halophilic Bacteria",
+        "volume": "327",
+        "author": "Fukuchi",
+        "year": "2003",
+        "journal-title": "J. Mol. Biol."
+      },
+      {
+        "key": "ref_61",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1093/protein/gzm082",
+        "article-title": "The Trp-cage: Optimizing the stability of a globular miniprotein",
+        "volume": "21",
+        "author": "Barua",
+        "year": "2008",
+        "journal-title": "Protein Eng. Des. Sel."
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "first-page": "3435",
+        "DOI": "10.1093/bioinformatics/bti537",
+        "article-title": "FoldIndex\u00a9: A simple tool to predict whether a given protein sequence is intrinsically unfolded",
+        "volume": "21",
+        "author": "Prilusky",
+        "year": "2005",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "ref_63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1376",
+        "DOI": "10.1104/pp.113.226803",
+        "article-title": "The Importance of Size and Disorder in the Cryoprotective Effects of Dehydrins",
+        "volume": "163",
+        "author": "Hughes",
+        "year": "2013",
+        "journal-title": "Plant Physiol."
+      }
+    ],
+    "container-title": [
+      "Biomolecules"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2218-273X/12/2/330/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2025-10-10T22:23:04Z",
+      "timestamp": 1760134984000
+    },
+    "score": 13.554908,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2218-273X/12/2/330"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          19
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "biom12020330"
+    ],
+    "URL": "https://doi.org/10.3390/biom12020330",
+    "ISSN": [
+      "2218-273X"
+    ],
+    "issn-type": [
+      {
+        "value": "2218-273X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T18:26:55Z",
+      "timestamp": 1771007215204,
+      "version": "3.50.1"
+    },
+    "reference-count": 25,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1994,
+              4,
+              1
+            ]
+          ],
+          "date-time": "1994-04-01T00:00:00Z",
+          "timestamp": 765158400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Enzyme and Microbial Technology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/0141-0229(94)90165-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2002-12-27T19:17:02Z",
+      "timestamp": 1041016622000
+    },
+    "page": "266-275",
+    "source": "Crossref",
+    "is-referenced-by-count": 79,
+    "title": [
+      "Catalytic properties and potential of an extracellular protease from an extreme halophile"
+    ],
+    "prefix": "10.1016",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Keungarp",
+        "family": "Ryu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jungbae",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jonathan S.",
+        "family": "Dordick",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "659",
+        "DOI": "10.1126/science.233.4764.659",
+        "volume": "233",
+        "author": "Estell",
+        "year": "1986",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1126/science.3838593",
+        "volume": "228",
+        "author": "Craik",
+        "year": "1985",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1126/science.6387910",
+        "volume": "226",
+        "author": "Perry",
+        "year": "1984",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "496",
+        "DOI": "10.1038/328496a0",
+        "volume": "328",
+        "author": "Russell",
+        "year": "1987",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB5",
+        "series-title": "Applied Biocatalysis",
+        "first-page": "1",
+        "author": "Dordick",
+        "year": "1991"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB6",
+        "series-title": "Microbial Life in Extreme Environments",
+        "first-page": "317",
+        "author": "Kushner",
+        "year": "1978"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1111/j.1432-1033.1978.tb20951.x",
+        "volume": "91",
+        "author": "Zillig",
+        "year": "1978",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "5890",
+        "DOI": "10.1021/ja00976a034",
+        "volume": "88",
+        "author": "Bender",
+        "year": "1966",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "4979",
+        "DOI": "10.1021/bi00438a012",
+        "volume": "28",
+        "author": "Hecht",
+        "year": "1989",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/0167-4838(82)90203-5",
+        "volume": "708",
+        "author": "De Medicis",
+        "year": "1982",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "826",
+        "DOI": "10.1128/JB.155.2.826-830.1983",
+        "volume": "155",
+        "author": "Izotova",
+        "year": "1983",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "352",
+        "DOI": "10.1139/o90-048",
+        "volume": "68",
+        "author": "Kamekura",
+        "year": "1990",
+        "journal-title": "Biochem. Cell Biol."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1042/bj1470267",
+        "volume": "147",
+        "author": "Higa",
+        "year": "1975",
+        "journal-title": "Biochem. J."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1042/bj1160125",
+        "volume": "116",
+        "author": "Aitken",
+        "year": "1970",
+        "journal-title": "Biochem. J."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1021/ar50021a001",
+        "volume": "2",
+        "author": "Von Hippel",
+        "year": "1969",
+        "journal-title": "Acc. Chem. Res."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1146/annurev.bb.16.060187.000441",
+        "volume": "16",
+        "author": "Eisenberg",
+        "year": "1987",
+        "journal-title": "Annu. Rev. Biophys. Biophys. Chem."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1042/bj0760381",
+        "volume": "76",
+        "author": "Teale",
+        "year": "1960",
+        "journal-title": "Biochem. J."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1111/j.1432-1033.1976.tb10228.x",
+        "volume": "63",
+        "author": "Pajot",
+        "year": "1976",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2588",
+        "DOI": "10.1021/bi00124a020",
+        "volume": "31",
+        "author": "Ryu",
+        "year": "1992",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1629",
+        "DOI": "10.1021/ja00058a002",
+        "volume": "115",
+        "author": "Wescott",
+        "year": "1993",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1139/m81-142",
+        "volume": "27",
+        "author": "Edgerton",
+        "year": "1981",
+        "journal-title": "Can. J. Microbiol."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1016/0141-0229(91)90151-Y",
+        "volume": "13",
+        "author": "Guinn",
+        "year": "1991",
+        "journal-title": "Enzyme Microb. Technol."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "967",
+        "DOI": "10.1002/bit.260371011",
+        "volume": "37",
+        "author": "Fernandez",
+        "year": "1991",
+        "journal-title": "Biotechnol. Bioeng."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "842",
+        "DOI": "10.1016/0141-0229(92)90102-T",
+        "volume": "14",
+        "author": "Nagashima",
+        "year": "1992",
+        "journal-title": "Enzyme Microb. Technol."
+      },
+      {
+        "key": "10.1016/0141-0229(94)90165-1_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "8026",
+        "DOI": "10.1021/ja00202a060",
+        "volume": "111",
+        "author": "Ryu",
+        "year": "1989",
+        "journal-title": "J. Am. Chem. Soc."
+      }
+    ],
+    "container-title": [
+      "Enzyme and Microbial Technology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0141022994901651?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0141022994901651?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2020-03-11T19:14:36Z",
+      "timestamp": 1583954076000
+    },
+    "score": 13.552314,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0141022994901651"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          4
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0141022994901651"
+    ],
+    "URL": "https://doi.org/10.1016/0141-0229(94)90165-1",
+    "ISSN": [
+      "0141-0229"
+    ],
+    "issn-type": [
+      {
+        "value": "0141-0229",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2023-04-13T14:08:42Z",
+      "timestamp": 1681394922891
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1-2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1987,
+          12,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/0378-1097(87)90147-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          28
+        ]
+      ],
+      "date-time": "2002-12-28T01:18:52Z",
+      "timestamp": 1041038332000
+    },
+    "page": "121-125",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "8-Hydroxy-5-deazaflavin-dependent electron transfer in the extreme halophile"
+    ],
+    "prefix": "10.1093",
+    "volume": "48",
+    "author": [
+      {
+        "given": "L",
+        "family": "DEWIT",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "A",
+        "family": "EKER",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2015-01-07T19:25:57Z",
+      "timestamp": 1420658757000
+    },
+    "score": 13.511,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1016/0378-1097(87)90147-9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          12,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1-2",
+      "published-print": {
+        "date-parts": [
+          [
+            1987,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0378109787901479"
+    ],
+    "URL": "https://doi.org/10.1016/0378-1097(87)90147-9",
+    "ISSN": [
+      "0378-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1987,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2024-03-01T04:49:40Z",
+      "timestamp": 1709268580923
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1-2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1986,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/0378-1097(86)90067-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          28
+        ]
+      ],
+      "date-time": "2002-12-28T01:18:52Z",
+      "timestamp": 1041038332000
+    },
+    "page": "103-107",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Cell envelope phospholipid changes in a moderate halophile during phenotypic adaptation to altered salinity and osmotic stress"
+    ],
+    "prefix": "10.1093",
+    "volume": "39",
+    "author": [
+      {
+        "given": "N",
+        "family": "Russell",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "FEMS Microbiology Letters"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2015-04-10T00:01:01Z",
+      "timestamp": 1428624061000
+    },
+    "score": 13.5085535,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1016/0378-1097(86)90067-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1986,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1-2",
+      "published-print": {
+        "date-parts": [
+          [
+            1986,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0378-1097(86)90067-4"
+    ],
+    "URL": "https://doi.org/10.1016/0378-1097(86)90067-4",
+    "ISSN": [
+      "0378-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1986,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T18:28:40Z",
+      "timestamp": 1763576920295,
+      "version": "3.45.0"
+    },
+    "reference-count": 43,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2025-01-05T00:00:00Z",
+          "timestamp": 1736035200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2025-01-05T00:00:00Z",
+          "timestamp": 1736035200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Protein J"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1007/s10930-024-10245-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2025-01-05T05:13:12Z",
+      "timestamp": 1736053992000
+    },
+    "page": "79-87",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Ferguson Plot Analysis of Chaperone ClpB from Moderate Halophile"
+    ],
+    "prefix": "10.1007",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Teruo",
+        "family": "Akuta",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yui",
+        "family": "Tomioka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tomoto",
+        "family": "Ura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Masataka",
+        "family": "Nakagawa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tsutomu",
+        "family": "Arakawa",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "4",
+        "key": "10245_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "499",
+        "DOI": "10.1002/elps.200600666",
+        "volume": "28",
+        "author": "KA Ferguson",
+        "year": "2007",
+        "unstructured": "Ferguson KA (2007) The origin of the Ferguson plot. Electrophoresis 28(4):499\u2013500. https://doi.org/10.1002/elps.200600666",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "10245_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "985",
+        "DOI": "10.1016/S0026-0495(64)80018-4",
+        "volume": "13",
+        "author": "KA Ferguson",
+        "year": "1964",
+        "unstructured": "Ferguson KA (1964) Starch-gel electrophoresis-application to the classification of pituitary proteins and polypeptides. Metabolism 13:985\u20131001. https://doi.org/10.1016/S0026-0495(64)80018-4",
+        "journal-title": "Metabolism"
+      },
+      {
+        "issue": "3",
+        "key": "10245_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "E564",
+        "DOI": "10.1208/aapsj080365",
+        "volume": "8",
+        "author": "JS Philo",
+        "year": "2006",
+        "unstructured": "Philo JS (2006) Is any measurement method optimal for all aggregate sizes and types? AAPS J 8(3):E564\u2013571. https://doi.org/10.1208/aapsj080365",
+        "journal-title": "AAPS J"
+      },
+      {
+        "key": "10245_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "143",
+        "DOI": "10.1016/S0091-679X(07)84006-4",
+        "volume": "84",
+        "author": "JC Cole",
+        "year": "2008",
+        "unstructured": "Cole JC, Larry JW, Moody TP, Laue TM (2008) Analytical ultracentrifugation: sedimentation velocity and sedimentation equilibrium. Methods Call Mol 84:143\u2013179. https://doi.org/10.1016/S0091-679X(07)84006-4",
+        "journal-title": "Methods Call Mol"
+      },
+      {
+        "key": "10245_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "209",
+        "DOI": "10.1016/s0076-6879(73)27012-x",
+        "volume": "27",
+        "author": "EP Pittz",
+        "year": "1973",
+        "unstructured": "Pittz EP, Lee JC, Bablouzian B, Townend R, Timasheff SN (1973) Light scattering and differential refractometry. Methods Enzymol 27:209\u2013256. https://doi.org/10.1016/s0076-6879(73)27012-x",
+        "journal-title": "Methods Enzymol"
+      },
+      {
+        "issue": "1",
+        "key": "10245_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1016/0167-4838(82)90370-3",
+        "volume": "706",
+        "author": "K Kameyama",
+        "year": "1982",
+        "unstructured": "Kameyama K, Nakae T, Takagi T (1982) Estimation of molecular weights of membrane proteins in the presence of SDS by low-angle laser light scattering combined with high-performance porous silica gel chromatography. Confirmation of the trimer structure of porin of the E. Coli outer membrane. Biochim Biophys Acta 706(1):19\u201326. https://doi.org/10.1016/0167-4838(82)90370-3",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "issue": "1",
+        "key": "10245_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1016/0003-2697(92)90042-6",
+        "volume": "203",
+        "author": "T Arakawa",
+        "year": "1992",
+        "unstructured": "Arakawa T, Langley KE, Kameyama K, Takagi T (1992) Molecular weights of glycosylated and nonglycosylated forms of recombinant human stem cell factor determined by low-angle laser light scattering. Anal Biochem 203(1):53\u201357. https://doi.org/10.1016/0003-2697(92)90042-6",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "issue": "2",
+        "key": "10245_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "427",
+        "DOI": "10.1016/s0003-9861(57)80019-8",
+        "volume": "66",
+        "author": "SN Timasheff",
+        "year": "1957",
+        "unstructured": "Timasheff SN, Tinoco I Jr (1957) Light scattering of isoionic conalbumin. Arch Biochem Biophys 66(2):427\u2013437. https://doi.org/10.1016/s0003-9861(57)80019-8",
+        "journal-title": "Arch Biochem Biophys"
+      },
+      {
+        "issue": "2",
+        "key": "10245_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.1006/abio.1996.0345",
+        "volume": "240",
+        "author": "J Wen",
+        "year": "1996",
+        "unstructured": "Wen J, Arakawa T, Philo JS (1996) Size-exclusion chromatography with on-line light scattering, absorbance, and refractive index detectors for studying proteins and their complexes. Anal Biochem 240(2):155\u2013166. https://doi.org/10.1006/abio.1996.0345",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "issue": "6387",
+        "key": "10245_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "423",
+        "DOI": "10.1126/science.aar5839",
+        "volume": "360",
+        "author": "G Young",
+        "year": "2018",
+        "unstructured": "Young G, Hundt N, Cole D, Fineberg A, Andrecka J, Tyler A, Olerinyova A, Ansari A, Marklund EG, Collier MP, Chandler SA, Tkachenko O, Allen J, Cripspin M, Billington N, Takagi Y, Sellers JR, Eichmann C, Selenko P, Frey L, Riek R, Galpin MR, Struwe WB, Benesch JLP, Kukura P (2018) Quantitative mass imaging of single biological macromolecules. Science 360(6387):423\u2013427. https://doi.org/10.1126/science.aar5839",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "3\u20134",
+        "key": "10245_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "403",
+        "DOI": "10.1007/s00249-021-01513-9",
+        "volume": "50",
+        "author": "D Wu",
+        "year": "2021",
+        "unstructured": "Wu D, Piszczek G (2021) Standard protocol for mass photometry experiments. Eur Biophys J 50(3\u20134):403\u2013409. https://doi.org/10.1007/s00249-021-01513-9",
+        "journal-title": "Eur Biophys J"
+      },
+      {
+        "key": "10245_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "114995",
+        "DOI": "10.1016/j.ab.2022.114995",
+        "volume": "662",
+        "author": "R Sato",
+        "year": "2023",
+        "unstructured": "Sato R, Tomioka Y, Sakuma C, Nakagawa M, Kurosawa Y, Shiba K, Arakawa T, Akuta T (2023) Detection of concentration-dependent conformational changes in SARS-CoV-2 nucleoprotein by agarose native gel electrophoresis. Anal Biochem 662:114995. https://doi.org/10.1016/j.ab.2022.114995",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "key": "10245_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "512",
+        "DOI": "10.1016/j.ijbiomac.2022.06.118",
+        "volume": "215",
+        "author": "Y Tomioka",
+        "year": "2022",
+        "unstructured": "Tomioka Y, Nakagawa M, Sakuma C, Nagatoishi S, Tsumoto K, Arakawa T, Akuta T (2022) Ladder observation of bovine serum albumin by high resolution agarose gel electrophoresis. Int J Biol Macromol 215:512\u2013520. https://doi.org/10.1016/j.ijbiomac.2022.06.118",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "10245_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "107095",
+        "DOI": "10.1016/j.bpc.2023.107095",
+        "volume": "301",
+        "author": "Y Tomioka",
+        "year": "2023",
+        "unstructured": "Tomioka Y, Nagatoishi S, Nakagawa M, Tsumoto K, Arakawa T, Akuta T (2023) Ferguson plot analysis of multiple intermediate species of thermally unfolded bovine serum albumin. Biophys Chem 301:107095. https://doi.org/10.1016/j.bpc.2023.107095",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "10245_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "107200",
+        "DOI": "10.1016/j.bpc.2024.107200",
+        "volume": "307",
+        "author": "Y Tomioka",
+        "year": "2024",
+        "unstructured": "Tomioka Y, Akuta T, Tokunaga M, Arakawa T (2024) Different behavior of Ferguson plot between agarose and polyacrylamide gels. Biophys Chem 307:107200. https://doi.org/10.1016/j.bpc.2024.107200",
+        "journal-title": "Biophys Chem"
+      },
+      {
+        "key": "10245_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "250",
+        "DOI": "10.34565/seibutsukogaku.101.5_250",
+        "volume": "101",
+        "author": "T Akuta",
+        "year": "2023",
+        "unstructured": "Akuta T, Tomioka Y, Nakagawa M, Shiba K, Takahashi R, Arakawa T (2023) Revisiting the Ferguson plot: a novel approach for analyzing agarose native gel electrophoresis. Seibutsukogaku 101:250\u2013257. https://doi.org/10.34565/seibutsukogaku.101.5_250",
+        "journal-title": "Seibutsukogaku"
+      },
+      {
+        "key": "10245_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "380",
+        "DOI": "10.3390/polysaccharides5030024",
+        "volume": "5",
+        "author": "T Arakawa",
+        "year": "2024",
+        "unstructured": "Arakawa T, Nakagawa M, Sakuma C, Tomioka Y, Kurosawa Y, Akuta T (2024) Polysaccharide as a separation medium for Gel Electrophoresis. Polysaccharides 5:380\u2013398. https://doi.org/10.3390/polysaccharides5030024",
+        "journal-title": "Polysaccharides"
+      },
+      {
+        "issue": "5",
+        "key": "10245_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "62",
+        "DOI": "10.3109/07388551.2015.1051942",
+        "volume": "36",
+        "author": "RC Mishra",
+        "year": "2016",
+        "unstructured": "Mishra RC, Grover A (2016) ClpB/Hsp100 proteins and heat stress tolerance in plants. Crit Rev Biotechnol 36(5):62\u2013874. https://doi.org/10.3109/07388551.2015.1051942",
+        "journal-title": "Crit Rev Biotechnol"
+      },
+      {
+        "key": "10245_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.11457/ssst.5.0_22",
+        "volume": "5",
+        "author": "M Tokunaga",
+        "year": "2025",
+        "unstructured": "Tokunaga M, Akuta T, Tokunaga Y, Tomioka Y, Arakawa T, Ishibashi M (2025) Agarose gel electrophoresis analysis of chemically cross-linked ClpB chaperone protein from moderate Halophile. Salt Seawater Sci Technol 5:22\u201326. https://doi.org/10.11457/ssst.5.0_22",
+        "journal-title": "Salt Seawater Sci Technol"
+      },
+      {
+        "key": "10245_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.3389/fmolb.2015.00022",
+        "volume": "2",
+        "author": "A Mogk",
+        "year": "2015",
+        "unstructured": "Mogk A, Kummer E, Bukau B (2015) Cooperation of Hsp70 and Hsp100 chaperone machines in protein disaggregation. Front Mol Biosci 2:22. https://doi.org/10.3389/fmolb.2015.00022",
+        "journal-title": "Front Mol Biosci"
+      },
+      {
+        "key": "10245_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1016/j.jinorgbio.2017.11.019",
+        "volume": "183",
+        "author": "I Moglia",
+        "year": "2018",
+        "unstructured": "Moglia I, Santiago M, Olivera-Nappa \u00c1, Soler M (2018) An optimized low-cost protocol for standardized production of iron-free apoferritin nanocages with high protein recovery and suitable conformation for nanotechnological applications. J Inorg Biochem 183:184\u2013190. https://doi.org/10.1016/j.jinorgbio.2017.11.019",
+        "journal-title": "J Inorg Biochem"
+      },
+      {
+        "key": "10245_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "668",
+        "DOI": "10.1016/j.ijbiomac.2019.08.066",
+        "volume": "140",
+        "author": "C Li",
+        "year": "2019",
+        "unstructured": "Li C, Arakawa T (2019) Agarose native gel electrophoresis. Int J Biol Macromol 140:668\u2013671. https://doi.org/10.1016/j.ijbiomac.2019.08.066",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "10245_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "885",
+        "DOI": "10.1016/j.ijbiomac.2020.02.185",
+        "volume": "151",
+        "author": "C Li",
+        "year": "2020",
+        "unstructured": "Li C, Akuta T, Nakagawa M, Sato T, Shibata T, Maruyama T, Okumura CJ, Kurosawa Y, Arakawa T (2020) Agarose native gel electrophoresis for characterization of antibodies. Int J Biol Macromol 151:885\u2013890. https://doi.org/10.1016/j.ijbiomac.2020.02.185",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "10245_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "1106",
+        "DOI": "10.1016/j.ijbiomac.2020.10.265",
+        "volume": "166",
+        "author": "C Sakuma",
+        "year": "2021",
+        "unstructured": "Sakuma C, Sato T, Shibata T, Nakagawa M, Kurosawa Y, Okumura CJ, Maruyama T, Arakawa T, Akuta T (2021) Western blotting analysis of proteins separated by agarose native gel electrophoresis. Int J Biol Macromol 166:1106\u20131110. https://doi.org/10.1016/j.ijbiomac.2020.10.265",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "10245_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "589",
+        "DOI": "10.1016/j.ijbiomac.2021.01.075",
+        "volume": "172",
+        "author": "C Sakuma",
+        "year": "2021",
+        "unstructured": "Sakuma C, Tomioka Y, Li C, Shibata T, Nakagawa M, Kurosawa Y, Arakawa T, Akuta T (2021) Analysis of protein denaturation, aggregation and post-tranlational modification by agarose native gel electrophoresis. Int J Biol Macromol 172:589\u2013596. https://doi.org/10.1016/j.ijbiomac.2021.01.075",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "10245_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "869",
+        "DOI": "10.1016/j.ijbiomac.2021.08.142",
+        "volume": "189",
+        "author": "M Nakagawa",
+        "year": "2021",
+        "unstructured": "Nakagawa M, Tomioka Y, Sakuma C, Sato R, Shibata T, Kurosawa Y, Sato Y, Ono Y, Arakawa T, Akuta T (2021) Optimization and application of silver staining of non-glycosylated and glycosylated proteins and nucleic acids for agarose native gel electrophoresis. Int J Biol Macromol 189:869\u2013878. https://doi.org/10.1016/j.ijbiomac.2021.08.142",
+        "journal-title": "Int J Biol Macromol"
+      },
+      {
+        "key": "10245_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "67",
+        "DOI": "10.1016/bs.mcb.2021.12.030",
+        "volume": "169",
+        "author": "T Arakawa",
+        "year": "2022",
+        "unstructured": "Arakawa T, Nakagawa M, Tomioka Y, Sakuma C, Li C, Sato T, Sato R, Shibata T, Kurosawa Y, Akuta T (2022) Gel-electrophoresis based method for biomolecular interaction. Methods Cell Biol 169:67\u201395. https://doi.org/10.1016/bs.mcb.2021.12.030",
+        "journal-title": "Methods Cell Biol"
+      },
+      {
+        "issue": "2",
+        "key": "10245_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "147",
+        "DOI": "10.1007/s12551-013-0107-1",
+        "volume": "5",
+        "author": "D Some",
+        "year": "2013",
+        "unstructured": "Some D (2013) Light-scattering-based analysis of biomolecular interactions. Biophys Rev 5(2):147\u2013158. https://doi.org/10.1007/s12551-013-0107-1",
+        "journal-title": "Biophys Rev"
+      },
+      {
+        "issue": "4",
+        "key": "10245_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "970",
+        "DOI": "10.1073/pnas.65.4.970",
+        "volume": "65",
+        "author": "D Rodbard",
+        "year": "1970",
+        "unstructured": "Rodbard D, Chrambach A (1970) Unified theory for gel electrophoresis and gel filtration. Proc Natl Acad Sci USA 65(4):970\u2013977. https://doi.org/10.1073/pnas.65.4.970",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "issue": "12",
+        "key": "10245_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "997",
+        "DOI": "10.1002/elps.1150121202",
+        "volume": "12",
+        "author": "E Gombocz",
+        "year": "1991",
+        "unstructured": "Gombocz E, Chrambach A (1991) Simultaneous Ferguson plot analysis, using electrophoresis on a single agarose pore gradient gel, of DNA fragments contained in a mixture. Electrophresis 12(12):997\u20131004. https://doi.org/10.1002/elps.1150121202",
+        "journal-title": "Electrophresis"
+      },
+      {
+        "issue": "2",
+        "key": "10245_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "410",
+        "DOI": "10.1016/0003-2697(71)90271-5",
+        "volume": "43",
+        "author": "AR Ugel",
+        "year": "1971",
+        "unstructured": "Ugel AR, Chrambach A, Rodbard D (1971) Fractionation and characterization of an oligomeric series of bovine keratohyalin by polyacrylamide gel electrophoresis. Anal Biochem 43(2):410\u2013426. https://doi.org/10.1016/0003-2697(71)90271-5",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "issue": "1",
+        "key": "10245_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.1002/elps.1150160104",
+        "volume": "16",
+        "author": "GW Slater",
+        "year": "1995",
+        "unstructured": "Slater GW, Guo HL (1995) Ogston gel electrophoretic sieving: how is the fractional volume available to a particle related to its mobility and diffusion coefficient(s)? Electrophoresis 16(1):11\u201315. https://doi.org/10.1002/elps.1150160104",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "issue": "5",
+        "key": "10245_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "442",
+        "DOI": "10.1021/acsmaterialsau.3c00018",
+        "volume": "3",
+        "author": "Y Kanakubo",
+        "year": "2023",
+        "unstructured": "Kanakubo Y, Watanabe C, Yamamoto J, Yanagisawa N, Sakuta H, Nikoubashman A, Yanagisawa M (2023) Cell-sized confinements alter molecular diffusion in concentrated polymer solutions due to length-dependent wetting of polymers. ACS Mater Au 3(5):442\u2013449. https://doi.org/10.1021/acsmaterialsau.3c00018",
+        "journal-title": "ACS Mater Au"
+      },
+      {
+        "issue": "5",
+        "key": "10245_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1093",
+        "DOI": "10.1007/s12551-022-01001-0",
+        "volume": "14",
+        "author": "M Yanagisawa",
+        "year": "2022",
+        "unstructured": "Yanagisawa M (2022) Cell-size space effects on phase separation of binary polymer blends. Biophys Rev 14(5):1093\u20131103. https://doi.org/10.1007/s12551-022-01001-0",
+        "journal-title": "Biophys Rev"
+      },
+      {
+        "issue": "5",
+        "key": "10245_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "485",
+        "DOI": "10.1515/BC.2006.064",
+        "volume": "387",
+        "author": "RJ Ellis",
+        "year": "2006",
+        "unstructured": "Ellis RJ, Minton AP (2006) Protein aggregation in crowded environments. Biol Chem 387(5):485\u2013497. https://doi.org/10.1515/BC.2006.064",
+        "journal-title": "Biol Chem"
+      },
+      {
+        "issue": "11",
+        "key": "10245_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "970",
+        "DOI": "10.1016/j.tibs.2016.08.013",
+        "volume": "41",
+        "author": "G Rivas",
+        "year": "2016",
+        "unstructured": "Rivas G, Minton AP (2016) Macromolecular crowding in vitro, in vivo, and in between. Trends Biochem Sci 41(11):970\u2013981. https://doi.org/10.1016/j.tibs.2016.08.013",
+        "journal-title": "Trends Biochem Sci"
+      },
+      {
+        "issue": "19",
+        "key": "10245_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "eadf5336",
+        "DOI": "10.1126/sciadv.adf5336",
+        "volume": "9",
+        "author": "A Gupta",
+        "year": "2023",
+        "unstructured": "Gupta A, Lentzsch AM, Siegel A, Yu Z, Chio US, Cheng Y, Shan SO (2023) Dodecamer assembly of a metazoan AAA+ chaperone couples substrate extraction to refolding. Sci Adv 9(19):eadf5336. https://doi.org/10.1126/sciadv.adf5336",
+        "journal-title": "Sci Adv"
+      },
+      {
+        "issue": "2",
+        "key": "10245_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "e3001987",
+        "DOI": "10.1371/journal.pbio.3001987",
+        "volume": "21",
+        "author": "D Wu",
+        "year": "2023",
+        "unstructured": "Wu D, Liu Y, Dai Y, Wang G, Lu G, Chen Y, Li N, Lin J, Gao N (2023) Comprehensive structural characterization of the human AAA\u2009+\u2009disaggregase CLPB in the apo- and substrate-bound states reveals a unique mode of action driven by oligomerization. PLoS Biol 21(2):e3001987. https://doi.org/10.1371/journal.pbio.3001987",
+        "journal-title": "PLoS Biol"
+      },
+      {
+        "issue": "12",
+        "key": "10245_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1991",
+        "DOI": "10.1021/bi101670s",
+        "volume": "50",
+        "author": "U del Castillo",
+        "year": "2011",
+        "unstructured": "del Castillo U, Alfonso C, Acebr\u00f3n SP, Martos A, Moro F, Rivas G, Muga A (2011) A quantitative analysis of the effect of nucleotides and the M domain on the association equilibrium of ClpB. Biochemistry 50(12):1991\u20132003. https://doi.org/10.1021/bi101670s",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "issue": "6348",
+        "key": "10245_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1126/science.aan1052",
+        "volume": "357",
+        "author": "SN Gates",
+        "year": "2017",
+        "unstructured": "Gates SN, Yokom AL, Lin J, Jackrel ME, Rizo AN, Kendsersky NM, Buell CE, Sweeny EA, Mack KL, Chuang E, Torrente MP, Su M, Shorter J, Southworth DR (2017) Ratchet-like polypeptide translocation mechanism of the AAA\u2009+\u2009disaggregase Hsp104. Science 357(6348):273\u2013279. https://doi.org/10.1126/science.aan1052",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "47",
+        "key": "10245_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "40486",
+        "DOI": "10.1074/jbc.M111.284448",
+        "volume": "286",
+        "author": "GM Walter",
+        "year": "2011",
+        "unstructured": "Walter GM, Smith MC, Wis\u00e9n S, Basrur V, Elenitoba-Johnson KS, Duennwald ML, Kumar A, Gestwicki JE (2011) Ordered assembly of heat shock proteins, Hsp26, Hsp70, Hsp90, and Hsp104, on expanded polyglutamine fragments revealed by chemical probes. J Biol Chem 286(47):40486\u201340493. https://doi.org/10.1074/jbc.M111.284448",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "issue": "1",
+        "key": "10245_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "2147",
+        "DOI": "10.1038/s41467-018-04587-w",
+        "volume": "9",
+        "author": "T Uchihashi",
+        "year": "2018",
+        "unstructured": "Uchihashi T, Watanabe YH, Nakazaki Y, Yamasaki T, Watanabe H, Maruno T, Ishii K, Uchiyama S, Song C, Murata K, Iino R, Ando T (2018) Dynamic structural states of ClpB involved in its disaggregation function. Nat Commun 9(1):2147. https://doi.org/10.1038/s41467-018-04587-w",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "issue": "6644",
+        "key": "10245_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "741",
+        "DOI": "10.1038/41944",
+        "volume": "388",
+        "author": "Z Xu",
+        "year": "1997",
+        "unstructured": "Xu Z, Horwich AL, Sigler PB (1997) The crystal structure of the asymmetric GroEL-GroES-(ADP)7 chaperonin complex. Nature 388(6644):741\u2013750. https://doi.org/10.1038/41944",
+        "journal-title": "Nature"
+      }
+    ],
+    "container-title": [
+      "The Protein Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10930-024-10245-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10930-024-10245-6/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10930-024-10245-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T06:27:57Z",
+      "timestamp": 1740119277000
+    },
+    "score": 13.5003,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s10930-024-10245-6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          5
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10245"
+    ],
+    "URL": "https://doi.org/10.1007/s10930-024-10245-6",
+    "ISSN": [
+      "1572-3887",
+      "1875-8355"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1572-3887"
+      },
+      {
+        "type": "electronic",
+        "value": "1875-8355"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "16 December 2024",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 January 2025",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing Interests"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T04:47:56Z",
+      "timestamp": 1768884476519,
+      "version": "3.49.0"
+    },
+    "publisher-location": "Dordrecht",
+    "reference-count": 27,
+    "publisher": "Springer Netherlands",
+    "isbn-type": [
+      {
+        "value": "9789401074216",
+        "type": "print"
+      },
+      {
+        "value": "9789400920538",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-94-009-2053-8_26",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2011-09-28T03:01:22Z",
+      "timestamp": 1317178882000
+    },
+    "page": "167-175",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "Salinity tolerance of different halophyte types"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Siegmar-W.",
+        "family": "Breckle",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "26_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1007/BF00345893",
+        "volume": "21",
+        "author": "R Albert",
+        "year": "1975",
+        "unstructured": "Albert R 1975 Salt regulation in halophytes. Oecologia (Berlin) 21, 57\u201371.",
+        "journal-title": "Oecologia"
+      },
+      {
+        "key": "26_CR2",
+        "first-page": "33",
+        "volume-title": "Pflanzen\u00f6kologie und Mineralstoffwechsel",
+        "author": "R Albert",
+        "year": "1982",
+        "unstructured": "Albert R 1982 Halophyten. In Pflanzen\u00f6kologie und Mineralstoffwechsel. Ed. H Kinzel, pp 33\u2013213. Ulmer, Stuttgart."
+      },
+      {
+        "key": "26_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1016/S0044-328X(73)80057-1",
+        "volume": "70",
+        "author": "R Albert",
+        "year": "1973",
+        "unstructured": "Albert R and Kinzel H 1973 Unterscheidung von Physiotypen bei Halophyten des Neusiedlerseegebietes (\u00d6sterreich). Z. Pflanzenphysiol. 70, 138\u2013157.",
+        "journal-title": "Z. Pflanzenphysiol."
+      },
+      {
+        "key": "26_CR4",
+        "volume-title": "Zur \u00d6kologie und zu den Mineralstoffverh\u00e4ltnissen absalzender und nichtabsalzender Xero-Halophyten in Utah",
+        "author": "SW Breckle",
+        "year": "1976",
+        "unstructured": "Breckle S W 1976 Zur \u00d6kologie und zu den Mineralstoffverh\u00e4ltnissen absalzender und nichtabsalzender Xero-Halophyten in Utah, USA. Diss. Bot. 35, Vaduz, 169 p."
+      },
+      {
+        "key": "26_CR5",
+        "first-page": "203",
+        "volume": "89B",
+        "author": "SW Breckle",
+        "year": "1986",
+        "unstructured": "Breckle S W 1986 Studies on halophytes from Iran and Afghanistan. II. Ecology of halophytes along salt gradients. Proc. Roy. Soc. Edinb. 89B, 203\u2013215.",
+        "journal-title": "Proc. Roy. Soc. Edinb."
+      },
+      {
+        "key": "26_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "291",
+        "DOI": "10.1086/394660",
+        "volume": "17",
+        "author": "VJ Chapman",
+        "year": "1942",
+        "unstructured": "Chapman V J 1942 The new perspective in the halophyte. Quart. Rev. Biol. 17, 291\u2013311.",
+        "journal-title": "Quart. Rev. Biol."
+      },
+      {
+        "key": "26_CR7",
+        "first-page": "279",
+        "volume": "101",
+        "author": "P Duvigneaud",
+        "year": "1968",
+        "unstructured": "Duvigneaud P and Denayer de Smet S 1968 Essai de classification chimique (\u00e9l\u00e9ments mineraux) des plantes gypsicoles du bassin de l\u2019Ebre. Bull. Soc. R. Bot. Belg. 101, 279\u2013291.",
+        "journal-title": "Bull. Soc. R. Bot. Belg."
+      },
+      {
+        "key": "26_CR8",
+        "first-page": "559",
+        "volume": "36",
+        "author": "M Eijk van",
+        "year": "1939",
+        "unstructured": "Eijk M van 1939 Analyse der Wirkung des NaCl auf die Entwicklung, Sukkulenz und Transpiration bei Salicornia herbacea sowie Untersuchungen \u00fcber den Einflu\u00df der Salzaufnahme auf die Wurzelatmung bei Aster tripolium. Extr. Rec. Trav. Bot. Neerland. 36, 559\u2013657.",
+        "journal-title": "Extr. Rec. Trav. Bot. Neerland."
+      },
+      {
+        "key": "26_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1097/00010694-195307000-00002",
+        "volume": "76",
+        "author": "PM Harmer",
+        "year": "1953",
+        "unstructured": "Harmer P M, Benne E J, Laughlin W M and Key C 1953 Factors affecting crop response to sodium applied as common salt on Michigan muck soil. Soil Sci. 76, 1\u201317.",
+        "journal-title": "Soil Sci."
+      },
+      {
+        "key": "26_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/S0065-2113(08)60745-2",
+        "volume": "1",
+        "author": "HE Hayward",
+        "year": "1949",
+        "unstructured": "Hayward H E and Wadley C H 1949 Plant growth on saline and alkali soils. Adv. Agron. 1, 1\u201338.",
+        "journal-title": "Adv. Agron."
+      },
+      {
+        "key": "26_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1016/S0044-328X(74)80174-1",
+        "volume": "74",
+        "author": "H Hedenstr\u00f6m von",
+        "year": "1974",
+        "unstructured": "Hedenstr\u00f6m H von and Breckle S W 1974 Obligate halophytes? A test with tissue culture methods. Z. Pflanzenphysiol. 74, 183\u2013185.",
+        "journal-title": "Z. Pflanzenphysiol."
+      },
+      {
+        "key": "26_CR12",
+        "first-page": "154",
+        "volume": "30",
+        "author": "PA Henkel",
+        "year": "1945",
+        "unstructured": "Henkel P A and Shakhov A A 1945 The ecological significance of the water regime of certain halophytes (In Russian). Bot. Zh. 30, 154\u2013166.",
+        "journal-title": "Bot. Zh."
+      },
+      {
+        "key": "26_CR13",
+        "volume-title": "Responses of Plants to Environmental Stresses",
+        "author": "J Levitt",
+        "year": "1980",
+        "unstructured": "Levitt J 1980 Responses of Plants to Environmental Stresses, 2 vols. (2nd ed.), Acad. Press, New York.",
+        "edition": "2"
+      },
+      {
+        "key": "26_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "443",
+        "DOI": "10.1111/j.1399-3054.1986.tb05948.x",
+        "volume": "66",
+        "author": "E Malkin",
+        "year": "1986",
+        "unstructured": "Malkin E and Waisel Y 1986 Mass selection for salt resistance in Rhodes grass (Chloris gayana). Physiol. Plant. 66, 443\u2013446.",
+        "journal-title": "Physiol. Plant."
+      },
+      {
+        "key": "26_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "62",
+        "DOI": "10.1104/pp.45.1.62",
+        "volume": "45",
+        "author": "A Mozafar",
+        "year": "1970",
+        "unstructured": "Mozafar A and Goodin J R 1970 Vesiculated hairs: A mechanism for salt tolerance in Atriplex halimus. Plant Physiol. 45, 62\u201365.",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "26_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "195",
+        "DOI": "10.1002/jpln.19761390207",
+        "volume": "2",
+        "author": "JJ Oertli",
+        "year": "1976",
+        "unstructured": "Oertli J J 1976 The physiology of salt injury in plant production. Z. Pflanzenernaehr. Bodenkd. 2, 195\u2013202.",
+        "journal-title": "Z. Pflanzenernaehr. Bodenkd."
+      },
+      {
+        "key": "26_CR17",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-642-67637-6",
+        "volume-title": "Physiological Processes in Plant Ecology: Towards a Synthesis with Atriplex",
+        "author": "CB Osmond",
+        "year": "1980",
+        "unstructured": "Osmond C B, Bj\u00f6rkman O and Anderson D 1980 Physiological Processes in Plant Ecology: Towards a Synthesis with Atriplex. Ecol. Studies 36, Springer-Verlag, Berlin, 468 p."
+      },
+      {
+        "key": "26_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1016/S0367-2530(17)30324-9",
+        "volume": "180",
+        "author": "C Reimann",
+        "year": "1987",
+        "unstructured": "Reimann C and Breckle S W 1987a Salt secretion in some Chenopodium species. Flora 180, 289\u2013296.",
+        "journal-title": "Flora"
+      },
+      {
+        "key": "26_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1016/S0367-2530(17)30323-7",
+        "volume": "180",
+        "author": "C Reimann",
+        "year": "1987",
+        "unstructured": "Reimann C and Breckle S W 1987b Anatomie und Entwicklung der Blasenhaare von Chenopodium Arten. Flora 180, 275\u2013288.",
+        "journal-title": "Flora"
+      },
+      {
+        "key": "26_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "311",
+        "DOI": "10.2134/agronj1959.00021962005100060001x",
+        "volume": "51",
+        "author": "G Repp",
+        "year": "1959",
+        "unstructured": "Repp G, McAlister D R and Wiebe H H 1959 Salt resistance of protoplasm as a test for the salt tolerance of agricultural plants. Agron. J. 51, 311\u2013314.",
+        "journal-title": "Agron. J."
+      },
+      {
+        "key": "26_CR21",
+        "first-page": "209",
+        "volume": "10",
+        "author": "G Repp",
+        "year": "1964",
+        "unstructured": "Repp G 1964 L\u2019\u00c9cophysiologie des Halophytes au Niveau Cellulaire. Bull. Soc. Franc. Physiol. V\u00e9g\u00e9t. 10, 209\u2013227.",
+        "journal-title": "Bull. Soc. Franc. Physiol. V\u00e9g\u00e9t."
+      },
+      {
+        "key": "26_CR22",
+        "volume-title": "Diagnosis and Improvement of Saline and Alkali Soils",
+        "year": "1954",
+        "unstructured": "Richards L A (ed.) 1954 Diagnosis and Improvement of Saline and Alkali Soils. USDA Handbook No. 60, Washington, DC, 160 p."
+      },
+      {
+        "key": "26_CR23",
+        "series-title": "Tasks for Vegetation Science",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1007/978-94-009-8037-2_15",
+        "volume-title": "Contributions to the ecology of Halophytes",
+        "author": "U Schirmer",
+        "year": "1982",
+        "unstructured": "Schirmer U and Breckle S W 1982 The role of bladders for salt removal in some Chenopodiaceae, mainly Atriplex-species. Contributions to the ecology of Halophytes, Tasks for Vegetation Science, vol. 2. Eds. D N Sen and K S Rajpurohit. pp 215\u2013231. Junk, The Hague."
+      },
+      {
+        "key": "26_CR24",
+        "first-page": "915",
+        "volume": "14",
+        "author": "VA Soloviev",
+        "year": "1967",
+        "unstructured": "Soloviev V A 1967 Pathways of regulation of the content of excess absorbed ions in plant tissues (with sodium ions as an example). Sov. Plant. Physiol. 14, 915\u2013923 (In Russian: Fiziol. Rasten. 14, 1093\u20131103.",
+        "journal-title": "Sov. Plant. Physiol."
+      },
+      {
+        "key": "26_CR25",
+        "first-page": "365",
+        "volume": "3",
+        "author": "O Stocker",
+        "year": "1928",
+        "unstructured": "Stocker O 1928 Das Halophytenproblem. Ergeb. Biol. 3, 365\u2013353.",
+        "journal-title": "Ergeb. Biol."
+      },
+      {
+        "key": "26_CR26",
+        "first-page": "1",
+        "volume": "70",
+        "author": "E Tsopa",
+        "year": "1939",
+        "unstructured": "Tsopa E 1939 La v\u00e9g\u00e9tation des halophytes du nord de la Roumanie en connexion avec celle du reste du pays. S.I.G.M.A., Montpellier 70, 1\u201322.",
+        "journal-title": "S.I.G.M.A., Montpellier"
+      },
+      {
+        "key": "26_CR27",
+        "volume-title": "Thesis Bielefeld",
+        "author": "W Wiehe",
+        "year": "1986",
+        "unstructured": "Wiehe W 1986 Untersuchungen zur Salzrekretion bei ausgew\u00e4hlten Limonium-Arten. Dipl. Thesis Bielefeld, 136 p."
+      }
+    ],
+    "container-title": [
+      "Genetic Aspects of Plant Mineral Nutrition"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-94-009-2053-8_26",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          7
+        ]
+      ],
+      "date-time": "2019-04-07T23:48:16Z",
+      "timestamp": 1554680896000
+    },
+    "score": 13.485202,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-94-009-2053-8_26"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789401074216",
+      "9789400920538"
+    ],
+    "references-count": 27,
+    "URL": "https://doi.org/10.1007/978-94-009-2053-8_26",
+    "published": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T13:42:45Z",
+      "timestamp": 1761745365650,
+      "version": "build-2065373602"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2009-09-01T00:00:00Z",
+          "timestamp": 1251763200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2009-09-01T00:00:00Z",
+          "timestamp": 1251763200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "New Biotechnology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.nbt.2009.06.280",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          8,
+          27
+        ]
+      ],
+      "date-time": "2009-08-27T02:45:48Z",
+      "timestamp": 1251341148000
+    },
+    "page": "S57-S58",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "Characterization of NaCl-activated proteinases from moderate halophile isolated from fish sauce fermentation"
+    ],
+    "prefix": "10.1016",
+    "volume": "25",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Sinsuwan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "S.",
+        "family": "Rodtong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J.",
+        "family": "Yongsawatdigul",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "New Biotechnology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S187167840900380X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S187167840900380X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T09:47:06Z",
+      "timestamp": 1761731226000
+    },
+    "score": 13.477758,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S187167840900380X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S187167840900380X"
+    ],
+    "URL": "https://doi.org/10.1016/j.nbt.2009.06.280",
+    "ISSN": [
+      "1871-6784"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1871-6784"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Characterization of NaCl-activated proteinases from moderate halophile isolated from fish sauce fermentation",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "New Biotechnology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.nbt.2009.06.280",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright \u00a9 2009 Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2025-09-19T21:29:40Z",
+      "timestamp": 1758317380876,
+      "version": "3.44.0"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2024-03-01T00:00:00Z",
+          "timestamp": 1709251200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2024-03-01T00:00:00Z",
+          "timestamp": 1709251200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2024-03-25T00:00:00Z",
+          "timestamp": 1711324800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 24,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "jbc.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Biological Chemistry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jbc.2024.106154",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2024-03-25T17:50:35Z",
+      "timestamp": 1711389035000
+    },
+    "page": "106154",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "Abstract 1265 Mutants on Mars: Directed Evolution of Halophile Enzyme Activity"
+    ],
+    "prefix": "10.1016",
+    "volume": "300",
+    "author": [
+      {
+        "given": "Caroline",
+        "family": "Quinn",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Emma",
+        "family": "Proffitt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kenneth",
+        "family": "Mills",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Journal of Biological Chemistry"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0021925824005301?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0021925824005301?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2025-09-19T00:50:23Z",
+      "timestamp": 1758243023000
+    },
+    "score": 13.473798,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0021925824005301"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0021925824005301"
+    ],
+    "URL": "https://doi.org/10.1016/j.jbc.2024.106154",
+    "ISSN": [
+      "0021-9258"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0021-9258"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Abstract 1265 Mutants on Mars: Directed Evolution of Halophile Enzyme Activity",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Biological Chemistry",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jbc.2024.106154",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright \u00a9 2024 The American Society for Biochemistry and Molecular Biology, Inc. Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "106154"
+  },
+  {
+    "institution": [
+      {
+        "name": "Research Square"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T06:48:36Z",
+      "timestamp": 1747205316650,
+      "version": "3.40.5"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ]
+    },
+    "group-title": "In Review",
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              21
+            ]
+          ],
+          "date-time": "2020-10-21T00:00:00Z",
+          "timestamp": 1603238400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          24
+        ]
+      ]
+    },
+    "abstract": "<title>Abstract</title>\n        <p><bold>Background:</bold> Anther development affects the reproduction of flowering plants. Halophyte<italic> Elaeagnus angustifolia</italic> can bear fruits when grown in saline soils. However, no fruits are born in non-saline soils. The possible reasons and differences in <italic>E. angustifolia</italic> under two conditions were elucidated.<bold>Results:</bold> We examined features including pollen vitality and germination, in situ pollen germination after natural and hand pollination, anthers after pollen release, and the transcriptome in anthers. No significant difference was observed in pollen vitality or stigma receptivity in <italic>E. angustifolia</italic> in non-saline vs. saline habitats. However, no pollen tubes were present in styles, and pollen grains were abundant in <italic>E. angustifolia</italic> anthers under non-saline conditions. Notably, many pollen tubes formed in styles of <italic>E. angustifolia</italic> after hand pollination in the non-saline habitat. And the differentially expressed genes in anthers from saline vs. non-saline habitats were mainly related to phytohormones, cell wall secondary thickening, transcription factors and ion transport.<bold>Conclusions: </bold><italic>E. angustifolia</italic> fail to form fruits in non-saline habitats due to poor anther pollen release. The induction and coordinated upregulation of genes related to anther cell wall formation and JA biosynthesis likely contribute to anther dehiscence in <italic>E. angustifolia</italic> in saline habitats, whereas anther dehiscence is blocked in plants grown in non-saline habitats.</p>",
+    "DOI": "10.21203/rs.3.rs-48371/v2",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2020-10-21T18:20:56Z",
+      "timestamp": 1603304456000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Blocked pollen release prevents fruit formation in the halophyte Elaeagnus angustifolia in non-saline habitats"
+    ],
+    "prefix": "10.21203",
+    "author": [
+      {
+        "given": "Jianrong",
+        "family": "Guo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Shandong Normal University"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0991-9190",
+        "authenticated-orcid": false,
+        "given": "Baoshan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shandong Normal University"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-48371/v2",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-48371/v2.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2022-07-29T00:02:04Z",
+      "timestamp": 1659052924000
+    },
+    "score": 13.467965,
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-48371/v2"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.21203/rs.3.rs-48371/v2",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.envexpbot.2021.104566",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+]

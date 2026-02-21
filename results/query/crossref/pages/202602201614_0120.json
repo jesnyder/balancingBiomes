@@ -1,0 +1,5359 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2026-01-26T10:18:08Z",
+      "timestamp": 1769422688255,
+      "version": "3.49.0"
+    },
+    "reference-count": 86,
+    "publisher": "MDPI AG",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              21
+            ]
+          ],
+          "date-time": "2023-03-21T00:00:00Z",
+          "timestamp": 1679356800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "PID2021-124750NB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-124750NB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "TED2021-131605B-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "TED2021-131605B-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "PID2021-122353OB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-122353OB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER Una manera de hacer Europa",
+        "award": [
+          "UID/MULTI/04046/2019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UID/MULTI/04046/2019"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "PID2021-124750NB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-124750NB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "TED2021-131605B-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "TED2021-131605B-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "PID2021-122353OB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-122353OB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NextGeneration EU",
+        "award": [
+          "UID/MULTI/04046/2019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UID/MULTI/04046/2019"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "PID2021-124750NB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-124750NB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "TED2021-131605B-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "TED2021-131605B-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "PID2021-122353OB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-122353OB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCIN/AEI/10.13039/501100011033/FEDER, UE",
+        "award": [
+          "UID/MULTI/04046/2019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UID/MULTI/04046/2019"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "PID2021-124750NB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-124750NB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "TED2021-131605B-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "TED2021-131605B-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "PID2021-122353OB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-122353OB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia (FCT)",
+        "award": [
+          "UID/MULTI/04046/2019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UID/MULTI/04046/2019"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "PID2021-124750NB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-124750NB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "TED2021-131605B-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "TED2021-131605B-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "PID2021-122353OB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-122353OB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aquatic Research Network Associated Laboratory",
+        "award": [
+          "UID/MULTI/04046/2019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UID/MULTI/04046/2019"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "PID2021-124750NB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-124750NB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "TED2021-131605B-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "TED2021-131605B-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "PID2021-122353OB-I00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2021-122353OB-I00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BioISI",
+        "award": [
+          "UID/MULTI/04046/2019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UID/MULTI/04046/2019"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Plants"
+    ],
+    "abstract": "<jats:p>In this work, we studied the combined effect of increased temperature and atmospheric CO2, salt and drought stress, and inoculation with plant-growth-promoting rhizobacteria (PGPR) on the growth and some nutritional parameters of the edible halophyte Salicornia ramosissima. We found that the increase in temperature and atmospheric CO2, combined with salt and drought stresses, led to important changes in S. ramosissima fatty acids (FA), phenols, and oxalate contents, which are compounds of great importance for human health. Our results suggest that the S. ramosissima lipid profile will change in a future climate change scenario, and that levels of oxalate and phenolic compounds may change in response to salt and drought stress. The effect of inoculation with PGPR depended on the strains used. Some strains induced the accumulation of phenols in S. ramosissima leaves at higher temperature and CO2 while not altering FA profile but also led to an accumulation of oxalate under salt stress. In a climate change scenario, a combination of stressors (temperature, salinity, drought) and environmental conditions (atmospheric CO2, PGPR) will lead to important changes in the nutritional profiles of edible plants. These results may open new perspectives for the nutritional and economical valorization of S. ramosissima.</jats:p>",
+    "DOI": "10.3390/plants12061395",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2023-03-22T06:00:01Z",
+      "timestamp": 1679464801000
+    },
+    "page": "1395",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Interactive Temperature and CO2 Rise, Salinity, Drought, and Bacterial Inoculation Alter the Content of Fatty Acids, Total Phenols, and Oxalates in the Edible Halophyte Salicornia ramosissima"
+    ],
+    "prefix": "10.3390",
+    "volume": "12",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8450-7906",
+        "authenticated-orcid": false,
+        "given": "Jennifer",
+        "family": "Mesa-Mar\u00edn",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, 41012 Seville, Spain"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6276-5664",
+        "authenticated-orcid": false,
+        "given": "Enrique",
+        "family": "Mateos-Naranjo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, 41012 Seville, Spain"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1110-488X",
+        "authenticated-orcid": false,
+        "given": "Jo\u00e3o",
+        "family": "Carreiras",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MARE\u2014Marine and Environmental Sciences Centre, ARNET\u2014Aquatic Research Infrastructure Network Associated Laboratory, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7109-7925",
+        "authenticated-orcid": false,
+        "given": "Eduardo",
+        "family": "Feij\u00e3o",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MARE\u2014Marine and Environmental Sciences Centre, ARNET\u2014Aquatic Research Infrastructure Network Associated Laboratory, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1914-7435",
+        "authenticated-orcid": false,
+        "given": "Bernardo",
+        "family": "Duarte",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MARE\u2014Marine and Environmental Sciences Centre, ARNET\u2014Aquatic Research Infrastructure Network Associated Laboratory, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          },
+          {
+            "name": "Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3495-2195",
+        "authenticated-orcid": false,
+        "given": "Ana Rita",
+        "family": "Matos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          },
+          {
+            "name": "BioISI\u2014Biosystems and Integrative Sciences Institute, Plant Functional Genomics Group, Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7334-5734",
+        "authenticated-orcid": false,
+        "given": "Marco",
+        "family": "Betti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Bioqu\u00edmica Vegetal y Biolog\u00eda Molecular, Facultad de Qu\u00edmica, Universidad de Sevilla, 41012 Sevilla, Spain"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2332-2216",
+        "authenticated-orcid": false,
+        "given": "Carmen",
+        "family": "Del Rio",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Biomedicine of Seville (IBiS), Hospital Universitario Virgen del Roc\u00edo, CSIC, Universidad de Sevilla, 41013 Seville, Spain"
+          }
+        ]
+      },
+      {
+        "given": "Marina",
+        "family": "Romero-Bernal",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Biomedicine of Seville (IBiS), Hospital Universitario Virgen del Roc\u00edo, CSIC, Universidad de Sevilla, 41013 Seville, Spain"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4845-2279",
+        "authenticated-orcid": false,
+        "given": "Joan",
+        "family": "Montaner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Biomedicine of Seville (IBiS), Hospital Universitario Virgen del Roc\u00edo, CSIC, Universidad de Sevilla, 41013 Seville, Spain"
+          },
+          {
+            "name": "Department of Neurology, Hospital Universitario Virgen Macarena, 41009 Seville, Spain"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5280-9325",
+        "authenticated-orcid": false,
+        "given": "Susana",
+        "family": "Redondo-G\u00f3mez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, 41012 Seville, Spain"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          21
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "102308",
+        "DOI": "10.1016/j.pbi.2022.102308",
+        "article-title": "Climate change challenges plant breeding",
+        "volume": "70",
+        "author": "Xiong",
+        "year": "2022",
+        "journal-title": "Curr. Opin. Plant Biol."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1111/j.1469-8137.2008.02531.x",
+        "article-title": "Salinity tolerance in halophytes",
+        "volume": "179",
+        "author": "Flowers",
+        "year": "2008",
+        "journal-title": "New Phytol."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1080/07352689991309207",
+        "article-title": "Salt Tolerance and Crop Potential of Halophytes",
+        "volume": "18",
+        "author": "Glenn",
+        "year": "1999",
+        "journal-title": "CRC Crit. Rev. Plant Sci."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.3390/agriculture9010014",
+        "article-title": "Glassworts: From wild salt marsh species to sustainable edible crops",
+        "volume": "9",
+        "author": "Loconsole",
+        "year": "2019",
+        "journal-title": "Agriculture"
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1016/j.tifs.2018.02.006",
+        "article-title": "Edible halophytes of the Mediterranean basin: Potential candidates for novel food products",
+        "volume": "74",
+        "author": "Petropoulos",
+        "year": "2018",
+        "journal-title": "Trends Food Sci. Technol."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Khan, M.A., and Weber, D.J. (2006). Ecophysiology of High Salinity Tolerant Plants, Springer.",
+        "DOI": "10.1007/1-4020-4018-0"
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1007/s13205-016-0418-6",
+        "article-title": "Salicornia: Evaluating the halophytic extremophile as a food and a pharmaceutical candidate",
+        "volume": "6",
+        "author": "Patel",
+        "year": "2016",
+        "journal-title": "3 Biotech"
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1093/aob/mcu173",
+        "article-title": "The development of halophyte-based agriculture: Past and present",
+        "volume": "115",
+        "author": "Ventura",
+        "year": "2015",
+        "journal-title": "Ann. Bot."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/j.jfca.2017.02.003",
+        "article-title": "Halophytes: Gourmet food with nutritional health benefits?",
+        "volume": "59",
+        "author": "Barreira",
+        "year": "2017",
+        "journal-title": "J. Food Compos. Anal."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.1016/j.envexpbot.2012.07.010",
+        "article-title": "Halophyte crop cultivation: The case for Salicornia and Sarcocornia",
+        "volume": "92",
+        "author": "Ventura",
+        "year": "2013",
+        "journal-title": "Environ. Exp. Bot."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hasanuzzaman, M., Shabala, S., and Fujita, M. (2019). Halophytes and Climate Change: Adaptive Mechanisms and Potential Uses, CABI.",
+        "DOI": "10.1079/9781786394330.0000"
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1016/j.phytochem.2018.05.015",
+        "article-title": "Polar lipidome profiling of Salicornia ramosissima and Halimione portulacoides and the relevance of lipidomics for the valorization of halophytes",
+        "volume": "153",
+        "author": "Maciel",
+        "year": "2018",
+        "journal-title": "Phytochemistry"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "7954",
+        "DOI": "10.3390/molecules27227954",
+        "article-title": "Overview of the Polyphenols in Salicornia: From Recovery to Health-Promoting Effect",
+        "volume": "27",
+        "author": "Limongelli",
+        "year": "2022",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_14",
+        "first-page": "1153",
+        "article-title": "Halophytes as Possible Source of Antioxidant Compounds, in a Scenario Based on Threatened Agriculture and Food Crisis",
+        "volume": "44",
+        "author": "Grigore",
+        "year": "2015",
+        "journal-title": "Iran J. Public Health"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/j.scienta.2011.02.001",
+        "article-title": "Effect of seawater concentration on the productivity and nutritional value of annual Salicornia and perennial Sarcocornia halophytes as leafy vegetable crops",
+        "volume": "128",
+        "author": "Ventura",
+        "year": "2011",
+        "journal-title": "Sci. Hortic. (Amst.)"
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1023/A:1007988815888",
+        "article-title": "Nutritional and toxic factors in selected wild edible plants",
+        "volume": "51",
+        "author": "Guil",
+        "year": "1997",
+        "journal-title": "Plant Foods Hum. Nutr."
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1016/S0044-328X(78)80256-6",
+        "article-title": "The Influence of Alkaline Earths on the Oxalate Content of Salicornia europaea L.",
+        "volume": "88",
+        "author": "Austenfeld",
+        "year": "1978",
+        "journal-title": "Z. F\u00fcr Pflanzenphysiol."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1146/annurev.arplant.56.032604.144106",
+        "article-title": "Calcium oxalate in plants: Formation and function",
+        "volume": "56",
+        "author": "Franceschi",
+        "year": "2005",
+        "journal-title": "Annu. Rev. Plant Biol."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "901",
+        "DOI": "10.1016/S0168-9452(03)00120-1",
+        "article-title": "Advances in our understanding of calcium oxalate crystal formation and function in plants",
+        "volume": "164",
+        "author": "Nakata",
+        "year": "2003",
+        "journal-title": "Plant Sci."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/j.envexpbot.2014.11.010",
+        "article-title": "Functional biology of halophytes in the phytoremediation of heavy metal contaminated soils",
+        "volume": "111",
+        "author": "Maggio",
+        "year": "2015",
+        "journal-title": "Environ. Exp. Bot."
+      },
+      {
+        "key": "ref_21",
+        "unstructured": "IPCC (2014). Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1007/s11284-006-0008-x",
+        "article-title": "Salicornia ramosissima population dynamics and tolerance of salinity",
+        "volume": "22",
+        "author": "Silva",
+        "year": "2007",
+        "journal-title": "Ecol. Res."
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1016/j.plaphy.2018.12.003",
+        "article-title": "Investigating the physiological mechanisms underlying Salicornia ramosissima response to atmospheric CO2 enrichment under coexistence of prolonged soil flooding and saline excess",
+        "volume": "135",
+        "author": "Duarte",
+        "year": "2019",
+        "journal-title": "Plant Physiol. Biochem."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1016/j.plaphy.2018.04.041",
+        "article-title": "Disentangling the effect of atmospheric CO2 enrichment on the halophyte Salicornia ramosissima J. Woods physiological performance under optimal and suboptimal saline conditions",
+        "volume": "127",
+        "author": "Idaszkin",
+        "year": "2018",
+        "journal-title": "Plant Physiol. Biochem."
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "659",
+        "DOI": "10.1038/s41598-018-37346-4",
+        "article-title": "Impact of short-term extreme temperature events on physiological performance of Salicornia ramosissima J. Woods under optimal and sub-optimal saline conditions",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "126560",
+        "DOI": "10.1016/j.foodchem.2020.126560",
+        "article-title": "Halophyte plants from sustainable marine aquaponics are a valuable source of omega-3 polar lipids",
+        "volume": "320",
+        "author": "Maciel",
+        "year": "2020",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "127525",
+        "DOI": "10.1016/j.foodchem.2020.127525",
+        "article-title": "Influence of cultivation salinity in the nutritional composition, antioxidant capacity and microbial quality of Salicornia ramosissima commercially produced in soilless systems",
+        "volume": "333",
+        "author": "Lima",
+        "year": "2020",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hasanuzzaman, M., Shabala, S., and Fujita, M. (2019). Halophytes and Climate Change: Adaptive Mechanisms and Potential Uses, CAB International.",
+        "DOI": "10.1079/9781786394330.0000"
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chebotar, V.K., Chizhevskaya, E.P., Baganova, M.E., Keleinikova, O.V., Yuzikhin, O.S., Zaplatkin, A.N., Khonina, O.V., Kostitsin, R.D., and Lapenko, N.G. (2022). Endophytes from Halotolerant Plants Aimed to Overcome Salinity and Draught. Plants, 11.",
+        "DOI": "10.3390/plants11212992"
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carreiras, J., Ca\u00e7ador, I., and Duarte, B. (2022). Bioaugmentation Improves Phytoprotection in Halimione portulacoides Exposed to Mild Salt Stress: Perspectives for Salinity Tolerance Improvement. Plants, 11.",
+        "DOI": "10.20944/preprints202203.0174.v1"
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "552",
+        "DOI": "10.3389/fmicb.2020.00552",
+        "article-title": "Halotolerant Marine Rhizosphere-Competent Actinobacteria Promote Salicornia bigelovii Growth and Seed Production Using Seawater Irrigation",
+        "volume": "11",
+        "author": "Mathew",
+        "year": "2020",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1007/s00374-020-01450-3",
+        "article-title": "Polyamine-producing actinobacteria enhance biomass production and seed yield in Salicornia bigelovii",
+        "volume": "56",
+        "author": "ElBaghdady",
+        "year": "2020",
+        "journal-title": "Biol. Fertil. Soils"
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1694",
+        "DOI": "10.3389/fmicb.2019.01694",
+        "article-title": "Growth promotion of Salicornia bigelovii by Micromonospora chalcea UAE1, an endophytic 1-aminocyclopropane-1-carboxylic acid deaminase-producing actinobacterial isolate",
+        "volume": "10",
+        "author": "AlKhajeh",
+        "year": "2019",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1007/s003740000246",
+        "article-title": "Growth promotion of the seawater-irrigated oilseed halophyte Salicornia bigelovii inoculated with mangrove rhizosphere bacteria and halotolerant Azospirillum spp.",
+        "volume": "32",
+        "author": "Bashan",
+        "year": "2000",
+        "journal-title": "Biol. Fertil. Soils"
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "first-page": "5278",
+        "DOI": "10.5897/AJB12.2750",
+        "article-title": "Ameliorative effects of salt resistance on physiological parameters in the halophyte Salicornia bigelovii torr. with plant growth-promoting rhizobacteria",
+        "volume": "12",
+        "author": "Prabhaharan",
+        "year": "2013",
+        "journal-title": "Afr. J. Biotechnol."
+      },
+      {
+        "key": "ref_36",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1016/j.apsoil.2019.02.022",
+        "article-title": "Improved growth and salinity tolerance of the halophyte Salicornia sp. by co\u2013inoculation with endophytic and rhizosphere bacteria",
+        "volume": "138",
+        "author": "Alikhani",
+        "year": "2019",
+        "journal-title": "Appl. Soil Ecol."
+      },
+      {
+        "key": "ref_37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mesa-Mar\u00edn, J., P\u00e9rez-Romero, J.A., Mateos-Naranjo, E., Bernabeu-Meana, M., Pajuelo, E., Rodr\u00edguez-Llorente, I.D., and Redondo-G\u00f3mez, S. (2019). Effect of Plant Growth-Promoting Rhizobacteria on Salicornia ramosissima Seed Germination under Salinity, CO2 and Temperature Stress. Agronomy, 9.",
+        "DOI": "10.3390/agronomy9100655"
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "553018",
+        "DOI": "10.3389/fmicb.2020.553018",
+        "article-title": "Impact of Plant Growth Promoting Bacteria on Salicornia ramosissima Ecophysiology and Heavy Metal Phytoremediation Capacity in Estuarine Soils",
+        "volume": "11",
+        "author": "Pajuelo",
+        "year": "2020",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maia, M., Cavaco, A.R., Laureano, G., Cunha, J., Eiras-Dias, J., Matos, A.R., Duarte, B., and Figueiredo, A. (2021). More than just wine: The nutritional benefits of grapevine leaves. Foods, 10.",
+        "DOI": "10.3390/foods10102251"
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1016/j.ecolind.2017.12.050",
+        "article-title": "Halophyte fatty acids as biomarkers of anthropogenic-driven contamination in Mediterranean marshes: Sentinel species survey and development of an integrated biomarker response (IBR) index",
+        "volume": "87",
+        "author": "Duarte",
+        "year": "2018",
+        "journal-title": "Ecol. Indic."
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/0021-9673(95)00414-9",
+        "article-title": "Identification of fatty acids in edible wild plants by gas chromatography",
+        "volume": "719",
+        "author": "Guil",
+        "year": "1996",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "first-page": "4210",
+        "DOI": "10.1021/jf0114132",
+        "article-title": "Analytical characterization of Salicornia bigelovii seed oil cultivated in Pakistan",
+        "volume": "50",
+        "author": "Anwar",
+        "year": "2002",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1016/j.foodchem.2014.05.117",
+        "article-title": "Lipophilic profile of the edible halophyte Salicornia ramosissima",
+        "volume": "165",
+        "author": "Isca",
+        "year": "2014",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_44",
+        "first-page": "72",
+        "article-title": "Phytochemical Investigation of Salicornia fruticosa (L.) And Their Biological Activity",
+        "volume": "2",
+        "author": "Radwan",
+        "year": "2007",
+        "journal-title": "Res. J. Med. Med. Sci."
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.9790/5736-0450609",
+        "article-title": "Oil and Fatty Acids Composition in Glasswort (Salicornia Fruticosa) Seeds",
+        "volume": "4",
+        "author": "Elsebaie",
+        "year": "2013",
+        "journal-title": "IOSR J. Appl. Chem."
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/0014-5793(85)80876-0",
+        "article-title": "Isolation and characterisation of a photosystem II reaction centre lipoprotein complex",
+        "volume": "188",
+        "author": "Gounaris",
+        "year": "1985",
+        "journal-title": "FEBS Lett."
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "623",
+        "DOI": "10.1007/s11099-010-0080-x",
+        "article-title": "Increase in unsaturated fatty acids in membrane lipids of Suaeda salsa L. enhances protection of photosystem II under high salinity",
+        "volume": "48",
+        "author": "Sui",
+        "year": "2010",
+        "journal-title": "Photosynthetica"
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1111/plb.12517",
+        "article-title": "Disentangling the photochemical salinity tolerance in Aster tripolium L.: Connecting biophysical traits with changes in fatty acid composition",
+        "volume": "19",
+        "author": "Duarte",
+        "year": "2017",
+        "journal-title": "Plant Biol."
+      },
+      {
+        "key": "ref_49",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1016/j.bbabio.2011.04.008",
+        "article-title": "The role of lipids in photosystem II",
+        "volume": "1817",
+        "author": "Mizusawa",
+        "year": "2012",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "967",
+        "DOI": "10.1007/s10529-008-9639-z",
+        "article-title": "Fatty acid unsaturation, mobilization, and regulation in the response of plants to stress",
+        "volume": "30",
+        "author": "Upchurch",
+        "year": "2008",
+        "journal-title": "Biotechnol. Lett."
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1343",
+        "DOI": "10.1016/S0031-9422(97)00159-3",
+        "article-title": "Cadmium- and copper-induced changes in tomato membrane lipids",
+        "volume": "45",
+        "author": "Ouariti",
+        "year": "1997",
+        "journal-title": "Phytochemistry"
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1016/S0005-2728(05)80214-2",
+        "article-title": "Restoration of thylakoid appression by \u03943-trans-hexadecenoic acid-containing phosphatidylglycerol in a mutant of Chlamydomonas reinhardtii. Relationships with the regulation of excitation energy distribution",
+        "volume": "1059",
+        "author": "Roche",
+        "year": "1991",
+        "journal-title": "BBA\u2014Bioenerg."
+      },
+      {
+        "key": "ref_53",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1016/j.plaphy.2018.01.007",
+        "article-title": "Leaf fatty acid remodeling in the salt-excreting halophytic grass Spartina patens along a salinity gradient",
+        "volume": "124",
+        "author": "Duarte",
+        "year": "2018",
+        "journal-title": "Plant Physiol. Biochem."
+      },
+      {
+        "key": "ref_54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Antunes, M.D., Gago, C., Guerreiro, A., Sousa, A.R., Juli\u00e3o, M., Miguel, M.G., Faleiro, M.L., and Panagopoulos, T. (2021). Nutritional Characterization and Storage Ability of Salicornia ramosissima and Sarcocornia perennis for Fresh Vegetable Salads. Horticulturae, 7.",
+        "DOI": "10.3390/horticulturae7010006"
+      },
+      {
+        "key": "ref_55",
+        "doi-asserted-by": "crossref",
+        "first-page": "922",
+        "DOI": "10.1071/FP12315",
+        "article-title": "Halophyte anti-oxidant feedback seasonality in two salt marshes with different degrees of metal contamination: Search for an efficient biomarker",
+        "volume": "40",
+        "author": "Duarte",
+        "year": "2013",
+        "journal-title": "Funct. Plant Biol."
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1016/j.foodcont.2012.11.006",
+        "article-title": "Phytochemical investigation of Tunisian Salicornia herbacea L., antioxidant, antimicrobial and cytochrome P450 (CYPs) inhibitory activities of its methanol extract",
+        "volume": "32",
+        "author": "Essaidi",
+        "year": "2013",
+        "journal-title": "Food Control"
+      },
+      {
+        "key": "ref_57",
+        "doi-asserted-by": "crossref",
+        "first-page": "2245",
+        "DOI": "10.1007/s10068-015-0299-1",
+        "article-title": "Evaluation and comparison of functional properties of freshwater-cultivated glasswort (Salicornia herbacea L.) with naturally-grown glasswort",
+        "volume": "24",
+        "author": "Kang",
+        "year": "2015",
+        "journal-title": "Food Sci. Biotechnol."
+      },
+      {
+        "key": "ref_58",
+        "first-page": "129",
+        "article-title": "Optimization of ultrasound-assisted extraction of phenolic compounds from Salicornia herbacea powder",
+        "volume": "14",
+        "author": "Kim",
+        "year": "2009",
+        "journal-title": "J. Food Sci. Nutr."
+      },
+      {
+        "key": "ref_59",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.plaphy.2020.05.021",
+        "article-title": "Chloride salinity in a chloride-sensitive plant: Focusing on photosynthesis, hormone synthesis and transduction in tobacco",
+        "volume": "153",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "Plant Physiol. Biochem."
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1556/018.67.2016.2.7",
+        "article-title": "Changes in antioxidant enzymes activities and proline, total phenol and anthocyanine contents in Hyssopus officinalis L. plants under salt stress",
+        "volume": "67",
+        "author": "Jahantigh",
+        "year": "2016",
+        "journal-title": "Acta Biol. Hung."
+      },
+      {
+        "key": "ref_61",
+        "first-page": "1121",
+        "article-title": "Interactive effects of elevated CO2, temperature and water stress on Apera spica-venti L.",
+        "volume": "11",
+        "author": "Sakalauskiene",
+        "year": "2013",
+        "journal-title": "J. Food Agric. Environ."
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "first-page": "151589",
+        "DOI": "10.1016/j.flora.2020.151589",
+        "article-title": "Salinity responses of three halophytes from inland saltmarshes of Ja\u00e9n (southern Spain)",
+        "volume": "266",
+        "author": "Bueno",
+        "year": "2020",
+        "journal-title": "Flora"
+      },
+      {
+        "key": "ref_63",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Khan, M.A., B\u00f6er, B., \u00d6zt\u00fcrk, M., Zahran Al Abdessalaam, T., Cl\u00fcsener-Godt, M., and Gul, B. (2014). Sabkha Ecosystems Volume IV: Cash Crop Halophyte and Biodiversity Conservation, Springer.",
+        "DOI": "10.1007/978-94-007-7411-7"
+      },
+      {
+        "key": "ref_64",
+        "doi-asserted-by": "crossref",
+        "first-page": "151425",
+        "DOI": "10.1016/j.flora.2019.151425",
+        "article-title": "Ecophysiological adaptations and anti-nutritive status of sustainable cattle feed Haloxylon stocksii under saline conditions",
+        "volume": "257",
+        "author": "Ehsen",
+        "year": "2019",
+        "journal-title": "Flora"
+      },
+      {
+        "key": "ref_65",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.18520/cs/v115/i1/129-135",
+        "article-title": "Responses of selected C3 and C4 halophytes to elevated CO2 concentration under salinity",
+        "volume": "115",
+        "author": "Jothiramshekar",
+        "year": "2018",
+        "journal-title": "Curr. Sci."
+      },
+      {
+        "key": "ref_66",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1007/s10452-019-09678-4",
+        "article-title": "The influence of elevated CO2 on Vallisneria spiralis, Radix auricularia, and their plant\u2013herbivore interaction",
+        "volume": "53",
+        "author": "Lv",
+        "year": "2019",
+        "journal-title": "Aquat. Ecol."
+      },
+      {
+        "key": "ref_67",
+        "doi-asserted-by": "crossref",
+        "first-page": "450",
+        "DOI": "10.1093/jpe/rtab013",
+        "article-title": "Effects of elevated temperature on chemistry of an invasive plant, its native congener and their herbivores",
+        "volume": "15",
+        "author": "Liu",
+        "year": "2022",
+        "journal-title": "J. Plant Ecol."
+      },
+      {
+        "key": "ref_68",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1007/s11829-016-9422-3",
+        "article-title": "Elevated CO2 influences host plant defense response in chickpea against Helicoverpa armigera",
+        "volume": "10",
+        "author": "Sharma",
+        "year": "2016",
+        "journal-title": "Arthropod. Plant. Interact."
+      },
+      {
+        "key": "ref_69",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Atif, M.J., Amin, B., Ghani, M.I., Ali, M., and Cheng, Z. (2020). Variation in morphological and quality parameters in garlic (Allium sativum L.) bulb influenced by different photoperiod, temperature, sowing and harvesting time. Plants, 9.",
+        "DOI": "10.3390/plants9020155"
+      },
+      {
+        "key": "ref_70",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1016/j.envexpbot.2012.10.010",
+        "article-title": "The effect of combined salinity and waterlogging on the halophyte Suaeda maritima: The role of antioxidants",
+        "volume": "87",
+        "author": "Alhdad",
+        "year": "2013",
+        "journal-title": "Environ. Exp. Bot."
+      },
+      {
+        "key": "ref_71",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1080/1343943X.2019.1598272",
+        "article-title": "Oxalate contents in leaves of two rice cultivars grown at a free-air CO2 enrichment (FACE) site",
+        "volume": "22",
+        "author": "Miyagi",
+        "year": "2019",
+        "journal-title": "Plant Prod. Sci."
+      },
+      {
+        "key": "ref_72",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1046/j.1365-2486.1998.00111.x",
+        "article-title": "Responses of multiple generations of Gastrophysa viridula, feeding on Rumex obtusifolius, to elevated CO2",
+        "volume": "4",
+        "author": "Brooks",
+        "year": "1998",
+        "journal-title": "Glob. Chang. Biol."
+      },
+      {
+        "key": "ref_73",
+        "doi-asserted-by": "crossref",
+        "first-page": "769",
+        "DOI": "10.1080/01904169809365441",
+        "article-title": "Some aspects of salinity, plant density, and nutrient effects on Cressa cretica L.",
+        "volume": "21",
+        "author": "Khan",
+        "year": "1998",
+        "journal-title": "J. Plant Nutr."
+      },
+      {
+        "key": "ref_74",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1016/S0015-3796(17)30962-9",
+        "article-title": "Correlation of Substrate Salinity and Ion Concentration in Salicornia europaea L. with Special Reference to Oxalate",
+        "volume": "165",
+        "author": "Austenfeld",
+        "year": "1974",
+        "journal-title": "Biochem. Und Physiol. Der Pflanz."
+      },
+      {
+        "key": "ref_75",
+        "doi-asserted-by": "crossref",
+        "first-page": "44759",
+        "DOI": "10.1007/s11356-022-18895-8",
+        "article-title": "Kochia scoparia L., a newfound candidate halophyte, for phytoremediation of cadmium-contaminated saline soils",
+        "volume": "29",
+        "author": "Shi",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res."
+      },
+      {
+        "key": "ref_76",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Redondo-G\u00f3mez, S., Mesa-Mar\u00edn, J., P\u00e9rez-Romero, J.A., L\u00f3pez-Jurado, J., Garc\u00eda-L\u00f3pez, J.V., Mariscal, V., Molina-Heredia, F.P., Pajuelo, E., Rodr\u00edguez-Llorente, I.D., and Flowers, T.J. (2021). Consortia of plant-growth-promoting rhizobacteria isolated from halophytes improve response of eight crops to soil salinization and climate change conditions. Agronomy, 11.",
+        "DOI": "10.3390/agronomy11081609"
+      },
+      {
+        "key": "ref_77",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1016/j.sajb.2020.04.001",
+        "article-title": "Phytochemical response of Stevia plant to growth promoting microorganisms under salinity stress",
+        "volume": "134",
+        "author": "Forouzi",
+        "year": "2020",
+        "journal-title": "S. Afr. J. Bot."
+      },
+      {
+        "key": "ref_78",
+        "doi-asserted-by": "crossref",
+        "first-page": "174",
+        "DOI": "10.1016/j.copbio.2011.08.007",
+        "article-title": "Polyphenols as antimicrobial agents",
+        "volume": "23",
+        "author": "Daglia",
+        "year": "2012",
+        "journal-title": "Curr. Opin. Biotechnol."
+      },
+      {
+        "key": "ref_79",
+        "doi-asserted-by": "crossref",
+        "first-page": "1783",
+        "DOI": "10.1128/AEM.69.3.1783-1790.2003",
+        "article-title": "Kinetics and strain specificity of rhizosphere and endophytic colonization by enteric bacteria on seedlings of Medicago sativa and Medicago truncatula",
+        "volume": "69",
+        "author": "Dong",
+        "year": "2003",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "ref_80",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1104/pp.15.00284",
+        "article-title": "Bacterial Modulation of Plant Ethylene Levels",
+        "volume": "169",
+        "author": "Gamalero",
+        "year": "2015",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "ref_81",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nies, D., and Silver, S. (2007). Molecular Microbiology of Heavy Metals, Springer.",
+        "DOI": "10.1007/978-3-540-69771-8"
+      },
+      {
+        "key": "ref_82",
+        "doi-asserted-by": "crossref",
+        "first-page": "1450",
+        "DOI": "10.3389/fmicb.2015.01450",
+        "article-title": "Endophytic Cultivable Bacteria of the Metal Bioaccumulator Spartina maritima Improve Plant Growth but Not Metal Uptake in Polluted Marshes Soils",
+        "volume": "6",
+        "author": "Mesa",
+        "year": "2015",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "ref_83",
+        "doi-asserted-by": "crossref",
+        "first-page": "3713",
+        "DOI": "10.1007/s11356-013-2364-8",
+        "article-title": "Prospecting metal-resistant plant-growth promoting rhizobacteria for rhizoremediation of metal contaminated estuaries using Spartina densiflora",
+        "volume": "21",
+        "author": "Parra",
+        "year": "2014",
+        "journal-title": "Environ. Sci. Pollut. Res. Int."
+      },
+      {
+        "key": "ref_84",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1016/j.marpolbul.2016.06.070",
+        "article-title": "Isolation of plant-growth-promoting and metal-resistant cultivable bacteria from Arthrocnemum macrostachyum in the Odiel marshes with potential use in phytoremediation",
+        "volume": "110",
+        "author": "Caviedes",
+        "year": "2016",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "ref_85",
+        "doi-asserted-by": "crossref",
+        "first-page": "150",
+        "DOI": "10.1016/j.marpolbul.2014.11.002",
+        "article-title": "Scouting contaminated estuaries: Heavy metal resistant and plant growth promoting rhizobacteria in the native metal rhizoaccumulator Spartina maritima",
+        "volume": "90",
+        "author": "Mesa",
+        "year": "2015",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "ref_86",
+        "doi-asserted-by": "crossref",
+        "first-page": "e10387",
+        "DOI": "10.7717/peerj.10387",
+        "article-title": "Comparing multiple comparisons: Practical guidance for choosing the best multiple comparisons test",
+        "volume": "8",
+        "author": "Midway",
+        "year": "2020",
+        "journal-title": "PeerJ"
+      }
+    ],
+    "container-title": [
+      "Plants"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2223-7747/12/6/1395/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2025-10-10T18:59:58Z",
+      "timestamp": 1760122798000
+    },
+    "score": 2.280898,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2223-7747/12/6/1395"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          21
+        ]
+      ]
+    },
+    "references-count": 86,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "plants12061395"
+    ],
+    "URL": "https://doi.org/10.3390/plants12061395",
+    "ISSN": [
+      "2223-7747"
+    ],
+    "issn-type": [
+      {
+        "value": "2223-7747",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T03:17:46Z",
+      "timestamp": 1768533466375,
+      "version": "3.49.0"
+    },
+    "reference-count": 240,
+    "publisher": "MDPI AG",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              26
+            ]
+          ],
+          "date-time": "2023-05-26T00:00:00Z",
+          "timestamp": 1685059200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "iNOVA4Health",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MARE",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Associate Laboratories LS4FUTURE",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARNET",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Innovation, Technology, and Circular Economy Fund (FITEC)",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Portuguese Mass Spectrometry Network",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "UIDB/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "UIDP/04462/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04462/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "UIDB/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "UIDP/04292/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDP/04292/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "LA/P/0087/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0087/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "LA/P/0069/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LA/P/0069/2020"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "EXPL/ASP-AGR/1655/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXPL/ASP-AGR/1655/2021"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "LISBOA-01-0145-FEDER-402- 022125"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LISBOA-01-0145-FEDER-402- 022125"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "researcher contract",
+        "award": [
+          "2022.01746.CEECIND"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022.01746.CEECIND"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Antioxidants"
+    ],
+    "abstract": "<jats:p>The use of halophyte plants appears as a potential solution for degraded soil, food safety, freshwater scarcity, and coastal area utilization. These plants have been considered an alternative crop soilless agriculture for sustainable use of natural resources. There are few studies carried out with cultivated halophytes using a soilless cultivation system (SCS) that report their nutraceutical value, as well as their benefits on human health. The objective of this study was to evaluate and correlate the nutritional composition, volatile profile, phytochemical content, and biological activities of seven halophyte species cultivated using a SCS (Disphyma crassifolium L., Crithmum maritimum L., Inula crithmoides L., Mesembryanthemum crystallinum L., Mesembryanthemum nodiflorum L., Salicornia ramosissima J. Woods, and Sarcocornia fruticosa (Mill.) A. J. Scott.). Among these species, results showed that S. fruticosa had a higher content in protein (4.44 g/100 g FW), ash (5.70 g/100 g FW), salt (2.80 g/100 g FW), chloride (4.84 g/100 g FW), minerals (Na, K, Fe, Mg, Mn, Zn, Cu), total phenolics (0.33 mg GAE/g FW), and antioxidant activity (8.17 \u00b5mol TEAC/g FW). Regarding the phenolic classes, S. fruticosa and M. nodiflorum were predominant in the flavonoids, while M. crystallinum, C. maritimum, and S. ramosissima were in the phenolic acids. Moreover, S. fruticosa,\u00a0S. ramosissima, M. nodiflorum, M. crystallinum, and I. crithmoides showed ACE-inhibitory activity, an important target control for hypertension. Concerning the volatile profile, C. maritimum, I. crithmoides, and D. crassifolium were abundant in terpenes and esters, while M. nodiflorum, S. fruticosa, and M. crystallinum were richer in alcohols and aldehydes, and S. ramosissima was richer in aldehydes. Considering the environmental and sustainable roles of cultivated halophytes using a SCS, these results indicate that these species could be considered an alternative to conventional table salt, due to their added nutritional and phytochemical composition, with potential contribution for the antioxidant and anti-hypertensive effects.</jats:p>",
+    "DOI": "10.3390/antiox12061161",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2023-05-27T16:10:53Z",
+      "timestamp": 1685203853000
+    },
+    "page": "1161",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Soilless Cultivated Halophyte Plants: Volatile, Nutritional, Phytochemical, and Biological Differences"
+    ],
+    "prefix": "10.3390",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Sheila C.",
+        "family": "Oliveira-Alves",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "iBET, Instituto de Biologia Experimental e Tecnol\u00f3gica, Apartado 12, 2781-901 Oeiras, Portugal"
+          },
+          {
+            "name": "ITQB-NOVA, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Av. da Rep\u00fablica, 2780-157 Oeiras, Portugal"
+          }
+        ]
+      },
+      {
+        "given": "F\u00e1bio",
+        "family": "Andrade",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "iBET, Instituto de Biologia Experimental e Tecnol\u00f3gica, Apartado 12, 2781-901 Oeiras, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-1764-9745",
+        "authenticated-orcid": false,
+        "given": "Jo\u00e3o",
+        "family": "Sousa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "iBET, Instituto de Biologia Experimental e Tecnol\u00f3gica, Apartado 12, 2781-901 Oeiras, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3047-0586",
+        "authenticated-orcid": false,
+        "given": "Andreia",
+        "family": "Bento-Silva",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculdade de Farm\u00e1cia, Universidade de Lisboa, Av. Gama Pinto, 1649-003 Lisboa, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1914-7435",
+        "authenticated-orcid": false,
+        "given": "Bernardo",
+        "family": "Duarte",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MARE\u2014Marine and Environmental Sciences Centre & ARNET\u2013Aquatic Research Network Associated Laboratory, Faculdade de Ci\u00eancias da Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          },
+          {
+            "name": "Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisboa, Portugal"
+          }
+        ]
+      },
+      {
+        "given": "Isabel",
+        "family": "Ca\u00e7ador",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MARE\u2014Marine and Environmental Sciences Centre & ARNET\u2013Aquatic Research Network Associated Laboratory, Faculdade de Ci\u00eancias da Universidade de Lisboa, Campo Grande, 1749-016 Lisbon, Portugal"
+          },
+          {
+            "name": "Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisboa, Portugal"
+          }
+        ]
+      },
+      {
+        "given": "Miguel",
+        "family": "Salazar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Riafresh, S\u00edtio do Besouro, CX 547-B, 8005-421 Faro, Portugal"
+          },
+          {
+            "name": "MED\u2014Mediterranean Institute for Agriculture, Environment and Development, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2340-6244",
+        "authenticated-orcid": false,
+        "given": "Elsa",
+        "family": "Mecha",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "iBET, Instituto de Biologia Experimental e Tecnol\u00f3gica, Apartado 12, 2781-901 Oeiras, Portugal"
+          },
+          {
+            "name": "ITQB-NOVA, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Av. da Rep\u00fablica, 2780-157 Oeiras, Portugal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8618-8299",
+        "authenticated-orcid": false,
+        "given": "Ana Teresa",
+        "family": "Serra",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "iBET, Instituto de Biologia Experimental e Tecnol\u00f3gica, Apartado 12, 2781-901 Oeiras, Portugal"
+          },
+          {
+            "name": "ITQB-NOVA, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Av. da Rep\u00fablica, 2780-157 Oeiras, Portugal"
+          }
+        ]
+      },
+      {
+        "given": "Maria Ros\u00e1rio",
+        "family": "Bronze",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "iBET, Instituto de Biologia Experimental e Tecnol\u00f3gica, Apartado 12, 2781-901 Oeiras, Portugal"
+          },
+          {
+            "name": "ITQB-NOVA, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Av. da Rep\u00fablica, 2780-157 Oeiras, Portugal"
+          },
+          {
+            "name": "Faculdade de Farm\u00e1cia, Universidade de Lisboa, Av. Gama Pinto, 1649-003 Lisboa, Portugal"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "829",
+        "DOI": "10.3389/fpls.2017.00829",
+        "article-title": "Halophytes: Potential Resources for Salt Stress Tolerance Genes and Promoters",
+        "volume": "8",
+        "author": "Mishra",
+        "year": "2017",
+        "journal-title": "Front Plant Sci."
+      },
+      {
+        "key": "ref_2",
+        "unstructured": "FAO (2022). Proceedings of the Global Symposium on Salt-Affected Soils, FAO."
+      },
+      {
+        "key": "ref_3",
+        "unstructured": "FAO (2022, January 17). Global Map of Salt-Affected Soils. GSASmap. Available online: https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-map-of-salt-affected-soils/en/."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "plv020",
+        "DOI": "10.1093/aobpla/plv020",
+        "article-title": "Introduction to the Special Issue: Halophytes in a changing world",
+        "volume": "7",
+        "author": "Flowers",
+        "year": "2015",
+        "journal-title": "AoB Plants"
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1111/j.1469-8137.2008.02531.x",
+        "article-title": "Salinity tolerance in halophytes",
+        "volume": "179",
+        "author": "Flowers",
+        "year": "2008",
+        "journal-title": "New Phytol."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Duarte, B., and Ca\u00e7ador, I. (2021). Iberian Halophytes as Agroecological Solutions for Degraded Lands and Biosaline Agriculture. Sustainability, 13.",
+        "DOI": "10.3390/su13021005"
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "127536",
+        "DOI": "10.1016/j.foodchem.2020.127536",
+        "article-title": "Wild vs cultivated halophytes: Nutritional and functional differences",
+        "volume": "333",
+        "author": "Oliveira",
+        "year": "2020",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "922",
+        "DOI": "10.1071/FP12315",
+        "article-title": "Halophyte anti-oxidant feedback seasonality in two salt marshes with different degrees of metal contamination: Search for an efficient biomarker",
+        "volume": "40",
+        "author": "Duarte",
+        "year": "2013",
+        "journal-title": "Funct. Plant Biol."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1661",
+        "DOI": "10.1016/j.envpol.2009.12.004",
+        "article-title": "Accumulation and biological cycling of heavy metal in four salt marsh species from Tagus Estuary (Portugal)",
+        "volume": "158",
+        "author": "Duarte",
+        "year": "2010",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/j.jfca.2017.02.003",
+        "article-title": "Halophytes: Gourmet food with nutritional health benefits?",
+        "volume": "59",
+        "author": "Barreira",
+        "year": "2017",
+        "journal-title": "J. Food Compos. Anal."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Oliveira-Alves, S.C., Andrade, F., Prazeres, I., Silva, A.B., Capelo, J., Duarte, B., Ca\u00e7ador, I., Coelho, J., Serra, A.T., and Bronze, M.R. (2021). Impact of Drying Processes on the Nutritional Composition, Volatile Profile, Phytochemical Content and Bioactivity of Salicornia ramosissima. J. Woods. Antioxidants, 10.",
+        "DOI": "10.3390/antiox10081312"
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Calvo, M.M., Mart\u00edn-Diana, A.B., Rico, D., L\u00f3pez-Caballero, M.E., and Mart\u00ednez-\u00c1lvarez, O. (2022). Antioxidant, Antihypertensive, Hypoglycaemic and Nootropic Activity of a Polyphenolic Extract from the Halophyte Ice Plant (Mesembryanthemum crystallinum). Foods, 11.",
+        "DOI": "10.3390/foods11111581"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.1016/j.plaphy.2013.03.004",
+        "article-title": "Ecophysiological adaptations of two halophytes to salt stress: Photosynthesis, PS II photochemistry and anti-oxidant feedback\u2014Implications for resilience in climate change",
+        "volume": "67",
+        "author": "Duarte",
+        "year": "2013",
+        "journal-title": "Plant Physiol. Biochem."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.3389/fpls.2014.00746",
+        "article-title": "Biophysical and biochemical constraints imposed by salt stress: Learning from halophytes",
+        "volume": "5",
+        "author": "Duarte",
+        "year": "2014",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1038/jhh.2014.46",
+        "article-title": "The effect of chlorogenic acid on blood pressure: A systematic review and meta-analysis of randomized clinical trials",
+        "volume": "29",
+        "author": "Onakpoya",
+        "year": "2015",
+        "journal-title": "J. Hum. Hypertens."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/j.coph.2019.04.014",
+        "article-title": "Flavonoids in hypertension: A brief review of the underlying mechanisms",
+        "volume": "45",
+        "author": "Maaliki",
+        "year": "2019",
+        "journal-title": "Curr. Opin. Pharmacol."
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "328",
+        "DOI": "10.1016/j.apsb.2013.07.003",
+        "article-title": "Chemical constituents and ACE inhibitory activity of desert plant Suaeda physophora Pall",
+        "volume": "3",
+        "author": "Men",
+        "year": "2013",
+        "journal-title": "Acta Pharm. Sin. B"
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "650",
+        "DOI": "10.1007/s11418-017-1095-4",
+        "article-title": "Phytochemical profile and angiotensin I converting enzyme (ACE) inhibitory activity of Limonium michelsonii Lincz",
+        "volume": "71",
+        "author": "Jenis",
+        "year": "2017",
+        "journal-title": "J. Nat. Med."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Akinniyi, G., Lee, J., Kim, H., Lee, J.-G., and Yang, I. (2022). A Medicinal Halophyte Ipomoea pes-caprae (Linn.) R. Br.: A Review of Its Botany, Traditional Uses, Phytochemistry, and Bioactivity. Mar. Drugs, 20.",
+        "DOI": "10.3390/md20050329"
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.1016/j.jpba.2016.08.029",
+        "article-title": "Angiotensin I-converting enzyme (ACE) inhibitory activity of Fucus spiralis macroalgae and influence of the extracts storage temperature\u2014A short report",
+        "volume": "131",
+        "author": "Paiva",
+        "year": "2016",
+        "journal-title": "J. Pharm. Biomed. Anal."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "112781",
+        "DOI": "10.1016/j.jep.2020.112781",
+        "article-title": "Polyphenols composition from leaves of Cuphea spp. and inhibitor potential, in vitro, of angiotensin I-converting enzyme (ACE)",
+        "volume": "255",
+        "author": "Santos",
+        "year": "2020",
+        "journal-title": "J. Ethnopharmacol."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "410",
+        "DOI": "10.1161/01.HYP.0000205119.19804.08",
+        "article-title": "Prehypertension, diabetes, and cardiovascular disease risk in a population-based sample: The strong heart study",
+        "volume": "47",
+        "author": "Zhang",
+        "year": "2006",
+        "journal-title": "Hypertension"
+      },
+      {
+        "key": "ref_23",
+        "unstructured": "AOAC Association of Official Analytical Chemists (2012). Official Methods of Analysis of AOAC International, AOAC International. [19th ed.]."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "106816",
+        "DOI": "10.1016/j.ecolind.2020.106816",
+        "article-title": "Halophyte bio-optical phenotyping: A multivariate photochemical pressure index (Multi-PPI) to classify salt marsh anthropogenic pressures levels",
+        "volume": "119",
+        "author": "Kletschkus",
+        "year": "2020",
+        "journal-title": "Ecol. Indic."
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.3389/fmars.2016.00274",
+        "article-title": "Tissue localization and distribution of as and al in the halophyte Tamarix gallica under controlled conditions",
+        "volume": "3",
+        "author": "Sghaier",
+        "year": "2016",
+        "journal-title": "Front. Mar. Sci."
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1016/j.scitotenv.2013.05.068",
+        "article-title": "Quantification of total element concentrations in soils using total X-ray fluorescence spectroscopy (TXRF)",
+        "volume": "463\u2013464",
+        "author": "Towett",
+        "year": "2013",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/S0021-9673(98)00989-3",
+        "article-title": "Retention index systems: Alternatives to the n-alkanes as calibration standards",
+        "volume": "842",
+        "author": "Castello",
+        "year": "1999",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1016/S0021-9673(01)80947-X",
+        "article-title": "A Generalization of the Retention Index System including Linear Temperature Programmed Gas-Liquid Partition Chromatography",
+        "volume": "11",
+        "author": "Kratz",
+        "year": "1963",
+        "journal-title": "J. Chromatogr."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1002/jsfa.2740100110",
+        "article-title": "The phenolic constituents of Prunus domestica. I.\u2014The quantitative analysis of phenolic constituents",
+        "volume": "10",
+        "author": "Swain",
+        "year": "1959",
+        "journal-title": "J. Sci. Food Agric."
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.5344/ajev.1965.16.3.144",
+        "article-title": "Colorimetry of Total Phenolics with Phosphomolybdic-Phosphotungstic Acid Reagents",
+        "volume": "16",
+        "author": "Singleton",
+        "year": "1965",
+        "journal-title": "Am. J. Enol. Vitic."
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "4437",
+        "DOI": "10.1021/jf0201529",
+        "article-title": "High-throughput assay of oxygen radical absorbance capacity (ORAC) using a multichannel liquid handling system coupled with a microplate fluorescence reader in 96-well format",
+        "volume": "50",
+        "author": "Huang",
+        "year": "2002",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1016/j.foodchem.2010.07.088",
+        "article-title": "Identification of bioactive response in traditional cherries from Portugal",
+        "volume": "125",
+        "author": "Serra",
+        "year": "2011",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1021/jf052555p",
+        "article-title": "Novel fluorometric assay for hydroxyl radical scavenging capacity (HOSC) estimation",
+        "volume": "54",
+        "author": "Moore",
+        "year": "2006",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1017/S0007114519002836",
+        "article-title": "Human bioavailability of phenolic compounds found in common beans: The use of high resolution mass spectrometry to evaluate inter individual variability",
+        "volume": "123",
+        "author": "Mecha",
+        "year": "2020",
+        "journal-title": "Br. J. Nutr."
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "first-page": "103463",
+        "DOI": "10.1016/j.jfca.2020.103463",
+        "article-title": "Revalorization of Tunisian wild Amaranthaceae halophytes: Nutritional composition variation at two different phenotypes stages",
+        "volume": "89",
+        "author": "Zaier",
+        "year": "2020",
+        "journal-title": "J. Food Compos. Anal."
+      },
+      {
+        "key": "ref_36",
+        "first-page": "105",
+        "article-title": "Halophytes of Southwest Asia",
+        "volume": "Volume 47",
+        "author": "Khan",
+        "year": "2014",
+        "journal-title": "Sabkha Ecosystems"
+      },
+      {
+        "key": "ref_37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Madhava Rao, K., Raghavendra, A., and Janardhan Reddy, K. (2006). Physiology and Molecular Biology of Stress Tolerance in Plants, Springer.",
+        "DOI": "10.1007/1-4020-4225-6"
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "222",
+        "DOI": "10.1016/j.sajb.2017.03.036",
+        "article-title": "Biochemical profile and in vitro neuroprotective properties of Carpobrotus edulis L., a medicinal and edible halophyte native to the coast of South Africa",
+        "volume": "111",
+        "author": "Rocha",
+        "year": "2017",
+        "journal-title": "S. Afr. J. Bot."
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1007/s12161-008-9062-z",
+        "article-title": "Determination of mineral content in commonly consumed leafy vegetables",
+        "volume": "2",
+        "author": "Borah",
+        "year": "2009",
+        "journal-title": "Food Anal. Methods"
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "104731",
+        "DOI": "10.1016/j.marpol.2021.104731",
+        "article-title": "Halophytes as novel marine products\u2014A consumers\u2019 perspective in Portugal and policy implications",
+        "volume": "133",
+        "author": "Calado",
+        "year": "2021",
+        "journal-title": "Mar. Policy"
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "104135",
+        "DOI": "10.1016/j.jfca.2021.104135",
+        "article-title": "Nutrient value of Salicornia ramosissima\u2014A green extraction process for mineral analysis",
+        "volume": "104",
+        "author": "Lopes",
+        "year": "2021",
+        "journal-title": "J. Food Compos. Anal."
+      },
+      {
+        "key": "ref_42",
+        "first-page": "231",
+        "article-title": "Health benefits and risks of plant proteins",
+        "volume": "106",
+        "author": "Babinska",
+        "year": "2005",
+        "journal-title": "Bratisl Lek Listy"
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lima, A.R., Gama, F., Casta\u00f1eda-Loaiza, V., Costa, C., Sch\u00fcler, L.M., Santos, T., Salazar, M., Nunes, C., Cruz, R.M.S., and Varela, J. (2021). Nutritional and Functional Evaluation of Inula crithmoides and Mesembryanthemum nodiflorum Grown in Different Salinities for Human Consumption. Molecules, 26.",
+        "DOI": "10.3390/molecules26154543"
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.1111/j.1753-4887.2009.00189.x",
+        "article-title": "Health benefits of dietary fiber",
+        "volume": "67",
+        "author": "Anderson",
+        "year": "2009",
+        "journal-title": "Nutr. Rev."
+      },
+      {
+        "key": "ref_45",
+        "unstructured": "European Commission, Regulation (EC) (2023, March 11). No 1924/2006 of 20 December 2006 on Nutrition and Health Claims Made on Foods. Available online: http://data.europa.eu/eli/reg/2006/1924/oj."
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1093/aob/mcu173",
+        "article-title": "The development of halophyte-based agriculture: Past and present",
+        "volume": "115",
+        "author": "Ventura",
+        "year": "2015",
+        "journal-title": "Ann. Bot."
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vizetto-Duarte, C., Figueiredo, F., Rodrigues, M.J., Polo, C., Re\u0161ek, E., and Cust\u00f3dio, L. (2019). Sustainable Valorization of Halophytes from the Mediterranean Area: A Comprehensive Evaluation of Their Fatty Acid Profile and Implications for Human and Animal Nutrition. Sustainability, 11.",
+        "DOI": "10.3390/su11082197"
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1016/j.biombioe.2019.03.007",
+        "article-title": "Lipid content and fatty acid profile of selected halophytic plants reveal a promising source of renewable energy",
+        "volume": "124",
+        "author": "Patel",
+        "year": "2019",
+        "journal-title": "Biomass Bioenergy"
+      },
+      {
+        "key": "ref_49",
+        "unstructured": "Centofanti, T., and Ba\u00f1uelos, G. (2019). Halophytes and Climate Change: Adaptive Mechanisms and Potential Uses, CABI."
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "126560",
+        "DOI": "10.1016/j.foodchem.2020.126560",
+        "article-title": "Halophyte plants from sustainable marine aquaponics are a valuable source of omega-3 polar lipids",
+        "volume": "320",
+        "author": "Maciel",
+        "year": "2020",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "first-page": "107733",
+        "DOI": "10.1016/j.ecss.2021.107733",
+        "article-title": "Nutritional valuation and food safety of endemic mediterranean halophytes species cultivated in abandoned salt pans under a natural irrigation scheme",
+        "volume": "265",
+        "author": "Duarte",
+        "year": "2022",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "ref_52",
+        "first-page": "129",
+        "article-title": "Omega-3 and 6 fatty acids and implications on human health",
+        "volume": "32",
+        "author": "Barbosa",
+        "year": "2007",
+        "journal-title": "Nutr. Rev. Soc. Bras. Alim. Nutr."
+      },
+      {
+        "key": "ref_53",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1016/j.ecolind.2017.12.050",
+        "article-title": "Halophyte fatty acids as biomarkers of anthropogenic-driven contamination in Mediterranean marshes: Sentinel species survey and development of an integrated biomarker response (IBR) index",
+        "volume": "87",
+        "author": "Duarte",
+        "year": "2018",
+        "journal-title": "Ecol. Indic."
+      },
+      {
+        "key": "ref_54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clavel-Coibri\u00e9, E., Sales, J.R., da Silva, A.M., Barroca, M.J., Sousa, I., and Raymundo, A. (2021). Sarcocornia perennis: A Salt Substitute in Savory Snacks. Foods, 10.",
+        "DOI": "10.3390/foods10123110"
+      },
+      {
+        "key": "ref_55",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alfheeaid, H.A., Raheem, D., Ahmed, F., Alhodieb, F.S., Alsharari, Z.D., Alhaji, J.H., BinMowyna, M.N., Saraiva, A., and Raposo, A. (2022). Salicornia bigelovii, S. brachiate and S. herbacea: Their Nutritional Characteristics and an Evaluation of Their Potential as Salt Substitutes. Foods, 11.",
+        "DOI": "10.3390/foods11213402"
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1111/j.1751-7176.2008.08575.x",
+        "article-title": "Potassium, Magnesium, and Calcium: Their Role in Both the Cause and Treatment of Hypertension",
+        "volume": "10",
+        "author": "Houston",
+        "year": "2008",
+        "journal-title": "J. Clin. Hypertens."
+      },
+      {
+        "key": "ref_57",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1016/j.semnephrol.2013.04.008",
+        "article-title": "Potassium in Hypertension and Cardiovascular Disease",
+        "volume": "33",
+        "author": "Castro",
+        "year": "2013",
+        "journal-title": "Semin. Nephrol."
+      },
+      {
+        "key": "ref_58",
+        "doi-asserted-by": "crossref",
+        "first-page": "1966",
+        "DOI": "10.1056/NEJMra064486",
+        "article-title": "Sodium and Potassium in the Pathogenesis of Hypertension",
+        "volume": "356",
+        "author": "Madias",
+        "year": "2007",
+        "journal-title": "N. Engl. J. Med."
+      },
+      {
+        "key": "ref_59",
+        "doi-asserted-by": "crossref",
+        "first-page": "244",
+        "DOI": "10.1053/j.ackd.2017.12.003",
+        "article-title": "Magnesium and Blood Pressure: A Physiology-Based Approach",
+        "volume": "25",
+        "author": "Schutten",
+        "year": "2018",
+        "journal-title": "Adv. Chronic Kidney Dis."
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Renna, M. (2018). Reviewing the Prospects of Sea Fennel (Crithmum maritimum L.) as Emerging Vegetable Crop. Plants, 27.",
+        "DOI": "10.3390/plants7040092"
+      },
+      {
+        "key": "ref_61",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1111/aab.12714",
+        "article-title": "From the saltpan to the plate: An evaluation of the use of the edible halophyte Salicornia ramosissima in catering",
+        "volume": "180",
+        "author": "Cardoso",
+        "year": "2021",
+        "journal-title": "Ann. Appl. Biol."
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1016/j.ecss.2015.05.034",
+        "article-title": "Metal speciation in salt marsh sediments: Influence of halophyte vegetation in salt marshes with different morphology",
+        "volume": "167",
+        "author": "Pedro",
+        "year": "2015",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "ref_63",
+        "unstructured": "European Commission, Regulation (EC) (2023, March 12). No 1881/2006 of 19 December 2006 Setting Maximum Levels for Certain Contaminants in Foodstuffs. Available online: http://data.europa.eu/eli/reg/2006/1881/oj."
+      },
+      {
+        "key": "ref_64",
+        "unstructured": "European Commission, Regulation (EC) (2023, March 12). No 2015/1006 of 25 June 2015 Amending Regulation (EC) No 1881/2006 as Regards Maximum Levels of Inorganic Arsenic in Foodstuffs. Available online: http://data.europa.eu/eli/reg/2015/1006/oj."
+      },
+      {
+        "key": "ref_65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "S\u00e1nchez-Gavil\u00e1n, I., Chueca, E.R., and Garc\u00eda, V.F. (2021). Bioactive compounds in Sarcocornia and Arthrocnemum, two wild halophilic genera from the Iberian Peninsula. Plants, 10.",
+        "DOI": "10.3390/plants10102218"
+      },
+      {
+        "key": "ref_66",
+        "doi-asserted-by": "crossref",
+        "first-page": "2308",
+        "DOI": "10.1016/j.fct.2009.06.025",
+        "article-title": "Interspecific variability of antioxidant activities and phenolic composition in Mesembryanthemum genus",
+        "volume": "47",
+        "author": "Hanen",
+        "year": "2009",
+        "journal-title": "Food Chem. Toxicol."
+      },
+      {
+        "key": "ref_67",
+        "doi-asserted-by": "crossref",
+        "first-page": "11832",
+        "DOI": "10.1021/jf404641v",
+        "article-title": "Angiotensin-Converting Enzyme Inhibitory Effects by Plant Phenolic Compounds: A Study of Structure Activity Relationships",
+        "volume": "61",
+        "author": "Gonzales",
+        "year": "2013",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_68",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1016/j.cofs.2015.05.002",
+        "article-title": "Structure and function of plant protein-derived antihypertensive peptides",
+        "volume": "4",
+        "author": "Aluko",
+        "year": "2015",
+        "journal-title": "Curr. Opin. Food Sci."
+      },
+      {
+        "key": "ref_69",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1186/s13007-020-00687-1",
+        "article-title": "Isolation of antimicrobial peptides from different plant sources: Does a general extraction method exist?",
+        "volume": "16",
+        "author": "Barashkova",
+        "year": "2020",
+        "journal-title": "Plant Methods"
+      },
+      {
+        "key": "ref_70",
+        "doi-asserted-by": "crossref",
+        "first-page": "735",
+        "DOI": "10.1016/j.apjtm.2016.06.015",
+        "article-title": "Unlocking the in vitro anti-Trypanosoma cruzi activity of halophyte plants from the southern Portugal",
+        "volume": "9",
+        "author": "Oliveira",
+        "year": "2016",
+        "journal-title": "Asian Pac. J. Trop. Med."
+      },
+      {
+        "key": "ref_71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Custodio, L., Garcia-Caparros, P., Pereira, C.G., and Castelo-Branco, P. (2022). Halophyte Plants as Potential Sources of Anticancer Agents: A Comprehensive Review. Pharmaceutics, 14.",
+        "DOI": "10.3390/pharmaceutics14112406"
+      },
+      {
+        "key": "ref_72",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ferreira, M.J., Pinto, D.C.G.A., Cunha, \u00c2., and Silva, H. (2022). Halophytes as Medicinal Plants against Human Infectious Diseases. Appl. Sci., 12.",
+        "DOI": "10.3390/app12157493"
+      },
+      {
+        "key": "ref_73",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rodrigues, M.J., Jek\u0151, J., Czi\u00e1ky, Z., Pereira, C.G., and Cust\u00f3dio, L. (2022). The Medicinal Halophyte Frankenia laevis L. (Sea Heath) Has In Vitro Antioxidant Activity, \u03b1-Glucosidase Inhibition, and Cytotoxicity towards Hepatocarcinoma Cells. Plants, 11.",
+        "DOI": "10.3390/plants11101353"
+      },
+      {
+        "key": "ref_74",
+        "unstructured": "eHALOPH (2023, January 21). Database of Halophytes and Other Salt-Tolerant Plants. Available online: https://ehaloph.uc.pt/listplants."
+      },
+      {
+        "key": "ref_75",
+        "doi-asserted-by": "crossref",
+        "first-page": "e00370",
+        "DOI": "10.1016/j.btre.2019.e00370",
+        "article-title": "Phenolic acids: Natural versatile molecules with promising therapeutic applications",
+        "volume": "24",
+        "author": "Kumar",
+        "year": "2019",
+        "journal-title": "Biotechnol. Rep."
+      },
+      {
+        "key": "ref_76",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Correia, A., Silva, A.M., Moreira, M.M., Salazar, M., \u0160varc-Gaji\u0107, J., Brezo-Borjan, T., C\u00e1diz-Gurrea, M.D.L.L., Carretero, A.S., Loschi, F., and Dall\u2019Acqua, S. (2022). Salicornia ramosissima: A New Green Cosmetic Ingredient with Promising Skin Effects. Antioxidants, 11.",
+        "DOI": "10.3390/antiox11122449"
+      },
+      {
+        "key": "ref_77",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Silva, A., Lago, J., Pinto, D., Moreira, M., Grosso, C., Fernandes, V., Delerue-Matos, C., and Rodrigues, F. (2021). Salicornia ramosissima Bioactive Composition and Safety: Eco-Friendly Extractions Approach (Microwave-Assisted Extraction vs. Conventional Maceration). Appl. Sci., 11.",
+        "DOI": "10.3390/app11114744"
+      },
+      {
+        "key": "ref_78",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pungin, A., Lartseva, L., Loskutnikova, V., Shakhov, V., Krol, O., Popova, E., Kolomiets, A., Nikolaeva, N., and Volodina, A. (2022). The Content of Certain Groups of Phenolic Compounds and the Biological Activity of Extracts of Various Halophyte Parts of Spergularia marina (L.) Griseb. and Glaux maritima L. at Different Levels of Soil Salinization. Plants, 11.",
+        "DOI": "10.3390/plants11131738"
+      },
+      {
+        "key": "ref_79",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1016/j.fct.2017.04.018",
+        "article-title": "Searching for new sources of innovative products for the food industry within halophyte aromatic plants: In vitro antioxidant activity and phenolic and mineral contents of infusions and decoctions of Crithmum maritimum L.",
+        "volume": "107",
+        "author": "Barreira",
+        "year": "2017",
+        "journal-title": "Food Chem. Toxicol."
+      },
+      {
+        "key": "ref_80",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim, S., Lee, E.-Y., Hillman, P.F., Ko, J., Yang, I., and Nam, S.-J. (2021). Chemical Structure and Biological Activities of Secondary Metabolites from Salicornia europaea L.. Molecules, 26.",
+        "DOI": "10.3390/molecules26082252"
+      },
+      {
+        "key": "ref_81",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Limongelli, F., Crupi, P., Clodoveo, M.L., Corbo, F., and Muraglia, M. (2022). Overview of the Polyphenols in Salicornia: From Recovery to Health-Promoting Effect. Molecules, 27.",
+        "DOI": "10.3390/molecules27227954"
+      },
+      {
+        "key": "ref_82",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Politeo, O., Popovi\u0107, M., Ver\u0161i\u0107 Bratin\u010devi\u0107, M., Kova\u010devi\u0107, K., Urli\u0107, B., and Generali\u0107 Mekini\u0107, I. (2023). Chemical Profiling of Sea Fennel (Crithmum maritimum L., Apiaceae) Essential Oils and Their Isolation Residual Waste-Waters. Plants, 12.",
+        "DOI": "10.3390/plants12010214"
+      },
+      {
+        "key": "ref_83",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lopes, M., Silva, A.S., S\u00e9ndon, R., Barbosa-Pereira, L., Cavaleiro, C., and Ramos, F. (2023). Towards the Sustainable Exploitation of Salt-Tolerant Plants: Nutritional Characterisation, Phenolics Composition, and Potential Contaminants Analysis of Salicornia ramosissima and Sarcocornia perennis alpini. Molecules, 28.",
+        "DOI": "10.3390/molecules28062726"
+      },
+      {
+        "key": "ref_84",
+        "doi-asserted-by": "crossref",
+        "first-page": "12453",
+        "DOI": "10.1021/jf203096q",
+        "article-title": "Phenolic composition and antioxidant activity of aqueous infusions from Capparis spinosa L. and Crithmum maritimum L. before and after submission to a two-step in vitro digestion model",
+        "volume": "59",
+        "author": "Siracusa",
+        "year": "2011",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_85",
+        "doi-asserted-by": "crossref",
+        "first-page": "240",
+        "DOI": "10.1016/j.sajb.2016.10.005",
+        "article-title": "Antioxidant properties, phenolic composition, bioactive compounds and nutritive value of medicinal halophytes commonly used as herbal teas",
+        "volume": "110",
+        "author": "Qasim",
+        "year": "2017",
+        "journal-title": "South Afr. J. Bot."
+      },
+      {
+        "key": "ref_86",
+        "doi-asserted-by": "crossref",
+        "first-page": "e47",
+        "DOI": "10.1017/jns.2016.41",
+        "article-title": "Flavonoids: An overview",
+        "volume": "5",
+        "author": "Panche",
+        "year": "2016",
+        "journal-title": "J. Nutr. Sci."
+      },
+      {
+        "key": "ref_87",
+        "doi-asserted-by": "crossref",
+        "first-page": "2057",
+        "DOI": "10.1016/0031-9422(91)85066-9",
+        "article-title": "Flavonol triglycosides containing galactose in tea",
+        "volume": "30",
+        "author": "Finger",
+        "year": "1991",
+        "journal-title": "Phytochemistry"
+      },
+      {
+        "key": "ref_88",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zampini, I.C., Salas, A.L., Maldonado, L.M., Simirgiotis, M.J., and Isla, M.I. (2021). Propolis from the Monte Region in Argentina: A Potential Phytotherapic and Food Functional Ingredient. Metabolites, 11.",
+        "DOI": "10.3390/metabo11020076"
+      },
+      {
+        "key": "ref_89",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kramberger, K., Barli\u010d-Maganja, D., Bandelj, D., Baruca Arbeiter, A., Peeters, K., Miklav\u010di\u010d Vi\u0161njevec, A., and Jenko Pra\u017enikar, Z. (2020). HPLC-DAD-ESI-QTOF-MS Determination of Bioactive Compounds and Antioxidant Activity Comparison of the Hydroalcoholic and Water Extracts from Two Helichrysum italicum Species. Metabolites, 10.",
+        "DOI": "10.3390/metabo10100403"
+      },
+      {
+        "key": "ref_90",
+        "doi-asserted-by": "crossref",
+        "first-page": "799064",
+        "DOI": "10.3389/fphar.2022.799064",
+        "article-title": "Taxifolin as a Major Bioactive Compound in the Vasorelaxant Effect of Different Pigmented Rice Bran Extracts",
+        "volume": "13",
+        "author": "Seong",
+        "year": "2022",
+        "journal-title": "Front. Pharmacol."
+      },
+      {
+        "key": "ref_91",
+        "first-page": "6492346",
+        "article-title": "Natural Coumarins: Exploring the Pharmacological Complexity and Underlying Molecular Mechanisms",
+        "volume": "19",
+        "author": "Harun",
+        "year": "2021",
+        "journal-title": "Oxidative Med. Cell. Longev."
+      },
+      {
+        "key": "ref_92",
+        "doi-asserted-by": "crossref",
+        "first-page": "1278",
+        "DOI": "10.1007/s12272-017-0959-1",
+        "article-title": "Isorhamnetin derivatives and piscidic acid for hypercholesterolemia: Cholesterol permeability, HMG-CoA reductase inhibition, and docking studies",
+        "volume": "40",
+        "author": "Ressaissi",
+        "year": "2017",
+        "journal-title": "Arch. Pharm. Res."
+      },
+      {
+        "key": "ref_93",
+        "doi-asserted-by": "crossref",
+        "first-page": "20600",
+        "DOI": "10.1038/s41598-020-77672-0",
+        "article-title": "Effect of different levels of hydrolysable tannin intake on the reproductive hormones and serum biochemical indices in healthy female rats",
+        "volume": "10",
+        "author": "Manzoor",
+        "year": "2020",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref_94",
+        "first-page": "3564",
+        "article-title": "Environmental eco-physiology and economical potential of the halophyte Crithmum maritimum L. (Apiaceae)",
+        "volume": "5",
+        "author": "Atia",
+        "year": "2011",
+        "journal-title": "J. Med. Plants Res."
+      },
+      {
+        "key": "ref_95",
+        "doi-asserted-by": "crossref",
+        "first-page": "112329",
+        "DOI": "10.1016/j.indcrop.2020.112329",
+        "article-title": "Chemical composition of Crithmum maritimum L. essential oil and hydrodistillation residual water by GC-MS and HPLC-DAD-MS/MS, and their biological activities",
+        "volume": "149",
+        "author": "Guerra",
+        "year": "2020",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "ref_96",
+        "doi-asserted-by": "crossref",
+        "first-page": "984",
+        "DOI": "10.1080/14786419.2014.902821",
+        "article-title": "Volatile constituents of aerial parts of two Mediterranean species of Inula: Inula crithmoides L. and I. verbascifolia (Willd.) Hausskn. (Asteraceae)",
+        "volume": "28",
+        "author": "Fontana",
+        "year": "2014",
+        "journal-title": "Nat. Prod. Res."
+      },
+      {
+        "key": "ref_97",
+        "doi-asserted-by": "crossref",
+        "first-page": "2993",
+        "DOI": "10.1080/14786419.2021.1938040",
+        "article-title": "The chemical composition of the flowers essential oil of Inula crithmoides (Asteraceae) growing in aeolian islands, Sicily (Italy) and its biocide properties on microorganisms affecting historical art crafts",
+        "volume": "36",
+        "author": "Badalamenti",
+        "year": "2022",
+        "journal-title": "Nat. Prod. Res."
+      },
+      {
+        "key": "ref_98",
+        "doi-asserted-by": "crossref",
+        "first-page": "1116",
+        "DOI": "10.1111/jfpp.12692",
+        "article-title": "Differentiation of Volatile Profiles and Odor Activity Values of Turkish Coffee and French Press Coffee",
+        "volume": "40",
+        "author": "Amanpour",
+        "year": "2016",
+        "journal-title": "J. Food Process. Preserv."
+      },
+      {
+        "key": "ref_99",
+        "doi-asserted-by": "crossref",
+        "first-page": "566",
+        "DOI": "10.1016/j.foodchem.2019.01.053",
+        "article-title": "Odor-contributing volatile compounds of wild edible Nordic mushrooms analyzed with HS\u2013SPME\u2013GC\u2013MS and HS\u2013SPME\u2013GC\u2013O/FID",
+        "volume": "283",
+        "author": "Aisala",
+        "year": "2019",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1642",
+        "DOI": "10.1021/jf040324x",
+        "article-title": "Characteristic odor components of kumquat (Fortunella japonica Swingle) peel oil",
+        "volume": "53",
+        "author": "Choi",
+        "year": "2005",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_101",
+        "doi-asserted-by": "crossref",
+        "first-page": "11681",
+        "DOI": "10.1021/jf303395q",
+        "article-title": "Volatile composition of oyster leaf (Mertensia maritima (L.) Gray)",
+        "volume": "60",
+        "author": "Delort",
+        "year": "2012",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_102",
+        "doi-asserted-by": "crossref",
+        "first-page": "10576",
+        "DOI": "10.1021/jf102042g",
+        "article-title": "Characterization of Phenolic Composition in Lamiaceae Spices by LC-ESI-MS/MS",
+        "volume": "58",
+        "author": "Hossain",
+        "year": "2010",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_103",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1016/j.foodchem.2017.04.002",
+        "article-title": "Characterization of phenolic compounds in chia (Salvia hispanica L.) seeds, fiber flour and oil",
+        "volume": "232",
+        "author": "Silva",
+        "year": "2017",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_104",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1016/j.foodres.2012.09.038",
+        "article-title": "Comprehensive characterization by UHPLC-ESI-Q-TOF-MS from an Eryngium bourgatii extract and their antioxidant and anti-inflammatory activities",
+        "volume": "50",
+        "author": "Joven",
+        "year": "2013",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_105",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1016/j.foodchem.2012.04.102",
+        "article-title": "Phenolic profile of Sercial and Tinta Negra Vitis vinifera L. grape skins by HPLC\u2013DAD\u2013ESI-MSn: Novel phenolic compounds in Vitis vinifera L. grape",
+        "volume": "135",
+        "author": "Perestrelo",
+        "year": "2012",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_106",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1016/j.foodchem.2011.07.009",
+        "article-title": "HPLC/DAD/ESI-MS analyses and anti-radical activity of hydrolyzable tannins from different vegetal species",
+        "volume": "130",
+        "author": "Romani",
+        "year": "2012",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_107",
+        "doi-asserted-by": "crossref",
+        "first-page": "6003",
+        "DOI": "10.1021/jf050468r",
+        "article-title": "Identification of Ellagic Acid Conjugates and Other Polyphenolics in Muscadine Grapes by HPLC-ESI-MS",
+        "volume": "53",
+        "author": "Lee",
+        "year": "2005",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_108",
+        "doi-asserted-by": "crossref",
+        "first-page": "109026",
+        "DOI": "10.1016/j.foodres.2020.109026",
+        "article-title": "Identification of functional compounds in baru (Dipteryx alata Vog.) nuts: Nutritional value, volatile and phenolic composition, antioxidant activity and antiproliferative effect",
+        "volume": "131",
+        "author": "Pereira",
+        "year": "2020",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_109",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1039/C7FO01315A",
+        "article-title": "Profiling polyphenols composition by HPLC-DAD-ESI/MSn and antibacterial activity of infusion preparations obtained from four medicinal plants",
+        "volume": "9",
+        "author": "Ziani",
+        "year": "2018",
+        "journal-title": "Food Funct."
+      },
+      {
+        "key": "ref_110",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1080/10826076.2019.1568257",
+        "article-title": "LC-DAD-ESI-MS/MS-based phenolic profiling of St John\u2019s Wort Teas and their antioxidant activity: Eliciting infusion induced changes",
+        "volume": "42",
+        "author": "Kelebek",
+        "year": "2019",
+        "journal-title": "J. Liq. Chromatogr. Relat. Technol."
+      },
+      {
+        "key": "ref_111",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.1016/S0021-9673(00)00861-X",
+        "article-title": "Negative atmospheric pressure chemical ionisation low-energy collision activation mass spectrometry for the characterisation of flavonoids in extracts of fresh herbs",
+        "volume": "902",
+        "author": "Justesen",
+        "year": "2000",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "ref_112",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1016/j.jpba.2018.04.047",
+        "article-title": "Characterization by liquid chromatography\u2013mass spectrometry and antioxidant activity of an ethanolic extract of Inula viscosa leaves",
+        "volume": "156",
+        "author": "Serra",
+        "year": "2018",
+        "journal-title": "J. Pharm. Biomed. Anal."
+      },
+      {
+        "key": "ref_113",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/j.indcrop.2018.12.032",
+        "article-title": "Optimization of microwave-assisted extraction recovery of bioactive compounds from Origanum glandulosum and Thymus fontanesii",
+        "volume": "129",
+        "author": "Nabet",
+        "year": "2019",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "ref_114",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1016/j.foodchem.2016.05.121",
+        "article-title": "(Poly)phenolic fingerprint and chemometric analysis of white (Morus alba L.) and black (Morus nigra L.) mulberry leaves by using a non-targeted UHPLC-MS approach",
+        "volume": "212",
+        "author": "Tassotti",
+        "year": "2016",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_115",
+        "doi-asserted-by": "crossref",
+        "first-page": "4584",
+        "DOI": "10.1021/acs.jafc.6b01005",
+        "article-title": "Stability of Hydroxycinnamic Acid Derivatives, Flavonol Glycosides and Anthocyanins in Black Currant Juice",
+        "volume": "64",
+        "author": "Laaksonen",
+        "year": "2016",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_116",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1016/j.jphotobiol.2014.12.018",
+        "article-title": "Structural elucidation, in vitro antioxidant and photoprotective capacities of a purified polyphenolic-enriched fraction from a saltmarsh plant",
+        "volume": "143",
+        "author": "Surget",
+        "year": "2015",
+        "journal-title": "J. Photochem. Photobiol. B Biol."
+      },
+      {
+        "key": "ref_117",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Faustino, M.V., Faustino, M.A.F., Silva, H., Cunha, \u00c2., Silva, A.M.S., and Pinto, D.C.G.A. (2019). Puccinellia maritima, Spartina maritime, and Spartina patens Halophytic Grasses: Characterization of Polyphenolic and Chlorophyll Profiles and Evaluation of Their Biological Activities. Molecules, 24.",
+        "DOI": "10.3390/molecules24203796"
+      },
+      {
+        "key": "ref_118",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1002/pca.2412",
+        "article-title": "Phenolic Profiling of Portuguese Propolis by LC-MS Spectrometry: Uncommon Propolis Rich in Flavonoid Glycosides",
+        "volume": "24",
+        "author": "Vale",
+        "year": "2013",
+        "journal-title": "Phytochem. Anal."
+      },
+      {
+        "key": "ref_119",
+        "doi-asserted-by": "crossref",
+        "first-page": "2986",
+        "DOI": "10.1002/rcm.4731",
+        "article-title": "Improved characterization of tomato polyphenols using liquid chromatography/electrospray ionization linear ion trap quadrupole Orbitrap mass spectrometry and liquid chromatography/electrospray ionization tandem mass spectrometry",
+        "volume": "24",
+        "year": "2010",
+        "journal-title": "Rapid Commun. Mass Spectrom."
+      },
+      {
+        "key": "ref_120",
+        "first-page": "402",
+        "article-title": "Structural Study of Phenolic Acids by Triple Quadrupole Mass Spectrometry with Electrospray Ionization in Negative Mode and H/D Isotopic Exchange",
+        "volume": "31",
+        "author": "Sinosaki",
+        "year": "2019",
+        "journal-title": "J. Braz. Chem. Soc."
+      },
+      {
+        "key": "ref_121",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/j.foodchem.2011.01.009",
+        "article-title": "Use of HPLC\u2013DAD\u2013ESI/MS to profile phenolic compounds in edible wild greens from Portugal",
+        "volume": "127",
+        "author": "Barros",
+        "year": "2011",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_122",
+        "doi-asserted-by": "crossref",
+        "first-page": "3238561",
+        "DOI": "10.1155/2020/3238561",
+        "article-title": "UHPLC-ESI-Orbitrap-MS Analysis of Biologically Active Extracts from Gynura procumbens (Lour.) Merr. and Cleome gynandra L. Leaves",
+        "volume": "2020",
+        "author": "Chandradevan",
+        "year": "2020",
+        "journal-title": "Evid. Based Complement. Altern. Med."
+      },
+      {
+        "key": "ref_123",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1016/j.foodres.2012.12.033",
+        "article-title": "Profiling of phenolic and other polar constituents from hydro-methanolic extract of watermelon (Citrullus lanatus) by means of accurate-mass spectrometry (HPLC\u2013ESI\u2013QTOF\u2013MS)",
+        "volume": "51",
+        "year": "2013",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_124",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1016/j.foodchem.2008.12.071",
+        "article-title": "Identification of phenolic compounds from the fruits of the mountain papaya Vasconcellea pubescens A. DC. grown in Chile by liquid chromatography\u2013UV detection\u2013mass spectrometry",
+        "volume": "115",
+        "author": "Simirgiotis",
+        "year": "2009",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_125",
+        "first-page": "250919",
+        "article-title": "Determination of Polar Compounds in Guava Leaves Infusions and Ultrasound Aqueous Extract by HPLC-ESI-MS",
+        "volume": "2015",
+        "author": "Verardo",
+        "year": "2015",
+        "journal-title": "J. Chem."
+      },
+      {
+        "key": "ref_126",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/j.intimp.2015.12.031",
+        "article-title": "Anti-inflammatory effects of the butanolic fraction of Byrsonima verbascifolia leaves: Mechanisms involving inhibition of tumor necrosis factor alpha, prostaglandin E2 production and migration of polymorphonuclear leucocyte in vivo experimentation",
+        "volume": "31",
+        "author": "Saldanha",
+        "year": "2016",
+        "journal-title": "Int. Immunopharmacol."
+      },
+      {
+        "key": "ref_127",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1111/jphp.12843",
+        "article-title": "HPLC-DAD-ESI-MS/MS analysis of fruits from Firmiana simplex (L.) and evaluation of their antioxidant and antigenotoxic properties",
+        "volume": "70",
+        "author": "Ghareeb",
+        "year": "2018",
+        "journal-title": "J. Pharm. Pharmacol."
+      },
+      {
+        "key": "ref_128",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1016/j.indcrop.2017.05.048",
+        "article-title": "Profiling of phenolic compounds and antioxidant activity of Melia azedarach L. leaves and fruits at two stages of maturity",
+        "volume": "107",
+        "author": "Rokbeni",
+        "year": "2017",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "ref_129",
+        "doi-asserted-by": "crossref",
+        "first-page": "4643736",
+        "DOI": "10.1155/2018/4643736",
+        "article-title": "Identification of Hypotensive Biofunctional Compounds of Coriandrum sativum and Evaluation of Their Angiotensin-Converting Enzyme (ACE) Inhibition Potential",
+        "volume": "2018",
+        "author": "Hussain",
+        "year": "2018",
+        "journal-title": "Oxidative Med. Cell. Longev."
+      },
+      {
+        "key": "ref_130",
+        "doi-asserted-by": "crossref",
+        "first-page": "18144",
+        "DOI": "10.3390/molecules201018144",
+        "article-title": "Antibacterial Activity, Antioxidant Effect and Chemical Composition of Propolis from the Regi\u00f3n del Maule, Central Chile",
+        "volume": "20",
+        "author": "Nina",
+        "year": "2015",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_131",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/j.jpha.2011.09.009",
+        "article-title": "Characterization of flavonoids in Millettia nitida var. hirsutissima by HPLC/DAD/ESI-MSn",
+        "volume": "2",
+        "author": "Ye",
+        "year": "2012",
+        "journal-title": "J. Pharm. Anal."
+      },
+      {
+        "key": "ref_132",
+        "doi-asserted-by": "crossref",
+        "first-page": "1576",
+        "DOI": "10.1016/j.fct.2012.02.004",
+        "article-title": "Characterization of phenolic compounds in flowers of wild medicinal plants from Northeastern Portugal",
+        "volume": "50",
+        "author": "Barros",
+        "year": "2012",
+        "journal-title": "Food Chem. Toxicol."
+      },
+      {
+        "key": "ref_133",
+        "doi-asserted-by": "crossref",
+        "first-page": "6319",
+        "DOI": "10.1039/D0FO01180K",
+        "article-title": "Quercetin and chlorogenic derivatives rich Phenolic content from Nerium oleander leaves: Microwave assisted extraction, characterization, antiproliferative and cytotoxic activities",
+        "volume": "11",
+        "author": "Ayouaz",
+        "year": "2020",
+        "journal-title": "Food Funct."
+      },
+      {
+        "key": "ref_134",
+        "doi-asserted-by": "crossref",
+        "first-page": "3624",
+        "DOI": "10.1039/D0FO02640A",
+        "article-title": "LC-DAD-ESI-MS/MS analysis and cytotoxic and antiproliferative effects of chlorogenic acid derivative rich extract from Nerium oleander L. pink flowers",
+        "volume": "12",
+        "author": "Ayouaz",
+        "year": "2021",
+        "journal-title": "Food Funct."
+      },
+      {
+        "key": "ref_135",
+        "doi-asserted-by": "crossref",
+        "first-page": "355",
+        "DOI": "10.1016/j.jchromb.2006.10.061",
+        "article-title": "Characterization of flavonoids in the traditional Chinese herbal medicine-Huangqin by liquid chromatography coupled with electrospray ionization mass spectrometry",
+        "volume": "848",
+        "author": "Han",
+        "year": "2007",
+        "journal-title": "J. Chromatogr B Anal. Technol Biomed Life Sci."
+      },
+      {
+        "key": "ref_136",
+        "doi-asserted-by": "crossref",
+        "first-page": "107273",
+        "DOI": "10.1016/j.compbiolchem.2020.107273",
+        "article-title": "Chemical characterization, computational analysis and biological views on Daphne gnidioides Jaub. & Spach extracts: Can a new raw material be provided for biopharmaceutical applications?",
+        "volume": "87",
+        "author": "Can",
+        "year": "2020",
+        "journal-title": "Comput. Biol. Chem."
+      },
+      {
+        "key": "ref_137",
+        "doi-asserted-by": "crossref",
+        "first-page": "2190",
+        "DOI": "10.1016/j.foodres.2010.11.031",
+        "article-title": "Kumquat (Fortunella japonica Swingle) juice: Flavonoid distribution and antioxidant properties",
+        "volume": "44",
+        "author": "Barreca",
+        "year": "2011",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_138",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1016/j.jfca.2006.09.005",
+        "article-title": "Identification and quantification of flavonoids of Mexican oregano (Lippia graveolens) by LC-DAD-ESI/MS analysis",
+        "volume": "20",
+        "author": "Lin",
+        "year": "2007",
+        "journal-title": "Food Compost. Anal."
+      },
+      {
+        "key": "ref_139",
+        "doi-asserted-by": "crossref",
+        "first-page": "5918",
+        "DOI": "10.1039/C4AY01077A",
+        "article-title": "Ultrafiltration LC-PDA-ESI/MS combined with reverse phase-medium pressure liquid chromatography for screening and isolation potential \u03b1-glucosidase inhibitors from Scutellaria baicalensis Georgi",
+        "volume": "6",
+        "author": "Wang",
+        "year": "2014",
+        "journal-title": "Anal. Methods"
+      },
+      {
+        "key": "ref_140",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1007/s12161-012-9431-5",
+        "article-title": "Determination of Phenolic Compounds in Strawberries (Fragaria ananassa Duch) by High Performance Liquid Chromatography with Diode Array Detection",
+        "volume": "6",
+        "author": "Tarola",
+        "year": "2013",
+        "journal-title": "Food Anal. Methods"
+      },
+      {
+        "key": "ref_141",
+        "doi-asserted-by": "crossref",
+        "first-page": "4360",
+        "DOI": "10.1021/jf049613b",
+        "article-title": "Polyphenol Screening of Pomace from Red and White Grape Varieties (Vitis vinifera L.) by HPLC-DAD-MS/MS",
+        "volume": "52",
+        "author": "Kammerer",
+        "year": "2004",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_142",
+        "doi-asserted-by": "crossref",
+        "first-page": "558",
+        "DOI": "10.1016/j.foodchem.2016.04.033",
+        "article-title": "Contribution to the characterization of Opuntia spp. juices by LC-DAD-ESI-MS/MS",
+        "volume": "210",
+        "author": "Mata",
+        "year": "2016",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_143",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1016/j.foodres.2011.04.003",
+        "article-title": "Characterization of phenolic compounds in jocote (Spondias purpurea L.) peels by ultra high-performance liquid chromatography/electrospray ionization mass spectrometry",
+        "volume": "46",
+        "author": "Engels",
+        "year": "2012",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_144",
+        "doi-asserted-by": "crossref",
+        "first-page": "2032",
+        "DOI": "10.1039/C7FO01994G",
+        "article-title": "Fractionation of the more active extracts of Geranium molle L.: A relationship between phenolic profile and biological activity",
+        "volume": "9",
+        "author": "Dias",
+        "year": "2018",
+        "journal-title": "Food Funct."
+      },
+      {
+        "key": "ref_145",
+        "doi-asserted-by": "crossref",
+        "first-page": "16039",
+        "DOI": "10.3390/molecules191016039",
+        "article-title": "Characterization and Quantification of the Compounds of the Ethanolic Extract from Caesalpinia ferrea Stem Bark and Evaluation of Their Mutagenic Activity",
+        "volume": "19",
+        "author": "Wyrepkowski",
+        "year": "2014",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_146",
+        "doi-asserted-by": "crossref",
+        "first-page": "2448",
+        "DOI": "10.1007/s11694-019-00165-w",
+        "article-title": "Qualitative and quantitative analyses of phenolic compounds by HPLC\u2013DAD\u2013ESI/MS in Tunisian Pistacia vera L. Leaves unveiled a rich source of phenolic compounds with a significant antioxidant potential",
+        "volume": "13",
+        "author": "Aouadi",
+        "year": "2019",
+        "journal-title": "Food Meas."
+      },
+      {
+        "key": "ref_147",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1016/j.phytol.2017.03.005",
+        "article-title": "In vitro enzyme inhibitory properties, antioxidant activities, and phytochemical profile of Potentilla thuringiaca",
+        "volume": "20",
+        "author": "Grochowski",
+        "year": "2017",
+        "journal-title": "Phytochem. Lett."
+      },
+      {
+        "key": "ref_148",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/j.phytol.2009.11.004",
+        "article-title": "Profiling the chemical content of Opuntia ficus-indica flowers by HPLC\u2013PDA-ESI-MS and GC/EIMS analyses",
+        "volume": "3",
+        "author": "Pawlowska",
+        "year": "2010",
+        "journal-title": "Phytochem. Lett."
+      },
+      {
+        "key": "ref_149",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1016/j.foodchem.2014.09.163",
+        "article-title": "Identification and quantification of phenolic compounds of selected fruits from Madeira Island by HPLC-DAD\u2013ESI-MSn and screening for their antioxidant activity",
+        "volume": "173",
+        "author": "Pinto",
+        "year": "2015",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_150",
+        "doi-asserted-by": "crossref",
+        "first-page": "14821",
+        "DOI": "10.3390/molecules171214821",
+        "article-title": "Rapid and Comprehensive Evaluation of (Poly)phenolic Compounds in Pomegranate (Punica granatum L.) Juice by UHPLC-MSn",
+        "volume": "17",
+        "author": "Mena",
+        "year": "2012",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_151",
+        "doi-asserted-by": "crossref",
+        "first-page": "1555",
+        "DOI": "10.1016/j.phytochem.2008.01.026",
+        "article-title": "Fingerprint profile of Ginkgo biloba nutritional supplements by LC/ESI-MS/MS",
+        "volume": "69",
+        "author": "Ding",
+        "year": "2008",
+        "journal-title": "Phytochemical"
+      },
+      {
+        "key": "ref_152",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1016/j.foodchem.2011.04.078",
+        "article-title": "Characterisation of phenolic acid derivatives and flavonoids from different morphological parts of Helichrysum obconicum by a RP-HPLC\u2013DAD-(\u2212)\u2013ESI-MSn method",
+        "volume": "129",
+        "author": "Gouveia",
+        "year": "2011",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_153",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/j.foodchem.2012.08.048",
+        "article-title": "GC/MS analysis of volatiles obtained by headspace solid-phase microextraction and simultaneous\u2013distillation extraction from Rabdosia serra (MAXIM.) HARA leaf and stem",
+        "volume": "136",
+        "author": "Lin",
+        "year": "2013",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_154",
+        "doi-asserted-by": "crossref",
+        "first-page": "6168",
+        "DOI": "10.3390/molecules15096168",
+        "article-title": "Comparative study of the leaf volatiles of Arctostaphylos uva-ursi (L.) Spreng. and Vaccinium vitis-idaea L. (Ericaceae)",
+        "volume": "15",
+        "year": "2010",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_155",
+        "doi-asserted-by": "crossref",
+        "first-page": "1116",
+        "DOI": "10.1021/jf970540o",
+        "article-title": "Characterization of Olive Ripeness by Green Aroma Compounds of Virgin Olive Oil",
+        "volume": "46",
+        "author": "Aparicio",
+        "year": "1998",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_156",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1002/ffj.1854",
+        "article-title": "GC\u2013MS, GC\u2013O and enantio\u2013GC investigation of the essential oil of Tarchonanthus camphoratus L.",
+        "volume": "23",
+        "author": "Costa",
+        "year": "2008",
+        "journal-title": "Flavour Fragr. J."
+      },
+      {
+        "key": "ref_157",
+        "doi-asserted-by": "crossref",
+        "first-page": "4643",
+        "DOI": "10.1021/jf020129n",
+        "article-title": "Aroma Compound Analysis of Eruca sativa (Brassicaceae) SPME Headspace Leaf Samples Using GC, GC\u2212MS, and Olfactometry",
+        "volume": "50",
+        "author": "Jirovetz",
+        "year": "2002",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_158",
+        "doi-asserted-by": "crossref",
+        "first-page": "4168",
+        "DOI": "10.1021/jf001494m",
+        "article-title": "Composition and antimicrobial activity of the essential oils of two Origanum species",
+        "volume": "49",
+        "author": "Aligiannis",
+        "year": "2001",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_159",
+        "doi-asserted-by": "crossref",
+        "first-page": "6314",
+        "DOI": "10.1021/jf0606104",
+        "article-title": "Composition of the essential oils of Thymus and Origanum species from Algeria and their antioxidant and antimicrobial activities",
+        "volume": "54",
+        "author": "Hazzit",
+        "year": "2006",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_160",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1002/jssc.200900452",
+        "article-title": "Lippia origanoides chemotype differentiation based on essential oil GC-MS and principal component analysis",
+        "volume": "33",
+        "author": "Stashenko",
+        "year": "2010",
+        "journal-title": "J. Sep. Sci."
+      },
+      {
+        "key": "ref_161",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Karabagias, I.K., Karabagias, V.K., and Riganakos, K.A. (2019). Physico-Chemical Parameters, Phenolic Profile, In Vitro Antioxidant Activity and Volatile Compounds of Ladastacho (Lavandula stoechas) from the Region of Saidona. Antioxidants, 8.",
+        "DOI": "10.3390/antiox8040080"
+      },
+      {
+        "key": "ref_162",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/j.chemolab.2015.05.027",
+        "article-title": "A novel approach for analyzing gas chromatography-mass spectrometry/olfactometry data",
+        "volume": "146",
+        "author": "Gerretzen",
+        "year": "2015",
+        "journal-title": "Chemom. Intell. Lab. Syst."
+      },
+      {
+        "key": "ref_163",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.13171/mjc.1.4.2011.03.12.23",
+        "article-title": "Chemical Composition, Antioxidant and Anti-acetylcholinesterase activities of Tunisian Crithmum maritimum L. Essential oils",
+        "volume": "1",
+        "author": "Nguir",
+        "year": "2011",
+        "journal-title": "Mediterr. J. Chem."
+      },
+      {
+        "key": "ref_164",
+        "doi-asserted-by": "crossref",
+        "first-page": "2908",
+        "DOI": "10.1021/jf011578a",
+        "article-title": "Characteristic Odor Components of Citrus sphaerocarpa Tanaka (Kabosu) Cold-Pressed Peel Oil",
+        "volume": "50",
+        "author": "Onishi",
+        "year": "2002",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_165",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1016/j.smallrumres.2012.02.010",
+        "article-title": "Volatile compound profile of ewe\u2019s milk and meat of their suckling lambs in relation to pasture vs. indoor feeding system",
+        "volume": "105",
+        "author": "Vasta",
+        "year": "2012",
+        "journal-title": "Small Rumin. Res."
+      },
+      {
+        "key": "ref_166",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1016/j.foodchem.2014.07.067",
+        "article-title": "Chemical features of Pericarpium Citri Reticulatae and Pericarpium Citri Reticulatae Viride revealed by GC\u2013MS metabolomics analysis",
+        "volume": "186",
+        "author": "Yi",
+        "year": "2015",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_167",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1590/S0101-20612012005000006",
+        "article-title": "Estudo de compostos vol\u00e1teis de ameixa (prunus domestica L. cv. horvin) e estimativa da sua contribui\u00e7\u00e3o ao aroma",
+        "volume": "32",
+        "author": "Pino",
+        "year": "2012",
+        "journal-title": "Cienc. Tecnol. Aliment."
+      },
+      {
+        "key": "ref_168",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1080/10412905.2009.9700128",
+        "article-title": "Composition of Essential Oils of Flowers, Leaves, Stems and Rhizome of Peucedanum officinale L. (Apiaceae)",
+        "volume": "21",
+        "author": "Chalchat",
+        "year": "2009",
+        "journal-title": "J. Essent. Oil Res."
+      },
+      {
+        "key": "ref_169",
+        "doi-asserted-by": "crossref",
+        "first-page": "5883",
+        "DOI": "10.1021/jf010414r",
+        "article-title": "Characterization of Volatiles in Strawberry Guava (Psidium cattleianum Sabine) Fruit",
+        "volume": "49",
+        "author": "Pino",
+        "year": "2001",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_170",
+        "doi-asserted-by": "crossref",
+        "first-page": "3563",
+        "DOI": "10.1021/jf048102m",
+        "article-title": "Impact of growing environment on Chickasaw blackberry (Rubus L) aroma evaluated by gas chromatography olfactometry dilution analysis",
+        "volume": "53",
+        "author": "Wang",
+        "year": "2005",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_171",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1016/j.aca.2007.02.053",
+        "article-title": "Volatiles emission patterns of different plant organs and pollen of Citrus limon",
+        "volume": "589",
+        "author": "Flamini",
+        "year": "2007",
+        "journal-title": "Anal. Chim. Acta"
+      },
+      {
+        "key": "ref_172",
+        "doi-asserted-by": "crossref",
+        "first-page": "638",
+        "DOI": "10.1631/jzus.B1400058",
+        "article-title": "Analysis of aroma-active compounds in three sweet osmanthus (Osmanthus fragrans) cultivars by GC-olfactometry and GC-MS",
+        "volume": "15",
+        "author": "Cai",
+        "year": "2014",
+        "journal-title": "J. Zhejiang Univ.-Sci. B"
+      },
+      {
+        "key": "ref_173",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1016/j.foodchem.2007.12.074",
+        "article-title": "Volatile flavor constituents in roasted pork of Mini-pig",
+        "volume": "109",
+        "author": "Xie",
+        "year": "2008",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_174",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1900552",
+        "DOI": "10.1002/cbdv.201900552",
+        "article-title": "Chemical Composition and Insecticidal Activity of Crithmum maritimum L. Essential Oil against Stored-Product Beetle Tribolium Castaneum",
+        "volume": "17",
+        "author": "Mustapha",
+        "year": "2020",
+        "journal-title": "Chem. Biodivers."
+      },
+      {
+        "key": "ref_175",
+        "doi-asserted-by": "crossref",
+        "first-page": "4647",
+        "DOI": "10.1021/jf020269x",
+        "article-title": "Differences in the Fragrances of Pollen and Different Floral Parts of Male and Female Flowers of Laurus nobilis",
+        "volume": "50",
+        "author": "Flamini",
+        "year": "2002",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_176",
+        "doi-asserted-by": "crossref",
+        "first-page": "691",
+        "DOI": "10.1016/S0731-7085(02)00119-X",
+        "article-title": "GC/MS evaluation of thyme (Thymus vulgaris L.) oil composition and variations during the vegetative cycle",
+        "volume": "29",
+        "author": "Hudaib",
+        "year": "2002",
+        "journal-title": "J. Pharm. Biomed. Anal."
+      },
+      {
+        "key": "ref_177",
+        "doi-asserted-by": "crossref",
+        "first-page": "834",
+        "DOI": "10.1021/acs.jnatprod.9b00339",
+        "article-title": "Structure\u2013Odor Activity Studies on Derivatives of Aromatic and Oxygenated Monoterpenoids Synthesized by Modifying p-Cymene",
+        "volume": "83",
+        "author": "Schreiner",
+        "year": "2020",
+        "journal-title": "J. Nat. Prod."
+      },
+      {
+        "key": "ref_178",
+        "first-page": "216",
+        "article-title": "Characterization of Odor Active Compounds of Fresh and Dried Turmeric by Gas Chromatography-Mass Spectrometry, Gas Chromatography Olfactometry and Sensory Evaluation",
+        "volume": "3",
+        "author": "Laokuldilok",
+        "year": "2017",
+        "journal-title": "FAB J."
+      },
+      {
+        "key": "ref_179",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1016/j.mimet.2010.03.011",
+        "article-title": "Identification and profiling of volatile metabolites of the biocontrol fungus Trichoderma atroviride by HS-SPME-GC-MS",
+        "volume": "81",
+        "author": "Stoppacher",
+        "year": "2010",
+        "journal-title": "J. Microbiol. Methods"
+      },
+      {
+        "key": "ref_180",
+        "doi-asserted-by": "crossref",
+        "first-page": "606",
+        "DOI": "10.1016/j.foodchem.2005.01.038",
+        "article-title": "Volatile components of mangaba fruit (Hancornia speciosa Gomes) at three stages of maturity",
+        "volume": "95",
+        "author": "Sampaio",
+        "year": "2006",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_181",
+        "doi-asserted-by": "crossref",
+        "first-page": "392",
+        "DOI": "10.1002/ffj.1810",
+        "article-title": "Changes in volatile compounds of fermented cereza agria [Phyllanthus acidus (L.) Skeels] fruit",
+        "volume": "22",
+        "author": "Quijano",
+        "year": "2007",
+        "journal-title": "Flavour Fragr. J."
+      },
+      {
+        "key": "ref_182",
+        "doi-asserted-by": "crossref",
+        "first-page": "870",
+        "DOI": "10.1016/j.foodres.2016.08.017",
+        "article-title": "Flavor of roasted peanuts (Arachis hypogaea)\u2014Part II: Correlation of volatile compounds to sensory characteristics",
+        "volume": "89",
+        "author": "Lykomitros",
+        "year": "2016",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_183",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1016/j.indcrop.2009.02.010",
+        "article-title": "Variation in plant properties and essential oil composition of sweet fennel (Foeniculum vulgare Mill.) fruits during stages of maturity",
+        "volume": "30",
+        "author": "Telci",
+        "year": "2009",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "ref_184",
+        "doi-asserted-by": "crossref",
+        "first-page": "4813",
+        "DOI": "10.1021/jf010471k",
+        "article-title": "Aromatic Profile of Aqueous Banana Essence and Banana Fruit by Gas Chromatography\u2212Mass Spectrometry (GC-MS) and Gas Chromatography\u2212Olfactometry (GC-O)",
+        "volume": "49",
+        "author": "Tandon",
+        "year": "2001",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_185",
+        "doi-asserted-by": "crossref",
+        "first-page": "3990",
+        "DOI": "10.1021/jf053278p",
+        "article-title": "Comparison of Aroma Volatiles in Commercial Merlot and Cabernet Sauvignon Wines Using Gas Chromatography\u2212Olfactometry and Gas Chromatography\u2212Mass Spectrometry",
+        "volume": "54",
+        "author": "Rouseff",
+        "year": "2006",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_186",
+        "doi-asserted-by": "crossref",
+        "first-page": "2823",
+        "DOI": "10.1002/rcm.2665",
+        "article-title": "Comprehensive two-dimensional gas chromatography/mass spectrometric analysis of pepper volatiles",
+        "volume": "20",
+        "author": "Cardeal",
+        "year": "2006",
+        "journal-title": "Rapid Commun. Mass Spectrom."
+      },
+      {
+        "key": "ref_187",
+        "doi-asserted-by": "crossref",
+        "first-page": "1345",
+        "DOI": "10.1021/jf0005768",
+        "article-title": "Identification of Volatile Compounds in Cantaloupe at Various Developmental Stages Using Solid Phase Microextraction",
+        "volume": "49",
+        "author": "Beaulieu",
+        "year": "2001",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_188",
+        "doi-asserted-by": "crossref",
+        "first-page": "3391",
+        "DOI": "10.1021/jf053001p",
+        "article-title": "Comparison of Odor-Active Volatile Compounds of Fresh and Smoked Salmon",
+        "volume": "54",
+        "author": "Varlet",
+        "year": "2006",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_189",
+        "doi-asserted-by": "crossref",
+        "first-page": "3755",
+        "DOI": "10.1002/jssc.200900343",
+        "article-title": "Characterization of the yerba mate (Ilex paraguariensis) volatile fraction using solid-phase microextraction-comprehensive 2-D GC-MS",
+        "volume": "32",
+        "author": "Purcaro",
+        "year": "2009",
+        "journal-title": "J. Sep. Sci."
+      },
+      {
+        "key": "ref_190",
+        "first-page": "152",
+        "article-title": "Chemical composition, antimicrobial activities and odor descriptions of various Salvia sp. and Thuja sp. essential oils",
+        "volume": "30",
+        "author": "Jirovetz",
+        "year": "2006",
+        "journal-title": "Nutrition-Vienna"
+      },
+      {
+        "key": "ref_191",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.7763/IJESD.2010.V1.23",
+        "article-title": "Separation, Identification and Determination of Volatile Compounds of Ziziphora persica Bunge Using HS-SPME/GC-MS",
+        "volume": "1",
+        "author": "Nezhadali",
+        "year": "2010",
+        "journal-title": "Int. J. Environ. Sci. Dev."
+      },
+      {
+        "key": "ref_192",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Niu, Y., Wang, P., Xiao, Q., Xiao, Z., Mao, H., and Zhang, J. (2020). Characterization of Odor-Active Volatiles and Odor Contribution Based on Binary Interaction Effects in Mango and Vodka Cocktail. Molecules, 25.",
+        "DOI": "10.3390/molecules25051083"
+      },
+      {
+        "key": "ref_193",
+        "doi-asserted-by": "crossref",
+        "first-page": "1471",
+        "DOI": "10.1080/0972060X.2016.1224685",
+        "article-title": "Chemical Composition of Cardopatium corymbosum Leaves Essential Oil",
+        "volume": "19",
+        "author": "Jeribi",
+        "year": "2016",
+        "journal-title": "J. Essent. Oil Bear. Plants"
+      },
+      {
+        "key": "ref_194",
+        "doi-asserted-by": "crossref",
+        "first-page": "741",
+        "DOI": "10.1016/j.indcrop.2015.09.050",
+        "article-title": "Volatiles and seasonal variation of the essential oil composition from the leaves of Clinopodium macrostemum var. laevigatum and its biological activities",
+        "volume": "77",
+        "year": "2015",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "ref_195",
+        "doi-asserted-by": "crossref",
+        "first-page": "3787",
+        "DOI": "10.1021/jf980987c",
+        "article-title": "The Main Citral\u2212Geraniol and Carvacrol Chemotypes of the Essential Oil of Thymus pulegioides L. Growing Wild in Vilnius District (Lithuania)",
+        "volume": "47",
+        "author": "Mockute",
+        "year": "1999",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_196",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1016/j.foodres.2005.08.002",
+        "article-title": "Odour-active components of simulated beef flavour analysed by solid phase microextraction and gas chromatography\u2013mass spectrometry and \u2013olfactometry",
+        "volume": "39",
+        "author": "Moon",
+        "year": "2006",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_197",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.1007/s12374-011-0356-0",
+        "article-title": "HS-SPME-GC/MS analysis of the volatile compounds of Achillea collina: Evaluation of the emissions fingerprint induced by Myzus persicae infestation",
+        "volume": "55",
+        "author": "Giorgi",
+        "year": "2012",
+        "journal-title": "J. Plant Biol."
+      },
+      {
+        "key": "ref_198",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1002/cbdv.201100048",
+        "article-title": "Essential Oils in the Ranunculaceae Family: Chemical Composition of Hydrodistilled Oils from Consolida regalis, Delphinium elatum, Nigella hispanica, and N. nigellastrum Seeds",
+        "volume": "9",
+        "author": "Kokoska",
+        "year": "2012",
+        "journal-title": "Chem. Biodivers."
+      },
+      {
+        "key": "ref_199",
+        "doi-asserted-by": "crossref",
+        "first-page": "2323",
+        "DOI": "10.1021/jf062702z",
+        "article-title": "Differentiation of aroma characteristics of pine-mushrooms (Tricholoma matsutake Sing.) of different grades using gas chromatography\u2212olfactometry and sensory analysis",
+        "volume": "55",
+        "author": "Cho",
+        "year": "2007",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_200",
+        "doi-asserted-by": "crossref",
+        "first-page": "322",
+        "DOI": "10.1016/j.bse.2014.03.029",
+        "article-title": "Comparison of floral scent between and within Buddleja fallowiana and Buddleja officinalis (Scrophulariaceae)",
+        "volume": "55",
+        "author": "Gong",
+        "year": "2014",
+        "journal-title": "Biochem. Syst. Ecol."
+      },
+      {
+        "key": "ref_201",
+        "doi-asserted-by": "crossref",
+        "first-page": "100312",
+        "DOI": "10.1016/j.aqrep.2020.100312",
+        "article-title": "Odor-active volatile compounds profile of triploid rainbow trout with different marketable sizes",
+        "volume": "17",
+        "author": "Ma",
+        "year": "2020",
+        "journal-title": "Aquac. Rep."
+      },
+      {
+        "key": "ref_202",
+        "doi-asserted-by": "crossref",
+        "first-page": "375",
+        "DOI": "10.1016/j.fshw.2019.11.004",
+        "article-title": "Characterization of flavor fingerprinting of red sufu during fermentation and the comparison of volatiles of typical products",
+        "volume": "8",
+        "author": "Wang",
+        "year": "2019",
+        "journal-title": "Food Sci. Hum. Wellness"
+      },
+      {
+        "key": "ref_203",
+        "doi-asserted-by": "crossref",
+        "first-page": "744",
+        "DOI": "10.1016/j.foodres.2012.12.026",
+        "article-title": "Comparative study on volatile compounds in Turkish green tea powder: Impact of tea clone, shading level and shooting period",
+        "volume": "53",
+        "author": "Tontul",
+        "year": "2013",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_204",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/S0021-9673(97)00769-3",
+        "article-title": "Analysis of odour and taste problems in high-density polyethene",
+        "volume": "791",
+        "author": "Villberg",
+        "year": "1997",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "ref_205",
+        "doi-asserted-by": "crossref",
+        "first-page": "128230",
+        "DOI": "10.1016/j.foodchem.2020.128230",
+        "article-title": "Changes of volatile compounds and odor profiles in Wuyi rock tea during processing",
+        "volume": "341",
+        "author": "Guo",
+        "year": "2021",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_206",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1111/j.1468-2494.2008.00480.x",
+        "article-title": "Salvia somalensis essential oil as a potential cosmetic ingredient: Solvent-free microwave extraction, hydrodistillation, GC\u2013MS analysis, odour evaluation and in vitro cytotoxicity assays",
+        "volume": "31",
+        "author": "Villa",
+        "year": "2009",
+        "journal-title": "Int. J. Cosmet. Sci."
+      },
+      {
+        "key": "ref_207",
+        "doi-asserted-by": "crossref",
+        "first-page": "2271",
+        "DOI": "10.3390/molecules17032271",
+        "article-title": "Determination of the Volatile Composition in Brown Millet, Milled Millet and Millet Bran by Gas Chromatography/Mass Spectrometry",
+        "volume": "17",
+        "author": "Liu",
+        "year": "2012",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_208",
+        "doi-asserted-by": "crossref",
+        "first-page": "7499",
+        "DOI": "10.1021/acs.jafc.5b02358",
+        "article-title": "Comparison of Aroma-Active Volatiles in Oolong Tea Infusions Using GC\u2013Olfactometry, GC\u2013FPD, and GC\u2013MS",
+        "volume": "63",
+        "author": "Zhu",
+        "year": "2015",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_209",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1016/j.foodres.2018.07.056",
+        "article-title": "Fresh and grilled eel volatile fingerprinting by e-Nose, GC-O, GC\u2013MS and GC \u00d7 GC-QTOF combined with purge and trap and solvent-assisted flavor evaporation",
+        "volume": "115",
+        "author": "Huang",
+        "year": "2019",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_210",
+        "doi-asserted-by": "crossref",
+        "first-page": "4364",
+        "DOI": "10.1021/jf0603329",
+        "article-title": "Chemical composition, seasonal variability, and antifungal activity of Lavandula stoechas L. ssp. stoechas Essential Oils from Stem/Leaves and Flowers",
+        "volume": "54",
+        "author": "Angioni",
+        "year": "2006",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_211",
+        "doi-asserted-by": "crossref",
+        "first-page": "e13006",
+        "DOI": "10.1111/jfbc.13006",
+        "article-title": "Volatile components of American silver carp analyzed by electronic nose and MMSE-GC-MS-O",
+        "volume": "43",
+        "author": "Lu",
+        "year": "2019",
+        "journal-title": "J. Food Biochem."
+      },
+      {
+        "key": "ref_212",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kishimoto, N., and Kashiwagi, A. (2019, January 26\u201329). Prediction of Specific Odor Markers in Oil from Olive Fruit Infested with Olive Scale Using an Electronic Nose. Proceedings of the 2019 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN), Fukuoka, Japan.",
+        "DOI": "10.1109/ISOEN.2019.8823146"
+      },
+      {
+        "key": "ref_213",
+        "doi-asserted-by": "crossref",
+        "first-page": "639",
+        "DOI": "10.1016/j.foodchem.2014.07.108",
+        "article-title": "Characterization of potent odorants in male giant water bug (Lethocerus indicus Lep. and Serv.), an important edible insect of Southeast Asia",
+        "volume": "168",
+        "author": "Kiatbenjakul",
+        "year": "2015",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_214",
+        "doi-asserted-by": "crossref",
+        "first-page": "2480",
+        "DOI": "10.1021/acs.jafc.7b01499",
+        "article-title": "Comparison of Aroma Character Impact Volatiles of Thummong Leaves (Litsea petiolata Hook. f.), Mangdana Water Beetle (Lethocerus indicus), and a Commercial Product as Flavoring Agents in Thai Traditional Cooking",
+        "volume": "66",
+        "author": "Mahattanatawee",
+        "year": "2018",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_215",
+        "doi-asserted-by": "crossref",
+        "first-page": "2213",
+        "DOI": "10.1021/jf0402633",
+        "article-title": "Volatile components from mango (Mangifera indica L.) cultivars",
+        "volume": "53",
+        "author": "Pino",
+        "year": "2005",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_216",
+        "doi-asserted-by": "crossref",
+        "first-page": "186",
+        "DOI": "10.1016/j.foodchem.2006.05.047",
+        "article-title": "Volatile constituents of cooked bullfrog (Rana catesbeiana) legs",
+        "volume": "102",
+        "author": "Moura",
+        "year": "2007",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_217",
+        "doi-asserted-by": "crossref",
+        "first-page": "1930",
+        "DOI": "10.1016/j.foodchem.2016.11.156",
+        "article-title": "Assessing a traceability technique in fresh oranges (Citrus sinensis L. Osbeck) with an HS-SPME-GC-MS method. Towards a volatile characterisation of organic oranges",
+        "volume": "221",
+        "author": "Cuevas",
+        "year": "2017",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_218",
+        "doi-asserted-by": "crossref",
+        "first-page": "109629",
+        "DOI": "10.1016/j.lwt.2020.109629",
+        "article-title": "Analysis of volatile compounds in Paracentrotus lividus by HS-SPME/GS-MS and relation to its sensorial properties",
+        "volume": "130",
+        "author": "Oliveira",
+        "year": "2020",
+        "journal-title": "LWT"
+      },
+      {
+        "key": "ref_219",
+        "doi-asserted-by": "crossref",
+        "first-page": "e12869",
+        "DOI": "10.1111/jfbc.12869",
+        "article-title": "Taste quality traits and volatile profiles of sprouts and wheatgrass from hulled and non-hulled Triticum species",
+        "volume": "43",
+        "author": "Bianchi",
+        "year": "2019",
+        "journal-title": "J. Food Biochem."
+      },
+      {
+        "key": "ref_220",
+        "doi-asserted-by": "crossref",
+        "first-page": "2780",
+        "DOI": "10.1021/jf072685t",
+        "article-title": "Comparison of Odor-Active Compounds from Six Distinctly Different Rice Flavor Types",
+        "volume": "56",
+        "author": "Yang",
+        "year": "2008",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_221",
+        "doi-asserted-by": "crossref",
+        "first-page": "100641",
+        "DOI": "10.1016/j.aqrep.2021.100641",
+        "article-title": "Characterization of difference in muscle volatile compounds between triploid and diploid crucian carp",
+        "volume": "20",
+        "author": "Cai",
+        "year": "2021",
+        "journal-title": "Aquac. Rep."
+      },
+      {
+        "key": "ref_222",
+        "doi-asserted-by": "crossref",
+        "first-page": "1539",
+        "DOI": "10.1016/S1001-0742(12)60232-0",
+        "article-title": "Characterization of typical taste and odor compounds formed by Microcystis Aeruginosa",
+        "volume": "25",
+        "author": "Zhang",
+        "year": "2013",
+        "journal-title": "J. Environ. Sci."
+      },
+      {
+        "key": "ref_223",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1016/j.foodchem.2016.01.068",
+        "article-title": "Effect of cooking methods on nutritional quality and volatile compounds of Chinese chestnut (Castanea mollissima Blume)",
+        "volume": "201",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_224",
+        "doi-asserted-by": "crossref",
+        "first-page": "1106",
+        "DOI": "10.1016/j.foodchem.2008.10.061",
+        "article-title": "Volatiles of grape berries evaluated at the germplasm level by headspace-SPME with GC\u2013MS",
+        "volume": "114",
+        "author": "Yang",
+        "year": "2009",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_225",
+        "doi-asserted-by": "crossref",
+        "first-page": "8842",
+        "DOI": "10.1021/jf061089g",
+        "article-title": "Changes in the Volatile Compounds and Chemical and Physical Properties of Kuerle Fragrant Pear (Pyrus serotina Reld) during Storage",
+        "volume": "54",
+        "author": "Chen",
+        "year": "2006",
+        "journal-title": "J. Agric. Food Chem."
+      },
+      {
+        "key": "ref_226",
+        "doi-asserted-by": "crossref",
+        "first-page": "437",
+        "DOI": "10.1080/10412905.2008.9700052",
+        "article-title": "Volatile constituents of Equisetum fluviatile L.",
+        "volume": "20",
+        "author": "Milovanovic",
+        "year": "2008",
+        "journal-title": "J. Essent. Oil Res."
+      },
+      {
+        "key": "ref_227",
+        "doi-asserted-by": "crossref",
+        "first-page": "180",
+        "DOI": "10.1016/j.chroma.2005.09.074",
+        "article-title": "Analysis by gas chromatography\u2013mass spectrometry of the essential oils from the aerial parts of Pimpinella anagodendron Bolle and Pimpinella rupicola Svent., two endemic species to the Canary Islands, Spain",
+        "volume": "1095",
+        "author": "Sanz",
+        "year": "2005",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "ref_228",
+        "doi-asserted-by": "crossref",
+        "first-page": "3479",
+        "DOI": "10.3390/molecules20023479",
+        "article-title": "Nutritional Value and Volatile Compounds of Black Cherry (Prunus serotina) Seeds",
+        "volume": "20",
+        "year": "2015",
+        "journal-title": "Molecules"
+      },
+      {
+        "key": "ref_229",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.aca.2013.01.041",
+        "article-title": "Multiple headspace-solid-phase microextraction: An application to quantification of mushroom volatiles",
+        "volume": "770",
+        "author": "Costa",
+        "year": "2013",
+        "journal-title": "Anal. Chim. Acta"
+      },
+      {
+        "key": "ref_230",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1002/ffj.3632",
+        "article-title": "Characterization of odour-active compounds of sour guava (Psidium acidum[DC.]Landrum) fruit by gas chromatography-olfactometry and odour activity value",
+        "volume": "36",
+        "author": "Pino",
+        "year": "2021",
+        "journal-title": "Flavour Fragr. J."
+      },
+      {
+        "key": "ref_231",
+        "doi-asserted-by": "crossref",
+        "first-page": "791",
+        "DOI": "10.1016/j.snb.2016.03.005",
+        "article-title": "Detection of 3-Carene in mango using a quartz crystal microbalance sensor",
+        "volume": "230",
+        "author": "Ali",
+        "year": "2016",
+        "journal-title": "Sens. Actuators B Chem."
+      },
+      {
+        "key": "ref_232",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1016/j.microc.2009.07.010",
+        "article-title": "Analysis of volatile compounds of wild gilthead sea bream (Sparus aurata) by simultaneous distillation\u2013extraction (SDE) and GC\u2013MS",
+        "volume": "93",
+        "author": "Selli",
+        "year": "2009",
+        "journal-title": "Microchem. J."
+      },
+      {
+        "key": "ref_233",
+        "doi-asserted-by": "crossref",
+        "first-page": "1561",
+        "DOI": "10.1016/j.foodchem.2011.10.008",
+        "article-title": "Selection of a representative extraction method for the analysis of odourant volatile composition of French cider by GC\u2013MS\u2013O and GC\u00d7GC\u2013TOF-MS",
+        "volume": "131",
+        "author": "Arvisenet",
+        "year": "2012",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_234",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/j.indcrop.2016.11.053",
+        "article-title": "Chemical composition, antibacterial and antioxidant activities of hydrosols from different parts of Areca catechu L. and Cocos nucifera L.",
+        "volume": "96",
+        "author": "Shen",
+        "year": "2017",
+        "journal-title": "Ind. Crops Prod."
+      },
+      {
+        "key": "ref_235",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.foodres.2012.07.011",
+        "article-title": "An original approach for gas chromatography-olfactometry detection frequency analysis: Application to gin",
+        "volume": "49",
+        "author": "Dussort",
+        "year": "2012",
+        "journal-title": "Food Res. Int."
+      },
+      {
+        "key": "ref_236",
+        "doi-asserted-by": "crossref",
+        "first-page": "186",
+        "DOI": "10.1016/j.lwt.2019.02.047",
+        "article-title": "Orange juice added with L. casei: Is there an impact of the probiotic addition methodology on the quality parameters?",
+        "volume": "106",
+        "author": "Miranda",
+        "year": "2019",
+        "journal-title": "LWT"
+      },
+      {
+        "key": "ref_237",
+        "doi-asserted-by": "crossref",
+        "first-page": "1595",
+        "DOI": "10.1007/s11746-016-2906-6",
+        "article-title": "Characterization of Aroma-Active Compounds in Iranian cv. Mari Olive Oil by Aroma Extract Dilution Analysis and GC\u2013MS-Olfactometry",
+        "volume": "93",
+        "author": "Amanpour",
+        "year": "2016",
+        "journal-title": "J. Am. Oil Chem. Soc."
+      },
+      {
+        "key": "ref_238",
+        "doi-asserted-by": "crossref",
+        "first-page": "256",
+        "DOI": "10.4103/0973-1296.71782",
+        "article-title": "Chemical composition of the essential oils of Rhodiola rosea L. of three different origins",
+        "volume": "6",
+        "author": "Evstatieva",
+        "year": "2010",
+        "journal-title": "Pharm. Mag."
+      },
+      {
+        "key": "ref_239",
+        "doi-asserted-by": "crossref",
+        "first-page": "108721",
+        "DOI": "10.1016/j.lwt.2019.108721",
+        "article-title": "Identification of rancidity markers in roasted sunflower seeds produced from raw materials stored for different periods of time",
+        "volume": "118",
+        "author": "Fu",
+        "year": "2020",
+        "journal-title": "LWT"
+      },
+      {
+        "key": "ref_240",
+        "doi-asserted-by": "crossref",
+        "first-page": "409",
+        "DOI": "10.2508/chikusan.75.409",
+        "article-title": "Aroma components of Wagyu beef and imported beef",
+        "volume": "75",
+        "author": "Matsuishi",
+        "year": "2004",
+        "journal-title": "Nihon Chikusan Gakkaiho"
+      }
+    ],
+    "container-title": [
+      "Antioxidants"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2076-3921/12/6/1161/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2025-10-10T19:43:11Z",
+      "timestamp": 1760125391000
+    },
+    "score": 1.7907513,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2076-3921/12/6/1161"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          26
+        ]
+      ]
+    },
+    "references-count": 240,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "antiox12061161"
+    ],
+    "URL": "https://doi.org/10.3390/antiox12061161",
+    "ISSN": [
+      "2076-3921"
+    ],
+    "issn-type": [
+      {
+        "value": "2076-3921",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          26
+        ]
+      ]
+    }
+  }
+]
