@@ -2,20 +2,23 @@ from query_gscholar import query_gscholar
 from doi_gscholar import doi_gscholar
 from crossref_gscholar import crossref_gscholar
 from openalex_gscholar import openalex_gscholar
-
 from doi_crossref import doi_crossref
 from query_crossref import query_crossref
 from compile_crossref import compile_crossref
 from openalex_crossref import openalex_crossref
-
 from combine_articles import combine_articles
 from list_affs import list_affs
 from geolocate_affs import geolocate_affs
+from query_gbif import query_gbif
+from count_organisms import count_organisms
+from table_articles import table_articles
+from table_organisms import table_organisms
+from write_html import write_html
 
 def main():
     print("main running")
 
-    tasks = [7, 9, 10, 11]
+    tasks = [15, 16]
 
 
     if 1 in tasks: query_gscholar()
@@ -32,13 +35,18 @@ def main():
     if 10 in tasks: list_affs()
     if 11 in tasks: geolocate_affs()
 
+    if 12 in tasks: query_gbif()
+    if 13 in tasks: count_organisms()
 
-    # list_affs
-    # geolocate_affs
+    if 14 in tasks: table_articles()
+    if 15 in tasks: table_organisms()
+    if 16 in tasks: write_html()
+
+
+
     # geolocate_articles
     # map_articles
     # table_articles
-    # query_gbif
     # count_organisms
     # map_high_counts
 

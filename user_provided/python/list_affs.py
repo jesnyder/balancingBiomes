@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Date: 2026-02-20
+Date: 2026-02-22
 
 Objective:
     Extract, count, and summarize all affiliations from compiled articles.
@@ -15,8 +15,13 @@ from collections import Counter, defaultdict
 
 def list_affs():
     """
-    Main function to extract affiliations, count their occurrences,
-    and summarize results in a structured dictionary.
+    Extract affiliations from compiled articles and summarize results.
+
+    This function is designed to be robust against real-world metadata issues:
+    - affiliation may be None
+    - affiliation may be a string or list
+    - authors may be strings instead of dictionaries
+    - missing keys are handled safely
     """
 
     # -----------------------------
@@ -30,56 +35,69 @@ def list_affs():
     # LOAD COMPILED ARTICLES
     # -----------------------------
     print("\n=== Loading compiled articles ===")
+
     with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     articles = data.get("articles", [])
     total_articles = len(articles)
+
     print(f"Total articles loaded: {total_articles}")
 
     # -----------------------------
     # INITIALIZE COUNTERS
     # -----------------------------
-    all_affs = []  # all affiliations including duplicates
+    all_affs = []                       # every affiliation instance
+    affs_article_counter = defaultdict(int)  # counts per unique article
     articles_with_affs_count = 0
-    affs_article_counter = defaultdict(int)  # counts number of articles each affiliation appears in
 
     # -----------------------------
-    # PROCESS EACH ARTICLE
+    # PROCESS ARTICLES
     # -----------------------------
     for idx, article in enumerate(articles, start=1):
         article_has_aff = False
-        authors = article.get("authors", [])
-
-        # Track unique affiliations per article to avoid double-counting in articles
         unique_article_affs = set()
 
+        authors = article.get("authors", [])
+
         for author in authors:
-            # Some authors are strings instead of dicts, skip safely
+            # Some entries are strings instead of dicts → skip safely
             if not isinstance(author, dict):
                 continue
 
-            affs = author.get("affiliation", [])
-            # Ensure affiliations is a list
-            if isinstance(affs, str):
+            affs = author.get("affiliation")
+
+            # Normalize affiliation field into a list
+            if affs is None:
+                continue
+            elif isinstance(affs, str):
                 affs = [affs]
             elif not isinstance(affs, list):
-                affs = []
+                continue
 
             for aff in affs:
-                aff = aff.strip()
-                if aff:
-                    all_affs.append(aff)
-                    unique_article_affs.add(aff)
-                    article_has_aff = True
+                # Skip non-string or empty values safely
+                if not isinstance(aff, str):
+                    continue
 
-        # Count each unique affiliation for this article
+                aff = aff.strip()
+
+                if not aff:
+                    continue
+
+                # Track counts
+                all_affs.append(aff)
+                unique_article_affs.add(aff)
+                article_has_aff = True
+
+        # Count each unique affiliation per article (no double counting)
         for aff in unique_article_affs:
             affs_article_counter[aff] += 1
 
         if article_has_aff:
             articles_with_affs_count += 1
 
+        # Progress reporting
         if idx % 100 == 0 or idx == total_articles:
             print(f"Processed {idx}/{total_articles} articles...")
 
@@ -89,10 +107,8 @@ def list_affs():
     aff_counts_total = Counter(all_affs)
     unique_affs = sorted(aff_counts_total.keys())
 
-    # Top 10 most common affiliations
     most_common_affs = [name for name, _ in aff_counts_total.most_common(10)]
 
-    # Prepare affs_counted list sorted by count_articles descending
     affs_counted = []
     for aff in unique_affs:
         affs_counted.append({
@@ -100,10 +116,12 @@ def list_affs():
             "count": aff_counts_total[aff],
             "count_articles": affs_article_counter.get(aff, 0)
         })
+
+    # Sort so most cited affiliations appear first
     affs_counted.sort(key=lambda x: x["count_articles"], reverse=True)
 
     # -----------------------------
-    # FINAL SUMMARY DICTIONARY
+    # FINAL SUMMARY STRUCTURE
     # -----------------------------
     summary = {
         "count_unique": len(unique_affs),
@@ -116,10 +134,10 @@ def list_affs():
     }
 
     # -----------------------------
-    # SAVE SUMMARY
+    # SAVE RESULTS
     # -----------------------------
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(summary, f, indent=2)
+        json.dump(summary, f, indent=2, ensure_ascii=False)
 
     print(f"\nAffiliation summary saved → {output_path}")
     print("=== Done ===\n")
