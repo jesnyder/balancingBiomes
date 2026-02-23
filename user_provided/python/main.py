@@ -13,12 +13,14 @@ from query_gbif import query_gbif
 from count_organisms import count_organisms
 from table_articles import table_articles
 from table_organisms import table_organisms
+from table_affs import table_affs
+from table_aff_country_code import table_aff_country_code
 from write_html import write_html
 
 def main():
     print("main running")
 
-    tasks = [14, 15, 16]
+    tasks = [16, 18]
 
 
     if 1 in tasks: query_gscholar()
@@ -40,7 +42,9 @@ def main():
 
     if 14 in tasks: table_articles()
     if 15 in tasks: table_organisms()
-    if 16 in tasks: write_html()
+    if 16 in tasks: table_affs()
+    if 17 in tasks: table_aff_country_code()
+    if 18 in tasks: write_html()
 
 
 
