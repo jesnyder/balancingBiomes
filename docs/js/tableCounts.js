@@ -235,7 +235,7 @@ const organismsDataCounts = [
     "synonyms": "Atriplex halimioides Tineo, Atriplex halimoides Tineo, Atriplex halimus f. intermedia (L.Chevall.) Maire, Atriplex halimus f. ramosissima (L.Chevall.) Maire, Atriplex halimus f. rifea (Sennen & Mauricio) Maire, Atriplex halimus f. venosa (L.Chevall.) Maire, Atriplex halimus subsp. denticulata Sennen & Pau Exsicc., Atriplex halimus var. argutidens Bornm., Atriplex halimus var. denticulata Sennen & Pau, Atriplex halimus var. grandifolia L\u00e1zaro Ibiza, Atriplex halimus var. hastulata Maire, Atriplex halimus var. intermedia L.Chevall., Atriplex halimus var. ramosissima L.Chevall., Atriplex halimus var. rifaea Sennen & Mauricio, Atriplex halimus var. rifea Sennen & Mauricio, Atriplex halimus var. schweinfurthii Boiss., Atriplex halimus var. serrulata (Pau) Alcaraz, Garre & S\u00e1nchez-G\u00f3mez, Atriplex halimus var. venosa L.Chevall., Atriplex kataf Ehrenb., Atriplex kataf Ehrenb. ex Boiss., A. halimus",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 57,
+    "count": 56,
     "count_2": 34
   },
   {
@@ -253,7 +253,7 @@ const organismsDataCounts = [
     "synonyms": "Atriplex campestris M\u00e9rat, 1831, Atriplex ceretana Sennen, Atriplex hastata subsp. patula (Linnaeus) S.Pons, Atriplex littoralis Wright, Atriplex patula subsp. typica H.M.Hall & Clem., Atriplex patula var. angustifolia Bolus & Wolley-Dod, Atriplex patula var. bracteata, Atriplex patula var. erecta Huds., Atriplex patula var. muricata Ledeb., Atriplex patula var. patula, A. patula",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 7,
+    "count": 6,
     "count_2": 4
   },
   {
@@ -271,7 +271,7 @@ const organismsDataCounts = [
     "synonyms": "Avicennia maritima Naurois & Roux, Avicennia mindanaense Elmer, Avicennia officinalis Baker, Halodendron thouarsii Roem. & Schult., A. marina",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 53,
+    "count": 54,
     "count_2": 41
   },
   {
@@ -289,7 +289,7 @@ const organismsDataCounts = [
     "synonyms": "A. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 87,
+    "count": 88,
     "count_2": 60
   },
   {
@@ -298,7 +298,7 @@ const organismsDataCounts = [
     "synonyms": "A. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 77,
+    "count": 78,
     "count_2": 52
   },
   {
@@ -352,7 +352,7 @@ const organismsDataCounts = [
     "synonyms": "Clostridium licheniforme Weigmann, 1898, B. licheniformis",
     "kingdom": "Bacteria",
     "phylum": "Firmicutes",
-    "count": 11,
+    "count": 12,
     "count_2": 10
   },
   {
@@ -370,7 +370,7 @@ const organismsDataCounts = [
     "synonyms": "Alkalihalobacillus murimartini, Bacillus stercoris, B. subtilis",
     "kingdom": "Bacteria",
     "phylum": "Firmicutes",
-    "count": 37,
+    "count": 38,
     "count_2": 31
   },
   {
@@ -613,7 +613,7 @@ const organismsDataCounts = [
     "synonyms": "D. spec.",
     "kingdom": "Bacteria",
     "phylum": "Desulfobacterota_I",
-    "count": 114,
+    "count": 116,
     "count_2": 76
   },
   {
@@ -640,7 +640,7 @@ const organismsDataCounts = [
     "synonyms": "Haematococcus salinus Dunal, D. salina",
     "kingdom": "Plantae",
     "phylum": "Chlorophyta",
-    "count": 16,
+    "count": 17,
     "count_2": 10
   },
   {
@@ -685,7 +685,7 @@ const organismsDataCounts = [
     "synonyms": "Cytophaga johnsonae Stanier, 1947, Flexibacter aurantiacus Lewin, 1969, F. spec.",
     "kingdom": "Bacteria",
     "phylum": "Bacteroidota",
-    "count": 42,
+    "count": 46,
     "count_2": 28
   },
   {
@@ -793,7 +793,7 @@ const organismsDataCounts = [
     "synonyms": "H. spec.",
     "kingdom": "Bacteria",
     "phylum": "Firmicutes_F",
-    "count": 47,
+    "count": 50,
     "count_2": 32
   },
   {
@@ -847,7 +847,7 @@ const organismsDataCounts = [
     "synonyms": "H. spec.",
     "kingdom": "Bacteria",
     "phylum": "Firmicutes",
-    "count": 50,
+    "count": 53,
     "count_2": 35
   },
   {
@@ -955,7 +955,7 @@ const organismsDataCounts = [
     "synonyms": "H. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 50,
+    "count": 53,
     "count_2": 33
   },
   {
@@ -1198,7 +1198,7 @@ const organismsDataCounts = [
     "synonyms": "Marinobacter aquaeolei Nguyen et al., 1999, Pseudomonas nautica Baumann et al., 1972, M. hydrocarbonoclasticus",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 4,
+    "count": 5,
     "count_2": 3
   },
   {
@@ -1324,7 +1324,7 @@ const organismsDataCounts = [
     "synonyms": "Micrococcus yunnanensis, M. luteus",
     "kingdom": "Bacteria",
     "phylum": "Actinobacteriota",
-    "count": 2,
+    "count": 3,
     "count_2": 1
   },
   {
@@ -1450,7 +1450,7 @@ const organismsDataCounts = [
     "synonyms": "N. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 163,
+    "count": 167,
     "count_2": 119
   },
   {
@@ -1495,7 +1495,7 @@ const organismsDataCounts = [
     "synonyms": "Nitrosolobus multiformis Watson et al., 1971, N. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 163,
+    "count": 167,
     "count_2": 119
   },
   {
@@ -1657,7 +1657,7 @@ const organismsDataCounts = [
     "synonyms": "Atropis beltranii Sennen, Atropis distans var. maritima (Huds.) Coss. & Durieu, Atropis intermedia var. arenaria Schur, Atropis intermedia var. pseudomaritima Schur, Atropis maritima (Huds.) Griseb., Atropis pseudomaritima (Schur) Schur, Atropis transsilvanica Schur, Catabrosa maritima (Huds.) Link, Diachroa maritima Nutt., Diachroa maritima Nutt. ex Steud., Festuca distans var. maritima (Huds.) Mutel, Festuca maritima (Huds.) K.Koch, Festuca thalassica Kunth, Festuca thalassica var. anomala Lange, Glyceria baltica Lindeb., Glyceria baltica f. setacea Lindeb., Glyceria baltica f. vegetior Lindeb., Glyceria baltica var. setacea Lindeb., Glyceria baltica var. vegetior Lindeb., Glyceria baumgarteniana Schur, P. maritima",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 9,
+    "count": 10,
     "count_2": 6
   },
   {
@@ -1675,7 +1675,7 @@ const organismsDataCounts = [
     "synonyms": "R. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 100,
+    "count": 102,
     "count_2": 70
   },
   {
@@ -1747,7 +1747,7 @@ const organismsDataCounts = [
     "synonyms": "S. europaea",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 103,
+    "count": 102,
     "count_2": 75
   },
   {
@@ -1801,7 +1801,7 @@ const organismsDataCounts = [
     "synonyms": "Corispermum pilosum Raf., Kali australis (R.Br.) Akhani & Roalson, Kali soda Moench, Kali turgidum (Dumort.) Gutermann, Salsola acicularis Salisb., Salsola aptera Iljin, Salsola decumbens Lam., Salsola gmelinii Rouy, Salsola kali f. hirsuta Hornem., Salsola kali subsp. austroafricana Aellen, Salsola kali subsp. gmelinii (Rouy) R.C.V.Douin, Salsola kali var. angustifolia Fenzl, Salsola kali var. apula Ten., Salsola kali var. austroafricana Aellen, Salsola kali var. glabra Forssk., Salsola kali var. hirta Ten., Salsola kali var. hispida Forssk., Salsola kali var. hispida-polygama Forssk., Salsola kali var. kali, Salsola kali var. mixta W.D.J.Koch, S. kali",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 7,
+    "count": 6,
     "count_2": 4
   },
   {
@@ -1819,7 +1819,7 @@ const organismsDataCounts = [
     "synonyms": "S. fruticosa",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 21,
+    "count": 22,
     "count_2": 15
   },
   {
@@ -1855,7 +1855,7 @@ const organismsDataCounts = [
     "synonyms": "S. spec.",
     "kingdom": "Bacteria",
     "phylum": "Proteobacteria",
-    "count": 249,
+    "count": 255,
     "count_2": 171
   },
   {
@@ -1909,7 +1909,7 @@ const organismsDataCounts = [
     "synonyms": "Alsine marginata C.A.Mey., Alsine marina (L.) Mert. & W.D.J.Koch, Alsine marina var. succosior Mert. & W.D.J.Koch, Alsine salina (J.Presl & C.Presl) Heldmann, Alsine salina (J.Presl & C.Presl) J.Groves, Alsine sparsiflora (Greene) House, Alsine tenuis (Greene) House, Alsinella media (L.) Hornem., Arenaria halophila (T.Marsson) Bunge, Arenaria heterosperma Guss., Arenaria marina (L.) Pall. ex Ledeb., Arenaria marina (L.) Weber, Arenaria marina All., Arenaria marina Pall., Arenaria maritima (L.) Steud., Arenaria media DC., Arenaria miquelonensis Bach.Pyl., Arenaria miquelonensis Bach.Pyl. ex Lebel, Arenaria rubra subsp. marina (L.) Ehrh., Arenaria rubra var. marina L., S. marina",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 11,
+    "count": 12,
     "count_2": 9
   },
   {
@@ -1918,7 +1918,7 @@ const organismsDataCounts = [
     "synonyms": "Cynodon pungens Raspail, Dactylis cynosuroides Loefl., 1758, Dactylis maritima Curtis, Dactylis stricta Aiton, Limnetis pungens Rich., Paspalum strictum (Aiton) Brot., Poa ternitana Spreng., Poa ternitana Spreng. ex Link, Rottboellia stricta (Aiton) Steud., Spartina capensis Nees, Spartina capensis Nees ex Trin., Spartina intermedia Bosc, Spartina intermedia Bosc ex St.-Yves, Spartina maritima (Curtis) Fernald, Spartina maritima subsp. stricta (Aiton) St.-Yves, Spartina pungens P.Beauv., Spartina schreberi J.F.Gmel., Spartina stricta (Aiton) Roth, Spartina stricta f. luxurians Jansen & Wacht., Spartina stricta f. monostachya Jansen & Wacht., S. maritimus",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 16,
+    "count": 17,
     "count_2": 11
   },
   {
@@ -1972,7 +1972,7 @@ const organismsDataCounts = [
     "synonyms": "Chenopodina maritima var. vulgaris Moq., Lerchea maritima (L.) Kuntze, Lerchea maritima var. australis (R.Br.) Kuntze, 1891, Lerchea salsa (L.) Medik., Salsola maritima (L.) Poir., Salsola nudiflora Wall., Salsola salsa (L.) Jacq., Salsola sativa Wight, Salsola stricta S.G.Gmel., Salsola trigyna Steud., Suaeda maritima var. maritima, S. maritima",
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
-    "count": 117,
+    "count": 118,
     "count_2": 85
   },
   {
@@ -2053,7 +2053,7 @@ const organismsDataCounts = [
     "synonyms": "T. spec.",
     "kingdom": "Bacteria",
     "phylum": "Firmicutes",
-    "count": 226,
+    "count": 230,
     "count_2": 153
   },
   {
@@ -2161,7 +2161,7 @@ const organismsDataCounts = [
     "synonyms": "Bacillus halodenitrificans Denariaz et al., 1989, V. halodenitrificans",
     "kingdom": "Bacteria",
     "phylum": "Firmicutes",
-    "count": 3,
+    "count": 2,
     "count_2": 2
   },
   {

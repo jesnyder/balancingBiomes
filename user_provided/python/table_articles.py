@@ -1,151 +1,180 @@
-#!/usr/bin/env python3
-"""
-Date: 2026-02-22
+# date: 2026-02-23
+# objective: Generate JS file for interactive article table with robust fallback for missing info
+#            Initialize with most cited at the top and include Journal/Publisher column right after Title
+# dependencies: json
 
-Objective:
-    Build a searchable and sortable interactive table using Tabulator
-    from compiled article metadata. Handles DOI URLs, fallback links,
-    and validates URLs to avoid broken links.
-
-Dependencies:
-    - json       (reading and saving article data)
-    - os         (directory/file handling)
-    - requests   (HTTP HEAD requests to check URLs)
-
-Design Notes:
-    • Written for clarity and novice understanding
-    • Handles 'link' as dict or list of dicts
-    • Checks DOI URL first; falls back to other URLs
-    • Prints progress updates for troubleshooting
-"""
-
-import os
 import json
-import requests
 
 def table_articles():
-    """Main function to build the Tabulator JS table."""
+    json_file = "results/query/compiled_articles.json"
+    js_file = "docs/js/tableArticles.js"
 
-    input_file = "results/query/compiled_articles.json"
-    output_js = "docs/js/tableArticles.js"
-
-    print("Loading compiled articles...")
-    with open(input_file, "r", encoding="utf-8") as f:
+    print("Loading JSON...")
+    with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     articles = data.get("articles", [])
-    total_articles = len(articles)
-    print(f"Loaded {total_articles} articles.")
+    print(f"Loaded {len(articles)} articles.")
 
-    # Ensure output directory exists
-    os.makedirs(os.path.dirname(output_js), exist_ok=True)
+    # -----------------------------
+    # Helper functions
+    # -----------------------------
+    def safe_string(value):
+        """Convert value to string, use first element if it's a list"""
+        if isinstance(value, list):
+            return str(value[0]) if value else "N/A"
+        return str(value) if value is not None else "N/A"
 
-    table_data = []
+    def get_nested(article, *keys):
+        """Return nested value from dictionary safely"""
+        current = article
+        for key in keys:
+            if isinstance(current, dict):
+                current = current.get(key)
+            elif isinstance(current, list) and isinstance(key, int) and key < len(current):
+                current = current[key]
+            else:
+                current = None
+                break
+        return safe_string(current)
 
-    for idx, article in enumerate(articles, start=1):
-        # ---------------------------
-        # Determine the URL to use
-        # ---------------------------
-        doi_url = article.get("doi_url")
-        link_field = article.get("link")
-        fallback_urls = []
+    def get_first_available(article, key_paths):
+        """Try multiple paths in order, return first non-empty string or N/A"""
+        for path in key_paths:
+            value = get_nested(article, *path)
+            if value != "N/A" and value != "":
+                return value
+        return "N/A"
 
-        # Handle 'link' field being dict or list
-        if isinstance(link_field, dict):
-            fallback_urls.append(link_field.get("url"))
-        elif isinstance(link_field, list):
-            for item in link_field:
-                if isinstance(item, dict) and "url" in item:
-                    fallback_urls.append(item["url"])
+    def resolve_url(article):
+        url_paths = [
+            ["doi_url"],
+            ["pub_url"],
+            ["link", 0, "URL"],
+            ["openalex", "primary_location", "landing_page_url"],
+        ]
+        return get_first_available(article, url_paths)
 
-        # Add pub_url as another fallback
-        fallback_urls.append(article.get("pub_url"))
+    def resolve_citations(article):
+        paths = [
+            ["is-referenced-by-count"],
+            ["num_citations"],
+            ["openalex", "cited_by_count"]
+        ]
+        for path in paths:
+            val = get_nested(article, *path)
+            if str(val).isdigit() or isinstance(val, int):
+                return int(val)
+        return 0
 
-        url_to_use = None
+    def resolve_type(article):
+        paths = [
+            ["container_type"],
+            ["type"],
+            ["bib", "type"],
+            ["openalex", "type"]
+        ]
+        return get_first_available(article, paths)
 
-        # First try DOI URL
-        if doi_url:
-            try:
-                r = requests.head(doi_url, allow_redirects=True, timeout=5)
-                if 200 <= r.status_code < 400:
-                    url_to_use = doi_url
-            except:
-                pass
+    def resolve_journal_or_publisher(article):
+        paths = [
+            ["bib", "venue"],
+            ["container-title", 0],
+            ["publisher"],
+            ["openalex", "primary_location", "source", "display_name"]
+        ]
+        return get_first_available(article, paths)
 
-        # Then try fallback URLs
-        if not url_to_use:
-            for u in fallback_urls:
-                if u:
-                    try:
-                        r = requests.head(u, allow_redirects=True, timeout=5)
-                        if 200 <= r.status_code < 400:
-                            url_to_use = u
-                            break
-                    except:
-                        continue
+    # -----------------------------
+    # Process articles
+    # -----------------------------
+    js_articles = []
+    for article in articles:
+        title = get_first_available(article, [
+            ["bib", "title"],
+            ["title"],
+            ["openalex", "title"],
+            ["openalex", "display_name"]
+        ])
+        year = get_first_available(article, [
+            ["bib", "pub_year"],
+            ["pub_year"],
+            ["published-print", "date-parts", 0, 0],
+            ["issued", "date-parts", 0, 0],
+            ["openalex", "publication_year"]
+        ])
+        container_type = resolve_type(article)
+        citations = resolve_citations(article)
+        url = resolve_url(article)
+        journal = resolve_journal_or_publisher(article)
 
-        # ---------------------------
-        # Prepare table row
-        # ---------------------------
-        bib = article.get("bib", {})
-        title = bib.get("title", "No title")
-        title_link = url_to_use if url_to_use else "#"
-        container_type = article.get("container_type", "N/A")
-        pub_year = article.get("pub_year", "N/A")
-        citations = article.get("is-referenced-by-count")
-        if citations is None:
-            citations = article.get("num_citations", 0)
+        js_articles.append({
+            "title": title,
+            "url": url,
+            "journal": journal,
+            "type": container_type,
+            "year": year,
+            "citations": citations
+        })
 
-        row = {
-            "Title": f'<a href="{title_link}" target="_blank">{title}</a>',
-            "Type": container_type,
-            "Year": pub_year,
-            "Citations": citations
-        }
-        table_data.append(row)
+    # -----------------------------
+    # Sort articles by citations descending
+    # -----------------------------
+    js_articles.sort(key=lambda x: x["citations"], reverse=True)
 
-        # Progress feedback
-        if idx % 100 == 0 or idx == total_articles:
-            print(f"Processed {idx}/{total_articles} articles...")
+    # -----------------------------
+    # Write JS
+    # -----------------------------
+    print("Writing JS table...")
+    with open(js_file, "w", encoding="utf-8") as f:
+        f.write("// Auto-generated tableArticles.js\n")
+        f.write("// Date: 2026-02-23\n\n")
+        f.write("const articlesTableData = ")
+        json.dump(js_articles, f, indent=2)
+        f.write(";\n\n")
 
-    # ---------------------------
-    # Build JS table file
-    # ---------------------------
-    js_content = f"""
-// Auto-generated Tabulator table
-// Date: 2026-02-22
-// Variable: tableArticlesData
-var tableArticlesData = {json.dumps(table_data, indent=2, ensure_ascii=False)};
+        f.write("document.addEventListener('DOMContentLoaded', function() {\n")
+        f.write("  const articlesContainer = document.createElement('div');\n")
+        f.write("  articlesContainer.id = 'articles-table-container';\n")
+        f.write("  document.body.appendChild(articlesContainer);\n\n")
+        f.write("  const articlesTitle = document.createElement('h2');\n")
+        f.write("  articlesTitle.textContent = 'Articles Table';\n")
+        f.write("  articlesContainer.appendChild(articlesTitle);\n\n")
+        f.write("  const articlesDownloadBtn = document.createElement('button');\n")
+        f.write("  articlesDownloadBtn.textContent = 'Download Table Data';\n")
+        f.write("  articlesDownloadBtn.onclick = function() {\n")
+        f.write("    articlesTable.download('csv', 'articles_table.csv');\n")
+        f.write("  };\n")
+        f.write("  articlesContainer.appendChild(articlesDownloadBtn);\n\n")
+        f.write("  const articlesTableDiv = document.createElement('div');\n")
+        f.write("  articlesTableDiv.id = 'articles-table';\n")
+        f.write("  articlesContainer.appendChild(articlesTableDiv);\n\n")
+        f.write("  const articlesTable = new Tabulator('#articles-table', {\n")
+        f.write("    data: articlesTableData,\n")
+        f.write("    layout: 'fitColumns',\n")
+        f.write("    pagination: 'local',\n")
+        f.write("    paginationSize: 20,\n")
+        f.write("    initialSort:[\n")
+        f.write("      {column:'citations', dir:'desc'}\n")
+        f.write("    ],\n")
+        f.write("    columns: [\n")
+        f.write("      {\n")
+        f.write("        title: 'Title', field: 'title', sorter: 'string', headerFilter: 'input',\n")
+        f.write("        formatter: function(cell) {\n")
+        f.write("          const value = cell.getValue();\n")
+        f.write("          const url = cell.getRow().getData().url;\n")
+        f.write("          return url && url !== 'N/A' ? `<a href='${url}' target='_blank'>${value}</a>` : value;\n")
+        f.write("        }\n")
+        f.write("      },\n")
+        f.write("      { title: 'Journal/Publisher', field: 'journal', sorter: 'string', headerFilter: 'input' },\n")
+        f.write("      { title: 'Type', field: 'type', sorter: 'string', headerFilter: 'input' },\n")
+        f.write("      { title: 'Year', field: 'year', sorter: 'number', headerFilter: 'input' },\n")
+        f.write("      { title: 'Citations', field: 'citations', sorter: 'number', headerFilter: 'input' }\n")
+        f.write("    ]\n")
+        f.write("  });\n")
+        f.write("});\n")
 
-// Create Tabulator table
-var tableArticles = new Tabulator("#tableArticles", {{
-    data: tableArticlesData,
-    layout:"fitColumns",
-    pagination:"local",
-    paginationSize:20,
-    columns:[
-        {{title:"Title", field:"Title", headerFilter:"input"}},
-        {{title:"Type", field:"Type", headerFilter:"input"}},
-        {{title:"Year", field:"Year", sorter:"number", headerFilter:"input"}},
-        {{title:"Citations", field:"Citations", sorter:"number", headerFilter:"input"}}
-    ]
-}});
+    print("✅ JS file with Journal/Publisher column moved successfully!")
 
-// Add download button
-document.getElementById("downloadArticles").addEventListener("click", function(){{
-    tableArticles.download("csv", "articles_table.csv");
-}});
-"""
-
-    with open(output_js, "w", encoding="utf-8") as f:
-        f.write(js_content)
-
-    print(f"\nJS table data saved → {output_js}")
-    print("=== Done ===\n")
-
-
-# ---------------------------
-# Run script
-# ---------------------------
 if __name__ == "__main__":
     table_articles()

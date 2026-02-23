@@ -18,7 +18,7 @@ from write_html import write_html
 def main():
     print("main running")
 
-    tasks = [15, 16]
+    tasks = [14, 15, 16]
 
 
     if 1 in tasks: query_gscholar()
