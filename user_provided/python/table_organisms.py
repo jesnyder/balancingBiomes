@@ -2,8 +2,10 @@
 # objective: Generate a JavaScript file that builds an interactive Tabulator table
 # showing organism counts from count_organisms.json.
 # Synonyms column after GBIF URL, Phylum after Kingdom.
+# Organism name consolidated with GBIF URL as a hyperlink.
 # Table is searchable, sortable, GBIF URLs open in a new tab, download button included.
-# Pagination added: 20 rows per page.
+# Pagination: 20 rows per page.
+# Table initially sorted by Count descending.
 
 import json
 
@@ -22,9 +24,13 @@ def table_organisms():
     # Prepare JS-friendly data
     js_organisms_list = []
     for org in organisms:
+        # Consolidate organism name and GBIF URL as a hyperlink
+        gbif_url = org.get("gbif_url", "")
+        queryName = org.get("queryName", "")
+        hyperlink = f'<a href="{gbif_url}" target="_blank">{queryName}</a>' if gbif_url else queryName
+
         js_organisms_list.append({
-            "queryName": org.get("queryName", ""),
-            "gbif_url": org.get("gbif_url", ""),
+            "organism": hyperlink,  # consolidated field
             "synonyms": ", ".join(org.get("synonyms", [])),
             "kingdom": org.get("kingdom", ""),
             "phylum": org.get("phylum", ""),
@@ -32,13 +38,16 @@ def table_organisms():
             "count_2": org.get("count_2", 0)
         })
 
+    # Sort by count descending (most counted at top)
+    js_organisms_list.sort(key=lambda x: x["count"], reverse=True)
+
     # Write JS file
     print("Writing JS file to", js_file)
     with open(js_file, "w", encoding="utf-8") as f:
         f.write("// Auto-generated tableCounts.js\n")
         f.write("// Date: 2026-02-23\n")
-        f.write("// Organism Counts Table: synonyms after GBIF URL, Phylum after Kingdom\n")
-        f.write("// Pagination: 20 rows per page\n\n")
+        f.write("// Organism Counts Table: organism name as hyperlink, synonyms after GBIF URL, Phylum after Kingdom\n")
+        f.write("// Pagination: 20 rows per page, sorted by count descending\n\n")
 
         f.write("const organismsDataCounts = ")
         json.dump(js_organisms_list, f, indent=2)
@@ -70,10 +79,10 @@ def table_organisms():
         f.write("    data: organismsDataCounts,\n")
         f.write("    layout: 'fitColumns',\n")
         f.write("    pagination: 'local',\n")
-        f.write("    paginationSize: 20,\n")  # 20 rows per page
+        f.write("    paginationSize: 20,\n")
+        f.write("    initialSort: [ { column:'count', dir:'desc' } ],\n")  # sort by count descending
         f.write("    columns: [\n")
-        f.write("      { title: 'Organism', field: 'queryName', sorter: 'string', headerFilter: 'input' },\n")
-        f.write("      { title: 'GBIF Url', field: 'gbif_url', formatter:'link', formatterParams:{ target:'_blank' }, headerFilter:'input' },\n")
+        f.write("      { title: 'Organism', field: 'organism', sorter: 'string', headerFilter: 'input', formatter:'html' },\n")
         f.write("      { title: 'Synonyms', field: 'synonyms', sorter: 'string', headerFilter: 'input' },\n")
         f.write("      { title: 'Kingdom', field: 'kingdom', sorter: 'string', headerFilter: 'input' },\n")
         f.write("      { title: 'Phylum', field: 'phylum', sorter: 'string', headerFilter: 'input' },\n")
@@ -83,7 +92,7 @@ def table_organisms():
         f.write("  });\n")
         f.write("}); // end DOMContentLoaded\n")
 
-    print("JS file successfully written with pagination enabled!")
+    print("JS file successfully written with hyperlinks and sorted by count!")
 
 if __name__ == "__main__":
     table_organisms()
