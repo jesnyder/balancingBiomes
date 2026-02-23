@@ -1,64 +1,67 @@
 # date: 2026-02-23
 # objective: Generate a JavaScript file that builds an interactive Tabulator table
-# showing unique affiliations with counts and geolocation status.
-# Dependencies: json, built-in Python libraries only.
-# This script reads 'compiled_affs.json' and outputs 'tableAffs.js'.
-# The table is searchable, sortable, and allows CSV download.
-# The div, data, and table variables all use the 'Affs' prefix.
+# showing affiliations from compiled and geolocated JSON files.
+# Columns: Name, Count, Count Articles, Found (Yes/No if geolocated)
+# Table is searchable, sortable, download button included, pagination 20 rows per page.
 
 import json
 
 def table_affs():
-    # Input and output file paths
-    json_file = "results/query/compiled_affs.json"
+    print("main running")
+
+    # File paths
+    counted_file = "results/query/compiled_affs.json"
+    geolocated_file = "results/affs/geolocated_affs.json"
     js_file = "docs/js/tableAffs.js"
 
-    print("main running")
-    print("Reading JSON data from", json_file)
-    with open(json_file, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    # Open counted affiliations
+    print(f"Opening counted affiliations: {counted_file}")
+    with open(counted_file, "r", encoding="utf-8") as f:
+        compiled_data = json.load(f)
+    affs_counted = compiled_data.get("affs_counted", [])
+    print(f"Number of counted affiliations found: {len(affs_counted)}")
+    if len(affs_counted) > 0:
+        print("First 3 counted affiliations:", affs_counted[:3])
 
-    # Extract counted affiliations
-    affs_counted = data.get("affs_counted", [])
-    print(f"Found {len(affs_counted)} counted affiliations")
+    # Open geolocated affiliations
+    print(f"Opening geolocated affiliations: {geolocated_file}")
+    with open(geolocated_file, "r", encoding="utf-8") as f:
+        geoloc_data = json.load(f)
+    affs_geolocated = geoloc_data.get("affs_geolocated", [])
+    print(f"Number of geolocated affiliations found: {len(affs_geolocated)}")
+    if len(affs_geolocated) > 0:
+        print("First 3 geolocated affiliations:", affs_geolocated[:3])
 
-    # Extract geolocated affiliations for 'found' check
-    affs_geolocated = data.get("affs_geolocated", [])
-    geolocated_names = {aff.get("name_original") for aff in affs_geolocated}
-    print(f"Found {len(affs_geolocated)} geolocated affiliations")
+    # Make a set of geolocated names for fast lookup
+    geolocated_names = {aff.get("name_original", "").strip() for aff in affs_geolocated}
+    print(f"Number of unique geolocated names collected: {len(geolocated_names)}")
 
-    # Prepare JS-friendly data list
-    AffsData = []
+    # Prepare data for JS table
+    rows = []
     for aff in affs_counted:
-        name = aff.get("name", "")
-        count = aff.get("count", 0)
-        count_articles = aff.get("count_articles", 0)
-        found = "Yes" if name in geolocated_names else "No"
-
-        AffsData.append({
-            "name": name,
-            "count": count,
-            "count_articles": count_articles,
-            "found": found
+        name_clean = aff.get("name", "").strip()
+        rows.append({
+            "name": name_clean,
+            "count": aff.get("count", 0),
+            "count_articles": aff.get("count_articles", 0),
+            "found": "Yes" if name_clean in geolocated_names else "No"
         })
-
     # Sort descending by count
-    AffsData.sort(key=lambda x: x["count"], reverse=True)
-    print(f"Prepared {len(AffsData)} rows for the table, sorted by count descending")
+    rows.sort(key=lambda x: x["count"], reverse=True)
+    print(f"Prepared {len(rows)} rows for the table, sorted by count descending")
 
-    # Write JavaScript file
-    print("Writing JavaScript file to", js_file)
+    # Write JS file
+    print(f"Writing JavaScript file to {js_file}")
     with open(js_file, "w", encoding="utf-8") as f:
         f.write("// Auto-generated tableAffs.js\n")
         f.write("// Date: 2026-02-23\n")
-        f.write("// Affiliation Table: columns = name, count, count_articles, found\n\n")
+        f.write("// Affiliations Table: includes 'found' column\n")
+        f.write("// Sorted by count descending, searchable and sortable\n\n")
 
-        # JS data
         f.write("const AffsData = ")
-        json.dump(AffsData, f, indent=2)
+        json.dump(rows, f, indent=2)
         f.write(";\n\n")
 
-        # JS code to build Tabulator table
         f.write("document.addEventListener('DOMContentLoaded', function() {\n")
         f.write("  const AffsDiv = document.createElement('div');\n")
         f.write("  AffsDiv.id = 'AffsDiv';\n")
@@ -66,7 +69,7 @@ def table_affs():
         f.write("  document.body.appendChild(AffsDiv);\n\n")
 
         f.write("  const titleAffs = document.createElement('h2');\n")
-        f.write("  titleAffs.textContent = 'Affiliations Table';\n")
+        f.write("  titleAffs.textContent = 'Affiliation Counts Table';\n")
         f.write("  AffsDiv.appendChild(titleAffs);\n\n")
 
         f.write("  const downloadBtnAffs = document.createElement('button');\n")
@@ -77,9 +80,9 @@ def table_affs():
         f.write("  };\n")
         f.write("  AffsDiv.appendChild(downloadBtnAffs);\n\n")
 
-        f.write("  const AffsTableDiv = document.createElement('div');\n")
-        f.write("  AffsTableDiv.id = 'AffsTableDiv';\n")
-        f.write("  AffsDiv.appendChild(AffsTableDiv);\n\n")
+        f.write("  const tableDivAffs = document.createElement('div');\n")
+        f.write("  tableDivAffs.id = 'AffsTableDiv';\n")
+        f.write("  AffsDiv.appendChild(tableDivAffs);\n\n")
 
         f.write("  const AffsTable = new Tabulator('#AffsTableDiv', {\n")
         f.write("    data: AffsData,\n")
@@ -87,7 +90,7 @@ def table_affs():
         f.write("    pagination: 'local',\n")
         f.write("    paginationSize: 20,\n")
         f.write("    columns: [\n")
-        f.write("      { title: 'Affiliation', field: 'name', sorter: 'string', headerFilter: 'input' },\n")
+        f.write("      { title: 'Name', field: 'name', sorter: 'string', headerFilter: 'input' },\n")
         f.write("      { title: 'Count', field: 'count', sorter: 'number', headerFilter: 'input' },\n")
         f.write("      { title: 'Count Articles', field: 'count_articles', sorter: 'number', headerFilter: 'input' },\n")
         f.write("      { title: 'Found', field: 'found', sorter: 'string', headerFilter: 'input' },\n")

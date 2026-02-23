@@ -1,13 +1,14 @@
 // Auto-generated tableAffs.js
 // Date: 2026-02-23
-// Affiliation Table: columns = name, count, count_articles, found
+// Affiliations Table: includes 'found' column
+// Sorted by count descending, searchable and sortable
 
 const AffsData = [
   {
     "name": "Center for Plant Environmental Stress Physiology, Purdue University, West Lafayette, Indiana 47907\u20132010 (G.I., T.M.Q., S.M.G., J.Z., H.S., B.D., M.A.J., D.R., P.M.H., R.J.J., R.A.B.); Atomic Energy Commission, Damascus, Syria (T.C.); Department of Plant Biology, University of Illinois, Urbana, Illinois 61801 (Q.G., S.M., M.F., H.J.B.); Department of Plant Sciences, University of Arizona, Tucson,",
     "count": 24,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Key Laboratory of Plant Biotechnology of Liaoning Province, School of Life Sciences, Liaoning Normal University, Dalian 116081, China",
@@ -31,13 +32,13 @@ const AffsData = [
     "name": "1DOE Joint Genome Institute, Walnut Creek, California, USA",
     "count": 17,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Plant Biology (D.-H.O., M.D., A.K., H.H., J.M.C., H.J.B.), Office of Networked Information Technology, School of Integrative Biology (J.S.H.), Center for Comparative and Functional Genomics (C.W., S.A., A.H., H.J.B.), and Department of Crop Sciences (H.J.B.), University of Illinois, Urbana, Illinois 61801; Division of Applied Life Science, Gyeongsang National University, Jinju, Kore",
     "count": 17,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "The Key Laboratory of Biotechnology for Medicinal Plant of Jiangsu Province, School of Life Science, Jiangsu Normal University, Xuzhou, Jiangsu, 221116, PR China",
@@ -67,7 +68,7 @@ const AffsData = [
     "name": "College of Forestry, Shandong Agricultural University , Taian 271018 ,",
     "count": 12,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Shandong Provincial Key Laboratory of Plant Stress, College of Life Science Shandong Normal University  Jinan China",
@@ -193,13 +194,13 @@ const AffsData = [
     "name": "ADepartment of Life Sciences, National Chung Hsing University, Taichung 40227, Taiwan.",
     "count": 8,
     "count_articles": 2,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Center of Marine Sciences, Faro, Portugal",
     "count": 8,
     "count_articles": 2,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Chemical, Biological, and Physical Sciences Division, National Security Directorate, Pacific Northwest National Laboratory, Richland, WA, USA",
@@ -211,7 +212,7 @@ const AffsData = [
     "name": "Department of Biotechnology, Center for Chemistry and Chemical Engineering, Lund University, PO Box 124, SE-221 00 Lund, Sweden",
     "count": 8,
     "count_articles": 2,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Research Institute of Subtropical Forestry, Chinese Academy of Forestry , Hangzhou, China",
@@ -241,7 +242,7 @@ const AffsData = [
     "name": "Department of Microbiology and Biotechnology, College of Life Sciences, Northeast Agricultural University, Harbin, 150030, People\u2019s Republic of China.",
     "count": 8,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Extremophiles Laboratoire des Plantes (LPE) Borj\u2010Cedria Centre de Biotechnologie de (CBBC) Hammam\u2010lif Tunisia",
@@ -289,7 +290,7 @@ const AffsData = [
     "name": "Beijing Normal University",
     "count": 7,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Chinese Academy of Tropical Agricultural",
@@ -313,19 +314,19 @@ const AffsData = [
     "name": "College of Environmental Science and Engineering, and Key Laboratory of Marine Environment and Ecology, Ministry of Education Ocean University of China  Qingdao 266100 China",
     "count": 7,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Life Science, Shandong Normal University, Jinan 250014, PR China",
     "count": 7,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Health Science and Technology, Aalborg University, 9220 Aalborg, Denmark",
     "count": 7,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Jiangsu Institute of Marine Resources Development, Jiangsu Ocean University",
@@ -397,7 +398,7 @@ const AffsData = [
     "name": "AAU Energy, Aalborg University, Niels Bohrs Vej 8, 6700 Esbjerg, Denmark",
     "count": 6,
     "count_articles": 2,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Microbiology, Nicolaus Copernicus University, 87-100 Torun, Poland",
@@ -427,13 +428,13 @@ const AffsData = [
     "name": "*Krebs Institute for Biomolecular Research, Department of Molecular Biology and Biotechnology, University of Sheffield, Sheffield S10 2TN, United Kingdom; and",
     "count": 6,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AKey Laboratory of Plant Stress Research, College of Life Sciences, Shandong Normal University, 250014, Jinan, P.R. China.",
     "count": 6,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Alkali Soil Natural Environmental Science Centre Key Laboratory of Saline\u2010alkali Vegetation Ecology Restoration in Oil Field Ministry of Education Northeast Forestry University Harbin China",
@@ -475,7 +476,7 @@ const AffsData = [
     "name": "College of Geography and Environment, Shandong Normal University, Jinan 250014, China",
     "count": 6,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Plant Science, Jilin University, Changchun 130062, China",
@@ -505,7 +506,7 @@ const AffsData = [
     "name": "Department of Biotechnology, Centre for Chemistry and Chemical Engineering, Lund University, PO Box 124, SE-221 00 Lund, Sweden",
     "count": 6,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Horticultural Sciences, Faculty of Applied Sciences Cape Peninsula University of Technology  Bellville South Africa",
@@ -517,7 +518,7 @@ const AffsData = [
     "name": "Department of Life Sciences, National Chung Hsing University, Taichung 402, Taiwan",
     "count": 6,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Microbiology and Parasitology, Faculty of Pharmacy, University of Sevilla, 41012 Sevilla, Spain",
@@ -703,19 +704,19 @@ const AffsData = [
     "name": "5DSMZ - German Collection of Microorganisms and Cell Cultures GmbH, Braunschweig, Germany",
     "count": 5,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AInstitute of Biology I, Aachen Biology and Biotechnology, RWTH Aachen University, Aachen 52074, Germany.",
     "count": 5,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AKey Laboratory of Plant Stress Research, College of Life Science, Shandong Normal University, Jinan 250 014, China.",
     "count": 5,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Agriculture, Kagawa University, Miki, Japan",
@@ -787,7 +788,7 @@ const AffsData = [
     "name": "Departamento de Microbiolog\u00eda y Parasitolog\u00eda, Facultad de Farmacia, Universidad de Sevilla, c/Profesor Garc\u00eda Gonz\u00e1lez, 2, 41012 Sevilla, Spain",
     "count": 5,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Agro-environmental Sciences, Graduate School of Bioresources and Bioenvironmental Sciences, Kyushu University",
@@ -829,7 +830,7 @@ const AffsData = [
     "name": "Department of Biotechnology, Centre for Chemistry and Chemical Engineering, Lund University, PO Box 124, SE-221\u200a00 Lund, Sweden",
     "count": 5,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Chemistry and Biology \u201cA. Zambelli\u201d, University of Salerno, 84084 Fisciano, SA, Italy",
@@ -871,7 +872,7 @@ const AffsData = [
     "name": "Division of Biotechnology Center for Chemistry and Chemical Engineering Lund University Lund Sweden",
     "count": 5,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Faculty of Sciences and Technology, Centre of Marine Sciences, University of Algarve, Faro, Portugal",
@@ -1159,13 +1160,13 @@ const AffsData = [
     "name": "1\u200bDepartamento de Microbiolog\u00eda y Parasitolog\u00eda, Facultad de Farmacia, Universidad de Sevilla, Calle Profesor Garc\u00eda Gonz\u00e1lez, 2, 41012 Sevilla, Spain",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "2Los Alamos National Laboratory, Bioscience Division, Los Alamos, New Mexico, USA",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "ABiotechnology and Plant Improvement Laboratory, Centre of Biotechnology of Sfax, University of Sfax, PO Box 1177, 3018 Sfax, Tunisia.",
@@ -1225,7 +1226,7 @@ const AffsData = [
     "name": "Brigham Young University",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Centre of Marine Sciences CCMAR, Faculty of Sciences and Technology, Campus of Gambelas, University of Algarve, 8005-139 Faro, Portugal",
@@ -1243,7 +1244,7 @@ const AffsData = [
     "name": "Centro de Ecologia Aplicada \u2018Prof. Baeta Neves\u2019, Instituto Superior de Agronomia, University of Lisbon, Tapada da Ajuda, 1349-017 Lisbon, Portugal",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Co-Innovation Center for the Sustainable Forestry in Southern China, Nanjing, Jiangsu, China;",
@@ -1267,7 +1268,7 @@ const AffsData = [
     "name": "College of Ecology and Environment, Xinjiang University, Urumqi 830017, China",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Environmental Science and Engineering/Sino\u2010Canada Joint R&amp;D Centre for Water and Environmental Safety Nankai University  Tianjin China",
@@ -1279,7 +1280,7 @@ const AffsData = [
     "name": "College of the Holy Cross WORCESTER MA United States",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Agroqu\u00edmica y Bioqu\u00edmica, Facultad de Ciencias, Universidad de Alicante, Ap. 99, E-03080 Alicante, Spain",
@@ -1297,13 +1298,13 @@ const AffsData = [
     "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla , Profesor Garc\u00eda Gonz\u00e1lez s/n, E-41012, Sevilla ,",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Microbiolog\u00eda y Parasitolog\u00eda Facultad de Farmacia Universidad de Sevilla Sevilla Spain",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Agricultural Chemistry, Kagoshima University, Korimoto, Kagoshima-shi, Japan 890; Noda Institute for Scientific Research, Noda-shi, Chiba-ken, Japan 2782; and Hiratsuka Research Laboratory, Sumitomo Heavy Industries, Ltd., Yuhigaoka, Hiratsuka-shi, Kanagawa-ken, Japan 2543",
@@ -1405,7 +1406,7 @@ const AffsData = [
     "name": "Department of Life Sciences National Chung Hsing University  Taichung Taiwan",
     "count": 4,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Microbiology &amp; Molecular Genetics, Oklahoma State University, Stillwater, Oklahoma, USA",
@@ -1819,7 +1820,7 @@ const AffsData = [
     "name": "Department of Chemistry",
     "count": 3,
     "count_articles": 2,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Jiangsu Key Lab for Organic Solid Waste Utilization, Educational Ministry Engineering Center of Resource-saving Fertilizers, Jiangsu Collaborative Innovation Center for Solid Organic Waste Resource Utilization, Nanjing Agricultural University, Nanjing, 210095, PR China",
@@ -1831,37 +1832,37 @@ const AffsData = [
     "name": "1\u200bKey Laboratory of Marine Drugs, Ministry of Education, School of Medicine and Pharmacy, Ocean University of China, Qingdao 266003, PR China",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "2\u200bSchool of Natural and Environmental Sciences (SNES), Newcastle University, Newcastle upon Tyne, NE1 7RU, UK",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "4Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AAU Energy, Aalborg University, 6700 Esbjerg, Denmark",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AAgronomy Department of Higher Polytechnic School and Experimental Science College, University of Almeria, Agrifood Campus of International Excellence ceiA3. Ctra. Sacramento s/n, La Ca\u00f1ada de San Urbano, 04120, Almer\u00eda, Spain.",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "ACentre of Oceanography of the Faculty of Sciences of the University of Lisbon (CO), Campo Grande 1749-016 Lisbon, Portugal.",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AC\u00e1tedra de Bot\u00e1nica Sistem\u00e1tica Agron\u00f3mica, Facultad de Ciencias Agrarias, Universidad Nacional del Litoral, 86-Kreder 2805, 3080HOF, Esperanza, Rep\u00fablica Argentina.",
@@ -1897,13 +1898,13 @@ const AffsData = [
     "name": "Academy of Scientific and Innovative Research  Ghaziabad India",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Academy of Scientific and Innovative Research (AcSIR)  Ghaziabad India",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Agri-Food Bio Convergence Institute, Gyeongsang National University, Jinju 52725, Republic of Korea",
@@ -1975,7 +1976,7 @@ const AffsData = [
     "name": "Busan 49112",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "CConsejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas, Rep\u00fablica Argentina.",
@@ -2071,7 +2072,7 @@ const AffsData = [
     "name": "College of Life Sciences, Qingdao University, Qingdao, China",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Marine Science and Engineering, Qingdao Agricultural University",
@@ -2101,7 +2102,7 @@ const AffsData = [
     "name": "College of the Holy Cross",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "DSMZ \u2013 Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH, Mascheroder Weg 1b, 38124 Braunschweig, Germany",
@@ -2113,31 +2114,31 @@ const AffsData = [
     "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda Facultad de Biolog\u00eda Universidad de Sevilla Sevilla Spain",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, 41012 Seville, Spain",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, Avda. Reina Mercedes s/n, 41012 Sevilla, Spain",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Bioqu\u00edmica, Facultad de Farmacia, Universidad de Sevilla and",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Bioqu\u00edmica, Facultad de Farmacia, Universidad de Sevilla, 41012 Sevilla, Spain.",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Ciencias Integradas, Fuerzas Armadas Ave., Campus El Carmen, Universidad de Huelva, 21071 Huelva, Spain",
@@ -2245,7 +2246,7 @@ const AffsData = [
     "name": "Department of Energy Technology, Aalborg University, 9220 Aalborg, Denmark",
     "count": 3,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Environmental Science and Engineering, Tsinghua University, Beijing 100084, P. R. China",
@@ -3031,7 +3032,7 @@ const AffsData = [
     "name": "Department of Nutrition Science, Purdue University, West Lafayette, IN, USA",
     "count": 2,
     "count_articles": 2,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Plant Biotechnology and Bioinformatics, Ghent University , Ghent, Belgium",
@@ -3205,13 +3206,13 @@ const AffsData = [
     "name": "2\u200bLife Science College, Qingdao University, Qingdao 266071, PR China",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "3Biological Data Management and Technology Center, Lawrence Berkeley National Laboratory, Berkeley, California, USA",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "AInternational Centre for Agricultural Research in the Dry Areas (ICARDA), PO Box 950764 \u2013 Amman, Jordan.",
@@ -3223,19 +3224,19 @@ const AffsData = [
     "name": "ALaboratory of Exploration and Valorisation of Steppe Ecosystem, Faculty of Science of Nature and Life, University of Djelfa, Cit\u00e9 A\u00een Chih, PO Box 3117 Djelfa 17000, Algeria.",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Academy of Scientific and Innovative Research",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Academy of Scientific and Innovative Research Council of Scientific and Industrial Research  New Delhi 110001 India",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Advanced Technology Research Laboratories, Research & Development, Nippon Steel Corporation",
@@ -3337,7 +3338,7 @@ const AffsData = [
     "name": "Brandeis University",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "CEMUC, University of Coimbra, 3030-788 Coimbra, Portugal",
@@ -3403,7 +3404,7 @@ const AffsData = [
     "name": "Central Lab, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences , 818 South Beijing Road, Urumqi 830011,",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Centre for Climate Change Impact (CIRSEC), University of Pisa, Via del Borghetto 80, 56124 Pisa, Italy",
@@ -3427,7 +3428,7 @@ const AffsData = [
     "name": "Centre of Chemistry and Biochemistry/Department of Chemistry and Biochemistry, Faculty of Sciences of the University of Lisbon, Lisbon, Portugal",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Centro Interdipartimentale di Ricerca Nutraceutica e Alimentazione per la Salute \u2018NUTRAFOOD\u2019, Universit\u00e0 di Pisa, Via del Borghetto 80, 56124 Pisa, Italy",
@@ -3439,7 +3440,7 @@ const AffsData = [
     "name": "Centro Las Torres, Instituto de Investigaci\u00f3n y Formaci\u00f3n Agraria y Pesquera (IFAPA), Carretera, Sevilla-Cazalla de la Sierra Km 12.2, 41200 Alcal\u00e1 del R\u00edo, Spain",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Centro de Astrobiolog\u00eda (CSIC-INTA), Torrej\u00f3n de Ardoz, Madrid, Spain",
@@ -3475,13 +3476,13 @@ const AffsData = [
     "name": "China Agricultural University",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "China General Microbiological Culture Collection Center, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, PR China",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Biology and the Environment, Nanjing Forestry University, Nanjing 210037, China",
@@ -3493,7 +3494,7 @@ const AffsData = [
     "name": "College of Ecology and Environment Xinjiang University  Urumqi Xinjiang PR China",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Geography and Planning, Ludong University, Yantai 264025, China",
@@ -3535,7 +3536,7 @@ const AffsData = [
     "name": "College of Resources and Environment, University of Chinese Academy of Sciences, Beijing, 100049, P.R. China",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Resources and Environmental Engineering, Ludong University, Yantai 264025, China",
@@ -3571,7 +3572,7 @@ const AffsData = [
     "name": "Dalian Maritime University",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016 Lisboa, Portugal",
@@ -3589,7 +3590,7 @@ const AffsData = [
     "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, c/Profesor Garc\u00eda Gonz\u00e1lez, s/n., 41012 Sevilla, Spain",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Bioqu\u00edmica, Facultad de Ciencias Bioqu\u00edmicas, Universidad Nacional de Rosario, Rosario, Rep\u00fablica Argentina",
@@ -3649,7 +3650,7 @@ const AffsData = [
     "name": "Department of Biological Sciences, Purdue University, West Lafayette, Indiana 47907-1392",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Biology (Microbiology Unit), Faculty of Science, University of Tehran, Tehran, Iran",
@@ -3955,7 +3956,7 @@ const AffsData = [
     "name": "Diponegoro University",
     "count": 2,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Division of Biosciences, National Research Council, Ottawa, Ontario, Canada",
@@ -4699,37 +4700,37 @@ const AffsData = [
     "name": "3Professor, Director of Institute of Biological Research and Biotechnology, 48 Vassileos Constantinou Ave., Athens11635, Greece",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "3\u200bInstituto de Recursos Naturales y Agrobiolog\u00eda de Salamanca, Consejo Superior de Investigaciones Cient\u00edficas (IRNASA-CSIC), c/Cordel de Merinas 40-52, 37008 Salamanca, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "3\u200bQingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Science, Qingdao 266101, PR China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "4\u200bDepartamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Facultad de Biolog\u00eda, Universidad de Sevilla, 1095, 41012 Sevilla, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "4\u200bLaboratory for Marine Drugs and Bioproducts of Qingdao National Laboratory for Marine Science and Technology, Qingdao 266237, PR China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "5\u200bIFAPA-Instituto de Investigaci\u00f3n y Formaci\u00f3n Agraria y Pesquera, Centro Las Torres-Tomejil, Ctra. Sevilla-Cazalla de la Sierra, Km 12.2, 41200 Alcal\u00e1 del R\u00edo, Sevilla, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "6HZI \u2013 Helmholtz Centre for Infection Research, Braunschweig, Germany",
@@ -4753,13 +4754,13 @@ const AffsData = [
     "name": "Aalborg University",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Academy of Scientific and Innovative Research, CSIR, New Delhi, India",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Agrohydrology Research Group, Tarbiat Modares University, Tehran, Iran",
@@ -4771,13 +4772,13 @@ const AffsData = [
     "name": "Agronomy Department of Superior School Engineering, University of Almeria, 04120 Almer\u00eda, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Agronomy Department, University of Florida, Gainesville, FL 32608, USA",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Algarve Biomedical Center Research Institute (ABC-RI), 8005-139 Faro, Portugal",
@@ -4795,13 +4796,13 @@ const AffsData = [
     "name": "Applied Phycology and Biotechnology Division, CSIR-Central Salt and Marine Chemicals Research Institute (CSIR-CSMCRI), Academy of Scientific and Innovative Research (AcSIR), Council of Scientific and Industrial Research (CSIR), Bhavnagar 364002, Gujarat, India",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Ariana",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Aridland Research Center, Tottori University, Hamasaka, Tottori 680-8550, Japan",
@@ -4819,7 +4820,7 @@ const AffsData = [
     "name": "Axiom Learning",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "BCorresponding author. Email: baduarte@fc.ul.pt",
@@ -4879,7 +4880,7 @@ const AffsData = [
     "name": "BInstitute of Biology III, Aachen Biology and Biotechnology, RWTH Aachen University, Aachen 52074, Germany.",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Baja California Sur Autonomous University (UABCS), Academic Department of Agronomy, La Paz CP: 23085, Mexico",
@@ -4909,7 +4910,7 @@ const AffsData = [
     "name": "Binzhou University",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Bio Materials R&D Center, Kolmar Korea Co., Ltd. CBTP, Future Convergent Tech Center, Room 406, 685-3, Yangcheong-ri, Ochang-eup, Cheongwon-gun, Chungbuk, 619-705, Republic of Korea",
@@ -4987,13 +4988,13 @@ const AffsData = [
     "name": "Busan 46958",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "CAS Engineering Laboratory for Vegetation Ecosystem Restoration on Islands and Coastal Zones, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "CCentre for Applied Genetic Technologies, University of Georgia, 111 Riverbend Road, Athens, GA 30602, USA.",
@@ -5089,7 +5090,7 @@ const AffsData = [
     "name": "Center of Economic Botany, Core Botanical Gardens, Chinese Academy of Sciences, Guangzhou 510650, China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Center of Health Sciences, Department of Pharmaceutical Science, Federal University of Santa Catarina, Campus Universit\u00e1rio, Trindade, 88040\u2013970 Florian\u00f3polis, Brazil",
@@ -5167,7 +5168,7 @@ const AffsData = [
     "name": "Centre of Biotechnology of Sfax",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Centre of Biotechnology of Sfax, University of Sfax, B.P. 1177, Sfax 3018, Tunisia",
@@ -5281,7 +5282,7 @@ const AffsData = [
     "name": "Chonbuk National University,  Republic of Korea",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Clariant OMS, 2750 Technology Forest Blvd, The Woodlands, TX, 77381, USA",
@@ -5335,7 +5336,7 @@ const AffsData = [
     "name": "College of Geography and Environment, Shandong Normal University, Jinan 250358, China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Life Science Liaocheng University  Liaocheng China",
@@ -5353,7 +5354,7 @@ const AffsData = [
     "name": "College of Life Science Shandong Normal University  Jinan Shandong China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Life Science and Biotechnology Mianyang Normal University Mianyang China",
@@ -5395,7 +5396,7 @@ const AffsData = [
     "name": "College of Life Sciences, Shandong Agricultural University, Taian 271018, China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Life Sciences, Yantai University, Yantai 264005, China",
@@ -5425,7 +5426,7 @@ const AffsData = [
     "name": "College of Resource and Environment, University of the Chinese Academy of Sciences, Beijing 100049, China",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "College of Resource and Environmental Science China Agricultural University  Beijing China",
@@ -5449,7 +5450,7 @@ const AffsData = [
     "name": "College of the Holy Cross Worcester MA",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Collegium Medicum, Jan Kochanowski University, IX Wiek\u00f3wKielc 19, 35-317 Kielce, Poland",
@@ -5461,7 +5462,7 @@ const AffsData = [
     "name": "Computer Science Program, Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Consejer\u00eda de Agricultura Agua y Medio Ambiente, Centro de Investigaci\u00f3n y Desarollo Agroalimentario 30150 La Alberca Murcia Spain",
@@ -5545,7 +5546,7 @@ const AffsData = [
     "name": "Departamento de Biolog\u00eda Vegetal y Ecolog\u00eda, Universidad de Sevilla, Ap. 1095, 41080 Sevilla, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Biolog\u00eda y Geolog\u00eda, CECOUAL, Universidad de Almer\u00eda, Almer\u00eda, Spain",
@@ -5563,7 +5564,7 @@ const AffsData = [
     "name": "Departamento de Bioqu\u00edmica Vegetal y Biolog\u00eda Molecular, Facultad de Qu\u00edmica, Universidad de Sevilla, 41012 Sevilla, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Bot\u00e1nica y Fisiolog\u00eda Vegetal, Facultad de Ciencias, Universidad de M\u00e1laga, P.O. Box 59, 29080, M\u00e1laga, Spain.",
@@ -5587,13 +5588,13 @@ const AffsData = [
     "name": "Departamento de Microbiolog\u00eda y Parasitolog\u00eda, Facultad de Farmacia, Universidad de Sevilla, 41012 Sevilla, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departamento de Microbiolog\u00eda y Parasitolog\u00eda, Facultad de Farmacia, Universidad de Sevilla, C. Tramontana, 2, 41012 Sevilla, Spain",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Departement of Enviromental Sciences and Nutrition, Higher Institute of Applied Sciences and Technology of Mahdia, University of Monastir, Monastir 5000, Tunisia",
@@ -6055,7 +6056,7 @@ const AffsData = [
     "name": "Department of Energy Technology, Aalborg University, Niels Bohrs Vej 8, 6700 Esbjerg, Denmark",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Entomology, Institute of Zoology and Biomedical Research, Jagiellonian University, Krak\u00f3w, Poland",
@@ -6091,7 +6092,7 @@ const AffsData = [
     "name": "Department of Food and Nutrition",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Food and Nutrition Silla University  140 Baegyang-daero, 700 beon-gil, Sasang-Gu Busan 46958 Korea",
@@ -6175,7 +6176,7 @@ const AffsData = [
     "name": "Department of Life Sciences",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Life Sciences, Chung-Ang University, Seoul 156-756, Korea",
@@ -6421,7 +6422,7 @@ const AffsData = [
     "name": "Department of Plant Pathology, National Chung Hsing University, Taichung 402, Taiwan",
     "count": 1,
     "count_articles": 1,
-    "found": "No"
+    "found": "Yes"
   },
   {
     "name": "Department of Plant Science Olabisi Onabanjo University  Ago Iwoye Nigeria",
@@ -8538,7 +8539,7 @@ document.addEventListener('DOMContentLoaded', function() {
   document.body.appendChild(AffsDiv);
 
   const titleAffs = document.createElement('h2');
-  titleAffs.textContent = 'Affiliations Table';
+  titleAffs.textContent = 'Affiliation Counts Table';
   AffsDiv.appendChild(titleAffs);
 
   const downloadBtnAffs = document.createElement('button');
@@ -8549,9 +8550,9 @@ document.addEventListener('DOMContentLoaded', function() {
   };
   AffsDiv.appendChild(downloadBtnAffs);
 
-  const AffsTableDiv = document.createElement('div');
-  AffsTableDiv.id = 'AffsTableDiv';
-  AffsDiv.appendChild(AffsTableDiv);
+  const tableDivAffs = document.createElement('div');
+  tableDivAffs.id = 'AffsTableDiv';
+  AffsDiv.appendChild(tableDivAffs);
 
   const AffsTable = new Tabulator('#AffsTableDiv', {
     data: AffsData,
@@ -8559,7 +8560,7 @@ document.addEventListener('DOMContentLoaded', function() {
     pagination: 'local',
     paginationSize: 20,
     columns: [
-      { title: 'Affiliation', field: 'name', sorter: 'string', headerFilter: 'input' },
+      { title: 'Name', field: 'name', sorter: 'string', headerFilter: 'input' },
       { title: 'Count', field: 'count', sorter: 'number', headerFilter: 'input' },
       { title: 'Count Articles', field: 'count_articles', sorter: 'number', headerFilter: 'input' },
       { title: 'Found', field: 'found', sorter: 'string', headerFilter: 'input' },
